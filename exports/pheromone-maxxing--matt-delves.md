@@ -2,6 +2,7 @@
 
 - Team: Pheromone Maxxing
 - Faction: Leagues of Votann
+- Glicko-2 rating: Unrated
 - [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/BIcvGDyhQRUk)
 - [Web version](https://kaashif.github.io/brighton/lists/BIcvGDyhQRUk/)
 

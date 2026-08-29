@@ -187,7 +187,8 @@ function exportMarkdown(player, list, references, rating) {
     `- Team: ${player.team.trim()}`,
     `- Faction: ${player.faction}`,
   ];
-  if (rating) metadata.push(`- [Glicko-2 rating: ${rating.rating} (${rating.gamesPlayed} games)](${rating.profileUrl})`);
+  if (rating) metadata.push(`- [Glicko-2 rating: ${rating.rating}; rank #${rating.rank.toLocaleString()} of ${rating.rankedPlayerCount.toLocaleString()}; ${rating.eleventhEditionGames} 11th-edition games](${rating.profileUrl})`);
+  else metadata.push('- Glicko-2 rating: Unrated');
 
   if (!list) {
     return `${heading}${metadata.join('\n')}\n\n## Army list\n\nNo list submitted.\n`;
@@ -216,7 +217,7 @@ function detailPage(list, references, rating) {
   <header class="detail-hero">
     <nav><a href="../../">← All lists</a><a href="${list.sourceUrl}" target="_blank" rel="noreferrer">Original on BCP ↗</a></nav>
     <h1>${escapeHtml(list.pagePlayer)}</h1>
-    <p class="detail-meta">${escapeHtml(list.team)} · ${escapeHtml(list.faction)}${rating ? ` · <a href="${rating.profileUrl}" target="_blank" rel="noreferrer">Glicko-2 ${rating.rating}</a>` : ''}</p>
+    <p class="detail-meta">${escapeHtml(list.team)} · ${escapeHtml(list.faction)} · ${rating ? `<a href="${rating.profileUrl}" target="_blank" rel="noreferrer">Glicko-2 ${rating.rating} · rank #${rating.rank.toLocaleString()} / ${rating.rankedPlayerCount.toLocaleString()} · ${rating.eleventhEditionGames} 11th-edition games</a>` : 'Unrated'}</p>
   </header>
   <main class="detail-layout">
     <article class="roster-panel">
@@ -281,7 +282,7 @@ for (const [team, players] of exportGroups) {
   exportIndex.push(`## ${team}`, '');
   for (const player of players) {
     const status = player.hasPublishedList ? '' : ' — no list submitted';
-    const rating = player.rating ? ` — [Glicko-2 ${player.rating.rating}](${player.rating.profileUrl})` : '';
+    const rating = player.rating ? ` — [Glicko-2 ${player.rating.rating} · rank #${player.rating.rank.toLocaleString()} / ${player.rating.rankedPlayerCount.toLocaleString()} · ${player.rating.eleventhEditionGames} 11th-edition games](${player.rating.profileUrl})` : ' — Unrated';
     exportIndex.push(`- [${player.player}](./${player.filename}) — ${player.faction}${status}${rating}`);
   }
   exportIndex.push('');

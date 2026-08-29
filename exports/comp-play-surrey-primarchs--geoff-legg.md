@@ -2,7 +2,7 @@
 
 - Team: Comp Play Surrey Primarchs
 - Faction: Adeptus Custodes
-- [Glicko-2 rating: 1744 (12 games)](https://tabletop-tools.net/new-meta/#/player/MZxcZ4J-0-dNozxc_-vp4)
+- [Glicko-2 rating: 1744; rank #1,996 of 12,446; 12 11th-edition games](https://tabletop-tools.net/new-meta/#/player/MZxcZ4J-0-dNozxc_-vp4)
 - [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/NdL1eiju0V7K)
 - [Web version](https://kaashif.github.io/brighton/lists/NdL1eiju0V7K/)
 

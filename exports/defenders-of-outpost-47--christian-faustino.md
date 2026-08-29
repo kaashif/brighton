@@ -2,6 +2,7 @@
 
 - Team: Defenders of Outpost 47
 - Faction: Blood Angels
+- Glicko-2 rating: Unrated
 - [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/XZZSlQ9YT5Me)
 - [Web version](https://kaashif.github.io/brighton/lists/XZZSlQ9YT5Me/)
 

@@ -34,8 +34,13 @@ try {
   record('desktop player count', await desktop.locator('.list-card').count(), 40);
   record('desktop missing-list count', await desktop.locator('.list-card--missing').count(), 11);
   record('desktop team count', await desktop.locator('.team-group').count(), 10);
-  record('desktop linked rating count', await desktop.locator('.player-rating').count(), 19);
+  record('desktop linked rating count', await desktop.locator('.player-rating[href]').count(), 19);
+  record('desktop explicit unrated count', await desktop.locator('.player-rating--unrated').count(), 21);
+  record('desktop player game count column', await desktop.locator('.player-games').allTextContents().then((items) => items.length === 40 && items.every((item) => /^(?:\d+ games|—)$/.test(item))));
+  record('desktop player rank column', await desktop.locator('.player-rank').allTextContents().then((items) => items.length === 40 && items.every((item) => /^(?:#[\d,]+ \/ [\d,]+|—)$/.test(item))));
   record('desktop team averages', await desktop.locator('.team-group h2 span').allTextContents().then((items) => items.every((item) => item.includes('Glicko avg'))));
+  record('desktop team average game counts', await desktop.locator('.team-group h2 span').allTextContents().then((items) => items.every((item) => /(?:\d+(?:\.\d+)?|—) avg games/.test(item))));
+  record('desktop team average ranks', await desktop.locator('.team-group h2 span').allTextContents().then((items) => items.every((item) => /Avg rank (?:#[\d,]+ \/ [\d,]+|—)$/.test(item))));
   record('desktop lists grouped by team', (await desktop.locator('.team-group').count()) > 1);
   record('desktop no horizontal overflow', await desktop.evaluate(() => document.documentElement.scrollWidth <= document.documentElement.clientWidth));
   await desktop.screenshot({ path: '/tmp/brighton-lists-desktop.png', fullPage: false });

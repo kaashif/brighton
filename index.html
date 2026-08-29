@@ -51,7 +51,7 @@
 
     <footer>
       <p>Unofficial event reference. List ownership remains with the players who submitted them.</p>
-      <p>Glicko-2: <a href="https://tabletop-tools.net/new-meta/#/players" target="_blank" rel="noreferrer">Tabletop Tools</a>. Team averages use matched players only.</p>
+      <p>Glicko-2 ranks and 11th-edition game counts: <a href="https://tabletop-tools.net/new-meta/#/players" target="_blank" rel="noreferrer">Tabletop Tools</a>. Ranking pool: <span id="ranked-player-count"></span> players. Team averages use matched players only.</p>
       <p>Source: <a id="footer-event-link" href="#">Best Coast Pairings</a></p>
     </footer>
 
@@ -59,10 +59,10 @@
       <article class="list-card">
         <div class="list-card__summary" role="button" tabindex="0" aria-expanded="false">
           <span class="list-card__number"></span>
-          <span class="list-card__identity">
-            <strong class="list-card__player"></strong>
-            <a class="player-rating" target="_blank" rel="noreferrer"></a>
-          </span>
+          <strong class="list-card__player"></strong>
+          <a class="player-rating" target="_blank" rel="noreferrer"></a>
+          <span class="player-games"></span>
+          <span class="player-rank"></span>
           <span class="list-card__faction"></span>
           <span class="list-card__toggle" aria-hidden="true"></span>
         </div>

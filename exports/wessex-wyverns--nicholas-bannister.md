@@ -2,6 +2,7 @@
 
 - Team: Wessex Wyverns
 - Faction: Adeptus Custodes
+- Glicko-2 rating: Unrated
 - [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/DcwSiKWvmpP1)
 - [Web version](https://kaashif.github.io/brighton/lists/DcwSiKWvmpP1/)
 

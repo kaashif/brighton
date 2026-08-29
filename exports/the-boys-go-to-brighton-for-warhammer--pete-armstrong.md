@@ -2,6 +2,7 @@
 
 - Team: The boys go to Brighton for “Warhammer”
 - Faction: Chaos Knights
+- Glicko-2 rating: Unrated
 - [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/QLbZTVgmcaPG)
 - [Web version](https://kaashif.github.io/brighton/lists/QLbZTVgmcaPG/)
 

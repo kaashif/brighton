@@ -2,6 +2,7 @@
 
 - Team: Pheromone Maxxing
 - Faction: Tyranids
+- Glicko-2 rating: Unrated
 - [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/MrTiQfQ6axlj)
 - [Web version](https://kaashif.github.io/brighton/lists/MrTiQfQ6axlj/)
 

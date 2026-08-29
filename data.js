@@ -718,11 +718,12 @@ window.BCP_DATA = {
     }
   ],
   "ratings": {
-    "fetchedAt": "2026-08-29T23:42:41.395Z",
+    "fetchedAt": "2026-08-29T23:52:45.020Z",
     "source": "Tabletop Tools — New Meta",
     "sourceUrl": "https://tabletop-tools.net/new-meta/#/players",
     "ratingSystem": "Glicko-2",
-    "note": "Team averages include matched players only. Unmatched identities are not assigned a rating.",
+    "rankedPlayerCount": 12446,
+    "note": "Ranks compare raw Glicko-2 ratings across the full Tabletop Tools player pool. Team averages include matched players only. Unmatched identities are explicitly shown as unrated.",
     "matchedPlayers": 19,
     "unmatchedPlayers": 21,
     "players": [
@@ -755,6 +756,9 @@ window.BCP_DATA = {
         "ratingDeviation": 212,
         "displayBand": 423,
         "gamesPlayed": 3,
+        "eleventhEditionGames": 3,
+        "rank": 305,
+        "rankedPlayerCount": 12446,
         "profileUrl": "https://tabletop-tools.net/new-meta/#/player/TMOwhX28oFlCr6ORQqGGu"
       },
       {
@@ -768,6 +772,9 @@ window.BCP_DATA = {
         "ratingDeviation": 146,
         "displayBand": 291,
         "gamesPlayed": 8,
+        "eleventhEditionGames": 8,
+        "rank": 2899,
+        "rankedPlayerCount": 12446,
         "profileUrl": "https://tabletop-tools.net/new-meta/#/player/2umUqyQLVTc70BC6G_Ps6"
       },
       {
@@ -781,6 +788,9 @@ window.BCP_DATA = {
         "ratingDeviation": 128,
         "displayBand": 255,
         "gamesPlayed": 12,
+        "eleventhEditionGames": 12,
+        "rank": 1996,
+        "rankedPlayerCount": 12446,
         "profileUrl": "https://tabletop-tools.net/new-meta/#/player/MZxcZ4J-0-dNozxc_-vp4"
       },
       {
@@ -794,6 +804,9 @@ window.BCP_DATA = {
         "ratingDeviation": 213,
         "displayBand": 427,
         "gamesPlayed": 3,
+        "eleventhEditionGames": 3,
+        "rank": 7821,
+        "rankedPlayerCount": 12446,
         "profileUrl": "https://tabletop-tools.net/new-meta/#/player/D0b3r6Rx-AqUz6OA0C2x1"
       },
       {
@@ -807,6 +820,9 @@ window.BCP_DATA = {
         "ratingDeviation": 226,
         "displayBand": 452,
         "gamesPlayed": 3,
+        "eleventhEditionGames": 3,
+        "rank": 3715,
+        "rankedPlayerCount": 12446,
         "profileUrl": "https://tabletop-tools.net/new-meta/#/player/Pd92XuDSVGx_P8TEwmwPO"
       },
       {
@@ -844,6 +860,9 @@ window.BCP_DATA = {
         "ratingDeviation": 214,
         "displayBand": 428,
         "gamesPlayed": 3,
+        "eleventhEditionGames": 3,
+        "rank": 308,
+        "rankedPlayerCount": 12446,
         "profileUrl": "https://tabletop-tools.net/new-meta/#/player/TVIoO8GoMHLVKo0gXMfu7"
       },
       {
@@ -863,6 +882,9 @@ window.BCP_DATA = {
         "ratingDeviation": 203,
         "displayBand": 405,
         "gamesPlayed": 3,
+        "eleventhEditionGames": 3,
+        "rank": 3973,
+        "rankedPlayerCount": 12446,
         "profileUrl": "https://tabletop-tools.net/new-meta/#/player/1UkH68D0q5tFp1JhV5AAt"
       },
       {
@@ -876,6 +898,9 @@ window.BCP_DATA = {
         "ratingDeviation": 214,
         "displayBand": 428,
         "gamesPlayed": 3,
+        "eleventhEditionGames": 3,
+        "rank": 2637,
+        "rankedPlayerCount": 12446,
         "profileUrl": "https://tabletop-tools.net/new-meta/#/player/xZqBlJbTR-NwPUhi_0HrE"
       },
       {
@@ -913,6 +938,9 @@ window.BCP_DATA = {
         "ratingDeviation": 172,
         "displayBand": 344,
         "gamesPlayed": 5,
+        "eleventhEditionGames": 5,
+        "rank": 8683,
+        "rankedPlayerCount": 12446,
         "profileUrl": "https://tabletop-tools.net/new-meta/#/player/6v5VdTBwcwBopcZYcM7cg"
       },
       {
@@ -926,6 +954,9 @@ window.BCP_DATA = {
         "ratingDeviation": 173,
         "displayBand": 346,
         "gamesPlayed": 5,
+        "eleventhEditionGames": 5,
+        "rank": 8301,
+        "rankedPlayerCount": 12446,
         "profileUrl": "https://tabletop-tools.net/new-meta/#/player/0nCs_KJouBldwhjiRiZjc"
       },
       {
@@ -939,6 +970,9 @@ window.BCP_DATA = {
         "ratingDeviation": 185,
         "displayBand": 369,
         "gamesPlayed": 5,
+        "eleventhEditionGames": 5,
+        "rank": 4746,
+        "rankedPlayerCount": 12446,
         "profileUrl": "https://tabletop-tools.net/new-meta/#/player/_vksjDvJduVFlocMaYaWy"
       },
       {
@@ -952,6 +986,9 @@ window.BCP_DATA = {
         "ratingDeviation": 167,
         "displayBand": 333,
         "gamesPlayed": 5,
+        "eleventhEditionGames": 5,
+        "rank": 8866,
+        "rankedPlayerCount": 12446,
         "profileUrl": "https://tabletop-tools.net/new-meta/#/player/zUcY247Y1z3CPb-aSZzRZ"
       },
       {
@@ -971,6 +1008,9 @@ window.BCP_DATA = {
         "ratingDeviation": 223,
         "displayBand": 446,
         "gamesPlayed": 3,
+        "eleventhEditionGames": 3,
+        "rank": 6215,
+        "rankedPlayerCount": 12446,
         "profileUrl": "https://tabletop-tools.net/new-meta/#/player/gR4ju6VFYOSgfqOuz9zhm"
       },
       {
@@ -984,6 +1024,9 @@ window.BCP_DATA = {
         "ratingDeviation": 221,
         "displayBand": 442,
         "gamesPlayed": 3,
+        "eleventhEditionGames": 3,
+        "rank": 7133,
+        "rankedPlayerCount": 12446,
         "profileUrl": "https://tabletop-tools.net/new-meta/#/player/f1XFota2sTe99EeM_Hb6i"
       },
       {
@@ -1009,6 +1052,9 @@ window.BCP_DATA = {
         "ratingDeviation": 132,
         "displayBand": 264,
         "gamesPlayed": 10,
+        "eleventhEditionGames": 10,
+        "rank": 2032,
+        "rankedPlayerCount": 12446,
         "profileUrl": "https://tabletop-tools.net/new-meta/#/player/wWBpaxTNrWWBh2TefIPln"
       },
       {
@@ -1046,6 +1092,9 @@ window.BCP_DATA = {
         "ratingDeviation": 220,
         "displayBand": 440,
         "gamesPlayed": 3,
+        "eleventhEditionGames": 3,
+        "rank": 2844,
+        "rankedPlayerCount": 12446,
         "profileUrl": "https://tabletop-tools.net/new-meta/#/player/2AGb21LTUKDzGRBBdXJKQ"
       },
       {
@@ -1059,6 +1108,9 @@ window.BCP_DATA = {
         "ratingDeviation": 223,
         "displayBand": 446,
         "gamesPlayed": 3,
+        "eleventhEditionGames": 3,
+        "rank": 8130,
+        "rankedPlayerCount": 12446,
         "profileUrl": "https://tabletop-tools.net/new-meta/#/player/_YMgS19xYkS5e6akx34_O"
       },
       {
@@ -1078,6 +1130,9 @@ window.BCP_DATA = {
         "ratingDeviation": 130,
         "displayBand": 259,
         "gamesPlayed": 9,
+        "eleventhEditionGames": 9,
+        "rank": 2255,
+        "rankedPlayerCount": 12446,
         "profileUrl": "https://tabletop-tools.net/new-meta/#/player/8QY932PNRj0NYgTM4XJlO"
       },
       {
@@ -1097,6 +1152,9 @@ window.BCP_DATA = {
         "ratingDeviation": 177,
         "displayBand": 355,
         "gamesPlayed": 5,
+        "eleventhEditionGames": 5,
+        "rank": 5718,
+        "rankedPlayerCount": 12446,
         "profileUrl": "https://tabletop-tools.net/new-meta/#/player/lJnLRirPQkgi_r4-LzVJ8"
       }
     ],
@@ -1104,60 +1162,80 @@ window.BCP_DATA = {
       {
         "team": "Comp Play",
         "averageRating": 1956,
+        "averageEleventhEditionGames": 3,
+        "averageRank": 305,
         "ratedPlayers": 1,
         "totalPlayers": 4
       },
       {
         "team": "Comp Play Surrey Primarchs",
         "averageRating": 1635,
+        "averageEleventhEditionGames": 6.5,
+        "averageRank": 4108,
         "ratedPlayers": 4,
         "totalPlayers": 4
       },
       {
         "team": "Defenders of Outpost 47",
         "averageRating": null,
+        "averageEleventhEditionGames": null,
+        "averageRank": null,
         "ratedPlayers": 0,
         "totalPlayers": 4
       },
       {
         "team": "For King & Comp Play",
         "averageRating": 1764,
+        "averageEleventhEditionGames": 3,
+        "averageRank": 2306,
         "ratedPlayers": 3,
         "totalPlayers": 4
       },
       {
         "team": "Pheromone Maxxing",
         "averageRating": null,
+        "averageEleventhEditionGames": null,
+        "averageRank": null,
         "ratedPlayers": 0,
         "totalPlayers": 4
       },
       {
         "team": "South London Squad",
         "averageRating": 1471,
+        "averageEleventhEditionGames": 5,
+        "averageRank": 7649,
         "ratedPlayers": 4,
         "totalPlayers": 4
       },
       {
         "team": "Surrey Primarchs B",
         "averageRating": 1510,
+        "averageEleventhEditionGames": 3,
+        "averageRank": 6674,
         "ratedPlayers": 2,
         "totalPlayers": 4
       },
       {
         "team": "The boys go to Brighton for “Warhammer”",
         "averageRating": 1740,
+        "averageEleventhEditionGames": 10,
+        "averageRank": 2032,
         "ratedPlayers": 1,
         "totalPlayers": 4
       },
       {
         "team": "The Real Comp Play",
         "averageRating": 1569,
+        "averageEleventhEditionGames": 3,
+        "averageRank": 5487,
         "ratedPlayers": 2,
         "totalPlayers": 4
       },
       {
         "team": "Wessex Wyverns",
         "averageRating": 1639,
+        "averageEleventhEditionGames": 7,
+        "averageRank": 3987,
         "ratedPlayers": 2,
         "totalPlayers": 4
       }

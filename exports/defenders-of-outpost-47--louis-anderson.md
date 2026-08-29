@@ -2,6 +2,7 @@
 
 - Team: Defenders of Outpost 47
 - Faction: Tyranids
+- Glicko-2 rating: Unrated
 - [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/qG3mVRGCi6gk)
 - [Web version](https://kaashif.github.io/brighton/lists/qG3mVRGCi6gk/)
 

@@ -73,10 +73,13 @@ function render() {
     const published = teamPlayers.filter((player) => player.hasPublishedList).length;
     const teamRating = teamRatings.get(teamName);
     const average = teamRating?.averageRating ?? '—';
+    const averageRank = teamRating?.averageRank ? `#${teamRating.averageRank.toLocaleString()} / ${data.ratings.rankedPlayerCount.toLocaleString()}` : '—';
     total.append(
       `${teamPlayers.length} players · ${published} ${published === 1 ? 'list' : 'lists'}`,
       document.createElement('br'),
-      `Glicko avg ${average} · ${teamRating?.ratedPlayers || 0}/4 rated`,
+      `Glicko avg ${average} · ${teamRating?.ratedPlayers || 0}/4 rated · ${teamRating?.averageEleventhEditionGames ?? '—'} avg games`,
+      document.createElement('br'),
+      `Avg rank ${averageRank}`,
     );
     heading.append(total);
     const cards = document.createElement('div');
@@ -91,12 +94,21 @@ function render() {
       fragment.querySelector('.list-card__player').textContent = list.pagePlayer;
       fragment.querySelector('.list-card__faction').textContent = list.hasPublishedList ? list.faction : `${list.faction} · No list submitted`;
       const ratingLink = fragment.querySelector('.player-rating');
+      const games = fragment.querySelector('.player-games');
+      const rank = fragment.querySelector('.player-rank');
       if (list.rating) {
         ratingLink.href = list.rating.profileUrl;
         ratingLink.textContent = `Glicko ${list.rating.rating}`;
-        ratingLink.title = `Tabletop Tools Glicko-2: ${list.rating.rating} ±${list.rating.displayBand} from ${list.rating.gamesPlayed} games`;
+        games.textContent = `${list.rating.eleventhEditionGames} games`;
+        rank.textContent = `#${list.rating.rank.toLocaleString()} / ${list.rating.rankedPlayerCount.toLocaleString()}`;
+        ratingLink.title = `Tabletop Tools Glicko-2: ${list.rating.rating} ±${list.rating.displayBand} from ${list.rating.eleventhEditionGames} 11th-edition games`;
       } else {
-        ratingLink.remove();
+        ratingLink.removeAttribute('target');
+        ratingLink.removeAttribute('rel');
+        ratingLink.textContent = 'Unrated';
+        ratingLink.classList.add('player-rating--unrated');
+        games.textContent = '—';
+        rank.textContent = '—';
       }
       if (!list.hasPublishedList) {
         card.classList.add('list-card--missing');
@@ -153,6 +165,7 @@ addOptions(elements.faction, unique('faction'));
 elements.heroCount.textContent = data.count;
 document.querySelector('#event-link').href = data.eventUrl;
 document.querySelector('#footer-event-link').href = data.eventUrl;
+document.querySelector('#ranked-player-count').textContent = data.ratings.rankedPlayerCount.toLocaleString();
 
 elements.search.addEventListener('input', (event) => { state.query = event.target.value; render(); });
 elements.team.addEventListener('change', (event) => { state.team = event.target.value; render(); });

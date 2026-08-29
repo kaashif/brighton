@@ -2,6 +2,7 @@
 
 - Team: Pheromone Maxxing
 - Faction: Emperor's Children
+- Glicko-2 rating: Unrated
 - [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/vgclWfLSgu5c)
 - [Web version](https://kaashif.github.io/brighton/lists/vgclWfLSgu5c/)
 

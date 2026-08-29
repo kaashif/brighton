@@ -46,15 +46,16 @@ kbd { margin-right: 10px; border: 1px solid var(--border); border-radius: 3px; p
 .team-group h2 span { color: var(--muted); font-size: .82rem; font-weight: 400; text-align: right; }
 .team-lists { border-top: 1px solid var(--border); }
 .list-card { border-bottom: 1px solid var(--border); }
-.list-card__summary { display: grid; grid-template-columns: 34px minmax(180px, 1fr) minmax(170px, .9fr) 20px; align-items: center; width: 100%; min-height: 64px; border: 0; padding: 10px 4px 10px 0; background: transparent; color: var(--text); text-align: left; cursor: pointer; }
+.list-card__summary { display: grid; grid-template-columns: 34px minmax(140px, 1fr) 92px 64px 104px minmax(140px, .9fr) 20px; column-gap: 10px; align-items: center; width: 100%; min-height: 64px; border: 0; padding: 10px 4px 10px 0; background: transparent; color: var(--text); text-align: left; cursor: pointer; }
 .list-card__summary:hover { background: var(--subtle); }
 .list-card__summary[aria-disabled="true"] { cursor: default; }
 .list-card__summary[aria-disabled="true"]:hover { background: transparent; }
 .list-card--missing .list-card__player, .list-card--missing .list-card__faction { color: var(--muted); }
 .list-card__number { color: #888; font: .75rem ui-monospace, SFMono-Regular, Menlo, monospace; }
-.list-card__identity { display: flex; min-width: 0; align-items: baseline; gap: 9px; flex-wrap: wrap; }
-.list-card__player { font-size: .98rem; }
+.list-card__player { min-width: 0; font-size: .98rem; }
 .player-rating { color: var(--link); font-size: .76rem; font-weight: 500; white-space: nowrap; }
+.player-rating--unrated { color: var(--muted); pointer-events: none; }
+.player-games, .player-rank { color: var(--muted); font-size: .76rem; white-space: nowrap; }
 .list-card__faction { color: var(--muted); font-size: .84rem; }
 .list-card__toggle { position: relative; width: 16px; height: 16px; justify-self: end; }
 .list-card__toggle::before, .list-card__toggle::after { content: ""; position: absolute; left: 2px; top: 7px; width: 12px; height: 1px; background: var(--text); }
@@ -102,9 +103,11 @@ footer p { margin: 0; }
   .filters { grid-template-columns: 1fr 1fr; }
   .filters button { grid-column: 1 / -1; min-height: 38px; }
   .list-grid { gap: 28px; }
-  .list-card__summary { grid-template-columns: 26px 1fr 20px; min-height: 72px; }
-  .list-card__faction { grid-column: 2; margin-top: 4px; }
-  .list-card__toggle { grid-column: 3; grid-row: 1 / span 2; }
+  .list-card__summary { grid-template-columns: 26px minmax(80px, 1fr) 82px 52px 20px; column-gap: 7px; min-height: 94px; }
+  .list-card__number { grid-row: 1 / span 3; }
+  .player-rank { grid-column: 3 / span 2; grid-row: 2; }
+  .list-card__faction { grid-column: 2 / span 3; grid-row: 3; margin-top: 4px; }
+  .list-card__toggle { grid-column: 5; grid-row: 1 / span 3; }
   .list-card__body { padding-left: 0; }
   .list-card__content { padding: 12px; font-size: .68rem; }
   footer { flex-direction: column; }

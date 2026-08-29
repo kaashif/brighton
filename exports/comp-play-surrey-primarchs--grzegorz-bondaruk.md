@@ -2,7 +2,7 @@
 
 - Team: Comp Play Surrey Primarchs
 - Faction: Necrons
-- [Glicko-2 rating: 1461 (3 games)](https://tabletop-tools.net/new-meta/#/player/D0b3r6Rx-AqUz6OA0C2x1)
+- [Glicko-2 rating: 1461; rank #7,821 of 12,446; 3 11th-edition games](https://tabletop-tools.net/new-meta/#/player/D0b3r6Rx-AqUz6OA0C2x1)
 - [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/lfqP8aM2Xp0P)
 - [Web version](https://kaashif.github.io/brighton/lists/lfqP8aM2Xp0P/)
 

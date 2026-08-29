@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-29T23:45:17.633Z",
+  "checkedAt": "2026-08-29T23:53:04.153Z",
   "checks": [
     {
       "name": "desktop player count",
@@ -26,7 +26,37 @@
       "expected": 19
     },
     {
+      "name": "desktop explicit unrated count",
+      "passed": true,
+      "value": 21,
+      "expected": 21
+    },
+    {
+      "name": "desktop player game count column",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "desktop player rank column",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
       "name": "desktop team averages",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "desktop team average game counts",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "desktop team average ranks",
       "passed": true,
       "value": true,
       "expected": true

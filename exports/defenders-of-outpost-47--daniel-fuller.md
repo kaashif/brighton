@@ -2,6 +2,7 @@
 
 - Team: Defenders of Outpost 47
 - Faction: Emperor's Children
+- Glicko-2 rating: Unrated
 - [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/nJX30tKBYWDG)
 - [Web version](https://kaashif.github.io/brighton/lists/nJX30tKBYWDG/)
 

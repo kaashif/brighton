@@ -2,6 +2,7 @@
 
 - Team: Surrey Primarchs B
 - Faction: Orks
+- Glicko-2 rating: Unrated
 - [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/Bybv62GHpKvV)
 - [Web version](https://kaashif.github.io/brighton/lists/Bybv62GHpKvV/)
 

@@ -2,7 +2,7 @@
 
 - Team: South London Squad
 - Faction: Necrons
-- [Glicko-2 rating: 1442 (5 games)](https://tabletop-tools.net/new-meta/#/player/0nCs_KJouBldwhjiRiZjc)
+- [Glicko-2 rating: 1442; rank #8,301 of 12,446; 5 11th-edition games](https://tabletop-tools.net/new-meta/#/player/0nCs_KJouBldwhjiRiZjc)
 - [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/i534s43QaAij)
 - [Web version](https://kaashif.github.io/brighton/lists/i534s43QaAij/)
 

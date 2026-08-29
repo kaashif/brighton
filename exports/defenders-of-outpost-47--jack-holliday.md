@@ -2,6 +2,7 @@
 
 - Team: Defenders of Outpost 47
 - Faction: T'au Empire
+- Glicko-2 rating: Unrated
 - [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/ZKEWviLwBYWR)
 - [Web version](https://kaashif.github.io/brighton/lists/ZKEWviLwBYWR/)
 

@@ -2,6 +2,7 @@
 
 - Team: Pheromone Maxxing
 - Faction: Adeptus Custodes
+- Glicko-2 rating: Unrated
 - [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/FPKEgr8Gr2Oi)
 - [Web version](https://kaashif.github.io/brighton/lists/FPKEgr8Gr2Oi/)
 

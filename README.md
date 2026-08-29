@@ -7,7 +7,7 @@ Each player has a dedicated page containing the full submitted roster, its origi
 ## Repository contents
 
 - `data/raw-lists.json` contains the complete extraction, including the 40-player roster and the 11 missing-list records.
-- `data/player-ratings.json` contains matched Tabletop Tools Glicko-2 ratings and team averages.
+- `data/player-ratings.json` contains matched Tabletop Tools Glicko-2 ratings, full-pool ranks, per-player 11th-edition game counts, and team averages.
 - `exports/` contains one GitHub-readable Markdown file for every player, grouped by team in its index. Submitted rosters have inline Wahapedia links; missing submissions are explicitly marked.
 - `scripts/extract.mjs` extracts the authenticated BCP event through a Playwright-controlled Chrome session.
 - `scripts/build.mjs` builds the homepage and all 29 player pages, matching roster entries to live Wahapedia datasheets.

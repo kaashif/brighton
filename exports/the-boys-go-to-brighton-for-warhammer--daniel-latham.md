@@ -2,7 +2,7 @@
 
 - Team: The boys go to Brighton for “Warhammer”
 - Faction: Necrons
-- [Glicko-2 rating: 1740 (10 games)](https://tabletop-tools.net/new-meta/#/player/wWBpaxTNrWWBh2TefIPln)
+- [Glicko-2 rating: 1740; rank #2,032 of 12,446; 10 11th-edition games](https://tabletop-tools.net/new-meta/#/player/wWBpaxTNrWWBh2TefIPln)
 - [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/D9dNkC9eMyi0)
 - [Web version](https://kaashif.github.io/brighton/lists/D9dNkC9eMyi0/)
 

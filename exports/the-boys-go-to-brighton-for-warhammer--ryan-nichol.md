@@ -2,6 +2,7 @@
 
 - Team: The boys go to Brighton for “Warhammer”
 - Faction: Adeptus Custodes
+- Glicko-2 rating: Unrated
 - [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/vwcKAR0WtG9u)
 - [Web version](https://kaashif.github.io/brighton/lists/vwcKAR0WtG9u/)
 

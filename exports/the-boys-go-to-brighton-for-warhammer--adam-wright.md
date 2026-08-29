@@ -2,6 +2,7 @@
 
 - Team: The boys go to Brighton for “Warhammer”
 - Faction: Space Marines (Astartes)
+- Glicko-2 rating: Unrated
 - [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/rSTOdfvkpFWq)
 - [Web version](https://kaashif.github.io/brighton/lists/rSTOdfvkpFWq/)
 

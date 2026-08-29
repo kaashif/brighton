@@ -2,7 +2,7 @@
 
 - Team: South London Squad
 - Faction: Leagues of Votann
-- [Glicko-2 rating: 1416 (5 games)](https://tabletop-tools.net/new-meta/#/player/zUcY247Y1z3CPb-aSZzRZ)
+- [Glicko-2 rating: 1416; rank #8,866 of 12,446; 5 11th-edition games](https://tabletop-tools.net/new-meta/#/player/zUcY247Y1z3CPb-aSZzRZ)
 - [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/LJRHYhOWHq7b)
 - [Web version](https://kaashif.github.io/brighton/lists/LJRHYhOWHq7b/)
 
