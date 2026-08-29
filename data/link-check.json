@@ -1,0 +1,320 @@
+{
+  "checkedAt": "2026-08-29T22:58:03.289Z",
+  "htmlFiles": 30,
+  "internalLinks": 61,
+  "externalLinks": 62,
+  "unresolvedInternal": [],
+  "failedExternal": [],
+  "externalResults": [
+    {
+      "url": "https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600;700&display=swap",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Wardens",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Venatari-Custodians",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/datasheets.html",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/datasheets.html",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/datasheets.html",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/imperial-agents/datasheets.html",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/datasheets.html",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/orks/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/orks/datasheets.html",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Tankbustas",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/datasheets.html",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/datasheets.html",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/Forgefiend",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/datasheets.html",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/datasheets.html",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/the-rules/data-export/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/90uVfSpDZZUw",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/b80sIcBubm4z",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/BEnXNOLQuCZh",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/BIcvGDyhQRUk",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/Bybv62GHpKvV",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/D9dNkC9eMyi0",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/DcwSiKWvmpP1",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/etRv0t6dYvgk",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/EY03zmcAyvXG",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/FPKEgr8Gr2Oi",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/GnQfCBUNhIZR",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/gXfEJxZjpKer",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/i534s43QaAij",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/lfqP8aM2Xp0P",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/LJRHYhOWHq7b",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/m3WkBIscvIfD",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/MrTiQfQ6axlj",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/NdL1eiju0V7K",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/nJX30tKBYWDG",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/qG3mVRGCi6gk",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/QLbZTVgmcaPG",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/rBYVquBqN9i0",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/rSTOdfvkpFWq",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/SpSM9F22RyY1",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/UVw0qAolBcWm",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/vgclWfLSgu5c",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/vwcKAR0WtG9u",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/XZZSlQ9YT5Me",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.bestcoastpairings.com/list/ZKEWviLwBYWR",
+      "status": 200,
+      "ok": true
+    }
+  ]
+}

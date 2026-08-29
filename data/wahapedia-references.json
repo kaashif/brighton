@@ -1,0 +1,1813 @@
+[
+  {
+    "listId": "m3WkBIscvIfD",
+    "player": "Alexander England",
+    "faction": "Space Marines (Astartes)",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "Forgefather's Seekers, Librarius Conclave (Vulkan's Quest)",
+    "detachments": [
+      {
+        "name": "Forgefather’s Seekers",
+        "normalized": "forgefather's seekers",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/#Forgefather-s-Seekers"
+      },
+      {
+        "name": "Vulkan’s Quest",
+        "normalized": "vulkan's quest",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/#Vulkan-s-Quest"
+      },
+      {
+        "name": "Librarius Conclave",
+        "normalized": "librarius conclave",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/#Librarius-Conclave"
+      }
+    ],
+    "datasheets": [
+      {
+        "name": "Captain In Gravis Armour",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Captain-In-Gravis-Armour",
+        "lineIndex": 17
+      },
+      {
+        "name": "Aggressor Squad",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Aggressor-Squad",
+        "lineIndex": 24
+      },
+      {
+        "name": "Librarian",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Librarian",
+        "lineIndex": 35
+      },
+      {
+        "name": "Infernus Squad",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Infernus-Squad",
+        "lineIndex": 42
+      },
+      {
+        "name": "Librarian In Terminator Armour",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Librarian-In-Terminator-Armour",
+        "lineIndex": 55
+      },
+      {
+        "name": "TERMINATOR SQUAD",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Terminator-Squad-1",
+        "lineIndex": 62
+      },
+      {
+        "name": "Vulkan He’stan",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Vulkan-He-stan",
+        "lineIndex": 74
+      },
+      {
+        "name": "Eradicator Squad",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Eradicator-Squad",
+        "lineIndex": 82
+      },
+      {
+        "name": "Eradicator Squad with Heavy Bolters",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Eradicator-Squad-with-Heavy-Bolters",
+        "lineIndex": 110
+      },
+      {
+        "name": "Invader ATV",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Invader-ATV",
+        "lineIndex": 130
+      },
+      {
+        "name": "Land Raider Redeemer",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Land-Raider-Redeemer",
+        "lineIndex": 136
+      },
+      {
+        "name": "Land Speeder",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Land-Speeder",
+        "lineIndex": 144
+      },
+      {
+        "name": "SCOUT SQUAD",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Scout-Squad",
+        "lineIndex": 156
+      }
+    ]
+  },
+  {
+    "listId": "NdL1eiju0V7K",
+    "player": "Geoff Legg",
+    "faction": "Adeptus Custodes",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "",
+    "detachments": [],
+    "datasheets": [
+      {
+        "name": "BLADE CHAMPION",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html#Blade-Champion",
+        "lineIndex": 11
+      },
+      {
+        "name": "Custodian Guard",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard",
+        "lineIndex": 16
+      },
+      {
+        "name": "Shield-captain On Dawneagle Jetbike",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html#Shield-captain-On-Dawneagle-Jetbike",
+        "lineIndex": 23
+      },
+      {
+        "name": "ALLARUS CUSTODIANS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html#Allarus-Custodians",
+        "lineIndex": 41
+      },
+      {
+        "name": "PROSECUTORS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html#Prosecutors",
+        "lineIndex": 51
+      },
+      {
+        "name": "Venatari Custodians",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Venatari-Custodians",
+        "lineIndex": 67
+      },
+      {
+        "name": "WITCHSEEKERS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html#Witchseekers",
+        "lineIndex": 79
+      }
+    ]
+  },
+  {
+    "listId": "lfqP8aM2Xp0P",
+    "player": "Grzegorz Bondaruk",
+    "faction": "Necrons",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/necrons/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "",
+    "detachments": [],
+    "datasheets": [
+      {
+        "name": "Technomancer",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#Technomancer",
+        "lineIndex": 10
+      },
+      {
+        "name": "CANOPTEK WRAITHS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#Canoptek-Wraiths",
+        "lineIndex": 14
+      },
+      {
+        "name": "C’TAN SHARD OF THE DECEIVER",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#C-tan-Shard-of-the-Deceiver",
+        "lineIndex": 23
+      },
+      {
+        "name": "C’TAN SHARD OF THE NIGHTBRINGER",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#C-tan-Shard-of-the-Nightbringer",
+        "lineIndex": 27
+      },
+      {
+        "name": "C’TAN SHARD OF THE VOID DRAGON",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#C-tan-Shard-of-the-Void-Dragon",
+        "lineIndex": 31
+      },
+      {
+        "name": "Illuminor Szeras",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#Illuminor-Szeras",
+        "lineIndex": 36
+      },
+      {
+        "name": "Imotekh The Stormlord",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#Imotekh-The-Stormlord",
+        "lineIndex": 41
+      },
+      {
+        "name": "Nekrosor Ammentar",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#Nekrosor-Ammentar",
+        "lineIndex": 45
+      },
+      {
+        "name": "Skorpekh Lord",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#Skorpekh-Lord",
+        "lineIndex": 51
+      },
+      {
+        "name": "OPHYDIAN DESTROYERS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#Ophydian-Destroyers",
+        "lineIndex": 60
+      }
+    ]
+  },
+  {
+    "listId": "BEnXNOLQuCZh",
+    "player": "Jerome Connolly",
+    "faction": "Adeptus Mechanicus",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "",
+    "detachments": [],
+    "datasheets": [
+      {
+        "name": "Cybernetica Datasmith",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/datasheets.html#Cybernetica-Datasmith",
+        "lineIndex": 11
+      },
+      {
+        "name": "KASTELAN ROBOTS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/datasheets.html#Kastelan-Robots",
+        "lineIndex": 16
+      },
+      {
+        "name": "Belisarius Cawl",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/datasheets.html#Belisarius-Cawl",
+        "lineIndex": 25
+      },
+      {
+        "name": "Tech-priest Enginseer",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/datasheets.html#Tech-priest-Enginseer",
+        "lineIndex": 32
+      },
+      {
+        "name": "Thulia Ghuld",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/datasheets.html#Thulia-Ghuld",
+        "lineIndex": 38
+      },
+      {
+        "name": "Skitarii Rangers",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/datasheets.html#Skitarii-Rangers",
+        "lineIndex": 44
+      },
+      {
+        "name": "IRONSTRIDER BALLISTARII",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/datasheets.html#Ironstrider-Ballistarii",
+        "lineIndex": 72
+      },
+      {
+        "name": "SERBERYS RAIDERS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/datasheets.html#Serberys-Raiders",
+        "lineIndex": 77
+      },
+      {
+        "name": "Servitor Battleclade",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/datasheets.html#Servitor-Battleclade",
+        "lineIndex": 87
+      },
+      {
+        "name": "Skorpius Disintegrator",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/datasheets.html#Skorpius-Disintegrator",
+        "lineIndex": 129
+      },
+      {
+        "name": "Sydonian Dragoons With Taser Lances",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/datasheets.html#Sydonian-Dragoons-With-Taser-Lances",
+        "lineIndex": 141
+      }
+    ]
+  },
+  {
+    "listId": "XZZSlQ9YT5Me",
+    "player": "Christian Faustino",
+    "faction": "Blood Angels",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "Legacy of Grace, Stormlance Task Force (Legacy of the Angel)",
+    "detachments": [
+      {
+        "name": "Stormlance Task Force",
+        "normalized": "stormlance task force",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/#Stormlance-Task-Force"
+      },
+      {
+        "name": "Legacy of the Angel",
+        "normalized": "legacy of the angel",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/#Legacy-of-the-Angel"
+      },
+      {
+        "name": "Legacy of Grace",
+        "normalized": "legacy of grace",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/#Legacy-of-Grace"
+      }
+    ],
+    "datasheets": [
+      {
+        "name": "Commander Dante",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Commander-Dante",
+        "lineIndex": 14
+      },
+      {
+        "name": "SANGUINARY GUARD",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Sanguinary-Guard",
+        "lineIndex": 17
+      },
+      {
+        "name": "Lemartes",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Lemartes",
+        "lineIndex": 23
+      },
+      {
+        "name": "Death Company Marines With Jump Packs",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Death-Company-Marines-With-Jump-Packs",
+        "lineIndex": 26
+      },
+      {
+        "name": "Intercessor Squad",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Intercessor-Squad",
+        "lineIndex": 42
+      },
+      {
+        "name": "Infiltrator Squad",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Infiltrator-Squad",
+        "lineIndex": 48
+      },
+      {
+        "name": "SCOUT SQUAD",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Scout-Squad",
+        "lineIndex": 56
+      },
+      {
+        "name": "Vanguard Veteran Squad With Jump Packs",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Vanguard-Veteran-Squad-With-Jump-Packs",
+        "lineIndex": 67
+      }
+    ]
+  },
+  {
+    "listId": "nJX30tKBYWDG",
+    "player": "Daniel Fuller",
+    "faction": "Emperor's Children",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "",
+    "detachments": [],
+    "datasheets": [
+      {
+        "name": "LORD EXULTANT",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/datasheets.html#Lord-Exultant",
+        "lineIndex": 11
+      },
+      {
+        "name": "Infractors",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/datasheets.html#Infractors",
+        "lineIndex": 18
+      },
+      {
+        "name": "Sorcerer",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/datasheets.html#Sorcerer",
+        "lineIndex": 49
+      },
+      {
+        "name": "Noise Marines",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/datasheets.html#Noise-Marines",
+        "lineIndex": 55
+      },
+      {
+        "name": "FULGRIM",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/datasheets.html#Fulgrim",
+        "lineIndex": 67
+      },
+      {
+        "name": "Lucius the Eternal",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/datasheets.html#Lucius-the-Eternal",
+        "lineIndex": 73
+      },
+      {
+        "name": "TORMENTORS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/datasheets.html#Tormentors",
+        "lineIndex": 79
+      },
+      {
+        "name": "FLAWLESS BLADES",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/datasheets.html#Flawless-Blades",
+        "lineIndex": 103
+      },
+      {
+        "name": "Maulerfiend",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/datasheets.html#Maulerfiend",
+        "lineIndex": 115
+      }
+    ]
+  },
+  {
+    "listId": "ZKEWviLwBYWR",
+    "player": "Jack Holliday",
+    "faction": "T'au Empire",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "Mont'ka (Killing Blow)",
+    "detachments": [
+      {
+        "name": "Mont’ka",
+        "normalized": "mont'ka",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/#Mont-ka"
+      },
+      {
+        "name": "Killing Blow",
+        "normalized": "killing blow",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/#Killing-Blow"
+      }
+    ],
+    "datasheets": [
+      {
+        "name": "Breacher Team",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/datasheets.html#Breacher-Team",
+        "lineIndex": 41
+      },
+      {
+        "name": "Broadside Battlesuits",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/datasheets.html#Broadside-Battlesuits",
+        "lineIndex": 46
+      },
+      {
+        "name": "KROOT CARNIVORES",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/datasheets.html#Kroot-Carnivores",
+        "lineIndex": 51
+      },
+      {
+        "name": "PATHFINDER TEAM",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/datasheets.html#Pathfinder-Team",
+        "lineIndex": 55
+      },
+      {
+        "name": "STEALTH BATTLESUITS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/datasheets.html#Stealth-Battlesuits",
+        "lineIndex": 69
+      }
+    ]
+  },
+  {
+    "listId": "qG3mVRGCi6gk",
+    "player": "Louis Anderson",
+    "faction": "Tyranids",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/tyranids/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "",
+    "detachments": [],
+    "datasheets": [
+      {
+        "name": "The Swarmlord",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/datasheets.html#The-Swarmlord",
+        "lineIndex": 11
+      },
+      {
+        "name": "Tyrant Guard",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/datasheets.html#Tyrant-Guard",
+        "lineIndex": 17
+      },
+      {
+        "name": "Deathleaper",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/datasheets.html#Deathleaper",
+        "lineIndex": 24
+      },
+      {
+        "name": "Parasite Of Mortrex",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/datasheets.html#Parasite-Of-Mortrex",
+        "lineIndex": 27
+      },
+      {
+        "name": "Winged Hive Tyrant",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/datasheets.html#Winged-Hive-Tyrant",
+        "lineIndex": 31
+      },
+      {
+        "name": "TERMAGANTS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/datasheets.html#Termagants",
+        "lineIndex": 37
+      },
+      {
+        "name": "Barbgaunts",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/datasheets.html#Barbgaunts",
+        "lineIndex": 58
+      },
+      {
+        "name": "Biovores",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/datasheets.html#Biovores",
+        "lineIndex": 63
+      },
+      {
+        "name": "GENESTEALERS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/datasheets.html#Genestealers",
+        "lineIndex": 67
+      },
+      {
+        "name": "NORN EMISSARY",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/datasheets.html#Norn-Emissary",
+        "lineIndex": 75
+      },
+      {
+        "name": "Tyrannofex",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/datasheets.html#Tyrannofex",
+        "lineIndex": 80
+      },
+      {
+        "name": "VON RYAN’S LEAPERS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/datasheets.html#Von-Ryan-s-Leapers",
+        "lineIndex": 90
+      }
+    ]
+  },
+  {
+    "listId": "GnQfCBUNhIZR",
+    "player": "Brando McCready",
+    "faction": "Leagues of Votann",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "",
+    "detachments": [],
+    "datasheets": []
+  },
+  {
+    "listId": "MrTiQfQ6axlj",
+    "player": "Bradley Stuart-James",
+    "faction": "Tyranids",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/tyranids/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "",
+    "detachments": [],
+    "datasheets": [
+      {
+        "name": "Hormagaunts",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/datasheets.html#Hormagaunts",
+        "lineIndex": 20
+      },
+      {
+        "name": "Biovores",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/datasheets.html#Biovores",
+        "lineIndex": 26
+      },
+      {
+        "name": "Haruspex",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/datasheets.html#Haruspex",
+        "lineIndex": 30
+      },
+      {
+        "name": "Maleceptor",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/datasheets.html#Maleceptor",
+        "lineIndex": 35
+      },
+      {
+        "name": "NORN ASSIMILATOR",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/datasheets.html#Norn-Assimilator",
+        "lineIndex": 39
+      },
+      {
+        "name": "Psychophage",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/datasheets.html#Psychophage",
+        "lineIndex": 54
+      },
+      {
+        "name": "Pyrovores",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/datasheets.html#Pyrovores",
+        "lineIndex": 62
+      },
+      {
+        "name": "RIPPER SWARMS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/datasheets.html#Ripper-Swarms",
+        "lineIndex": 67
+      },
+      {
+        "name": "Tyrant Guard",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/datasheets.html#Tyrant-Guard",
+        "lineIndex": 70
+      }
+    ]
+  },
+  {
+    "listId": "FPKEgr8Gr2Oi",
+    "player": "Ezra Moran Adams",
+    "faction": "Adeptus Custodes",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "",
+    "detachments": [],
+    "datasheets": [
+      {
+        "name": "BLADE CHAMPION",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html#Blade-Champion",
+        "lineIndex": 4
+      },
+      {
+        "name": "Shield-captain In Allarus Terminator Armour",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html#Shield-captain-In-Allarus-Terminator-Armour",
+        "lineIndex": 8
+      },
+      {
+        "name": "Shield-captain On Dawneagle Jetbike",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html#Shield-captain-On-Dawneagle-Jetbike",
+        "lineIndex": 10
+      },
+      {
+        "name": "Custodian Guard",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard",
+        "lineIndex": 13
+      },
+      {
+        "name": "ALLARUS CUSTODIANS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html#Allarus-Custodians",
+        "lineIndex": 18
+      },
+      {
+        "name": "Custodian Wardens",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Wardens",
+        "lineIndex": 21
+      },
+      {
+        "name": "PROSECUTORS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html#Prosecutors",
+        "lineIndex": 25
+      },
+      {
+        "name": "Venatari Custodians",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Venatari-Custodians",
+        "lineIndex": 27
+      },
+      {
+        "name": "Vertus Praetors",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html#Vertus-Praetors",
+        "lineIndex": 32
+      },
+      {
+        "name": "CALLIDUS ASSASSIN",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/imperial-agents/datasheets.html#Callidus-Assassin",
+        "lineIndex": 36
+      }
+    ]
+  },
+  {
+    "listId": "BIcvGDyhQRUk",
+    "player": "Matt Delves",
+    "faction": "Leagues of Votann",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "",
+    "detachments": [],
+    "datasheets": [
+      {
+        "name": "Einhyr Champion",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/datasheets.html#Einhyr-Champion",
+        "lineIndex": 10
+      },
+      {
+        "name": "EINHYR HEARTHGUARD",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/datasheets.html#Einhyr-Hearthguard",
+        "lineIndex": 18
+      },
+      {
+        "name": "Ûthar the Destined",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/datasheets.html#%C3%9Bthar-the-Destined",
+        "lineIndex": 32
+      },
+      {
+        "name": "MEMNYR STRATEGIST",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/datasheets.html#Memnyr-Strategist",
+        "lineIndex": 52
+      },
+      {
+        "name": "Ironkin Steeljacks with Heavy Volkanite Disintegrators",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/datasheets.html#Ironkin-Steeljacks-with-Heavy-Volkanite-Disintegrators",
+        "lineIndex": 57
+      },
+      {
+        "name": "Buri Aegnirssen",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/datasheets.html#Buri-Aegnirssen",
+        "lineIndex": 70
+      },
+      {
+        "name": "HEARTHKYN WARRIORS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/datasheets.html#Hearthkyn-Warriors",
+        "lineIndex": 77
+      },
+      {
+        "name": "BRÔKHYR THUNDERKYN",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/datasheets.html#Br%C3%B4khyr-Thunderkyn",
+        "lineIndex": 91
+      },
+      {
+        "name": "CTHONIAN EARTHSHAKERS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/datasheets.html#Cthonian-Earthshakers",
+        "lineIndex": 106
+      },
+      {
+        "name": "HEKATON LAND FORTRESS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/datasheets.html#Hekaton-Land-Fortress",
+        "lineIndex": 112
+      },
+      {
+        "name": "Hernkyn Pioneers",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/datasheets.html#Hernkyn-Pioneers",
+        "lineIndex": 126
+      },
+      {
+        "name": "Ironkin Steeljacks with Melee Weapons",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/datasheets.html#Ironkin-Steeljacks-with-Melee-Weapons",
+        "lineIndex": 144
+      }
+    ]
+  },
+  {
+    "listId": "vgclWfLSgu5c",
+    "player": "Max Dennis",
+    "faction": "Emperor's Children",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "",
+    "detachments": [],
+    "datasheets": [
+      {
+        "name": "LORD EXULTANT",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/datasheets.html#Lord-Exultant",
+        "lineIndex": 10
+      },
+      {
+        "name": "Infractors",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/datasheets.html#Infractors",
+        "lineIndex": 17
+      },
+      {
+        "name": "Daemon Prince of Slaanesh with Wings",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/datasheets.html#Daemon-Prince-of-Slaanesh-with-Wings",
+        "lineIndex": 68
+      },
+      {
+        "name": "TORMENTORS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/datasheets.html#Tormentors",
+        "lineIndex": 93
+      },
+      {
+        "name": "Chaos Rhino",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/datasheets.html#Chaos-Rhino",
+        "lineIndex": 107
+      },
+      {
+        "name": "Chaos Spawn",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/datasheets.html#Chaos-Spawn",
+        "lineIndex": 122
+      },
+      {
+        "name": "Defiler",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/datasheets.html#Defiler",
+        "lineIndex": 126
+      },
+      {
+        "name": "FLAWLESS BLADES",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/datasheets.html#Flawless-Blades",
+        "lineIndex": 132
+      },
+      {
+        "name": "Noise Marines",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/datasheets.html#Noise-Marines",
+        "lineIndex": 137
+      }
+    ]
+  },
+  {
+    "listId": "etRv0t6dYvgk",
+    "player": "Joseph Whitmarsh",
+    "faction": "World Eaters",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "",
+    "detachments": [],
+    "datasheets": [
+      {
+        "name": "Slaughterbound",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/datasheets.html#Slaughterbound",
+        "lineIndex": 11
+      },
+      {
+        "name": "EXALTED EIGHTBOUND",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/datasheets.html#Exalted-Eightbound",
+        "lineIndex": 16
+      },
+      {
+        "name": "KHÂRN THE BETRAYER",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/datasheets.html#Kh-rn-The-Betrayer",
+        "lineIndex": 25
+      },
+      {
+        "name": "KHORNE BERZERKERS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/datasheets.html#Khorne-Berzerkers",
+        "lineIndex": 30
+      },
+      {
+        "name": "Daemon Prince of Khorne",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/datasheets.html#Daemon-Prince-of-Khorne",
+        "lineIndex": 44
+      },
+      {
+        "name": "Chaos Rhino",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/datasheets.html#Chaos-Rhino",
+        "lineIndex": 52
+      },
+      {
+        "name": "Chaos Spawn",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/datasheets.html#Chaos-Spawn",
+        "lineIndex": 60
+      },
+      {
+        "name": "EIGHTBOUND",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/datasheets.html#Eightbound",
+        "lineIndex": 72
+      },
+      {
+        "name": "Forgefiend",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/datasheets.html#Forgefiend",
+        "lineIndex": 90
+      },
+      {
+        "name": "GOREMONGERS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/datasheets.html#Goremongers",
+        "lineIndex": 100
+      },
+      {
+        "name": "JAKHALS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/datasheets.html#Jakhals",
+        "lineIndex": 111
+      }
+    ]
+  },
+  {
+    "listId": "i534s43QaAij",
+    "player": "Kaashif Hymabaccus",
+    "faction": "Necrons",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/necrons/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "",
+    "detachments": [],
+    "datasheets": [
+      {
+        "name": "Skorpekh Lord",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#Skorpekh-Lord",
+        "lineIndex": 10
+      },
+      {
+        "name": "SKORPEKH DESTROYERS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#Skorpekh-Destroyers",
+        "lineIndex": 18
+      },
+      {
+        "name": "Technomancer",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#Technomancer",
+        "lineIndex": 26
+      },
+      {
+        "name": "CANOPTEK WRAITHS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#Canoptek-Wraiths",
+        "lineIndex": 30
+      },
+      {
+        "name": "C’TAN SHARD OF THE NIGHTBRINGER",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#C-tan-Shard-of-the-Nightbringer",
+        "lineIndex": 51
+      },
+      {
+        "name": "C’TAN SHARD OF THE VOID DRAGON",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#C-tan-Shard-of-the-Void-Dragon",
+        "lineIndex": 55
+      },
+      {
+        "name": "Nekrosor Ammentar",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#Nekrosor-Ammentar",
+        "lineIndex": 60
+      },
+      {
+        "name": "Canoptek Reanimator",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#Canoptek-Reanimator",
+        "lineIndex": 69
+      },
+      {
+        "name": "FLAYED ONES",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#Flayed-Ones",
+        "lineIndex": 73
+      }
+    ]
+  },
+  {
+    "listId": "90uVfSpDZZUw",
+    "player": "Sascha Sajjad",
+    "faction": "Dark Angels",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "",
+    "detachments": [],
+    "datasheets": [
+      {
+        "name": "Azrael",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Azrael",
+        "lineIndex": 11
+      },
+      {
+        "name": "Inner Circle Companions",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Inner-Circle-Companions",
+        "lineIndex": 17
+      },
+      {
+        "name": "Lion El’jonson",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Lion-El-jonson",
+        "lineIndex": 26
+      },
+      {
+        "name": "Deathwing Knights",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Deathwing-Knights",
+        "lineIndex": 34
+      },
+      {
+        "name": "Incursor Squad",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Incursor-Squad",
+        "lineIndex": 40
+      },
+      {
+        "name": "Land Speeder",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Land-Speeder",
+        "lineIndex": 51
+      },
+      {
+        "name": "LAND SPEEDER VENGEANCE",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Land-Speeder-Vengeance",
+        "lineIndex": 70
+      },
+      {
+        "name": "SCOUT SQUAD",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Scout-Squad",
+        "lineIndex": 88
+      },
+      {
+        "name": "Storm Speeder Thunderstrike",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Storm-Speeder-Thunderstrike",
+        "lineIndex": 100
+      }
+    ]
+  },
+  {
+    "listId": "LJRHYhOWHq7b",
+    "player": "Zachary Lockett",
+    "faction": "Leagues of Votann",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "",
+    "detachments": [],
+    "datasheets": [
+      {
+        "name": "Berehk Stornbröw",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/datasheets.html#Berehk-Stornbr%C3%B6w",
+        "lineIndex": 10
+      },
+      {
+        "name": "CTHONIAN BESERKS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/datasheets.html#Cthonian-Beserks",
+        "lineIndex": 16
+      },
+      {
+        "name": "Kâhl",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/datasheets.html#K-hl",
+        "lineIndex": 25
+      },
+      {
+        "name": "EINHYR HEARTHGUARD",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/datasheets.html#Einhyr-Hearthguard",
+        "lineIndex": 32
+      },
+      {
+        "name": "Ûthar the Destined",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/datasheets.html#%C3%9Bthar-the-Destined",
+        "lineIndex": 46
+      },
+      {
+        "name": "Brôkhyr Iron-master",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/datasheets.html#Br%C3%B4khyr-Iron-master",
+        "lineIndex": 67
+      },
+      {
+        "name": "Buri Aegnirssen",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/datasheets.html#Buri-Aegnirssen",
+        "lineIndex": 83
+      },
+      {
+        "name": "MEMNYR STRATEGIST",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/datasheets.html#Memnyr-Strategist",
+        "lineIndex": 87
+      },
+      {
+        "name": "Kapricus Carrier",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/datasheets.html#Kapricus-Carrier",
+        "lineIndex": 95
+      },
+      {
+        "name": "BRÔKHYR THUNDERKYN",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/datasheets.html#Br%C3%B4khyr-Thunderkyn",
+        "lineIndex": 104
+      },
+      {
+        "name": "HEKATON LAND FORTRESS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/datasheets.html#Hekaton-Land-Fortress",
+        "lineIndex": 109
+      },
+      {
+        "name": "Hernkyn Pioneers",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/datasheets.html#Hernkyn-Pioneers",
+        "lineIndex": 123
+      },
+      {
+        "name": "HERNKYN YAEGIRS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/datasheets.html#Hernkyn-Yaegirs",
+        "lineIndex": 133
+      },
+      {
+        "name": "Ironkin Steeljacks with Melee Weapons",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/datasheets.html#Ironkin-Steeljacks-with-Melee-Weapons",
+        "lineIndex": 143
+      }
+    ]
+  },
+  {
+    "listId": "Bybv62GHpKvV",
+    "player": "Alex Dracup",
+    "faction": "Orks",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/orks/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "",
+    "detachments": [],
+    "datasheets": [
+      {
+        "name": "Ghazghkull Thraka",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/datasheets.html#Ghazghkull-Thraka",
+        "lineIndex": 10
+      },
+      {
+        "name": "Bannernob",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/datasheets.html#Bannernob",
+        "lineIndex": 19
+      },
+      {
+        "name": "BOYZ",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/datasheets.html#Boyz",
+        "lineIndex": 25
+      },
+      {
+        "name": "Beastboss On Squigosaur",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/datasheets.html#Beastboss-On-Squigosaur",
+        "lineIndex": 39
+      },
+      {
+        "name": "Squighog Boyz",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/datasheets.html#Squighog-Boyz",
+        "lineIndex": 47
+      },
+      {
+        "name": "Mozrog Skragbad",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/datasheets.html#Mozrog-Skragbad",
+        "lineIndex": 61
+      },
+      {
+        "name": "Big Mek With Shokk Attack Gun",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/datasheets.html#Big-Mek-With-Shokk-Attack-Gun",
+        "lineIndex": 81
+      },
+      {
+        "name": "Tankbustas",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Tankbustas",
+        "lineIndex": 87
+      },
+      {
+        "name": "Boss Snikrot",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/datasheets.html#Boss-Snikrot",
+        "lineIndex": 100
+      },
+      {
+        "name": "Wazdakka Gutsmek",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/datasheets.html#Wazdakka-Gutsmek",
+        "lineIndex": 104
+      },
+      {
+        "name": "TRUKK",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/datasheets.html#Trukk",
+        "lineIndex": 113
+      },
+      {
+        "name": "FLASH GITZ",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/datasheets.html#Flash-Gitz",
+        "lineIndex": 121
+      },
+      {
+        "name": "GRETCHIN",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/datasheets.html#Gretchin",
+        "lineIndex": 130
+      },
+      {
+        "name": "KOMMANDOS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/datasheets.html#Kommandos",
+        "lineIndex": 138
+      },
+      {
+        "name": "STORMBOYZ",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/datasheets.html#Stormboyz",
+        "lineIndex": 152
+      }
+    ]
+  },
+  {
+    "listId": "rBYVquBqN9i0",
+    "player": "Andrew Mcbride",
+    "faction": "World Eaters",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "",
+    "detachments": [],
+    "datasheets": [
+      {
+        "name": "KHÂRN THE BETRAYER",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/datasheets.html#Kh-rn-The-Betrayer",
+        "lineIndex": 10
+      },
+      {
+        "name": "KHORNE BERZERKERS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/datasheets.html#Khorne-Berzerkers",
+        "lineIndex": 16
+      },
+      {
+        "name": "Slaughterbound",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/datasheets.html#Slaughterbound",
+        "lineIndex": 30
+      },
+      {
+        "name": "EXALTED EIGHTBOUND",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/datasheets.html#Exalted-Eightbound",
+        "lineIndex": 34
+      },
+      {
+        "name": "Lord Invocatus",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/datasheets.html#Lord-Invocatus",
+        "lineIndex": 44
+      },
+      {
+        "name": "Master of Executions",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/datasheets.html#Master-of-Executions",
+        "lineIndex": 49
+      },
+      {
+        "name": "Chaos Rhino",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/datasheets.html#Chaos-Rhino",
+        "lineIndex": 57
+      },
+      {
+        "name": "Defiler",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/datasheets.html#Defiler",
+        "lineIndex": 65
+      },
+      {
+        "name": "EIGHTBOUND",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/datasheets.html#Eightbound",
+        "lineIndex": 71
+      },
+      {
+        "name": "Forgefiend",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/datasheets.html#Forgefiend",
+        "lineIndex": 89
+      },
+      {
+        "name": "GOREMONGERS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/datasheets.html#Goremongers",
+        "lineIndex": 94
+      },
+      {
+        "name": "JAKHALS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/datasheets.html#Jakhals",
+        "lineIndex": 104
+      },
+      {
+        "name": "MAULERFIEND",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/datasheets.html#Maulerfiend",
+        "lineIndex": 116
+      }
+    ]
+  },
+  {
+    "listId": "b80sIcBubm4z",
+    "player": "Charles Bunn",
+    "faction": "Thousand Sons",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "",
+    "detachments": [],
+    "datasheets": [
+      {
+        "name": "Daemon Prince of Tzeentch with Wings",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/datasheets.html#Daemon-Prince-of-Tzeentch-with-Wings",
+        "lineIndex": 10
+      },
+      {
+        "name": "Magnus The Red",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/datasheets.html#Magnus-The-Red",
+        "lineIndex": 16
+      },
+      {
+        "name": "Sorcerer",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/datasheets.html#Sorcerer",
+        "lineIndex": 21
+      },
+      {
+        "name": "Sorcerer In Terminator Armour",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/datasheets.html#Sorcerer-In-Terminator-Armour",
+        "lineIndex": 31
+      },
+      {
+        "name": "Rubric Marines",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/datasheets.html#Rubric-Marines",
+        "lineIndex": 40
+      },
+      {
+        "name": "Chaos Spawn",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/datasheets.html#Chaos-Spawn",
+        "lineIndex": 65
+      },
+      {
+        "name": "Forgefiend",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/Forgefiend",
+        "lineIndex": 69
+      },
+      {
+        "name": "Scarab Occult Terminators",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/datasheets.html#Scarab-Occult-Terminators",
+        "lineIndex": 74
+      },
+      {
+        "name": "Tzaangor Enlightened",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/datasheets.html#Tzaangor-Enlightened",
+        "lineIndex": 85
+      },
+      {
+        "name": "Tzaangor Enlightened with Fatecaster Greatbows",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/datasheets.html#Tzaangor-Enlightened-with-Fatecaster-Greatbows",
+        "lineIndex": 97
+      },
+      {
+        "name": "TZAANGORS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/datasheets.html#Tzaangors",
+        "lineIndex": 105
+      }
+    ]
+  },
+  {
+    "listId": "SpSM9F22RyY1",
+    "player": "Rob Scott",
+    "faction": "Dark Angels",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "",
+    "detachments": [],
+    "datasheets": [
+      {
+        "name": "Azrael",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Azrael",
+        "lineIndex": 11
+      },
+      {
+        "name": "Intercessor Squad",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Intercessor-Squad",
+        "lineIndex": 17
+      },
+      {
+        "name": "Sammael",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Sammael",
+        "lineIndex": 30
+      },
+      {
+        "name": "Ravenwing Command Squad",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Ravenwing-Command-Squad",
+        "lineIndex": 37
+      },
+      {
+        "name": "OUTRIDER SQUAD",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Outrider-Squad",
+        "lineIndex": 53
+      },
+      {
+        "name": "Chaplain On Bike",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Chaplain-On-Bike",
+        "lineIndex": 66
+      },
+      {
+        "name": "Lion El’jonson",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Lion-El-jonson",
+        "lineIndex": 102
+      },
+      {
+        "name": "Land Speeder",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Land-Speeder",
+        "lineIndex": 110
+      },
+      {
+        "name": "LAND SPEEDER VENGEANCE",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Land-Speeder-Vengeance",
+        "lineIndex": 123
+      },
+      {
+        "name": "Ravenwing Darkshroud",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Ravenwing-Darkshroud",
+        "lineIndex": 141
+      },
+      {
+        "name": "SCOUT SQUAD",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Scout-Squad",
+        "lineIndex": 145
+      },
+      {
+        "name": "Storm Speeder Thunderstrike",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Storm-Speeder-Thunderstrike",
+        "lineIndex": 157
+      }
+    ]
+  },
+  {
+    "listId": "rSTOdfvkpFWq",
+    "player": "Adam Wright",
+    "faction": "Space Marines (Astartes)",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "",
+    "detachments": [],
+    "datasheets": [
+      {
+        "name": "Librarian",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Librarian",
+        "lineIndex": 12
+      },
+      {
+        "name": "Infernus Squad",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Infernus-Squad",
+        "lineIndex": 19
+      },
+      {
+        "name": "Sternguard Veteran Squad",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Sternguard-Veteran-Squad-1",
+        "lineIndex": 39
+      },
+      {
+        "name": "Captain With Jump Pack",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Captain-With-Jump-Pack",
+        "lineIndex": 54
+      },
+      {
+        "name": "Vanguard Veteran Squad With Jump Packs",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Vanguard-Veteran-Squad-With-Jump-Packs",
+        "lineIndex": 59
+      },
+      {
+        "name": "Vulkan He’stan",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Vulkan-He-stan",
+        "lineIndex": 70
+      },
+      {
+        "name": "Aggressor Squad",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Aggressor-Squad",
+        "lineIndex": 78
+      },
+      {
+        "name": "Land Raider Redeemer",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Land-Raider-Redeemer",
+        "lineIndex": 96
+      },
+      {
+        "name": "Land Speeder",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Land-Speeder",
+        "lineIndex": 104
+      },
+      {
+        "name": "Repulsor",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Repulsor-1",
+        "lineIndex": 110
+      },
+      {
+        "name": "SCOUT SQUAD",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Scout-Squad",
+        "lineIndex": 117
+      },
+      {
+        "name": "Storm Speeder Thunderstrike",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Storm-Speeder-Thunderstrike",
+        "lineIndex": 141
+      }
+    ]
+  },
+  {
+    "listId": "D9dNkC9eMyi0",
+    "player": "Daniel Latham",
+    "faction": "Necrons",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/necrons/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "",
+    "detachments": [],
+    "datasheets": [
+      {
+        "name": "Lokhust Lord",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#Lokhust-Lord",
+        "lineIndex": 10
+      },
+      {
+        "name": "LOKHUST DESTROYERS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#Lokhust-Destroyers",
+        "lineIndex": 16
+      },
+      {
+        "name": "Overlord",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#Overlord",
+        "lineIndex": 37
+      },
+      {
+        "name": "LYCHGUARD",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#Lychguard",
+        "lineIndex": 43
+      },
+      {
+        "name": "Skorpekh Lord",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#Skorpekh-Lord",
+        "lineIndex": 51
+      },
+      {
+        "name": "SKORPEKH DESTROYERS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#Skorpekh-Destroyers",
+        "lineIndex": 57
+      },
+      {
+        "name": "C’TAN SHARD OF THE VOID DRAGON",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#C-tan-Shard-of-the-Void-Dragon",
+        "lineIndex": 66
+      },
+      {
+        "name": "Illuminor Szeras",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#Illuminor-Szeras",
+        "lineIndex": 71
+      },
+      {
+        "name": "Imotekh The Stormlord",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#Imotekh-The-Stormlord",
+        "lineIndex": 75
+      },
+      {
+        "name": "Nekrosor Ammentar",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#Nekrosor-Ammentar",
+        "lineIndex": 80
+      },
+      {
+        "name": "Canoptek Reanimator",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#Canoptek-Reanimator",
+        "lineIndex": 89
+      },
+      {
+        "name": "FLAYED ONES",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#Flayed-Ones",
+        "lineIndex": 93
+      },
+      {
+        "name": "OPHYDIAN DESTROYERS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/datasheets.html#Ophydian-Destroyers",
+        "lineIndex": 97
+      }
+    ]
+  },
+  {
+    "listId": "QLbZTVgmcaPG",
+    "player": "Pete Armstrong",
+    "faction": "Chaos Knights",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "",
+    "detachments": [],
+    "datasheets": [
+      {
+        "name": "War Dog Brigand",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/datasheets.html#War-Dog-Brigand",
+        "lineIndex": 10
+      },
+      {
+        "name": "War Dog Karnivore",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/datasheets.html#War-Dog-Karnivore",
+        "lineIndex": 26
+      },
+      {
+        "name": "War Dog Executioner",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/datasheets.html#War-Dog-Executioner",
+        "lineIndex": 42
+      },
+      {
+        "name": "War Dog Stalker",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/datasheets.html#War-Dog-Stalker",
+        "lineIndex": 85
+      }
+    ]
+  },
+  {
+    "listId": "vwcKAR0WtG9u",
+    "player": "Ryan Nichol",
+    "faction": "Adeptus Custodes",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "",
+    "detachments": [],
+    "datasheets": [
+      {
+        "name": "Trajann Valoris",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html#Trajann-Valoris",
+        "lineIndex": 12
+      },
+      {
+        "name": "Custodian Wardens",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Wardens",
+        "lineIndex": 18
+      },
+      {
+        "name": "BLADE CHAMPION",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html#Blade-Champion",
+        "lineIndex": 25
+      },
+      {
+        "name": "Custodian Guard",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard",
+        "lineIndex": 30
+      },
+      {
+        "name": "Valerian",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html#Valerian",
+        "lineIndex": 41
+      },
+      {
+        "name": "ALLARUS CUSTODIANS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html#Allarus-Custodians",
+        "lineIndex": 63
+      },
+      {
+        "name": "PROSECUTORS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html#Prosecutors",
+        "lineIndex": 73
+      }
+    ]
+  },
+  {
+    "listId": "gXfEJxZjpKer",
+    "player": "David Bannister",
+    "faction": "T'au Empire",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "",
+    "detachments": [],
+    "datasheets": [
+      {
+        "name": "Commander In Coldstar Battlesuit",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/datasheets.html#Commander-In-Coldstar-Battlesuit",
+        "lineIndex": 10
+      },
+      {
+        "name": "Crisis Fireknife Battlesuits",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/datasheets.html#Crisis-Fireknife-Battlesuits",
+        "lineIndex": 18
+      },
+      {
+        "name": "Commander In Enforcer Battlesuit",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/datasheets.html#Commander-In-Enforcer-Battlesuit",
+        "lineIndex": 33
+      },
+      {
+        "name": "Commander Farsight",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/datasheets.html#Commander-Farsight",
+        "lineIndex": 76
+      },
+      {
+        "name": "Crisis Starscythe Battlesuits",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/datasheets.html#Crisis-Starscythe-Battlesuits",
+        "lineIndex": 81
+      },
+      {
+        "name": "Crisis Sunforge Battlesuits",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/datasheets.html#Crisis-Sunforge-Battlesuits",
+        "lineIndex": 104
+      },
+      {
+        "name": "Darkstrider",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/datasheets.html#Darkstrider",
+        "lineIndex": 120
+      },
+      {
+        "name": "The Twin Lance",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/datasheets.html#The-Twin-Lance",
+        "lineIndex": 124
+      },
+      {
+        "name": "Hammerhead Gunship",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/datasheets.html#Hammerhead-Gunship",
+        "lineIndex": 140
+      },
+      {
+        "name": "Piranhas",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/datasheets.html#Piranhas",
+        "lineIndex": 146
+      },
+      {
+        "name": "STEALTH BATTLESUITS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/datasheets.html#Stealth-Battlesuits",
+        "lineIndex": 152
+      },
+      {
+        "name": "Stormsurge",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/datasheets.html#Stormsurge",
+        "lineIndex": 168
+      }
+    ]
+  },
+  {
+    "listId": "UVw0qAolBcWm",
+    "player": "Jonathan Aylett",
+    "faction": "Orks",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/orks/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "",
+    "detachments": [],
+    "datasheets": [
+      {
+        "name": "Ghazghkull Thraka",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/datasheets.html#Ghazghkull-Thraka",
+        "lineIndex": 11
+      },
+      {
+        "name": "Painboy",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/datasheets.html#Painboy",
+        "lineIndex": 20
+      },
+      {
+        "name": "BOYZ",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/datasheets.html#Boyz",
+        "lineIndex": 26
+      },
+      {
+        "name": "Bigboss",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/datasheets.html#Bigboss",
+        "lineIndex": 37
+      },
+      {
+        "name": "Zodgrod Wortsnagga",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/datasheets.html#Zodgrod-Wortsnagga",
+        "lineIndex": 59
+      },
+      {
+        "name": "GRETCHIN",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/datasheets.html#Gretchin",
+        "lineIndex": 64
+      },
+      {
+        "name": "Big Mek With Shokk Attack Gun",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/datasheets.html#Big-Mek-With-Shokk-Attack-Gun",
+        "lineIndex": 72
+      },
+      {
+        "name": "Tankbustas",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Tankbustas",
+        "lineIndex": 79
+      },
+      {
+        "name": "Beastboss On Squigosaur",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/datasheets.html#Beastboss-On-Squigosaur",
+        "lineIndex": 92
+      },
+      {
+        "name": "Wazdakka Gutsmek",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/datasheets.html#Wazdakka-Gutsmek",
+        "lineIndex": 98
+      },
+      {
+        "name": "TRUKK",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/datasheets.html#Trukk",
+        "lineIndex": 116
+      },
+      {
+        "name": "Big Mek Dakkarig",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/datasheets.html#Big-Mek-Dakkarig",
+        "lineIndex": 122
+      },
+      {
+        "name": "FLASH GITZ",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/datasheets.html#Flash-Gitz",
+        "lineIndex": 127
+      },
+      {
+        "name": "KOMMANDOS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/orks/datasheets.html#Kommandos",
+        "lineIndex": 153
+      }
+    ]
+  },
+  {
+    "listId": "DcwSiKWvmpP1",
+    "player": "Nicholas Bannister",
+    "faction": "Adeptus Custodes",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "",
+    "detachments": [],
+    "datasheets": [
+      {
+        "name": "BLADE CHAMPION",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html#Blade-Champion",
+        "lineIndex": 10
+      },
+      {
+        "name": "Custodian Wardens",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Wardens",
+        "lineIndex": 16
+      },
+      {
+        "name": "Shield-captain On Dawneagle Jetbike",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html#Shield-captain-On-Dawneagle-Jetbike",
+        "lineIndex": 25
+      },
+      {
+        "name": "Vertus Praetors",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html#Vertus-Praetors",
+        "lineIndex": 31
+      },
+      {
+        "name": "Custodian Guard",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard",
+        "lineIndex": 40
+      },
+      {
+        "name": "ALLARUS CUSTODIANS",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/datasheets.html#Allarus-Custodians",
+        "lineIndex": 50
+      },
+      {
+        "name": "Venatari Custodians",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Venatari-Custodians",
+        "lineIndex": 63
+      }
+    ]
+  },
+  {
+    "listId": "EY03zmcAyvXG",
+    "player": "William Samms",
+    "faction": "Blood Angels",
+    "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/",
+    "coreRulesUrl": "https://wahapedia.ru/wh40k11ed/the-rules/core-rules/",
+    "detachmentText": "",
+    "detachments": [],
+    "datasheets": [
+      {
+        "name": "Captain With Jump Pack",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Captain-With-Jump-Pack",
+        "lineIndex": 12
+      },
+      {
+        "name": "SANGUINARY GUARD",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Sanguinary-Guard",
+        "lineIndex": 18
+      },
+      {
+        "name": "Death Company Captain with Jump Pack",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Death-Company-Captain-with-Jump-Pack",
+        "lineIndex": 28
+      },
+      {
+        "name": "Death Company Marines With Jump Packs",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Death-Company-Marines-With-Jump-Packs",
+        "lineIndex": 33
+      },
+      {
+        "name": "Chaplain In Terminator Armour",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Chaplain-In-Terminator-Armour",
+        "lineIndex": 59
+      },
+      {
+        "name": "Ancient In Terminator Armour",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Ancient-In-Terminator-Armour",
+        "lineIndex": 64
+      },
+      {
+        "name": "TERMINATOR ASSAULT SQUAD",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Terminator-Assault-Squad",
+        "lineIndex": 69
+      },
+      {
+        "name": "Incursor Squad",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Incursor-Squad",
+        "lineIndex": 86
+      },
+      {
+        "name": "Infiltrator Squad",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Infiltrator-Squad",
+        "lineIndex": 97
+      },
+      {
+        "name": "SCOUT SQUAD",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Scout-Squad",
+        "lineIndex": 109
+      },
+      {
+        "name": "Storm Speeder Hammerstrike",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Storm-Speeder-Hammerstrike",
+        "lineIndex": 129
+      },
+      {
+        "name": "Vindicator",
+        "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/datasheets.html#Vindicator",
+        "lineIndex": 135
+      }
+    ]
+  }
+]

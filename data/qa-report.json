@@ -1,0 +1,228 @@
+{
+  "checkedAt": "2026-08-29T22:58:33.888Z",
+  "checks": [
+    {
+      "name": "desktop list count",
+      "passed": true,
+      "value": 29,
+      "expected": 29
+    },
+    {
+      "name": "desktop no horizontal overflow",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "search filter result",
+      "passed": true,
+      "value": 1,
+      "expected": 1
+    },
+    {
+      "name": "route m3WkBIscvIfD",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route NdL1eiju0V7K",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route lfqP8aM2Xp0P",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route BEnXNOLQuCZh",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route XZZSlQ9YT5Me",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route nJX30tKBYWDG",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route ZKEWviLwBYWR",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route qG3mVRGCi6gk",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route GnQfCBUNhIZR",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route MrTiQfQ6axlj",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route FPKEgr8Gr2Oi",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route BIcvGDyhQRUk",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route vgclWfLSgu5c",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route etRv0t6dYvgk",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route i534s43QaAij",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route 90uVfSpDZZUw",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route LJRHYhOWHq7b",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route Bybv62GHpKvV",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route rBYVquBqN9i0",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route b80sIcBubm4z",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route SpSM9F22RyY1",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route rSTOdfvkpFWq",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route D9dNkC9eMyi0",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route QLbZTVgmcaPG",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route vwcKAR0WtG9u",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route gXfEJxZjpKer",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route UVw0qAolBcWm",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route DcwSiKWvmpP1",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route EY03zmcAyvXG",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "mobile list count",
+      "passed": true,
+      "value": 29,
+      "expected": 29
+    },
+    {
+      "name": "mobile index no horizontal overflow",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "mobile detail has roster",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "mobile detail has rules links",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "mobile detail no horizontal overflow",
+      "passed": true,
+      "value": true,
+      "expected": true
+    }
+  ],
+  "passed": true
+}

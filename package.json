@@ -1,0 +1,16 @@
+{
+  "name": "brighton-40k-teams-ii-lists",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "extract": "node scripts/extract.mjs",
+    "check": "node scripts/check-links.mjs",
+    "qa": "node scripts/qa.mjs"
+  },
+  "devDependencies": {
+    "cheerio": "1.1.2",
+    "playwright": "1.62.1"
+  }
+}
