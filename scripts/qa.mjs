@@ -32,7 +32,11 @@ try {
   const desktop = await browser.newPage({ viewport: { width: 1440, height: 1000 } });
   await desktop.goto('http://127.0.0.1:4173/', { waitUntil: 'networkidle' });
   record('desktop list count', await desktop.locator('.list-card').count(), 29);
+  record('desktop lists grouped by team', (await desktop.locator('.team-group').count()) > 1);
   record('desktop no horizontal overflow', await desktop.evaluate(() => document.documentElement.scrollWidth <= document.documentElement.clientWidth));
+  await desktop.locator('.list-card__summary').first().click();
+  record('dropdown has unit links', (await desktop.locator('.list-card__content .roster-link--unit').first().count()) > 0);
+  record('dropdown has rules metadata links', (await desktop.locator('.list-card__content .roster-link--meta').first().count()) > 0);
   await desktop.locator('#search').fill('Kaashif');
   record('search filter result', await desktop.locator('.list-card').count(), 1);
   await desktop.screenshot({ path: '/tmp/brighton-lists-desktop.png', fullPage: true });
@@ -47,6 +51,10 @@ try {
   await mobile.goto('http://127.0.0.1:4173/', { waitUntil: 'networkidle' });
   record('mobile list count', await mobile.locator('.list-card').count(), 29);
   record('mobile index no horizontal overflow', await mobile.evaluate(() => document.documentElement.scrollWidth <= document.documentElement.clientWidth));
+  await mobile.locator('.list-card__summary').first().click();
+  record('mobile dropdown has unit links', (await mobile.locator('.list-card__content .roster-link--unit').count()) > 0);
+  record('mobile dropdown has rules metadata links', (await mobile.locator('.list-card__content .roster-link--meta').count()) > 0);
+  await mobile.locator('.list-card__content').first().scrollIntoViewIfNeeded();
   await mobile.screenshot({ path: '/tmp/brighton-lists-mobile.png', fullPage: false });
 
   await mobile.goto(`http://127.0.0.1:4173/${data.lists[0].pageUrl}`, { waitUntil: 'networkidle' });

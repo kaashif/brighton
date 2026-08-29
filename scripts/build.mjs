@@ -58,7 +58,17 @@ async function loadFaction(slug) {
     const name = $root(element).clone().children().remove().end().text().replace(/\s+/g, ' ').trim();
     if (id && name) sections.push({ name, normalized: normalize(name), url: `${rootUrl}#${encodeURIComponent(id)}` });
   });
-  return { slug, rootUrl, datasheets, sections };
+  const enhancements = new Map();
+  $root('h2[id]').each((_, element) => {
+    const id = $root(element).attr('id');
+    if (!id) return;
+    const sectionUrl = `${rootUrl}#${encodeURIComponent(id)}`;
+    $root(element).nextUntil('h2').find('ul.EnhancementsPts li').each((__, item) => {
+      const name = $root(item).find('span').first().text().replace(/\s+/g, ' ').trim();
+      if (name) enhancements.set(normalize(name), { name, url: sectionUrl });
+    });
+  });
+  return { slug, rootUrl, datasheets, sections, enhancements };
 }
 
 const alliedSlugs = ['imperial-agents'];
@@ -71,8 +81,7 @@ function referencesFor(list) {
   const slug = factionSlugs[faction];
   const index = factionIndexes[slug];
   const lines = list.content.split('\n');
-  const datasheets = [];
-  const seen = new Set();
+  const datasheetMatches = new Map();
 
   lines.forEach((line, lineIndex) => {
     if (!/[\[(]\d+\s+(?:pts|points)[\])]\s*:?\s*$/i.test(line)) return;
@@ -89,11 +98,12 @@ function referencesFor(list) {
         if (match) break;
       }
     }
-    if (match && !seen.has(match.url)) {
-      seen.add(match.url);
-      datasheets.push({ ...match, lineIndex });
+    if (match) {
+      if (!datasheetMatches.has(match.url)) datasheetMatches.set(match.url, { ...match, lineIndexes: [] });
+      datasheetMatches.get(match.url).lineIndexes.push(lineIndex);
     }
   });
+  const datasheets = [...datasheetMatches.values()];
 
   const detachmentLine = lines.find((line) => /^\s*\+?\s*DETACHMENT:/i.test(line)) || '';
   const detachmentText = detachmentLine.replace(/^\s*\+?\s*DETACHMENT:\s*/i, '').trim();
@@ -101,23 +111,65 @@ function referencesFor(list) {
   const detachments = index.sections
     .filter((section) => section.normalized.length > 4 && detachmentNormalized.includes(section.normalized))
     .filter((section, position, all) => all.findIndex((item) => item.normalized === section.normalized) === position);
+  const detachmentLineIndex = lines.indexOf(detachmentLine);
+  const enhancements = [];
+  for (const enhancement of index.enhancements.values()) {
+    const lineIndexes = lines.flatMap((line, lineIndex) => normalize(line).includes(normalize(enhancement.name)) ? [lineIndex] : []);
+    if (lineIndexes.length) enhancements.push({ ...enhancement, lineIndexes });
+  }
+  const factionLineIndexes = lines.flatMap((line, lineIndex) => {
+    const normalized = normalize(line);
+    return /^\s*\+?\s*FACTION(?: KEYWORD)?:/i.test(line) || (lineIndex === 0 && normalized.includes(normalize(faction))) ? [lineIndex] : [];
+  });
 
   return {
     faction,
     factionUrl: index.rootUrl,
     coreRulesUrl,
     detachmentText,
+    detachmentLineIndex,
     detachments,
+    enhancements,
+    factionLineIndexes,
     datasheets,
   };
 }
 
+function linkTerms(line, terms, className = 'roster-link roster-link--meta') {
+  const comparable = line.replace(/[’‘]/g, "'").toLocaleLowerCase();
+  const occurrences = [];
+  for (const term of terms) {
+    const needle = term.name.replace(/[’‘]/g, "'").toLocaleLowerCase();
+    const start = comparable.indexOf(needle);
+    if (start !== -1) occurrences.push({ start, end: start + needle.length, ...term });
+  }
+  occurrences.sort((a, b) => a.start - b.start || b.end - a.end);
+  const nonOverlapping = occurrences.filter((item, index, all) => !all.slice(0, index).some((earlier) => item.start < earlier.end));
+  if (!nonOverlapping.length) return null;
+  let cursor = 0;
+  let html = '';
+  for (const occurrence of nonOverlapping) {
+    html += escapeHtml(line.slice(cursor, occurrence.start));
+    html += `<a class="${className}" href="${occurrence.url}" target="_blank" rel="noreferrer">${escapeHtml(line.slice(occurrence.start, occurrence.end))}</a>`;
+    cursor = occurrence.end;
+  }
+  return html + escapeHtml(line.slice(cursor));
+}
+
 function linkedRosterHtml(list, references) {
-  const byLine = new Map(references.datasheets.map((sheet) => [sheet.lineIndex, sheet]));
+  const datasheetByLine = new Map(references.datasheets.flatMap((sheet) => sheet.lineIndexes.map((lineIndex) => [lineIndex, sheet])));
+  const enhancementByLine = new Map(references.enhancements.flatMap((enhancement) => enhancement.lineIndexes.map((lineIndex) => [lineIndex, enhancement])));
   return list.content.split('\n').map((line, index) => {
-    const sheet = byLine.get(index);
+    const sheet = datasheetByLine.get(index);
     const escaped = escapeHtml(line);
-    return sheet ? `<a class="unit-link" href="${sheet.url}" target="_blank" rel="noreferrer">${escaped}<span aria-hidden="true"> ↗</span></a>` : escaped;
+    if (sheet) return `<a class="roster-link roster-link--unit" href="${sheet.url}" target="_blank" rel="noreferrer">${escaped}</a>`;
+    const enhancement = enhancementByLine.get(index);
+    if (enhancement) return linkTerms(line, [enhancement]) || `<a class="roster-link roster-link--meta" href="${enhancement.url}" target="_blank" rel="noreferrer">${escaped}</a>`;
+    if (index === references.detachmentLineIndex && references.detachments.length) {
+      return linkTerms(line, references.detachments) || `<a class="roster-link roster-link--meta" href="${references.detachments[0].url}" target="_blank" rel="noreferrer">${escaped}</a>`;
+    }
+    if (references.factionLineIndexes.includes(index)) return `<a class="roster-link roster-link--meta" href="${references.factionUrl}" target="_blank" rel="noreferrer">${escaped}</a>`;
+    return escaped;
   }).join('\n');
 }
 
@@ -133,27 +185,22 @@ function detailPage(list, references) {
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="${escapeHtml(list.pagePlayer)}'s army list for Brighton 40k Teams II." />
   <title>${escapeHtml(list.pagePlayer)} — Brighton 40k Teams II</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="../../styles.css" />
 </head>
 <body class="detail-page">
   <header class="detail-hero">
     <nav><a href="../../">← All lists</a><a href="${list.sourceUrl}" target="_blank" rel="noreferrer">Original on BCP ↗</a></nav>
-    <p class="eyebrow">${escapeHtml(list.team)}</p>
     <h1>${escapeHtml(list.pagePlayer)}</h1>
-    <p class="detail-faction">${escapeHtml(list.faction)}</p>
+    <p class="detail-meta">${escapeHtml(list.team)} · ${escapeHtml(list.faction)}</p>
   </header>
   <main class="detail-layout">
     <article class="roster-panel">
-      <div class="section-label">Submitted roster</div>
+      <h2>Army list</h2>
       <pre class="detail-roster">${linkedRosterHtml(list, references)}</pre>
     </article>
     <aside class="rules-panel">
       <div class="rules-panel__sticky">
-        <p class="section-label">11th-edition rules</p>
-        <h2>Quick references</h2>
+        <h2>11th-edition rules</h2>
         <ul class="primary-links">
           <li><a href="${references.factionUrl}" target="_blank" rel="noreferrer">${escapeHtml(references.faction)} rules <span>↗</span></a></li>
           <li><a href="${references.coreRulesUrl}" target="_blank" rel="noreferrer">Core rules <span>↗</span></a></li>
@@ -179,7 +226,7 @@ for (const list of raw.lists) {
   const directory = new URL(`lists/${list.listId}/`, root);
   await mkdir(directory, { recursive: true });
   await writeFile(new URL('index.html', directory), detailPage(list, references));
-  builtLists.push({ ...list, pageUrl: `lists/${list.listId}/` });
+  builtLists.push({ ...list, pageUrl: `lists/${list.listId}/`, linkedContent: linkedRosterHtml(list, references) });
   referenceReport.push({ listId: list.listId, player: list.pagePlayer, ...references });
 }
 

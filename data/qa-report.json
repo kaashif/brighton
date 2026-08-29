@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-29T22:58:33.888Z",
+  "checkedAt": "2026-08-29T23:05:19.064Z",
   "checks": [
     {
       "name": "desktop list count",
@@ -8,7 +8,25 @@
       "expected": 29
     },
     {
+      "name": "desktop lists grouped by team",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
       "name": "desktop no horizontal overflow",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "dropdown has unit links",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "dropdown has rules metadata links",
       "passed": true,
       "value": true,
       "expected": true
@@ -201,6 +219,18 @@
     },
     {
       "name": "mobile index no horizontal overflow",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "mobile dropdown has unit links",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "mobile dropdown has rules metadata links",
       "passed": true,
       "value": true,
       "expected": true

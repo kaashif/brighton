@@ -1,16 +1,11 @@
 {
-  "checkedAt": "2026-08-29T22:58:03.289Z",
+  "checkedAt": "2026-08-29T23:04:57.214Z",
   "htmlFiles": 30,
   "internalLinks": 61,
-  "externalLinks": 62,
+  "externalLinks": 61,
   "unresolvedInternal": [],
   "failedExternal": [],
   "externalResults": [
-    {
-      "url": "https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600;700&display=swap",
-      "status": 200,
-      "ok": true
-    },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/",
       "status": 200,

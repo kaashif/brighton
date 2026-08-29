@@ -5,25 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Search and browse submitted army lists for Brighton 40k Teams II." />
     <title>Brighton 40k Teams II — Army Lists</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <header class="hero">
-      <div class="hero__inner">
-        <a class="eyebrow" id="event-link" href="#">Best Coast Pairings event ↗</a>
-        <div class="hero__title-row">
-          <div>
-            <h1>Brighton 40k<br /><span>Teams II</span></h1>
-            <p class="lede">Submitted army lists, gathered in one fast, searchable field guide.</p>
-          </div>
-          <div class="hero__stat" aria-label="List total">
-            <strong id="hero-count">29</strong>
-            <span>published<br />lists</span>
-          </div>
-        </div>
+    <header class="site-header">
+      <div class="site-header__inner">
+        <h1>Brighton 40k Teams II army lists</h1>
+        <p><span id="hero-count">29</span> submitted lists from 40 players. Grouped by team.</p>
+        <a id="event-link" href="#">View the event on Best Coast Pairings</a>
       </div>
     </header>
 
@@ -49,7 +38,7 @@
       </section>
 
       <section class="results-head" aria-live="polite">
-        <p><strong id="result-count">29</strong> lists shown</p>
+        <p><strong id="result-count">29</strong> lists</p>
         <button id="expand-all" type="button">Expand all</button>
       </section>
 
@@ -71,7 +60,6 @@
           <span class="list-card__number"></span>
           <span class="list-card__identity">
             <strong class="list-card__player"></strong>
-            <span class="list-card__team"></span>
           </span>
           <span class="list-card__faction"></span>
           <span class="list-card__toggle" aria-hidden="true"></span>

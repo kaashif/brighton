@@ -48,29 +48,48 @@ function render() {
   elements.count.textContent = lists.length;
   elements.empty.hidden = lists.length !== 0;
 
-  lists.forEach((list, index) => {
-    const fragment = elements.template.content.cloneNode(true);
-    const card = fragment.querySelector('.list-card');
-    card.dataset.id = list.listId;
-    fragment.querySelector('.list-card__number').textContent = String(index + 1).padStart(2, '0');
-    fragment.querySelector('.list-card__player').textContent = list.pagePlayer;
-    fragment.querySelector('.list-card__team').textContent = list.team;
-    fragment.querySelector('.list-card__faction').textContent = list.faction;
-    fragment.querySelector('.list-card__content').textContent = list.content;
-    const source = fragment.querySelector('.source-link');
-    source.href = list.sourceUrl;
-    fragment.querySelector('.page-link').href = list.pageUrl;
+  const teams = new Map();
+  lists.forEach((list) => {
+    if (!teams.has(list.team)) teams.set(list.team, []);
+    teams.get(list.team).push(list);
+  });
 
-    const summary = fragment.querySelector('.list-card__summary');
-    summary.addEventListener('click', () => setExpanded(card, summary.getAttribute('aria-expanded') !== 'true'));
-    fragment.querySelector('.copy-list').addEventListener('click', async (event) => {
-      await navigator.clipboard.writeText(list.content);
-      event.currentTarget.textContent = 'Copied';
-      setTimeout(() => { event.currentTarget.textContent = 'Copy list'; }, 1500);
+  let listNumber = 0;
+  teams.forEach((teamLists, teamName) => {
+    const group = document.createElement('section');
+    group.className = 'team-group';
+    const heading = document.createElement('h2');
+    heading.textContent = teamName;
+    const total = document.createElement('span');
+    total.textContent = `${teamLists.length} ${teamLists.length === 1 ? 'list' : 'lists'}`;
+    heading.append(total);
+    const cards = document.createElement('div');
+    cards.className = 'team-lists';
+    group.append(heading, cards);
+
+    teamLists.forEach((list) => {
+      const fragment = elements.template.content.cloneNode(true);
+      const card = fragment.querySelector('.list-card');
+      card.dataset.id = list.listId;
+      fragment.querySelector('.list-card__number').textContent = String(++listNumber);
+      fragment.querySelector('.list-card__player').textContent = list.pagePlayer;
+      fragment.querySelector('.list-card__faction').textContent = list.faction;
+      fragment.querySelector('.list-card__content').innerHTML = list.linkedContent;
+      fragment.querySelector('.source-link').href = list.sourceUrl;
+      fragment.querySelector('.page-link').href = list.pageUrl;
+
+      const summary = fragment.querySelector('.list-card__summary');
+      summary.addEventListener('click', () => setExpanded(card, summary.getAttribute('aria-expanded') !== 'true'));
+      fragment.querySelector('.copy-list').addEventListener('click', async (event) => {
+        await navigator.clipboard.writeText(list.content);
+        event.currentTarget.textContent = 'Copied';
+        setTimeout(() => { event.currentTarget.textContent = 'Copy list'; }, 1500);
+      });
+
+      cards.append(fragment);
+      if (state.expanded.has(list.listId)) setExpanded(cards.lastElementChild, true);
     });
-
-    elements.grid.append(fragment);
-    if (state.expanded.has(list.listId)) setExpanded(elements.grid.lastElementChild, true);
+    elements.grid.append(group);
   });
 
   const allOpen = lists.length > 0 && lists.every((list) => state.expanded.has(list.listId));
