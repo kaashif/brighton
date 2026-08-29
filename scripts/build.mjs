@@ -47,10 +47,13 @@ async function loadFaction(slug) {
   $sheets(`a[href^="/wh40k11ed/factions/${slug}/"]`).each((_, element) => {
     const href = $sheets(element).attr('href');
     const name = $sheets(element).text().replace(/\s+/g, ' ').trim();
-    if (!href || !name || href.endsWith('/') || href.endsWith('.html')) return;
-    const tail = href.slice(`/wh40k11ed/factions/${slug}/`.length);
+    if (!href || !name) return;
+    const parsed = new URL(href, 'https://wahapedia.ru');
+    if (parsed.hash || parsed.pathname.endsWith('.html')) return;
+    const prefix = `/wh40k11ed/factions/${slug}/`;
+    const tail = parsed.pathname.slice(prefix.length).replace(/\/$/, '');
     if (!tail || tail.includes('/') || tail.startsWith('#')) return;
-    datasheets.set(normalize(name), { name, url: new URL(href, 'https://wahapedia.ru').href });
+    datasheets.set(normalize(name), { name, url: `https://wahapedia.ru${prefix}${tail}/` });
   });
   const sections = [];
   $root('h2[id], h3[id]').each((_, element) => {

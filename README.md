@@ -18,6 +18,7 @@ Each player has a dedicated page containing the full submitted roster, its origi
 npm install
 npm run build
 npm run check
+npm run check:waha
 npm run qa
 ```
 

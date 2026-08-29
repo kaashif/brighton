@@ -50,7 +50,7 @@ async function worker() {
   while (cursor < urls.length) {
     const url = urls[cursor++];
     try {
-      const response = await fetch(url, { redirect: 'follow', headers: { 'user-agent': 'brighton-40k-link-checker/1.0' } });
+      const response = await fetch(url, { method: url.includes('wahapedia.ru') ? 'HEAD' : 'GET', redirect: 'follow', headers: { 'user-agent': 'brighton-40k-link-checker/1.0' }, signal: AbortSignal.timeout(15_000) });
       externalResults.push({ url, status: response.status, ok: response.ok });
       await response.body?.cancel();
     } catch (error) {
