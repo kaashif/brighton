@@ -2,6 +2,7 @@
 
 - Team: Comp Play Surrey Primarchs
 - Faction: Adeptus Mechanicus
+- [Glicko-2 rating: 1648 (3 games)](https://tabletop-tools.net/new-meta/#/player/Pd92XuDSVGx_P8TEwmwPO)
 - [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/BEnXNOLQuCZh)
 - [Web version](https://kaashif.github.io/brighton/lists/BEnXNOLQuCZh/)
 

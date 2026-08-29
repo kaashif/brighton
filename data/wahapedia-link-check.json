@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-29T23:23:33.211Z",
+  "checkedAt": "2026-08-29T23:44:15.379Z",
   "uniqueDatasheetUrls": 197,
   "canonicalIndividualPages": 197,
   "passed": 197,
@@ -11,7 +11,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Allarus-Custodians/",
-      "milliseconds": 281
+      "milliseconds": 307
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Blade-Champion/",
@@ -19,7 +19,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Blade-Champion/",
-      "milliseconds": 312
+      "milliseconds": 257
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard/",
@@ -27,7 +27,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard/",
-      "milliseconds": 372
+      "milliseconds": 335
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Wardens/",
@@ -35,7 +35,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Wardens/",
-      "milliseconds": 271
+      "milliseconds": 240
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Prosecutors/",
@@ -43,7 +43,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Prosecutors/",
-      "milliseconds": 246
+      "milliseconds": 254
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Shield-captain-In-Allarus-Terminator-Armour/",
@@ -51,7 +51,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Shield-captain-In-Allarus-Terminator-Armour/",
-      "milliseconds": 275
+      "milliseconds": 332
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Shield-captain-On-Dawneagle-Jetbike/",
@@ -59,7 +59,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Shield-captain-On-Dawneagle-Jetbike/",
-      "milliseconds": 279
+      "milliseconds": 327
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Trajann-Valoris/",
@@ -67,7 +67,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Trajann-Valoris/",
-      "milliseconds": 313
+      "milliseconds": 329
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Valerian/",
@@ -75,7 +75,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Valerian/",
-      "milliseconds": 407
+      "milliseconds": 307
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Venatari-Custodians/",
@@ -83,7 +83,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Venatari-Custodians/",
-      "milliseconds": 336
+      "milliseconds": 360
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Vertus-Praetors/",
@@ -91,7 +91,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Vertus-Praetors/",
-      "milliseconds": 338
+      "milliseconds": 268
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Witchseekers/",
@@ -99,7 +99,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Witchseekers/",
-      "milliseconds": 340
+      "milliseconds": 385
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/Belisarius-Cawl/",
@@ -107,7 +107,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/Belisarius-Cawl/",
-      "milliseconds": 238
+      "milliseconds": 209
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/Cybernetica-Datasmith/",
@@ -115,7 +115,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/Cybernetica-Datasmith/",
-      "milliseconds": 234
+      "milliseconds": 224
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/Ironstrider-Ballistarii/",
@@ -123,7 +123,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/Ironstrider-Ballistarii/",
-      "milliseconds": 263
+      "milliseconds": 225
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/Kastelan-Robots/",
@@ -131,7 +131,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/Kastelan-Robots/",
-      "milliseconds": 263
+      "milliseconds": 255
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/Serberys-Raiders/",
@@ -139,7 +139,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/Serberys-Raiders/",
-      "milliseconds": 261
+      "milliseconds": 230
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/Servitor-Battleclade/",
@@ -147,7 +147,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/Servitor-Battleclade/",
-      "milliseconds": 290
+      "milliseconds": 247
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/Skitarii-Rangers/",
@@ -155,7 +155,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/Skitarii-Rangers/",
-      "milliseconds": 291
+      "milliseconds": 242
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/Skorpius-Disintegrator/",
@@ -163,7 +163,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/Skorpius-Disintegrator/",
-      "milliseconds": 274
+      "milliseconds": 273
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/Sydonian-Dragoons-With-Taser-Lances/",
@@ -171,7 +171,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/Sydonian-Dragoons-With-Taser-Lances/",
-      "milliseconds": 292
+      "milliseconds": 251
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/Tech-priest-Enginseer/",
@@ -179,7 +179,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/Tech-priest-Enginseer/",
-      "milliseconds": 305
+      "milliseconds": 272
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/Thulia-Ghuld/",
@@ -187,7 +187,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-mechanicus/Thulia-Ghuld/",
-      "milliseconds": 327
+      "milliseconds": 262
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Brigand/",
@@ -195,7 +195,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Brigand/",
-      "milliseconds": 329
+      "milliseconds": 258
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Executioner/",
@@ -203,7 +203,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Executioner/",
-      "milliseconds": 313
+      "milliseconds": 208
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Karnivore/",
@@ -211,7 +211,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Karnivore/",
-      "milliseconds": 306
+      "milliseconds": 228
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Stalker/",
@@ -219,7 +219,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Stalker/",
-      "milliseconds": 278
+      "milliseconds": 197
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Chaos-Rhino/",
@@ -227,7 +227,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Chaos-Rhino/",
-      "milliseconds": 299
+      "milliseconds": 195
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Chaos-Spawn/",
@@ -235,7 +235,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Chaos-Spawn/",
-      "milliseconds": 285
+      "milliseconds": 207
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Daemon-Prince-of-Slaanesh-with-Wings/",
@@ -243,7 +243,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Daemon-Prince-of-Slaanesh-with-Wings/",
-      "milliseconds": 271
+      "milliseconds": 217
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Defiler/",
@@ -251,7 +251,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Defiler/",
-      "milliseconds": 249
+      "milliseconds": 204
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Flawless-Blades/",
@@ -259,7 +259,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Flawless-Blades/",
-      "milliseconds": 279
+      "milliseconds": 212
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Fulgrim/",
@@ -267,7 +267,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Fulgrim/",
-      "milliseconds": 267
+      "milliseconds": 210
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Infractors/",
@@ -275,7 +275,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Infractors/",
-      "milliseconds": 279
+      "milliseconds": 210
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Lord-Exultant/",
@@ -283,7 +283,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Lord-Exultant/",
-      "milliseconds": 248
+      "milliseconds": 211
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Lucius-the-Eternal/",
@@ -291,7 +291,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Lucius-the-Eternal/",
-      "milliseconds": 230
+      "milliseconds": 222
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Maulerfiend/",
@@ -299,7 +299,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Maulerfiend/",
-      "milliseconds": 220
+      "milliseconds": 205
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Noise-Marines/",
@@ -307,7 +307,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Noise-Marines/",
-      "milliseconds": 200
+      "milliseconds": 220
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Sorcerer/",
@@ -315,7 +315,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Sorcerer/",
-      "milliseconds": 222
+      "milliseconds": 195
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Tormentors/",
@@ -323,7 +323,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Tormentors/",
-      "milliseconds": 246
+      "milliseconds": 220
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/imperial-agents/Callidus-Assassin/",
@@ -331,7 +331,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/imperial-agents/Callidus-Assassin/",
-      "milliseconds": 237
+      "milliseconds": 223
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/%C3%9Bthar-the-Destined/",
@@ -339,7 +339,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/%C3%9Bthar-the-Destined/",
-      "milliseconds": 249
+      "milliseconds": 208
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Berehk-Stornbr%C3%B6w/",
@@ -347,7 +347,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Berehk-Stornbr%C3%B6w/",
-      "milliseconds": 252
+      "milliseconds": 231
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Br%C3%B4khyr-Iron-master/",
@@ -355,7 +355,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Br%C3%B4khyr-Iron-master/",
-      "milliseconds": 262
+      "milliseconds": 208
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Br%C3%B4khyr-Thunderkyn/",
@@ -363,7 +363,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Br%C3%B4khyr-Thunderkyn/",
-      "milliseconds": 283
+      "milliseconds": 224
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Buri-Aegnirssen/",
@@ -371,7 +371,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Buri-Aegnirssen/",
-      "milliseconds": 316
+      "milliseconds": 224
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Cthonian-Beserks/",
@@ -379,7 +379,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Cthonian-Beserks/",
-      "milliseconds": 298
+      "milliseconds": 242
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Cthonian-Earthshakers/",
@@ -387,7 +387,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Cthonian-Earthshakers/",
-      "milliseconds": 334
+      "milliseconds": 243
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Einhyr-Champion/",
@@ -395,7 +395,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Einhyr-Champion/",
-      "milliseconds": 320
+      "milliseconds": 241
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Einhyr-Hearthguard/",
@@ -403,7 +403,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Einhyr-Hearthguard/",
-      "milliseconds": 314
+      "milliseconds": 218
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Hearthkyn-Warriors/",
@@ -411,7 +411,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Hearthkyn-Warriors/",
-      "milliseconds": 326
+      "milliseconds": 235
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Hekaton-Land-Fortress/",
@@ -419,7 +419,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Hekaton-Land-Fortress/",
-      "milliseconds": 318
+      "milliseconds": 231
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Hernkyn-Pioneers/",
@@ -427,7 +427,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Hernkyn-Pioneers/",
-      "milliseconds": 296
+      "milliseconds": 233
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Hernkyn-Yaegirs/",
@@ -435,7 +435,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Hernkyn-Yaegirs/",
-      "milliseconds": 304
+      "milliseconds": 219
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Ironkin-Steeljacks-with-Heavy-Volkanite-Disintegrators/",
@@ -443,7 +443,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Ironkin-Steeljacks-with-Heavy-Volkanite-Disintegrators/",
-      "milliseconds": 285
+      "milliseconds": 228
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Ironkin-Steeljacks-with-Melee-Weapons/",
@@ -451,7 +451,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Ironkin-Steeljacks-with-Melee-Weapons/",
-      "milliseconds": 280
+      "milliseconds": 203
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/K-hl/",
@@ -459,7 +459,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/K-hl/",
-      "milliseconds": 286
+      "milliseconds": 216
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Kapricus-Carrier/",
@@ -467,7 +467,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Kapricus-Carrier/",
-      "milliseconds": 285
+      "milliseconds": 214
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Memnyr-Strategist/",
@@ -475,7 +475,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Memnyr-Strategist/",
-      "milliseconds": 286
+      "milliseconds": 213
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/C-tan-Shard-of-the-Deceiver/",
@@ -483,7 +483,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/necrons/C-tan-Shard-of-the-Deceiver/",
-      "milliseconds": 250
+      "milliseconds": 212
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/C-tan-Shard-of-the-Nightbringer/",
@@ -491,7 +491,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/necrons/C-tan-Shard-of-the-Nightbringer/",
-      "milliseconds": 254
+      "milliseconds": 207
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/C-tan-Shard-of-the-Void-Dragon/",
@@ -499,7 +499,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/necrons/C-tan-Shard-of-the-Void-Dragon/",
-      "milliseconds": 243
+      "milliseconds": 199
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/Canoptek-Reanimator/",
@@ -507,7 +507,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/necrons/Canoptek-Reanimator/",
-      "milliseconds": 253
+      "milliseconds": 218
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/Canoptek-Wraiths/",
@@ -515,7 +515,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/necrons/Canoptek-Wraiths/",
-      "milliseconds": 245
+      "milliseconds": 197
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/Flayed-Ones/",
@@ -523,7 +523,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/necrons/Flayed-Ones/",
-      "milliseconds": 261
+      "milliseconds": 210
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/Illuminor-Szeras/",
@@ -531,7 +531,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/necrons/Illuminor-Szeras/",
-      "milliseconds": 246
+      "milliseconds": 196
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/Imotekh-The-Stormlord/",
@@ -539,7 +539,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/necrons/Imotekh-The-Stormlord/",
-      "milliseconds": 277
+      "milliseconds": 184
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/Lokhust-Destroyers/",
@@ -547,7 +547,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/necrons/Lokhust-Destroyers/",
-      "milliseconds": 257
+      "milliseconds": 229
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/Lokhust-Lord/",
@@ -555,7 +555,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/necrons/Lokhust-Lord/",
-      "milliseconds": 240
+      "milliseconds": 238
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/Lychguard/",
@@ -563,7 +563,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/necrons/Lychguard/",
-      "milliseconds": 239
+      "milliseconds": 212
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/Nekrosor-Ammentar/",
@@ -571,7 +571,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/necrons/Nekrosor-Ammentar/",
-      "milliseconds": 254
+      "milliseconds": 219
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/Ophydian-Destroyers/",
@@ -579,7 +579,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/necrons/Ophydian-Destroyers/",
-      "milliseconds": 258
+      "milliseconds": 206
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/Overlord/",
@@ -587,7 +587,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/necrons/Overlord/",
-      "milliseconds": 278
+      "milliseconds": 224
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/Skorpekh-Destroyers/",
@@ -595,7 +595,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/necrons/Skorpekh-Destroyers/",
-      "milliseconds": 231
+      "milliseconds": 219
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/Skorpekh-Lord/",
@@ -603,7 +603,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/necrons/Skorpekh-Lord/",
-      "milliseconds": 265
+      "milliseconds": 229
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/Technomancer/",
@@ -611,7 +611,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/necrons/Technomancer/",
-      "milliseconds": 258
+      "milliseconds": 211
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Bannernob/",
@@ -619,7 +619,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/orks/Bannernob/",
-      "milliseconds": 257
+      "milliseconds": 209
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Beastboss-On-Squigosaur/",
@@ -627,7 +627,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/orks/Beastboss-On-Squigosaur/",
-      "milliseconds": 250
+      "milliseconds": 212
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Big-Mek-Dakkarig/",
@@ -635,7 +635,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/orks/Big-Mek-Dakkarig/",
-      "milliseconds": 274
+      "milliseconds": 207
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Big-Mek-With-Shokk-Attack-Gun/",
@@ -643,7 +643,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/orks/Big-Mek-With-Shokk-Attack-Gun/",
-      "milliseconds": 243
+      "milliseconds": 196
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Bigboss/",
@@ -651,7 +651,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/orks/Bigboss/",
-      "milliseconds": 259
+      "milliseconds": 171
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Boss-Snikrot/",
@@ -659,7 +659,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/orks/Boss-Snikrot/",
-      "milliseconds": 249
+      "milliseconds": 191
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Boyz/",
@@ -667,7 +667,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/orks/Boyz/",
-      "milliseconds": 256
+      "milliseconds": 182
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Flash-Gitz/",
@@ -675,7 +675,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/orks/Flash-Gitz/",
-      "milliseconds": 280
+      "milliseconds": 193
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Ghazghkull-Thraka/",
@@ -683,7 +683,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/orks/Ghazghkull-Thraka/",
-      "milliseconds": 242
+      "milliseconds": 171
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Gretchin/",
@@ -691,7 +691,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/orks/Gretchin/",
-      "milliseconds": 283
+      "milliseconds": 193
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Kommandos/",
@@ -699,7 +699,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/orks/Kommandos/",
-      "milliseconds": 263
+      "milliseconds": 180
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Mozrog-Skragbad/",
@@ -707,7 +707,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/orks/Mozrog-Skragbad/",
-      "milliseconds": 299
+      "milliseconds": 177
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Painboy/",
@@ -715,7 +715,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/orks/Painboy/",
-      "milliseconds": 293
+      "milliseconds": 179
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Squighog-Boyz/",
@@ -723,7 +723,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/orks/Squighog-Boyz/",
-      "milliseconds": 301
+      "milliseconds": 203
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Stormboyz/",
@@ -731,7 +731,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/orks/Stormboyz/",
-      "milliseconds": 302
+      "milliseconds": 189
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Tankbustas/",
@@ -739,7 +739,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/orks/Tankbustas/",
-      "milliseconds": 282
+      "milliseconds": 180
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Trukk/",
@@ -747,7 +747,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/orks/Trukk/",
-      "milliseconds": 270
+      "milliseconds": 180
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Wazdakka-Gutsmek/",
@@ -755,7 +755,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/orks/Wazdakka-Gutsmek/",
-      "milliseconds": 304
+      "milliseconds": 180
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Zodgrod-Wortsnagga/",
@@ -763,7 +763,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/orks/Zodgrod-Wortsnagga/",
-      "milliseconds": 287
+      "milliseconds": 194
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Aggressor-Squad/",
@@ -771,7 +771,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Aggressor-Squad/",
-      "milliseconds": 303
+      "milliseconds": 191
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Ancient-In-Terminator-Armour/",
@@ -779,7 +779,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Ancient-In-Terminator-Armour/",
-      "milliseconds": 278
+      "milliseconds": 207
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Azrael/",
@@ -787,7 +787,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Azrael/",
-      "milliseconds": 274
+      "milliseconds": 200
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Captain-In-Gravis-Armour/",
@@ -795,7 +795,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Captain-In-Gravis-Armour/",
-      "milliseconds": 271
+      "milliseconds": 224
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Captain-With-Jump-Pack/",
@@ -803,7 +803,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Captain-With-Jump-Pack/",
-      "milliseconds": 286
+      "milliseconds": 239
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Chaplain-In-Terminator-Armour/",
@@ -811,7 +811,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Chaplain-In-Terminator-Armour/",
-      "milliseconds": 284
+      "milliseconds": 276
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Chaplain-On-Bike/",
@@ -819,7 +819,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Chaplain-On-Bike/",
-      "milliseconds": 263
+      "milliseconds": 301
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Commander-Dante/",
@@ -827,7 +827,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Commander-Dante/",
-      "milliseconds": 1232
+      "milliseconds": 291
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Death-Company-Captain-with-Jump-Pack/",
@@ -835,7 +835,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Death-Company-Captain-with-Jump-Pack/",
-      "milliseconds": 282
+      "milliseconds": 281
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Death-Company-Marines-With-Jump-Packs/",
@@ -843,7 +843,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Death-Company-Marines-With-Jump-Packs/",
-      "milliseconds": 275
+      "milliseconds": 292
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Deathwing-Knights/",
@@ -851,7 +851,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Deathwing-Knights/",
-      "milliseconds": 272
+      "milliseconds": 289
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Eradicator-Squad-with-Heavy-Bolters/",
@@ -859,7 +859,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Eradicator-Squad-with-Heavy-Bolters/",
-      "milliseconds": 261
+      "milliseconds": 296
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Eradicator-Squad/",
@@ -867,7 +867,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Eradicator-Squad/",
-      "milliseconds": 262
+      "milliseconds": 290
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Incursor-Squad/",
@@ -875,7 +875,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Incursor-Squad/",
-      "milliseconds": 269
+      "milliseconds": 293
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Infernus-Squad/",
@@ -883,7 +883,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Infernus-Squad/",
-      "milliseconds": 252
+      "milliseconds": 262
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Infiltrator-Squad/",
@@ -891,7 +891,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Infiltrator-Squad/",
-      "milliseconds": 253
+      "milliseconds": 263
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Inner-Circle-Companions/",
@@ -899,7 +899,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Inner-Circle-Companions/",
-      "milliseconds": 253
+      "milliseconds": 259
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Intercessor-Squad/",
@@ -907,7 +907,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Intercessor-Squad/",
-      "milliseconds": 238
+      "milliseconds": 246
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Invader-ATV/",
@@ -915,7 +915,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Invader-ATV/",
-      "milliseconds": 253
+      "milliseconds": 246
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Raider-Redeemer/",
@@ -923,7 +923,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Raider-Redeemer/",
-      "milliseconds": 241
+      "milliseconds": 290
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder-Vengeance/",
@@ -931,7 +931,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder-Vengeance/",
-      "milliseconds": 258
+      "milliseconds": 247
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder/",
@@ -939,7 +939,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder/",
-      "milliseconds": 229
+      "milliseconds": 298
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Lemartes/",
@@ -947,7 +947,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Lemartes/",
-      "milliseconds": 230
+      "milliseconds": 261
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Librarian-In-Terminator-Armour/",
@@ -955,7 +955,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Librarian-In-Terminator-Armour/",
-      "milliseconds": 240
+      "milliseconds": 282
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Librarian/",
@@ -963,7 +963,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Librarian/",
-      "milliseconds": 267
+      "milliseconds": 266
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Lion-El-jonson/",
@@ -971,7 +971,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Lion-El-jonson/",
-      "milliseconds": 277
+      "milliseconds": 280
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Outrider-Squad/",
@@ -979,7 +979,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Outrider-Squad/",
-      "milliseconds": 249
+      "milliseconds": 284
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Ravenwing-Command-Squad/",
@@ -987,7 +987,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Ravenwing-Command-Squad/",
-      "milliseconds": 289
+      "milliseconds": 294
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Ravenwing-Darkshroud/",
@@ -995,7 +995,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Ravenwing-Darkshroud/",
-      "milliseconds": 258
+      "milliseconds": 282
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Repulsor/",
@@ -1003,7 +1003,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Repulsor/",
-      "milliseconds": 272
+      "milliseconds": 252
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Sammael/",
@@ -1011,7 +1011,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Sammael/",
-      "milliseconds": 275
+      "milliseconds": 228
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Sanguinary-Guard/",
@@ -1019,7 +1019,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Sanguinary-Guard/",
-      "milliseconds": 292
+      "milliseconds": 231
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Scout-Squad/",
@@ -1027,7 +1027,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Scout-Squad/",
-      "milliseconds": 300
+      "milliseconds": 228
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Sternguard-Veteran-Squad-1/",
@@ -1035,7 +1035,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Sternguard-Veteran-Squad-1/",
-      "milliseconds": 272
+      "milliseconds": 230
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Storm-Speeder-Hammerstrike/",
@@ -1043,7 +1043,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Storm-Speeder-Hammerstrike/",
-      "milliseconds": 279
+      "milliseconds": 222
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Storm-Speeder-Thunderstrike/",
@@ -1051,7 +1051,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Storm-Speeder-Thunderstrike/",
-      "milliseconds": 283
+      "milliseconds": 247
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Terminator-Assault-Squad/",
@@ -1059,7 +1059,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Terminator-Assault-Squad/",
-      "milliseconds": 276
+      "milliseconds": 224
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Terminator-Squad-1/",
@@ -1067,7 +1067,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Terminator-Squad-1/",
-      "milliseconds": 268
+      "milliseconds": 252
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Vanguard-Veteran-Squad-With-Jump-Packs/",
@@ -1075,7 +1075,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Vanguard-Veteran-Squad-With-Jump-Packs/",
-      "milliseconds": 242
+      "milliseconds": 237
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Vindicator/",
@@ -1083,7 +1083,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Vindicator/",
-      "milliseconds": 245
+      "milliseconds": 238
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Vulkan-He-stan/",
@@ -1091,7 +1091,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Vulkan-He-stan/",
-      "milliseconds": 230
+      "milliseconds": 244
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Breacher-Team/",
@@ -1099,7 +1099,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Breacher-Team/",
-      "milliseconds": 225
+      "milliseconds": 238
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Broadside-Battlesuits/",
@@ -1107,7 +1107,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Broadside-Battlesuits/",
-      "milliseconds": 207
+      "milliseconds": 274
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Commander-Farsight/",
@@ -1115,7 +1115,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Commander-Farsight/",
-      "milliseconds": 200
+      "milliseconds": 248
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Commander-In-Coldstar-Battlesuit/",
@@ -1123,7 +1123,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Commander-In-Coldstar-Battlesuit/",
-      "milliseconds": 191
+      "milliseconds": 260
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Commander-In-Enforcer-Battlesuit/",
@@ -1131,7 +1131,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Commander-In-Enforcer-Battlesuit/",
-      "milliseconds": 188
+      "milliseconds": 251
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Crisis-Fireknife-Battlesuits/",
@@ -1139,7 +1139,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Crisis-Fireknife-Battlesuits/",
-      "milliseconds": 214
+      "milliseconds": 280
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Crisis-Starscythe-Battlesuits/",
@@ -1147,7 +1147,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Crisis-Starscythe-Battlesuits/",
-      "milliseconds": 180
+      "milliseconds": 293
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Crisis-Sunforge-Battlesuits/",
@@ -1155,7 +1155,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Crisis-Sunforge-Battlesuits/",
-      "milliseconds": 199
+      "milliseconds": 292
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Darkstrider/",
@@ -1163,7 +1163,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Darkstrider/",
-      "milliseconds": 217
+      "milliseconds": 264
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Hammerhead-Gunship/",
@@ -1171,7 +1171,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Hammerhead-Gunship/",
-      "milliseconds": 240
+      "milliseconds": 286
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Kroot-Carnivores/",
@@ -1179,7 +1179,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Kroot-Carnivores/",
-      "milliseconds": 228
+      "milliseconds": 293
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Pathfinder-Team/",
@@ -1187,7 +1187,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Pathfinder-Team/",
-      "milliseconds": 225
+      "milliseconds": 303
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Piranhas/",
@@ -1195,7 +1195,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Piranhas/",
-      "milliseconds": 286
+      "milliseconds": 281
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Stealth-Battlesuits/",
@@ -1203,7 +1203,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Stealth-Battlesuits/",
-      "milliseconds": 262
+      "milliseconds": 285
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Stormsurge/",
@@ -1211,7 +1211,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Stormsurge/",
-      "milliseconds": 282
+      "milliseconds": 294
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/The-Twin-Lance/",
@@ -1219,7 +1219,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/The-Twin-Lance/",
-      "milliseconds": 270
+      "milliseconds": 267
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/Chaos-Spawn/",
@@ -1227,7 +1227,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/Chaos-Spawn/",
-      "milliseconds": 274
+      "milliseconds": 252
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/Daemon-Prince-of-Tzeentch-with-Wings/",
@@ -1235,7 +1235,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/Daemon-Prince-of-Tzeentch-with-Wings/",
-      "milliseconds": 292
+      "milliseconds": 269
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/Forgefiend/",
@@ -1243,7 +1243,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/Forgefiend/",
-      "milliseconds": 294
+      "milliseconds": 251
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/Magnus-The-Red/",
@@ -1251,7 +1251,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/Magnus-The-Red/",
-      "milliseconds": 275
+      "milliseconds": 255
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/Rubric-Marines/",
@@ -1259,7 +1259,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/Rubric-Marines/",
-      "milliseconds": 273
+      "milliseconds": 286
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/Scarab-Occult-Terminators/",
@@ -1267,7 +1267,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/Scarab-Occult-Terminators/",
-      "milliseconds": 261
+      "milliseconds": 275
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/Sorcerer-In-Terminator-Armour/",
@@ -1275,7 +1275,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/Sorcerer-In-Terminator-Armour/",
-      "milliseconds": 282
+      "milliseconds": 264
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/Sorcerer/",
@@ -1283,7 +1283,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/Sorcerer/",
-      "milliseconds": 316
+      "milliseconds": 264
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/Tzaangor-Enlightened-with-Fatecaster-Greatbows/",
@@ -1291,7 +1291,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/Tzaangor-Enlightened-with-Fatecaster-Greatbows/",
-      "milliseconds": 279
+      "milliseconds": 265
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/Tzaangor-Enlightened/",
@@ -1299,7 +1299,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/Tzaangor-Enlightened/",
-      "milliseconds": 273
+      "milliseconds": 238
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/Tzaangors/",
@@ -1307,7 +1307,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/Tzaangors/",
-      "milliseconds": 249
+      "milliseconds": 254
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Barbgaunts/",
@@ -1315,7 +1315,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Barbgaunts/",
-      "milliseconds": 249
+      "milliseconds": 256
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Biovores/",
@@ -1323,7 +1323,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Biovores/",
-      "milliseconds": 257
+      "milliseconds": 272
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Deathleaper/",
@@ -1331,7 +1331,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Deathleaper/",
-      "milliseconds": 237
+      "milliseconds": 245
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Genestealers/",
@@ -1339,7 +1339,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Genestealers/",
-      "milliseconds": 231
+      "milliseconds": 225
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Haruspex/",
@@ -1347,7 +1347,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Haruspex/",
-      "milliseconds": 208
+      "milliseconds": 241
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Hormagaunts/",
@@ -1355,7 +1355,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Hormagaunts/",
-      "milliseconds": 250
+      "milliseconds": 224
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Maleceptor/",
@@ -1363,7 +1363,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Maleceptor/",
-      "milliseconds": 234
+      "milliseconds": 227
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Norn-Assimilator/",
@@ -1371,7 +1371,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Norn-Assimilator/",
-      "milliseconds": 255
+      "milliseconds": 220
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Norn-Emissary/",
@@ -1379,7 +1379,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Norn-Emissary/",
-      "milliseconds": 237
+      "milliseconds": 219
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Parasite-Of-Mortrex/",
@@ -1387,7 +1387,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Parasite-Of-Mortrex/",
-      "milliseconds": 222
+      "milliseconds": 225
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Psychophage/",
@@ -1395,7 +1395,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Psychophage/",
-      "milliseconds": 222
+      "milliseconds": 227
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Pyrovores/",
@@ -1403,7 +1403,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Pyrovores/",
-      "milliseconds": 277
+      "milliseconds": 219
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Ripper-Swarms/",
@@ -1411,7 +1411,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Ripper-Swarms/",
-      "milliseconds": 261
+      "milliseconds": 231
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Termagants/",
@@ -1419,7 +1419,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Termagants/",
-      "milliseconds": 243
+      "milliseconds": 213
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/The-Swarmlord/",
@@ -1427,7 +1427,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/tyranids/The-Swarmlord/",
-      "milliseconds": 255
+      "milliseconds": 217
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Tyrannofex/",
@@ -1435,7 +1435,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Tyrannofex/",
-      "milliseconds": 246
+      "milliseconds": 199
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Tyrant-Guard/",
@@ -1443,7 +1443,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Tyrant-Guard/",
-      "milliseconds": 239
+      "milliseconds": 193
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Von-Ryan-s-Leapers/",
@@ -1451,7 +1451,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Von-Ryan-s-Leapers/",
-      "milliseconds": 265
+      "milliseconds": 189
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Winged-Hive-Tyrant/",
@@ -1459,7 +1459,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/tyranids/Winged-Hive-Tyrant/",
-      "milliseconds": 253
+      "milliseconds": 184
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Chaos-Rhino/",
@@ -1467,7 +1467,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Chaos-Rhino/",
-      "milliseconds": 256
+      "milliseconds": 176
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Chaos-Spawn/",
@@ -1475,7 +1475,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Chaos-Spawn/",
-      "milliseconds": 257
+      "milliseconds": 207
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Daemon-Prince-of-Khorne/",
@@ -1483,7 +1483,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Daemon-Prince-of-Khorne/",
-      "milliseconds": 272
+      "milliseconds": 184
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Defiler/",
@@ -1491,7 +1491,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Defiler/",
-      "milliseconds": 257
+      "milliseconds": 203
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Eightbound/",
@@ -1499,7 +1499,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Eightbound/",
-      "milliseconds": 269
+      "milliseconds": 196
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Exalted-Eightbound/",
@@ -1507,7 +1507,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Exalted-Eightbound/",
-      "milliseconds": 248
+      "milliseconds": 232
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Forgefiend/",
@@ -1515,7 +1515,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Forgefiend/",
-      "milliseconds": 258
+      "milliseconds": 233
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Goremongers/",
@@ -1523,7 +1523,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Goremongers/",
-      "milliseconds": 238
+      "milliseconds": 251
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Jakhals/",
@@ -1531,7 +1531,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Jakhals/",
-      "milliseconds": 252
+      "milliseconds": 236
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Kh-rn-The-Betrayer/",
@@ -1539,7 +1539,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Kh-rn-The-Betrayer/",
-      "milliseconds": 251
+      "milliseconds": 285
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Khorne-Berzerkers/",
@@ -1547,7 +1547,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Khorne-Berzerkers/",
-      "milliseconds": 237
+      "milliseconds": 272
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Lord-Invocatus/",
@@ -1555,7 +1555,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Lord-Invocatus/",
-      "milliseconds": 230
+      "milliseconds": 303
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Master-of-Executions/",
@@ -1563,7 +1563,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Master-of-Executions/",
-      "milliseconds": 248
+      "milliseconds": 294
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Maulerfiend/",
@@ -1571,7 +1571,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Maulerfiend/",
-      "milliseconds": 238
+      "milliseconds": 273
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Slaughterbound/",
@@ -1579,7 +1579,7 @@
       "status": 200,
       "canonical": true,
       "finalUrl": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Slaughterbound/",
-      "milliseconds": 230
+      "milliseconds": 276
     }
   ]
 }

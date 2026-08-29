@@ -2,6 +2,7 @@
 
 - Team: Wessex Wyverns
 - Faction: Orks
+- [Glicko-2 rating: 1722 (9 games)](https://tabletop-tools.net/new-meta/#/player/8QY932PNRj0NYgTM4XJlO)
 - [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/UVw0qAolBcWm)
 - [Web version](https://kaashif.github.io/brighton/lists/UVw0qAolBcWm/)
 

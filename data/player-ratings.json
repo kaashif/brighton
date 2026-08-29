@@ -1,0 +1,446 @@
+{
+  "fetchedAt": "2026-08-29T23:42:41.395Z",
+  "source": "Tabletop Tools — New Meta",
+  "sourceUrl": "https://tabletop-tools.net/new-meta/#/players",
+  "ratingSystem": "Glicko-2",
+  "note": "Team averages include matched players only. Unmatched identities are not assigned a rating.",
+  "matchedPlayers": 19,
+  "unmatchedPlayers": 21,
+  "players": [
+    {
+      "playerId": "fUEV9jjYXUPC",
+      "player": "Dan Freeman",
+      "team": "Comp Play",
+      "matched": false
+    },
+    {
+      "playerId": "ve9Jtj6OI9dq",
+      "player": "Harley Stevens",
+      "team": "Comp Play",
+      "matched": false
+    },
+    {
+      "playerId": "A2YnULLCXvNK",
+      "player": "Luke Vincent",
+      "team": "Comp Play",
+      "matched": false
+    },
+    {
+      "playerId": "us56yYVKKzis",
+      "player": "Tim Anderson",
+      "team": "Comp Play",
+      "matched": true,
+      "sourceName": "Tim Anderson",
+      "matchMethod": "exact name",
+      "rating": 1956,
+      "ratingDeviation": 212,
+      "displayBand": 423,
+      "gamesPlayed": 3,
+      "profileUrl": "https://tabletop-tools.net/new-meta/#/player/TMOwhX28oFlCr6ORQqGGu"
+    },
+    {
+      "playerId": "BuiJpJWVybKf",
+      "player": "Alexander England",
+      "team": "Comp Play Surrey Primarchs",
+      "matched": true,
+      "sourceName": "Alexander England",
+      "matchMethod": "exact name",
+      "rating": 1685,
+      "ratingDeviation": 146,
+      "displayBand": 291,
+      "gamesPlayed": 8,
+      "profileUrl": "https://tabletop-tools.net/new-meta/#/player/2umUqyQLVTc70BC6G_Ps6"
+    },
+    {
+      "playerId": "Ybq7tFb88pv2",
+      "player": "Geoff Legg",
+      "team": "Comp Play Surrey Primarchs",
+      "matched": true,
+      "sourceName": "Geoff Legg",
+      "matchMethod": "exact name",
+      "rating": 1744,
+      "ratingDeviation": 128,
+      "displayBand": 255,
+      "gamesPlayed": 12,
+      "profileUrl": "https://tabletop-tools.net/new-meta/#/player/MZxcZ4J-0-dNozxc_-vp4"
+    },
+    {
+      "playerId": "jEDddX0ZTBD6",
+      "player": "Grzegorz Bondaruk",
+      "team": "Comp Play Surrey Primarchs",
+      "matched": true,
+      "sourceName": "Grzegorz Bondaruk",
+      "matchMethod": "exact name",
+      "rating": 1461,
+      "ratingDeviation": 213,
+      "displayBand": 427,
+      "gamesPlayed": 3,
+      "profileUrl": "https://tabletop-tools.net/new-meta/#/player/D0b3r6Rx-AqUz6OA0C2x1"
+    },
+    {
+      "playerId": "QrLPAP1DOyfu",
+      "player": "Jerome Connolly",
+      "team": "Comp Play Surrey Primarchs",
+      "matched": true,
+      "sourceName": "Jerome Connolly",
+      "matchMethod": "exact name",
+      "rating": 1648,
+      "ratingDeviation": 226,
+      "displayBand": 452,
+      "gamesPlayed": 3,
+      "profileUrl": "https://tabletop-tools.net/new-meta/#/player/Pd92XuDSVGx_P8TEwmwPO"
+    },
+    {
+      "playerId": "TC7NSJS2MqC4",
+      "player": "Christian Faustino",
+      "team": "Defenders of Outpost 47",
+      "matched": false
+    },
+    {
+      "playerId": "uR5seyGkjDxB",
+      "player": "Daniel Fuller",
+      "team": "Defenders of Outpost 47",
+      "matched": false
+    },
+    {
+      "playerId": "wagWtQit7iMh",
+      "player": "Jack Holliday",
+      "team": "Defenders of Outpost 47",
+      "matched": false
+    },
+    {
+      "playerId": "M5bhhq669twZ",
+      "player": "Louis Anderson",
+      "team": "Defenders of Outpost 47",
+      "matched": false
+    },
+    {
+      "playerId": "svEcgUyRuxeu",
+      "player": "Brando McCready",
+      "team": "For King & Comp Play",
+      "matched": true,
+      "sourceName": "Brandon McCready",
+      "matchMethod": "verified alias",
+      "rating": 1954,
+      "ratingDeviation": 214,
+      "displayBand": 428,
+      "gamesPlayed": 3,
+      "profileUrl": "https://tabletop-tools.net/new-meta/#/player/TVIoO8GoMHLVKo0gXMfu7"
+    },
+    {
+      "playerId": "rA97GI9XUbqP",
+      "player": "Max Pringle",
+      "team": "For King & Comp Play",
+      "matched": false
+    },
+    {
+      "playerId": "05EtaDqVOpyt",
+      "player": "Rob Lebeau",
+      "team": "For King & Comp Play",
+      "matched": true,
+      "sourceName": "Rob Lebeau",
+      "matchMethod": "exact name",
+      "rating": 1636,
+      "ratingDeviation": 203,
+      "displayBand": 405,
+      "gamesPlayed": 3,
+      "profileUrl": "https://tabletop-tools.net/new-meta/#/player/1UkH68D0q5tFp1JhV5AAt"
+    },
+    {
+      "playerId": "xvRnMLgEwfn8",
+      "player": "Sam Cordell",
+      "team": "For King & Comp Play",
+      "matched": true,
+      "sourceName": "Sam Cordell",
+      "matchMethod": "exact name",
+      "rating": 1701,
+      "ratingDeviation": 214,
+      "displayBand": 428,
+      "gamesPlayed": 3,
+      "profileUrl": "https://tabletop-tools.net/new-meta/#/player/xZqBlJbTR-NwPUhi_0HrE"
+    },
+    {
+      "playerId": "vI3V935pWkTB",
+      "player": "Bradley Stuart-James",
+      "team": "Pheromone Maxxing",
+      "matched": false
+    },
+    {
+      "playerId": "caRiqCD3kplH",
+      "player": "Ezra Adams",
+      "team": "Pheromone Maxxing",
+      "matched": false
+    },
+    {
+      "playerId": "0iZ1S8KtduUe",
+      "player": "Matt Delves",
+      "team": "Pheromone Maxxing",
+      "matched": false
+    },
+    {
+      "playerId": "A788NNoLqnoA",
+      "player": "Max Dennis",
+      "team": "Pheromone Maxxing",
+      "matched": false
+    },
+    {
+      "playerId": "tLKxjlKF1ivt",
+      "player": "Joseph Whitmarsh",
+      "team": "South London Squad",
+      "matched": true,
+      "sourceName": "Joseph Whitmarsh",
+      "matchMethod": "exact name",
+      "rating": 1424,
+      "ratingDeviation": 172,
+      "displayBand": 344,
+      "gamesPlayed": 5,
+      "profileUrl": "https://tabletop-tools.net/new-meta/#/player/6v5VdTBwcwBopcZYcM7cg"
+    },
+    {
+      "playerId": "zKNvC08xfWGI",
+      "player": "Kaashif Hymabaccus",
+      "team": "South London Squad",
+      "matched": true,
+      "sourceName": "Kaashif Hymabaccus",
+      "matchMethod": "exact name",
+      "rating": 1442,
+      "ratingDeviation": 173,
+      "displayBand": 346,
+      "gamesPlayed": 5,
+      "profileUrl": "https://tabletop-tools.net/new-meta/#/player/0nCs_KJouBldwhjiRiZjc"
+    },
+    {
+      "playerId": "0VF0E1vewCY7",
+      "player": "Sascha Sajjad",
+      "team": "South London Squad",
+      "matched": true,
+      "sourceName": "Sascha Sajjad",
+      "matchMethod": "exact name",
+      "rating": 1600,
+      "ratingDeviation": 185,
+      "displayBand": 369,
+      "gamesPlayed": 5,
+      "profileUrl": "https://tabletop-tools.net/new-meta/#/player/_vksjDvJduVFlocMaYaWy"
+    },
+    {
+      "playerId": "SlnqyU8XcuVu",
+      "player": "Zachary Lockett",
+      "team": "South London Squad",
+      "matched": true,
+      "sourceName": "Zachary Lockett",
+      "matchMethod": "exact name",
+      "rating": 1416,
+      "ratingDeviation": 167,
+      "displayBand": 333,
+      "gamesPlayed": 5,
+      "profileUrl": "https://tabletop-tools.net/new-meta/#/player/zUcY247Y1z3CPb-aSZzRZ"
+    },
+    {
+      "playerId": "LjHIm9kiW2vL",
+      "player": "Alex Dracup",
+      "team": "Surrey Primarchs B",
+      "matched": false
+    },
+    {
+      "playerId": "kUHsdazGk8sL",
+      "player": "Andrew Mcbride",
+      "team": "Surrey Primarchs B",
+      "matched": true,
+      "sourceName": "Andrew Mcbride",
+      "matchMethod": "exact name",
+      "rating": 1530,
+      "ratingDeviation": 223,
+      "displayBand": 446,
+      "gamesPlayed": 3,
+      "profileUrl": "https://tabletop-tools.net/new-meta/#/player/gR4ju6VFYOSgfqOuz9zhm"
+    },
+    {
+      "playerId": "UXSL82XLbIKA",
+      "player": "Charles Bunn",
+      "team": "Surrey Primarchs B",
+      "matched": true,
+      "sourceName": "Charles Bunn",
+      "matchMethod": "exact name",
+      "rating": 1490,
+      "ratingDeviation": 221,
+      "displayBand": 442,
+      "gamesPlayed": 3,
+      "profileUrl": "https://tabletop-tools.net/new-meta/#/player/f1XFota2sTe99EeM_Hb6i"
+    },
+    {
+      "playerId": "30yp19Xry9BM",
+      "player": "Rob Scott",
+      "team": "Surrey Primarchs B",
+      "matched": false
+    },
+    {
+      "playerId": "ZEmx47DNpWhE",
+      "player": "Adam Wright",
+      "team": "The boys go to Brighton for “Warhammer”",
+      "matched": false
+    },
+    {
+      "playerId": "F3ZBcZlDGToH",
+      "player": "Daniel Latham",
+      "team": "The boys go to Brighton for “Warhammer”",
+      "matched": true,
+      "sourceName": "Daniel Latham",
+      "matchMethod": "exact name",
+      "rating": 1740,
+      "ratingDeviation": 132,
+      "displayBand": 264,
+      "gamesPlayed": 10,
+      "profileUrl": "https://tabletop-tools.net/new-meta/#/player/wWBpaxTNrWWBh2TefIPln"
+    },
+    {
+      "playerId": "JghtoUiZIWZu",
+      "player": "Pete Armstrong",
+      "team": "The boys go to Brighton for “Warhammer”",
+      "matched": false
+    },
+    {
+      "playerId": "oXogJH2T3JAj",
+      "player": "Ryan Nichol",
+      "team": "The boys go to Brighton for “Warhammer”",
+      "matched": false
+    },
+    {
+      "playerId": "emXgJOxr91aT",
+      "player": "Chris Shaw",
+      "team": "The Real Comp Play",
+      "matched": false
+    },
+    {
+      "playerId": "mROtAJW47SFR",
+      "player": "Christopher  Dyas",
+      "team": "The Real Comp Play",
+      "matched": false
+    },
+    {
+      "playerId": "u9p9775Nzq8s",
+      "player": "Liam Macindoe",
+      "team": "The Real Comp Play",
+      "matched": true,
+      "sourceName": "Liam Macindoe",
+      "matchMethod": "exact name",
+      "rating": 1688,
+      "ratingDeviation": 220,
+      "displayBand": 440,
+      "gamesPlayed": 3,
+      "profileUrl": "https://tabletop-tools.net/new-meta/#/player/2AGb21LTUKDzGRBBdXJKQ"
+    },
+    {
+      "playerId": "HylIlKMx6e7T",
+      "player": "Nick Watkins",
+      "team": "The Real Comp Play",
+      "matched": true,
+      "sourceName": "Nick Watkins",
+      "matchMethod": "exact name",
+      "rating": 1449,
+      "ratingDeviation": 223,
+      "displayBand": 446,
+      "gamesPlayed": 3,
+      "profileUrl": "https://tabletop-tools.net/new-meta/#/player/_YMgS19xYkS5e6akx34_O"
+    },
+    {
+      "playerId": "JmqO98hulLMS",
+      "player": "David Bannister",
+      "team": "Wessex Wyverns",
+      "matched": false
+    },
+    {
+      "playerId": "GJbF7VhC98A7",
+      "player": "Jonathan Aylett",
+      "team": "Wessex Wyverns",
+      "matched": true,
+      "sourceName": "Jonathan Aylett",
+      "matchMethod": "exact name",
+      "rating": 1722,
+      "ratingDeviation": 130,
+      "displayBand": 259,
+      "gamesPlayed": 9,
+      "profileUrl": "https://tabletop-tools.net/new-meta/#/player/8QY932PNRj0NYgTM4XJlO"
+    },
+    {
+      "playerId": "CDysAE4Q7MHe",
+      "player": "Nicholas Bannister",
+      "team": "Wessex Wyverns",
+      "matched": false
+    },
+    {
+      "playerId": "F2YzCXRGZBGt",
+      "player": "William Samms",
+      "team": "Wessex Wyverns",
+      "matched": true,
+      "sourceName": "William Samms",
+      "matchMethod": "exact name",
+      "rating": 1555,
+      "ratingDeviation": 177,
+      "displayBand": 355,
+      "gamesPlayed": 5,
+      "profileUrl": "https://tabletop-tools.net/new-meta/#/player/lJnLRirPQkgi_r4-LzVJ8"
+    }
+  ],
+  "teams": [
+    {
+      "team": "Comp Play",
+      "averageRating": 1956,
+      "ratedPlayers": 1,
+      "totalPlayers": 4
+    },
+    {
+      "team": "Comp Play Surrey Primarchs",
+      "averageRating": 1635,
+      "ratedPlayers": 4,
+      "totalPlayers": 4
+    },
+    {
+      "team": "Defenders of Outpost 47",
+      "averageRating": null,
+      "ratedPlayers": 0,
+      "totalPlayers": 4
+    },
+    {
+      "team": "For King & Comp Play",
+      "averageRating": 1764,
+      "ratedPlayers": 3,
+      "totalPlayers": 4
+    },
+    {
+      "team": "Pheromone Maxxing",
+      "averageRating": null,
+      "ratedPlayers": 0,
+      "totalPlayers": 4
+    },
+    {
+      "team": "South London Squad",
+      "averageRating": 1471,
+      "ratedPlayers": 4,
+      "totalPlayers": 4
+    },
+    {
+      "team": "Surrey Primarchs B",
+      "averageRating": 1510,
+      "ratedPlayers": 2,
+      "totalPlayers": 4
+    },
+    {
+      "team": "The boys go to Brighton for “Warhammer”",
+      "averageRating": 1740,
+      "ratedPlayers": 1,
+      "totalPlayers": 4
+    },
+    {
+      "team": "The Real Comp Play",
+      "averageRating": 1569,
+      "ratedPlayers": 2,
+      "totalPlayers": 4
+    },
+    {
+      "team": "Wessex Wyverns",
+      "averageRating": 1639,
+      "ratedPlayers": 2,
+      "totalPlayers": 4
+    }
+  ]
+}

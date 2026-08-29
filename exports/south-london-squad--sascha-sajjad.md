@@ -2,6 +2,7 @@
 
 - Team: South London Squad
 - Faction: Dark Angels
+- [Glicko-2 rating: 1600 (5 games)](https://tabletop-tools.net/new-meta/#/player/_vksjDvJduVFlocMaYaWy)
 - [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/90uVfSpDZZUw)
 - [Web version](https://kaashif.github.io/brighton/lists/90uVfSpDZZUw/)
 

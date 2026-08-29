@@ -2,6 +2,7 @@
 
 - Team: Wessex Wyverns
 - Faction: Blood Angels
+- [Glicko-2 rating: 1555 (5 games)](https://tabletop-tools.net/new-meta/#/player/lJnLRirPQkgi_r4-LzVJ8)
 - [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/EY03zmcAyvXG)
 - [Web version](https://kaashif.github.io/brighton/lists/EY03zmcAyvXG/)
 

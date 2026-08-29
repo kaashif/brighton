@@ -6,6 +6,7 @@
   "scripts": {
     "build": "node scripts/build.mjs",
     "extract": "node scripts/extract.mjs",
+    "ratings": "node scripts/fetch-ratings.mjs",
     "check": "node scripts/check-links.mjs",
     "check:waha": "node scripts/check-wahapedia.mjs",
     "check:waha:visual": "node scripts/spot-check-wahapedia.mjs",

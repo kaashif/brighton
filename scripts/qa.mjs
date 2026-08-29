@@ -34,14 +34,17 @@ try {
   record('desktop player count', await desktop.locator('.list-card').count(), 40);
   record('desktop missing-list count', await desktop.locator('.list-card--missing').count(), 11);
   record('desktop team count', await desktop.locator('.team-group').count(), 10);
+  record('desktop linked rating count', await desktop.locator('.player-rating').count(), 19);
+  record('desktop team averages', await desktop.locator('.team-group h2 span').allTextContents().then((items) => items.every((item) => item.includes('Glicko avg'))));
   record('desktop lists grouped by team', (await desktop.locator('.team-group').count()) > 1);
   record('desktop no horizontal overflow', await desktop.evaluate(() => document.documentElement.scrollWidth <= document.documentElement.clientWidth));
+  await desktop.screenshot({ path: '/tmp/brighton-lists-desktop.png', fullPage: false });
   await desktop.locator('.list-card:not(.list-card--missing) .list-card__summary').first().click();
   record('dropdown has unit links', (await desktop.locator('.list-card__content .roster-link--unit').first().count()) > 0);
   record('dropdown has rules metadata links', (await desktop.locator('.list-card__content .roster-link--meta').first().count()) > 0);
   await desktop.locator('#search').fill('Kaashif');
   record('search filter result', await desktop.locator('.list-card').count(), 1);
-  await desktop.screenshot({ path: '/tmp/brighton-lists-desktop.png', fullPage: true });
+  await desktop.screenshot({ path: '/tmp/brighton-lists-desktop-search.png', fullPage: true });
 
   const data = await desktop.evaluate(() => window.BCP_DATA);
   for (const list of data.lists) {
@@ -54,6 +57,7 @@ try {
   record('mobile player count', await mobile.locator('.list-card').count(), 40);
   record('mobile missing-list count', await mobile.locator('.list-card--missing').count(), 11);
   record('mobile index no horizontal overflow', await mobile.evaluate(() => document.documentElement.scrollWidth <= document.documentElement.clientWidth));
+  await mobile.screenshot({ path: '/tmp/brighton-lists-mobile-index.png', fullPage: false });
   await mobile.locator('.list-card:not(.list-card--missing) .list-card__summary').first().click();
   record('mobile dropdown has unit links', (await mobile.locator('.list-card__content .roster-link--unit').count()) > 0);
   record('mobile dropdown has rules metadata links', (await mobile.locator('.list-card__content .roster-link--meta').count()) > 0);

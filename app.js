@@ -1,9 +1,12 @@
 const data = window.BCP_DATA;
 const state = { query: '', team: '', faction: '', expanded: new Set() };
 const listsById = new Map(data.lists.map((list) => [list.listId, list]));
+const ratingsByPlayerId = new Map(data.ratings.players.filter((player) => player.matched).map((player) => [player.playerId, player]));
+const teamRatings = new Map(data.ratings.teams.map((team) => [team.team, team]));
 const players = data.roster.map((player) => {
   const list = player.listId ? listsById.get(player.listId) : null;
-  return list ? { ...player, ...list, playerId: player.playerId, hasPublishedList: true } : { ...player, pagePlayer: player.player.trim(), content: '', hasPublishedList: false };
+  const rating = ratingsByPlayerId.get(player.playerId) || null;
+  return list ? { ...player, ...list, playerId: player.playerId, hasPublishedList: true, rating } : { ...player, pagePlayer: player.player.trim(), content: '', hasPublishedList: false, rating };
 });
 
 const elements = {
@@ -68,7 +71,13 @@ function render() {
     heading.textContent = teamName;
     const total = document.createElement('span');
     const published = teamPlayers.filter((player) => player.hasPublishedList).length;
-    total.textContent = `${teamPlayers.length} players · ${published} ${published === 1 ? 'list' : 'lists'}`;
+    const teamRating = teamRatings.get(teamName);
+    const average = teamRating?.averageRating ?? '—';
+    total.append(
+      `${teamPlayers.length} players · ${published} ${published === 1 ? 'list' : 'lists'}`,
+      document.createElement('br'),
+      `Glicko avg ${average} · ${teamRating?.ratedPlayers || 0}/4 rated`,
+    );
     heading.append(total);
     const cards = document.createElement('div');
     cards.className = 'team-lists';
@@ -81,10 +90,20 @@ function render() {
       fragment.querySelector('.list-card__number').textContent = String(++playerNumber);
       fragment.querySelector('.list-card__player').textContent = list.pagePlayer;
       fragment.querySelector('.list-card__faction').textContent = list.hasPublishedList ? list.faction : `${list.faction} · No list submitted`;
+      const ratingLink = fragment.querySelector('.player-rating');
+      if (list.rating) {
+        ratingLink.href = list.rating.profileUrl;
+        ratingLink.textContent = `Glicko ${list.rating.rating}`;
+        ratingLink.title = `Tabletop Tools Glicko-2: ${list.rating.rating} ±${list.rating.displayBand} from ${list.rating.gamesPlayed} games`;
+      } else {
+        ratingLink.remove();
+      }
       if (!list.hasPublishedList) {
         card.classList.add('list-card--missing');
         const summary = fragment.querySelector('.list-card__summary');
-        summary.disabled = true;
+        summary.removeAttribute('role');
+        summary.removeAttribute('tabindex');
+        summary.setAttribute('aria-disabled', 'true');
         fragment.querySelector('.list-card__toggle').hidden = true;
         cards.append(fragment);
         return;
@@ -94,7 +113,14 @@ function render() {
       fragment.querySelector('.page-link').href = list.pageUrl;
 
       const summary = fragment.querySelector('.list-card__summary');
-      summary.addEventListener('click', () => setExpanded(card, summary.getAttribute('aria-expanded') !== 'true'));
+      summary.addEventListener('click', (event) => {
+        if (!event.target.closest('a')) setExpanded(card, summary.getAttribute('aria-expanded') !== 'true');
+      });
+      summary.addEventListener('keydown', (event) => {
+        if (event.target.closest('a') || !['Enter', ' '].includes(event.key)) return;
+        event.preventDefault();
+        setExpanded(card, summary.getAttribute('aria-expanded') !== 'true');
+      });
       fragment.querySelector('.copy-list').addEventListener('click', async (event) => {
         await navigator.clipboard.writeText(list.content);
         event.currentTarget.textContent = 'Copied';

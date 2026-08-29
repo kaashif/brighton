@@ -2,6 +2,7 @@
 
 - Team: Surrey Primarchs B
 - Faction: Thousand Sons
+- [Glicko-2 rating: 1490 (3 games)](https://tabletop-tools.net/new-meta/#/player/f1XFota2sTe99EeM_Hb6i)
 - [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/b80sIcBubm4z)
 - [Web version](https://kaashif.github.io/brighton/lists/b80sIcBubm4z/)
 

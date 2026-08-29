@@ -2,6 +2,7 @@
 
 - Team: Comp Play Surrey Primarchs
 - Faction: Space Marines (Astartes)
+- [Glicko-2 rating: 1685 (8 games)](https://tabletop-tools.net/new-meta/#/player/2umUqyQLVTc70BC6G_Ps6)
 - [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/m3WkBIscvIfD)
 - [Web version](https://kaashif.github.io/brighton/lists/m3WkBIscvIfD/)
 

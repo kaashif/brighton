@@ -2,6 +2,7 @@
 
 - Team: Surrey Primarchs B
 - Faction: World Eaters
+- [Glicko-2 rating: 1530 (3 games)](https://tabletop-tools.net/new-meta/#/player/gR4ju6VFYOSgfqOuz9zhm)
 - [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/rBYVquBqN9i0)
 - [Web version](https://kaashif.github.io/brighton/lists/rBYVquBqN9i0/)
 
