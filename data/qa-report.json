@@ -1,11 +1,23 @@
 {
-  "checkedAt": "2026-08-29T23:14:06.349Z",
+  "checkedAt": "2026-08-29T23:23:33.561Z",
   "checks": [
     {
-      "name": "desktop list count",
+      "name": "desktop player count",
       "passed": true,
-      "value": 29,
-      "expected": 29
+      "value": 40,
+      "expected": 40
+    },
+    {
+      "name": "desktop missing-list count",
+      "passed": true,
+      "value": 11,
+      "expected": 11
+    },
+    {
+      "name": "desktop team count",
+      "passed": true,
+      "value": 10,
+      "expected": 10
     },
     {
       "name": "desktop lists grouped by team",
@@ -212,10 +224,16 @@
       "expected": true
     },
     {
-      "name": "mobile list count",
+      "name": "mobile player count",
       "passed": true,
-      "value": 29,
-      "expected": 29
+      "value": 40,
+      "expected": 40
+    },
+    {
+      "name": "mobile missing-list count",
+      "passed": true,
+      "value": 11,
+      "expected": 11
     },
     {
       "name": "mobile index no horizontal overflow",

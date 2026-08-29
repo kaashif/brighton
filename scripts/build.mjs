@@ -5,6 +5,7 @@ const root = new URL('../', import.meta.url);
 const raw = JSON.parse(await readFile(new URL('data/raw-lists.json', root), 'utf8'));
 const wahaBase = 'https://wahapedia.ru/wh40k11ed';
 const coreRulesUrl = `${wahaBase}/the-rules/core-rules/`;
+const siteBase = 'https://kaashif.github.io/brighton';
 
 const factionSlugs = {
   'Adeptus Custodes': 'adeptus-custodes',
@@ -25,6 +26,7 @@ const factionSlugs = {
 
 const escapeHtml = (value = '') => value.replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;').replaceAll('"', '&quot;');
 const normalize = (value = '') => value.normalize('NFKD').replace(/[’‘]/g, "'").replace(/[‐‑‒–—]/g, '-').replace(/\p{Diacritic}/gu, '').replace(/\s+/g, ' ').trim().toLocaleLowerCase();
+const slugify = (value = '') => normalize(value).replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const factionName = (list) => list.faction.split(' - ')[0];
 const cleanUnitHeading = (line) => line
   .replace(/^\s*(?:Char\d+:\s*)?/i, '')
@@ -176,6 +178,22 @@ function linkedRosterHtml(list, references) {
   }).join('\n');
 }
 
+function exportMarkdown(player, list, references) {
+  const heading = `# ${player.player}\n\n`;
+  const metadata = [
+    `- Team: ${player.team.trim()}`,
+    `- Faction: ${player.faction}`,
+  ];
+
+  if (!list) {
+    return `${heading}${metadata.join('\n')}\n\n## Army list\n\nNo list submitted.\n`;
+  }
+
+  metadata.push(`- [Original submission on Best Coast Pairings](${list.sourceUrl})`);
+  metadata.push(`- [Web version](${siteBase}/lists/${list.listId}/)`);
+  return `${heading}${metadata.join('\n')}\n\n## Army list\n\n<pre>${linkedRosterHtml(list, references)}</pre>\n`;
+}
+
 function detailPage(list, references) {
   const datasheetLinks = references.datasheets.length
     ? references.datasheets.map((sheet) => `<li><a href="${sheet.url}" target="_blank" rel="noreferrer">${escapeHtml(sheet.name)} <span>↗</span></a></li>`).join('')
@@ -221,8 +239,11 @@ function detailPage(list, references) {
 
 await rm(new URL('lists/', root), { recursive: true, force: true });
 await mkdir(new URL('lists/', root), { recursive: true });
+await rm(new URL('exports/', root), { recursive: true, force: true });
+await mkdir(new URL('exports/', root), { recursive: true });
 const builtLists = [];
 const referenceReport = [];
+const referencesByListId = new Map();
 
 for (const list of raw.lists) {
   const references = referencesFor(list);
@@ -231,9 +252,36 @@ for (const list of raw.lists) {
   await writeFile(new URL('index.html', directory), detailPage(list, references));
   builtLists.push({ ...list, pageUrl: `lists/${list.listId}/`, linkedContent: linkedRosterHtml(list, references) });
   referenceReport.push({ listId: list.listId, player: list.pagePlayer, ...references });
+  referencesByListId.set(list.listId, references);
 }
+
+const listsById = new Map(raw.lists.map((list) => [list.listId, list]));
+const exportRecords = [];
+for (const player of raw.roster) {
+  const list = player.listId ? listsById.get(player.listId) : null;
+  const filename = `${slugify(player.team)}--${slugify(player.player)}.md`;
+  await writeFile(new URL(`exports/${filename}`, root), exportMarkdown(player, list, list ? referencesByListId.get(list.listId) : null));
+  exportRecords.push({ ...player, filename });
+}
+
+const exportGroups = Map.groupBy(exportRecords, (player) => player.team.trim());
+const exportIndex = [
+  '# Hyperlinked army-list files',
+  '',
+  'All 40 event players are included. Players without a published submission are represented by a file marked “No list submitted”.',
+  '',
+];
+for (const [team, players] of exportGroups) {
+  exportIndex.push(`## ${team}`, '');
+  for (const player of players) {
+    const status = player.hasPublishedList ? '' : ' — no list submitted';
+    exportIndex.push(`- [${player.player}](./${player.filename}) — ${player.faction}${status}`);
+  }
+  exportIndex.push('');
+}
+await writeFile(new URL('exports/README.md', root), `${exportIndex.join('\n')}\n`);
 
 const siteData = { ...raw, lists: builtLists };
 await writeFile(new URL('data.js', root), `window.BCP_DATA = ${JSON.stringify(siteData, null, 2)};\n`);
 await writeFile(new URL('data/wahapedia-references.json', root), `${JSON.stringify(referenceReport, null, 2)}\n`);
-console.log(`Built ${builtLists.length} player pages with ${referenceReport.reduce((sum, item) => sum + item.datasheets.length, 0)} verified-name datasheet references.`);
+console.log(`Built ${builtLists.length} player pages and ${exportRecords.length} repository exports with ${referenceReport.reduce((sum, item) => sum + item.datasheets.length, 0)} verified-name datasheet references.`);

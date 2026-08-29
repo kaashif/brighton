@@ -1,0 +1,74 @@
+# Grzegorz Bondaruk
+
+- Team: Comp Play Surrey Primarchs
+- Faction: Necrons
+- [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/lfqP8aM2Xp0P)
+- [Web version](https://kaashif.github.io/brighton/lists/lfqP8aM2Xp0P/)
+
+## Army list
+
+<pre>Emotional Damage (2000 points)
+
+Necrons
+Awakened Dynasty (3 Detachment Points)
+Take and Hold
+Strike Force (2000 points)
+
+Attached Units
+Attached Unit 1
+
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/necrons/Technomancer/" target="_blank" rel="noreferrer">Technomancer (80 points)</a>
+• Attached as: Support (Character)
+• 1x Staff of light
+
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/necrons/Canoptek-Wraiths/" target="_blank" rel="noreferrer">Canoptek Wraiths (220 points)</a>
+• Attached as: Bodyguard
+• 6x Canoptek Wraith
+• 6x Particle caster
+6x Vicious claws
+
+
+CHARACTERS
+
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/necrons/C-tan-Shard-of-the-Deceiver/" target="_blank" rel="noreferrer">C’tan Shard of the Deceiver (330 points)</a>
+• 1x Cosmic insanity
+1x Golden fists
+
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/necrons/C-tan-Shard-of-the-Nightbringer/" target="_blank" rel="noreferrer">C’tan Shard of the Nightbringer (360 points)</a>
+• 1x Gaze of death
+1x Scythe of the Nightbringer
+
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/necrons/C-tan-Shard-of-the-Void-Dragon/" target="_blank" rel="noreferrer">C’tan Shard of the Void Dragon (345 points)</a>
+• 1x Canoptek tail blades
+1x Spear of the Void Dragon
+1x Voltaic storm
+
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/necrons/Illuminor-Szeras/" target="_blank" rel="noreferrer">Illuminor Szeras (175 points)</a>
+• Warlord
+• 1x Eldritch Lance
+1x Impaling legs
+
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/necrons/Imotekh-The-Stormlord/" target="_blank" rel="noreferrer">Imotekh the Stormlord (100 points)</a>
+• 1x Gauntlet of Fire
+1x Staff of the Destroyer
+
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/necrons/Nekrosor-Ammentar/" target="_blank" rel="noreferrer">Nekrosor Ammentar (185 points)</a>
+• 1x Blade tail and whip coils
+1x Enmitic disintegrators
+1x Nullstone Field Generator (Aura)
+1x Unmaker Gauntlet
+
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/necrons/Skorpekh-Lord/" target="_blank" rel="noreferrer">Skorpekh Lord (125 points)</a>
+• 1x Enmitic annihilator
+1x Flensing claw
+1x Hyperphase harvester
+• Enhancement: <a class="roster-link roster-link--meta" href="https://wahapedia.ru/wh40k11ed/factions/necrons/#Enhancements" target="_blank" rel="noreferrer">Enaegic Dermal Bond</a>
+
+
+OTHER DATASHEETS
+
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/necrons/Ophydian-Destroyers/" target="_blank" rel="noreferrer">Ophydian Destroyers (80 points)</a>
+• 3x Ophydian Destroyer
+• 3x Ophydian hyperphase weapons
+
+Exported with App Version: v2.5.0 (140), Data Version: v931</pre>

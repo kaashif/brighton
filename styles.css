@@ -48,6 +48,9 @@ kbd { margin-right: 10px; border: 1px solid var(--border); border-radius: 3px; p
 .list-card { border-bottom: 1px solid var(--border); }
 .list-card__summary { display: grid; grid-template-columns: 34px minmax(180px, 1fr) minmax(170px, .9fr) 20px; align-items: center; width: 100%; min-height: 64px; border: 0; padding: 10px 4px 10px 0; background: transparent; color: var(--text); text-align: left; }
 .list-card__summary:hover { background: var(--subtle); }
+.list-card__summary:disabled { cursor: default; }
+.list-card__summary:disabled:hover { background: transparent; }
+.list-card--missing .list-card__player, .list-card--missing .list-card__faction { color: var(--muted); }
 .list-card__number { color: #888; font: .75rem ui-monospace, SFMono-Regular, Menlo, monospace; }
 .list-card__identity { min-width: 0; }
 .list-card__player { font-size: .98rem; }

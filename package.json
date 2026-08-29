@@ -8,6 +8,7 @@
     "extract": "node scripts/extract.mjs",
     "check": "node scripts/check-links.mjs",
     "check:waha": "node scripts/check-wahapedia.mjs",
+    "check:waha:visual": "node scripts/spot-check-wahapedia.mjs",
     "qa": "node scripts/qa.mjs"
   },
   "devDependencies": {
