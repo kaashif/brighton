@@ -38,6 +38,11 @@ for (const layout of layoutReference.layouts) {
   internalFailures.push({ file: fileURLToPath(new URL('../data/layouts.json', import.meta.url)), href: layout.asset, resolved: path.resolve(rootPath, layout.asset) });
   externalUrls.add(layout.plannerUrl);
 }
+for (const matchup of layoutReference.objectiveMatchups) {
+  for (const card of [matchup.player, matchup.opponent]) {
+    internalFailures.push({ file: fileURLToPath(new URL('../data/layouts.json', import.meta.url)), href: card.asset, resolved: path.resolve(rootPath, card.asset) });
+  }
+}
 
 const unresolvedInternal = [];
 for (const item of internalFailures) {

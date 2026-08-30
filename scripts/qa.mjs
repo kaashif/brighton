@@ -5,7 +5,7 @@ import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 
 const root = fileURLToPath(new URL('../', import.meta.url));
-const mime = { '.html': 'text/html', '.css': 'text/css', '.js': 'text/javascript', '.json': 'application/json' };
+const mime = { '.html': 'text/html', '.css': 'text/css', '.js': 'text/javascript', '.json': 'application/json', '.svg': 'image/svg+xml' };
 const server = createServer(async (request, response) => {
   try {
     let pathname = decodeURIComponent(new URL(request.url, 'http://127.0.0.1').pathname);
@@ -49,16 +49,27 @@ try {
   record('dropdown has unit links', (await desktop.locator('.list-card__content .roster-link--unit').first().count()) > 0);
   record('dropdown has rules metadata links', (await desktop.locator('.list-card__content .roster-link--meta').first().count()) > 0);
   record('expanded roster has no nested scrollbar', await desktop.locator('.list-card__content').first().evaluate((element) => element.scrollHeight === element.clientHeight));
+  record('dropdown has two objective cards', await desktop.locator('.list-card:not(.list-card--missing) .objective-card').first().locator('..').locator('.objective-card').count(), 2);
   record('dropdown has three labelled layouts', await desktop.locator('.list-card:not(.list-card--missing) .layout-thumbnail').first().locator('..').locator('.layout-thumbnail').count(), 3);
   await desktop.locator('#expand-all').click();
+  record('every published dropdown has objectives', await desktop.locator('.objective-strip').count(), 29);
+  record('all objective cards are present', await desktop.locator('.objective-card img').count(), 58);
   record('every published dropdown has layouts', await desktop.locator('.layout-strip').count(), 29);
   record('all layout thumbnails are present', await desktop.locator('.layout-thumbnail img').count(), 87);
+  record('only the vetted layout uses a suggested-deployment preview', data.layoutReference.layouts.filter((layout) => layout.suggestedDeployment).length, 1);
   const layoutAssetResponses = await Promise.all(data.layoutReference.layouts.map((layout) => desktop.request.get(`http://127.0.0.1:4173/${layout.asset}`)));
   record('all 15 local layout assets load', layoutAssetResponses.every((response) => response.ok()));
+  const objectiveAssets = [...new Set(data.layoutReference.objectiveMatchups.flatMap((matchup) => [matchup.player.asset, matchup.opponent.asset]))];
+  const objectiveAssetResponses = await Promise.all(objectiveAssets.map((asset) => desktop.request.get(`http://127.0.0.1:4173/${asset}`)));
+  record('all local objective assets load', objectiveAssetResponses.every((response) => response.ok()));
   record('expanded desktop has no horizontal overflow', await desktop.evaluate(() => document.documentElement.scrollWidth <= document.documentElement.clientWidth));
   await desktop.locator('#search').fill('Kaashif');
   record('search filter result', await desktop.locator('.list-card').count(), 1);
   record('Kaashif matchup is Take and Hold mirror', await desktop.locator('.layout-strip__heading').textContent(), 'Take and Hold vs Take and Hold');
+  record('Kaashif Layout A thumbnail shows the suggestion', await desktop.locator('.layout-thumbnail strong').first().textContent(), 'Layout A · suggested deployment');
+  record('Kaashif Layout A opens the loaded suggestion', await desktop.locator('.layout-thumbnail').first().getAttribute('href'), 'https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-take-and-hold-a&suggestion=1');
+  record('Kaashif Layout A suggested preview renders', await desktop.locator('.layout-thumbnail img').first().evaluate((image) => image.complete && image.naturalWidth > 0));
+  record('Kaashif mirror has two Battlefield Dominance cards', await desktop.locator('.objective-card figcaption span').allTextContents().then((items) => items.length === 2 && items.every((item) => item === 'Take and Hold — Battlefield Dominance')));
   await desktop.screenshot({ path: '/tmp/brighton-lists-desktop-search.png', fullPage: true });
 
   for (const list of data.lists) {
@@ -76,8 +87,12 @@ try {
   record('mobile dropdown has unit links', (await mobile.locator('.list-card__content .roster-link--unit').count()) > 0);
   record('mobile dropdown has rules metadata links', (await mobile.locator('.list-card__content .roster-link--meta').count()) > 0);
   record('mobile roster has no nested scrollbar', await mobile.locator('.list-card__content').first().evaluate((element) => element.scrollHeight === element.clientHeight));
+  record('mobile dropdown has two side-by-side objective cards', await mobile.locator('.list-card__summary[aria-expanded="true"]').locator('..').locator('.objective-card').count(), 2);
+  record('mobile objective cards stay in two columns', await mobile.locator('.objective-strip__cards').first().evaluate((element) => getComputedStyle(element).gridTemplateColumns.split(' ').length), 2);
   record('mobile dropdown has three side-by-side layouts', await mobile.locator('.list-card__summary[aria-expanded="true"]').locator('..').locator('.layout-thumbnail').count(), 3);
   record('mobile expanded dropdown has no horizontal overflow', await mobile.evaluate(() => document.documentElement.scrollWidth <= document.documentElement.clientWidth));
+  await mobile.locator('.objective-strip').first().scrollIntoViewIfNeeded();
+  await mobile.screenshot({ path: '/tmp/brighton-lists-mobile-expanded.png', fullPage: false });
   await mobile.locator('.list-card:not(.list-card--missing) .list-card__content').first().scrollIntoViewIfNeeded();
   await mobile.screenshot({ path: '/tmp/brighton-lists-mobile.png', fullPage: false });
 

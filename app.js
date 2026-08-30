@@ -16,14 +16,40 @@ function forceDisposition(player) {
 
 function populateLayouts(fragment, player) {
   const disposition = forceDisposition(player);
+  const objectiveMatchup = data.layoutReference.objectiveMatchups
+    .find((matchup) => matchup.opponentDisposition === disposition);
+  const objectiveStrip = fragment.querySelector('.objective-strip');
   const strip = fragment.querySelector('.layout-strip');
   const layouts = data.layoutReference.layouts
     .filter((layout) => layout.opponentDisposition === disposition)
     .sort((a, b) => a.variant.localeCompare(b.variant));
-  if (layouts.length !== 3) {
+  if (layouts.length !== 3 || !objectiveMatchup) {
+    objectiveStrip.remove();
     strip.remove();
     return;
   }
+  const cards = fragment.querySelector('.objective-strip__cards');
+  [
+    { owner: 'Kaashif', card: objectiveMatchup.player },
+    { owner: player.pagePlayer, card: objectiveMatchup.opponent },
+  ].forEach(({ owner, card }) => {
+    const figure = document.createElement('figure');
+    figure.className = 'objective-card';
+    const caption = document.createElement('figcaption');
+    const playerName = document.createElement('strong');
+    playerName.textContent = owner;
+    const missionName = document.createElement('span');
+    missionName.textContent = `${card.disposition} — ${card.mission}`;
+    caption.append(playerName, missionName);
+    const image = document.createElement('img');
+    image.src = card.asset;
+    image.alt = `${owner}: ${card.mission} primary objective card`;
+    image.loading = 'lazy';
+    image.width = 1653;
+    image.height = 2833;
+    figure.append(caption, image);
+    cards.append(figure);
+  });
   fragment.querySelector('.layout-strip__heading').textContent = `Take and Hold vs ${disposition}`;
   const maps = fragment.querySelector('.layout-strip__maps');
   layouts.forEach((layout) => {
@@ -34,7 +60,7 @@ function populateLayouts(fragment, player) {
     link.rel = 'noreferrer';
     link.setAttribute('aria-label', `Open ${layout.id} in the deployment planner`);
     const label = document.createElement('strong');
-    label.textContent = `Layout ${layout.variant}`;
+    label.textContent = `Layout ${layout.variant}${layout.suggestedDeployment ? ' · suggested deployment' : ''}`;
     const image = document.createElement('img');
     image.src = layout.asset;
     image.alt = `${layout.variant}: Take and Hold vs ${disposition}`;
@@ -149,6 +175,7 @@ function render() {
       }
       if (!list.hasPublishedList) {
         card.classList.add('list-card--missing');
+        fragment.querySelector('.objective-strip').remove();
         fragment.querySelector('.layout-strip').remove();
         const summary = fragment.querySelector('.list-card__summary');
         summary.removeAttribute('role');

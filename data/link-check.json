@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-08-30T00:16:38.656Z",
+  "checkedAt": "2026-08-30T00:32:49.729Z",
   "htmlFiles": 30,
-  "internalLinks": 76,
+  "internalLinks": 86,
   "externalLinks": 256,
   "unresolvedInternal": [],
   "failedExternal": [],
@@ -67,7 +67,7 @@
       "ok": true
     },
     {
-      "url": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-take-and-hold-a",
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-take-and-hold-a&suggestion=1",
       "status": 200,
       "ok": true
     },

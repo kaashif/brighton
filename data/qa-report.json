@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-30T00:19:06.532Z",
+  "checkedAt": "2026-08-30T00:33:20.350Z",
   "checks": [
     {
       "name": "desktop player count",
@@ -92,10 +92,28 @@
       "expected": true
     },
     {
+      "name": "dropdown has two objective cards",
+      "passed": true,
+      "value": 2,
+      "expected": 2
+    },
+    {
       "name": "dropdown has three labelled layouts",
       "passed": true,
       "value": 3,
       "expected": 3
+    },
+    {
+      "name": "every published dropdown has objectives",
+      "passed": true,
+      "value": 29,
+      "expected": 29
+    },
+    {
+      "name": "all objective cards are present",
+      "passed": true,
+      "value": 58,
+      "expected": 58
     },
     {
       "name": "every published dropdown has layouts",
@@ -110,7 +128,19 @@
       "expected": 87
     },
     {
+      "name": "only the vetted layout uses a suggested-deployment preview",
+      "passed": true,
+      "value": 1,
+      "expected": 1
+    },
+    {
       "name": "all 15 local layout assets load",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "all local objective assets load",
       "passed": true,
       "value": true,
       "expected": true
@@ -132,6 +162,30 @@
       "passed": true,
       "value": "Take and Hold vs Take and Hold",
       "expected": "Take and Hold vs Take and Hold"
+    },
+    {
+      "name": "Kaashif Layout A thumbnail shows the suggestion",
+      "passed": true,
+      "value": "Layout A · suggested deployment",
+      "expected": "Layout A · suggested deployment"
+    },
+    {
+      "name": "Kaashif Layout A opens the loaded suggestion",
+      "passed": true,
+      "value": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-take-and-hold-a&suggestion=1",
+      "expected": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-take-and-hold-a&suggestion=1"
+    },
+    {
+      "name": "Kaashif Layout A suggested preview renders",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "Kaashif mirror has two Battlefield Dominance cards",
+      "passed": true,
+      "value": true,
+      "expected": true
     },
     {
       "name": "route m3WkBIscvIfD",
@@ -342,6 +396,18 @@
       "passed": true,
       "value": true,
       "expected": true
+    },
+    {
+      "name": "mobile dropdown has two side-by-side objective cards",
+      "passed": true,
+      "value": 2,
+      "expected": 2
+    },
+    {
+      "name": "mobile objective cards stay in two columns",
+      "passed": true,
+      "value": 2,
+      "expected": 2
     },
     {
       "name": "mobile dropdown has three side-by-side layouts",
