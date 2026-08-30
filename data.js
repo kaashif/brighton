@@ -1335,7 +1335,7 @@ window.BCP_DATA = {
         "asset": "assets/layouts/take-and-hold-vs-take-and-hold-a-suggested.svg",
         "suggestedDeployment": true,
         "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-take-and-hold-a&suggestion=1",
-        "sha256": "4d4414f2955b2bf024a46485f8ad65f4be57cc091d5be6719b574f4dea1aee09"
+        "sha256": "d75d4bdcde8c006a3e805113b13eba7fc098545ee07ad5ac394ee7ca4f6513c4"
       },
       {
         "id": "take-and-hold-vs-take-and-hold-b",
