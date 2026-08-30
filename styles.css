@@ -71,7 +71,7 @@ kbd { margin-right: 10px; border: 1px solid var(--border); border-radius: 3px; p
 .layout-thumbnail:hover { border-color: #888; }
 .layout-thumbnail strong { display: block; padding: 6px 8px; font-size: .78rem; }
 .layout-thumbnail img { display: block; width: 100%; height: auto; border-top: 1px solid var(--border); }
-.list-card__content { max-height: 620px; margin: 0; overflow: auto; border: 1px solid var(--border); background: var(--subtle); padding: 18px; color: var(--text); font: .76rem/1.55 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; white-space: pre-wrap; overflow-wrap: anywhere; }
+.list-card__content { margin: 0; border: 1px solid var(--border); background: var(--subtle); padding: 18px; color: var(--text); font: .76rem/1.55 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; white-space: pre-wrap; overflow-wrap: anywhere; }
 .roster-link { color: var(--link); text-decoration: underline; text-underline-offset: 2px; }
 .roster-link--meta { font-weight: 600; }
 .empty-state { border: 1px solid var(--border); padding: 44px 20px; color: var(--muted); text-align: center; }

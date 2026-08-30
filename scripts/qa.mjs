@@ -48,6 +48,7 @@ try {
   await desktop.locator('.list-card:not(.list-card--missing) .list-card__summary').first().click();
   record('dropdown has unit links', (await desktop.locator('.list-card__content .roster-link--unit').first().count()) > 0);
   record('dropdown has rules metadata links', (await desktop.locator('.list-card__content .roster-link--meta').first().count()) > 0);
+  record('expanded roster has no nested scrollbar', await desktop.locator('.list-card__content').first().evaluate((element) => element.scrollHeight === element.clientHeight));
   record('dropdown has three labelled layouts', await desktop.locator('.list-card:not(.list-card--missing) .layout-thumbnail').first().locator('..').locator('.layout-thumbnail').count(), 3);
   await desktop.locator('#expand-all').click();
   record('every published dropdown has layouts', await desktop.locator('.layout-strip').count(), 29);
@@ -74,6 +75,7 @@ try {
   await mobile.locator('.list-card:not(.list-card--missing) .list-card__summary').first().click();
   record('mobile dropdown has unit links', (await mobile.locator('.list-card__content .roster-link--unit').count()) > 0);
   record('mobile dropdown has rules metadata links', (await mobile.locator('.list-card__content .roster-link--meta').count()) > 0);
+  record('mobile roster has no nested scrollbar', await mobile.locator('.list-card__content').first().evaluate((element) => element.scrollHeight === element.clientHeight));
   record('mobile dropdown has three side-by-side layouts', await mobile.locator('.list-card__summary[aria-expanded="true"]').locator('..').locator('.layout-thumbnail').count(), 3);
   record('mobile expanded dropdown has no horizontal overflow', await mobile.evaluate(() => document.documentElement.scrollWidth <= document.documentElement.clientWidth));
   await mobile.locator('.list-card:not(.list-card--missing) .list-card__content').first().scrollIntoViewIfNeeded();

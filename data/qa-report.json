@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-30T00:16:09.789Z",
+  "checkedAt": "2026-08-30T00:19:06.532Z",
   "checks": [
     {
       "name": "desktop player count",
@@ -81,6 +81,12 @@
     },
     {
       "name": "dropdown has rules metadata links",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "expanded roster has no nested scrollbar",
       "passed": true,
       "value": true,
       "expected": true
@@ -327,6 +333,12 @@
     },
     {
       "name": "mobile dropdown has rules metadata links",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "mobile roster has no nested scrollbar",
       "passed": true,
       "value": true,
       "expected": true
