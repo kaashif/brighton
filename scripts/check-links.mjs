@@ -33,6 +33,12 @@ for (const file of htmlFiles) {
   });
 }
 
+const layoutReference = JSON.parse(await readFile(new URL('../data/layouts.json', import.meta.url), 'utf8'));
+for (const layout of layoutReference.layouts) {
+  internalFailures.push({ file: fileURLToPath(new URL('../data/layouts.json', import.meta.url)), href: layout.asset, resolved: path.resolve(rootPath, layout.asset) });
+  externalUrls.add(layout.plannerUrl);
+}
+
 const unresolvedInternal = [];
 for (const item of internalFailures) {
   try {

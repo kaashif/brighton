@@ -31,6 +31,7 @@ function record(name, value, expected = true) {
 try {
   const desktop = await browser.newPage({ viewport: { width: 1440, height: 1000 } });
   await desktop.goto('http://127.0.0.1:4173/', { waitUntil: 'networkidle' });
+  const data = await desktop.evaluate(() => window.BCP_DATA);
   record('desktop player count', await desktop.locator('.list-card').count(), 40);
   record('desktop missing-list count', await desktop.locator('.list-card--missing').count(), 11);
   record('desktop team count', await desktop.locator('.team-group').count(), 10);
@@ -47,11 +48,18 @@ try {
   await desktop.locator('.list-card:not(.list-card--missing) .list-card__summary').first().click();
   record('dropdown has unit links', (await desktop.locator('.list-card__content .roster-link--unit').first().count()) > 0);
   record('dropdown has rules metadata links', (await desktop.locator('.list-card__content .roster-link--meta').first().count()) > 0);
+  record('dropdown has three labelled layouts', await desktop.locator('.list-card:not(.list-card--missing) .layout-thumbnail').first().locator('..').locator('.layout-thumbnail').count(), 3);
+  await desktop.locator('#expand-all').click();
+  record('every published dropdown has layouts', await desktop.locator('.layout-strip').count(), 29);
+  record('all layout thumbnails are present', await desktop.locator('.layout-thumbnail img').count(), 87);
+  const layoutAssetResponses = await Promise.all(data.layoutReference.layouts.map((layout) => desktop.request.get(`http://127.0.0.1:4173/${layout.asset}`)));
+  record('all 15 local layout assets load', layoutAssetResponses.every((response) => response.ok()));
+  record('expanded desktop has no horizontal overflow', await desktop.evaluate(() => document.documentElement.scrollWidth <= document.documentElement.clientWidth));
   await desktop.locator('#search').fill('Kaashif');
   record('search filter result', await desktop.locator('.list-card').count(), 1);
+  record('Kaashif matchup is Take and Hold mirror', await desktop.locator('.layout-strip__heading').textContent(), 'Take and Hold vs Take and Hold');
   await desktop.screenshot({ path: '/tmp/brighton-lists-desktop-search.png', fullPage: true });
 
-  const data = await desktop.evaluate(() => window.BCP_DATA);
   for (const list of data.lists) {
     const response = await desktop.request.get(`http://127.0.0.1:4173/${list.pageUrl}`);
     record(`route ${list.listId}`, response.ok());
@@ -66,6 +74,8 @@ try {
   await mobile.locator('.list-card:not(.list-card--missing) .list-card__summary').first().click();
   record('mobile dropdown has unit links', (await mobile.locator('.list-card__content .roster-link--unit').count()) > 0);
   record('mobile dropdown has rules metadata links', (await mobile.locator('.list-card__content .roster-link--meta').count()) > 0);
+  record('mobile dropdown has three side-by-side layouts', await mobile.locator('.list-card__summary[aria-expanded="true"]').locator('..').locator('.layout-thumbnail').count(), 3);
+  record('mobile expanded dropdown has no horizontal overflow', await mobile.evaluate(() => document.documentElement.scrollWidth <= document.documentElement.clientWidth));
   await mobile.locator('.list-card:not(.list-card--missing) .list-card__content').first().scrollIntoViewIfNeeded();
   await mobile.screenshot({ path: '/tmp/brighton-lists-mobile.png', fullPage: false });
 

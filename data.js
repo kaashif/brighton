@@ -1240,5 +1240,136 @@ window.BCP_DATA = {
         "totalPlayers": 4
       }
     ]
+  },
+  "layoutReference": {
+    "schemaVersion": 1,
+    "revision": "2026-08-26",
+    "perspective": {
+      "player": "Kaashif Hymabaccus",
+      "forceDisposition": "Take and Hold"
+    },
+    "source": "https://raw.githubusercontent.com/kaashif/40k-planner/main/public/reference/11th-edition/data/event-layouts.json",
+    "layouts": [
+      {
+        "id": "take-and-hold-vs-take-and-hold-a",
+        "variant": "A",
+        "opponentDisposition": "Take and Hold",
+        "asset": "assets/layouts/take-and-hold-vs-take-and-hold-a.jpg",
+        "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-take-and-hold-a",
+        "sha256": "807da6dd8b954fe17d854098c4dc29fe83fa71a74797c6fc6c8259853bd5990d"
+      },
+      {
+        "id": "take-and-hold-vs-take-and-hold-b",
+        "variant": "B",
+        "opponentDisposition": "Take and Hold",
+        "asset": "assets/layouts/take-and-hold-vs-take-and-hold-b.jpg",
+        "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-take-and-hold-b",
+        "sha256": "7bd39e990bb1f415cf76112e624fefff0c0182d80426cf1d4f9ce119a05baa33"
+      },
+      {
+        "id": "take-and-hold-vs-take-and-hold-c",
+        "variant": "C",
+        "opponentDisposition": "Take and Hold",
+        "asset": "assets/layouts/take-and-hold-vs-take-and-hold-c.jpg",
+        "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-take-and-hold-c",
+        "sha256": "8e931b7bea94abed8da65912462b13e4bc4502471e998e1fc54aea7eb473a80b"
+      },
+      {
+        "id": "take-and-hold-vs-purge-the-foe-a",
+        "variant": "A",
+        "opponentDisposition": "Purge the Foe",
+        "asset": "assets/layouts/take-and-hold-vs-purge-the-foe-a.jpg",
+        "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-purge-the-foe-a",
+        "sha256": "688b1da3f62ea623e94d179f52737f9906657729ea6af46a5c105098501b3af7"
+      },
+      {
+        "id": "take-and-hold-vs-purge-the-foe-b",
+        "variant": "B",
+        "opponentDisposition": "Purge the Foe",
+        "asset": "assets/layouts/take-and-hold-vs-purge-the-foe-b.jpg",
+        "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-purge-the-foe-b",
+        "sha256": "a27e006b9cff8374fee754ef03d26788afd24a1abfc44c7af11fc5b766d1a175"
+      },
+      {
+        "id": "take-and-hold-vs-purge-the-foe-c",
+        "variant": "C",
+        "opponentDisposition": "Purge the Foe",
+        "asset": "assets/layouts/take-and-hold-vs-purge-the-foe-c.jpg",
+        "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-purge-the-foe-c",
+        "sha256": "272df78e4a1f5644a69e7f976afd9a5f6452930d18454b216869458614c0bf27"
+      },
+      {
+        "id": "take-and-hold-vs-disruption-a",
+        "variant": "A",
+        "opponentDisposition": "Disruption",
+        "asset": "assets/layouts/take-and-hold-vs-disruption-a.jpg",
+        "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-disruption-a",
+        "sha256": "04fc547b33212f1c134445c190b953e40b2901fe5a8296f23a10e3aa894c7353"
+      },
+      {
+        "id": "take-and-hold-vs-disruption-b",
+        "variant": "B",
+        "opponentDisposition": "Disruption",
+        "asset": "assets/layouts/take-and-hold-vs-disruption-b.jpg",
+        "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-disruption-b",
+        "sha256": "05e0b447ab7269d74a6b92b6d31af94c3d91d2b1cfc000a2ac9dadc03c00688a"
+      },
+      {
+        "id": "take-and-hold-vs-disruption-c",
+        "variant": "C",
+        "opponentDisposition": "Disruption",
+        "asset": "assets/layouts/take-and-hold-vs-disruption-c.jpg",
+        "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-disruption-c",
+        "sha256": "6dbce99ead24f2a911ebddfc2455a143b6766ac47f09cba8426554384076ce7e"
+      },
+      {
+        "id": "take-and-hold-vs-reconnaissance-a",
+        "variant": "A",
+        "opponentDisposition": "Reconnaissance",
+        "asset": "assets/layouts/take-and-hold-vs-reconnaissance-a.jpg",
+        "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-reconnaissance-a",
+        "sha256": "40f4a51ca4e7a32b24111d26bef6807ca60cbe1416e557b89e822cdf9a5ade29"
+      },
+      {
+        "id": "take-and-hold-vs-reconnaissance-b",
+        "variant": "B",
+        "opponentDisposition": "Reconnaissance",
+        "asset": "assets/layouts/take-and-hold-vs-reconnaissance-b.jpg",
+        "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-reconnaissance-b",
+        "sha256": "13a1488fe665196b324f1fe8a501f3ced228ad90a754721c9e1e2c3d3f81db1f"
+      },
+      {
+        "id": "take-and-hold-vs-reconnaissance-c",
+        "variant": "C",
+        "opponentDisposition": "Reconnaissance",
+        "asset": "assets/layouts/take-and-hold-vs-reconnaissance-c.jpg",
+        "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-reconnaissance-c",
+        "sha256": "5a0586ac33f8fae3766c6a218bf1b91e9aecd7457bcfa40fa3e3ec74d40ee851"
+      },
+      {
+        "id": "take-and-hold-vs-priority-assets-a",
+        "variant": "A",
+        "opponentDisposition": "Priority Assets",
+        "asset": "assets/layouts/take-and-hold-vs-priority-assets-a.jpg",
+        "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-priority-assets-a",
+        "sha256": "12ac579f7185ecf353aa7951994fa27b6711f42c77c6a1a5c49a2be271c802e5"
+      },
+      {
+        "id": "take-and-hold-vs-priority-assets-b",
+        "variant": "B",
+        "opponentDisposition": "Priority Assets",
+        "asset": "assets/layouts/take-and-hold-vs-priority-assets-b.jpg",
+        "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-priority-assets-b",
+        "sha256": "8f3695ac2e4caba6d298b5b74530fcba2a35f84ecf1ee811dbdb884587de8ad5"
+      },
+      {
+        "id": "take-and-hold-vs-priority-assets-c",
+        "variant": "C",
+        "opponentDisposition": "Priority Assets",
+        "asset": "assets/layouts/take-and-hold-vs-priority-assets-c.jpg",
+        "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-priority-assets-c",
+        "sha256": "16f78dab25ce8671528d7960547268a786b6fd361a7db20a225fbd85da8a93bc"
+      }
+    ]
   }
 };

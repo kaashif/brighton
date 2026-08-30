@@ -4,6 +4,7 @@ import { mkdir, readFile, rm, writeFile } from 'node:fs/promises';
 const root = new URL('../', import.meta.url);
 const raw = JSON.parse(await readFile(new URL('data/raw-lists.json', root), 'utf8'));
 const ratings = JSON.parse(await readFile(new URL('data/player-ratings.json', root), 'utf8'));
+const layoutReference = JSON.parse(await readFile(new URL('data/layouts.json', root), 'utf8'));
 const ratingsByPlayerId = new Map(ratings.players.filter((player) => player.matched).map((player) => [player.playerId, player]));
 const playersByListId = new Map(raw.roster.filter((player) => player.listId).map((player) => [player.listId, player]));
 const wahaBase = 'https://wahapedia.ru/wh40k11ed';
@@ -289,7 +290,7 @@ for (const [team, players] of exportGroups) {
 }
 await writeFile(new URL('exports/README.md', root), `${exportIndex.join('\n')}\n`);
 
-const siteData = { ...raw, lists: builtLists, ratings };
+const siteData = { ...raw, lists: builtLists, ratings, layoutReference };
 await writeFile(new URL('data.js', root), `window.BCP_DATA = ${JSON.stringify(siteData, null, 2)};\n`);
 await writeFile(new URL('data/wahapedia-references.json', root), `${JSON.stringify(referenceReport, null, 2)}\n`);
 console.log(`Built ${builtLists.length} player pages and ${exportRecords.length} repository exports with ${referenceReport.reduce((sum, item) => sum + item.datasheets.length, 0)} verified-name datasheet references.`);

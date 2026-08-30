@@ -1,11 +1,86 @@
 {
-  "checkedAt": "2026-08-29T23:53:23.963Z",
+  "checkedAt": "2026-08-30T00:16:38.656Z",
   "htmlFiles": 30,
-  "internalLinks": 61,
-  "externalLinks": 241,
+  "internalLinks": 76,
+  "externalLinks": 256,
   "unresolvedInternal": [],
   "failedExternal": [],
   "externalResults": [
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-disruption-a",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-disruption-b",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-disruption-c",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-priority-assets-a",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-priority-assets-b",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-priority-assets-c",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-purge-the-foe-a",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-purge-the-foe-b",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-purge-the-foe-c",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-reconnaissance-a",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-reconnaissance-b",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-reconnaissance-c",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-take-and-hold-a",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-take-and-hold-b",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-take-and-hold-c",
+      "status": 200,
+      "ok": true
+    },
     {
       "url": "https://tabletop-tools.net/new-meta/",
       "status": 200,

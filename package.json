@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "build": "node scripts/build.mjs",
+    "layouts": "node scripts/sync-layouts.mjs",
     "extract": "node scripts/extract.mjs",
     "ratings": "node scripts/fetch-ratings.mjs",
     "check": "node scripts/check-links.mjs",

@@ -8,6 +8,43 @@ const players = data.roster.map((player) => {
   const rating = ratingsByPlayerId.get(player.playerId) || null;
   return list ? { ...player, ...list, playerId: player.playerId, hasPublishedList: true, rating } : { ...player, pagePlayer: player.player.trim(), content: '', hasPublishedList: false, rating };
 });
+const forceDispositions = ['Take and Hold', 'Disruption', 'Purge the Foe', 'Reconnaissance', 'Priority Assets'];
+
+function forceDisposition(player) {
+  return forceDispositions.find((disposition) => player.faction.endsWith(` - ${disposition}`));
+}
+
+function populateLayouts(fragment, player) {
+  const disposition = forceDisposition(player);
+  const strip = fragment.querySelector('.layout-strip');
+  const layouts = data.layoutReference.layouts
+    .filter((layout) => layout.opponentDisposition === disposition)
+    .sort((a, b) => a.variant.localeCompare(b.variant));
+  if (layouts.length !== 3) {
+    strip.remove();
+    return;
+  }
+  fragment.querySelector('.layout-strip__heading').textContent = `Take and Hold vs ${disposition}`;
+  const maps = fragment.querySelector('.layout-strip__maps');
+  layouts.forEach((layout) => {
+    const link = document.createElement('a');
+    link.className = 'layout-thumbnail';
+    link.href = layout.plannerUrl;
+    link.target = '_blank';
+    link.rel = 'noreferrer';
+    link.setAttribute('aria-label', `Open ${layout.id} in the deployment planner`);
+    const label = document.createElement('strong');
+    label.textContent = `Layout ${layout.variant}`;
+    const image = document.createElement('img');
+    image.src = layout.asset;
+    image.alt = `${layout.variant}: Take and Hold vs ${disposition}`;
+    image.loading = 'lazy';
+    image.width = 522;
+    image.height = 708;
+    link.append(label, image);
+    maps.append(link);
+  });
+}
 
 const elements = {
   grid: document.querySelector('#list-grid'),
@@ -112,6 +149,7 @@ function render() {
       }
       if (!list.hasPublishedList) {
         card.classList.add('list-card--missing');
+        fragment.querySelector('.layout-strip').remove();
         const summary = fragment.querySelector('.list-card__summary');
         summary.removeAttribute('role');
         summary.removeAttribute('tabindex');
@@ -123,6 +161,7 @@ function render() {
       fragment.querySelector('.list-card__content').innerHTML = list.linkedContent;
       fragment.querySelector('.source-link').href = list.sourceUrl;
       fragment.querySelector('.page-link').href = list.pageUrl;
+      populateLayouts(fragment, list);
 
       const summary = fragment.querySelector('.list-card__summary');
       summary.addEventListener('click', (event) => {

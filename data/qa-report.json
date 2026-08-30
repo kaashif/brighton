@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-29T23:53:04.153Z",
+  "checkedAt": "2026-08-30T00:16:09.789Z",
   "checks": [
     {
       "name": "desktop player count",
@@ -86,10 +86,46 @@
       "expected": true
     },
     {
+      "name": "dropdown has three labelled layouts",
+      "passed": true,
+      "value": 3,
+      "expected": 3
+    },
+    {
+      "name": "every published dropdown has layouts",
+      "passed": true,
+      "value": 29,
+      "expected": 29
+    },
+    {
+      "name": "all layout thumbnails are present",
+      "passed": true,
+      "value": 87,
+      "expected": 87
+    },
+    {
+      "name": "all 15 local layout assets load",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "expanded desktop has no horizontal overflow",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
       "name": "search filter result",
       "passed": true,
       "value": 1,
       "expected": 1
+    },
+    {
+      "name": "Kaashif matchup is Take and Hold mirror",
+      "passed": true,
+      "value": "Take and Hold vs Take and Hold",
+      "expected": "Take and Hold vs Take and Hold"
     },
     {
       "name": "route m3WkBIscvIfD",
@@ -291,6 +327,18 @@
     },
     {
       "name": "mobile dropdown has rules metadata links",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "mobile dropdown has three side-by-side layouts",
+      "passed": true,
+      "value": 3,
+      "expected": 3
+    },
+    {
+      "name": "mobile expanded dropdown has no horizontal overflow",
       "passed": true,
       "value": true,
       "expected": true
