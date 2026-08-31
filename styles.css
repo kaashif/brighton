@@ -18,11 +18,12 @@ a { color: var(--link); }
 .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
 
 .site-header { border-bottom: 1px solid var(--border); }
-.site-header__inner { display: flex; align-items: end; justify-content: space-between; gap: 24px; width: min(960px, calc(100% - 32px)); margin: auto; padding: 28px 0; }
+.site-header__inner { width: min(960px, calc(100% - 32px)); margin: auto; padding: 28px 0; }
 .site-header h1 { margin: 0; font-size: clamp(1.65rem, 4vw, 2.35rem); line-height: 1.2; letter-spacing: -.025em; }
 .site-header p { margin: 10px 0 4px; color: var(--muted); line-height: 1.5; }
 .site-header a { font-size: .9rem; }
-.perspective-picker { flex: 0 0 260px; display: grid; gap: 4px; border-left: 1px solid var(--border); padding-left: 18px; }
+.perspective-bar { position: sticky; top: 0; z-index: 20; display: flex; justify-content: flex-end; border-bottom: 1px solid var(--border); background: rgba(255,255,255,.97); padding: 8px max(16px, calc((100% - 960px) / 2)); }
+.perspective-picker { display: grid; grid-template-columns: auto 280px auto; align-items: center; gap: 8px; }
 .perspective-picker span, .perspective-picker small { color: var(--muted); font-size: .72rem; }
 .perspective-picker select { width: 100%; min-height: 38px; border: 1px solid var(--border); border-radius: 0; background: var(--background); padding: 0 8px; color: var(--text); }
 
@@ -146,8 +147,9 @@ footer p { margin: 0; }
 }
 
 @media (max-width: 520px) {
-  .site-header__inner { align-items: stretch; flex-direction: column; gap: 16px; padding: 20px 0; }
-  .perspective-picker { flex-basis: auto; border-top: 1px solid var(--border); border-left: 0; padding-top: 12px; padding-left: 0; }
+  .site-header__inner { padding: 20px 0; }
+  .perspective-bar { padding: 7px 16px; }
+  .perspective-picker { flex: 1 1 auto; grid-template-columns: 1fr; gap: 3px; }
   main { padding-top: 16px; }
   .filters { grid-template-columns: 1fr 1fr; }
   .filters button { grid-column: 1 / -1; min-height: 38px; }

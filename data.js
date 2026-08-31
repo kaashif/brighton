@@ -2326,7 +2326,7 @@ window.BCP_DATA = {
   },
   "matchupAnalysis": {
     "schemaVersion": 1,
-    "generatedAt": "2026-08-31T14:36:29.901Z",
+    "generatedAt": "2026-08-31T15:14:41.629Z",
     "playerCount": 36,
     "entries": [
       {

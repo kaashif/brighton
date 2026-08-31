@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-31T14:36:30.356Z",
+  "checkedAt": "2026-08-31T15:14:42.077Z",
   "checks": [
     {
       "name": "desktop player count",
@@ -30,6 +30,12 @@
       "passed": true,
       "value": "zKNvC08xfWGI",
       "expected": "zKNvC08xfWGI"
+    },
+    {
+      "name": "desktop perspective bar is sticky",
+      "passed": true,
+      "value": "sticky",
+      "expected": "sticky"
     },
     {
       "name": "desktop opponent matchup links",
@@ -93,6 +99,12 @@
     },
     {
       "name": "desktop no horizontal overflow",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "desktop perspective remains on screen after scroll",
       "passed": true,
       "value": true,
       "expected": true
@@ -717,6 +729,12 @@
     },
     {
       "name": "mobile index no horizontal overflow",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "mobile perspective remains on screen after scroll",
       "passed": true,
       "value": true,
       "expected": true

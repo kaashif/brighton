@@ -37,6 +37,7 @@ try {
   record('desktop team count', await desktop.locator('.team-group').count(), 10);
   record('perspective selector has whole Kaashif team', await desktop.locator('#perspective-player option').count(), 4);
   record('Kaashif is the default perspective', await desktop.locator('#perspective-player').inputValue(), 'zKNvC08xfWGI');
+  record('desktop perspective bar is sticky', await desktop.locator('.perspective-bar').evaluate((element) => getComputedStyle(element).position), 'sticky');
   record('desktop opponent matchup links', await desktop.locator('.matchup-rating[href]').count(), 36);
   record('desktop own-team matchup labels', await desktop.locator('.matchup-rating--team').count(), 4);
   record('desktop linked rating count', await desktop.locator('.player-rating[href]').count(), 19);
@@ -48,6 +49,9 @@ try {
   record('desktop team average ranks', await desktop.locator('.team-group h2 span').allTextContents().then((items) => items.every((item) => /Avg rank (?:#[\d,]+ \/ [\d,]+|—)$/.test(item))));
   record('desktop lists grouped by team', (await desktop.locator('.team-group').count()) > 1);
   record('desktop no horizontal overflow', await desktop.evaluate(() => document.documentElement.scrollWidth <= document.documentElement.clientWidth));
+  await desktop.evaluate(() => window.scrollTo(0, document.documentElement.scrollHeight));
+  record('desktop perspective remains on screen after scroll', await desktop.locator('.perspective-bar').evaluate((element) => Math.abs(element.getBoundingClientRect().top) < 1));
+  await desktop.evaluate(() => window.scrollTo(0, 0));
   await desktop.screenshot({ path: '/tmp/brighton-lists-desktop.png', fullPage: false });
   await desktop.locator('.list-card:not(.list-card--missing) .list-card__summary').first().click();
   record('dropdown has unit links', (await desktop.locator('.list-card__content .roster-link--unit').first().count()) > 0);
@@ -111,6 +115,9 @@ try {
   record('mobile missing-list count', await mobile.locator('.list-card--missing').count(), 11);
   record('mobile matchup links remain available', await mobile.locator('.matchup-rating[href]').count(), 36);
   record('mobile index no horizontal overflow', await mobile.evaluate(() => document.documentElement.scrollWidth <= document.documentElement.clientWidth));
+  await mobile.evaluate(() => window.scrollTo(0, document.documentElement.scrollHeight));
+  record('mobile perspective remains on screen after scroll', await mobile.locator('.perspective-bar').evaluate((element) => Math.abs(element.getBoundingClientRect().top) < 1));
+  await mobile.evaluate(() => window.scrollTo(0, 0));
   await mobile.screenshot({ path: '/tmp/brighton-lists-mobile-index.png', fullPage: false });
   await mobile.locator('#perspective-player').selectOption('SlnqyU8XcuVu');
   record('mobile perspective metadata updates', await mobile.locator('#perspective-meta').textContent(), 'South London Squad · Priority Assets');
