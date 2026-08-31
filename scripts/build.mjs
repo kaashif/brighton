@@ -5,6 +5,9 @@ const root = new URL('../', import.meta.url);
 const raw = JSON.parse(await readFile(new URL('data/raw-lists.json', root), 'utf8'));
 const ratings = JSON.parse(await readFile(new URL('data/player-ratings.json', root), 'utf8'));
 const layoutReference = JSON.parse(await readFile(new URL('data/layouts.json', root), 'utf8'));
+const matchupAnalysis = JSON.parse(await readFile(new URL('data/matchup-analysis.json', root), 'utf8'));
+const cachedReferences = JSON.parse(await readFile(new URL('data/wahapedia-references.json', root), 'utf8'));
+const cachedReferencesByListId = new Map(cachedReferences.map((reference) => [reference.listId, reference]));
 const ratingsByPlayerId = new Map(ratings.players.filter((player) => player.matched).map((player) => [player.playerId, player]));
 const playersByListId = new Map(raw.roster.filter((player) => player.listId).map((player) => [player.listId, player]));
 const wahaBase = 'https://wahapedia.ru/wh40k11ed';
@@ -38,10 +41,16 @@ const cleanUnitHeading = (line) => line
   .replace(/\s+[\[(]\d+\s+(?:pts|points)[\])]\s*:?\s*$/i, '')
   .trim();
 
-async function fetchText(url) {
-  const response = await fetch(url, { headers: { 'user-agent': 'brighton-40k-list-index/1.0' } });
-  if (!response.ok) throw new Error(`${response.status} ${url}`);
-  return response.text();
+async function fetchText(url, attempt = 1) {
+  try {
+    const response = await fetch(url, { headers: { 'user-agent': 'brighton-40k-list-index/1.0' } });
+    if (!response.ok) throw new Error(`${response.status} ${url}`);
+    return await response.text();
+  } catch (error) {
+    if (attempt >= 4) throw error;
+    await new Promise((resolve) => setTimeout(resolve, 400 * attempt));
+    return fetchText(url, attempt + 1);
+  }
 }
 
 async function loadFaction(slug) {
@@ -83,9 +92,18 @@ async function loadFaction(slug) {
 const alliedSlugs = ['imperial-agents'];
 const neededSlugs = [...new Set([...raw.lists.map((list) => factionSlugs[factionName(list)]), ...alliedSlugs])];
 if (neededSlugs.includes(undefined)) throw new Error('A faction is missing from factionSlugs.');
-const factionIndexes = Object.fromEntries((await Promise.all(neededSlugs.map(loadFaction))).map((index) => [index.slug, index]));
+const factionIndexEntries = [];
+if (process.env.REFRESH_WAHA === '1') {
+  for (const slug of neededSlugs) factionIndexEntries.push(await loadFaction(slug));
+}
+const factionIndexes = Object.fromEntries(factionIndexEntries.map((index) => [index.slug, index]));
 
 function referencesFor(list) {
+  if (process.env.REFRESH_WAHA !== '1') {
+    const cached = cachedReferencesByListId.get(list.listId);
+    if (!cached) throw new Error(`No cached Wahapedia references for ${list.listId}; run npm run build:refresh.`);
+    return cached;
+  }
   const faction = factionName(list);
   const slug = factionSlugs[faction];
   const index = factionIndexes[slug];
@@ -290,7 +308,7 @@ for (const [team, players] of exportGroups) {
 }
 await writeFile(new URL('exports/README.md', root), `${exportIndex.join('\n')}\n`);
 
-const siteData = { ...raw, lists: builtLists, ratings, layoutReference };
+const siteData = { ...raw, lists: builtLists, ratings, layoutReference, matchupAnalysis };
 await writeFile(new URL('data.js', root), `window.BCP_DATA = ${JSON.stringify(siteData, null, 2)};\n`);
 await writeFile(new URL('data/wahapedia-references.json', root), `${JSON.stringify(referenceReport, null, 2)}\n`);
 console.log(`Built ${builtLists.length} player pages and ${exportRecords.length} repository exports with ${referenceReport.reduce((sum, item) => sum + item.datasheets.length, 0)} verified-name datasheet references.`);

@@ -1,27 +1,36 @@
 const data = window.BCP_DATA;
-const state = { query: '', team: '', faction: '', expanded: new Set() };
+const state = { query: '', team: '', faction: '', perspectivePlayerId: '', expanded: new Set() };
 const listsById = new Map(data.lists.map((list) => [list.listId, list]));
 const ratingsByPlayerId = new Map(data.ratings.players.filter((player) => player.matched).map((player) => [player.playerId, player]));
 const teamRatings = new Map(data.ratings.teams.map((team) => [team.team, team]));
+const matchupsByPlayerId = new Map(data.matchupAnalysis.entries.map((matchup) => [matchup.playerId, matchup]));
 const players = data.roster.map((player) => {
   const list = player.listId ? listsById.get(player.listId) : null;
   const rating = ratingsByPlayerId.get(player.playerId) || null;
   return list ? { ...player, ...list, playerId: player.playerId, hasPublishedList: true, rating } : { ...player, pagePlayer: player.player.trim(), content: '', hasPublishedList: false, rating };
 });
 const forceDispositions = ['Take and Hold', 'Disruption', 'Purge the Foe', 'Reconnaissance', 'Priority Assets'];
+const kaashif = players.find((player) => player.pagePlayer === 'Kaashif Hymabaccus');
+const ownTeam = players.filter((player) => player.team.trim() === kaashif.team.trim());
+state.perspectivePlayerId = kaashif.playerId;
 
 function forceDisposition(player) {
   return forceDispositions.find((disposition) => player.faction.endsWith(` - ${disposition}`));
 }
 
-function populateLayouts(fragment, player) {
+function populateLayouts(fragment, player, perspective) {
   const disposition = forceDisposition(player);
+  const perspectiveDisposition = forceDisposition(perspective);
   const objectiveMatchup = data.layoutReference.objectiveMatchups
-    .find((matchup) => matchup.opponentDisposition === disposition);
+    .find((matchup) => matchup.playerDisposition === perspectiveDisposition && matchup.opponentDisposition === disposition);
   const objectiveStrip = fragment.querySelector('.objective-strip');
   const strip = fragment.querySelector('.layout-strip');
   const layouts = data.layoutReference.layouts
-    .filter((layout) => layout.opponentDisposition === disposition)
+    .filter((layout) => {
+      if (perspectiveDisposition === disposition) return layout.attackerDisposition === disposition && layout.defenderDisposition === disposition;
+      return [layout.attackerDisposition, layout.defenderDisposition].includes(perspectiveDisposition)
+        && [layout.attackerDisposition, layout.defenderDisposition].includes(disposition);
+    })
     .sort((a, b) => a.variant.localeCompare(b.variant));
   if (layouts.length !== 3 || !objectiveMatchup) {
     objectiveStrip.remove();
@@ -30,7 +39,7 @@ function populateLayouts(fragment, player) {
   }
   const cards = fragment.querySelector('.objective-strip__cards');
   [
-    { owner: 'Kaashif', card: objectiveMatchup.player },
+    { owner: perspective.pagePlayer, card: objectiveMatchup.player },
     { owner: player.pagePlayer, card: objectiveMatchup.opponent },
   ].forEach(({ owner, card }) => {
     const figure = document.createElement('figure');
@@ -50,20 +59,21 @@ function populateLayouts(fragment, player) {
     figure.append(caption, image);
     cards.append(figure);
   });
-  fragment.querySelector('.layout-strip__heading').textContent = `Take and Hold vs ${disposition}`;
+  fragment.querySelector('.layout-strip__heading').textContent = `${perspectiveDisposition} vs ${disposition}`;
   const maps = fragment.querySelector('.layout-strip__maps');
   layouts.forEach((layout) => {
+    const useSuggestion = perspective.playerId === kaashif.playerId && layout.suggestedDeployment;
     const link = document.createElement('a');
     link.className = 'layout-thumbnail';
-    link.href = layout.plannerUrl;
+    link.href = useSuggestion ? layout.plannerUrl : layout.basePlannerUrl;
     link.target = '_blank';
     link.rel = 'noreferrer';
     link.setAttribute('aria-label', `Open ${layout.id} in the deployment planner`);
     const label = document.createElement('strong');
-    label.textContent = `Layout ${layout.variant}${layout.suggestedDeployment ? ' · suggested deployment' : ''}`;
+    label.textContent = `Layout ${layout.variant}${useSuggestion ? ' · suggested deployment' : ''}`;
     const image = document.createElement('img');
-    image.src = layout.asset;
-    image.alt = `${layout.variant}: Take and Hold vs ${disposition}`;
+    image.src = useSuggestion ? layout.asset : layout.baseAsset;
+    image.alt = `${layout.variant}: ${perspectiveDisposition} vs ${disposition}`;
     image.loading = 'lazy';
     image.width = 522;
     image.height = 708;
@@ -75,6 +85,8 @@ function populateLayouts(fragment, player) {
 const elements = {
   grid: document.querySelector('#list-grid'),
   template: document.querySelector('#list-template'),
+  perspective: document.querySelector('#perspective-player'),
+  perspectiveMeta: document.querySelector('#perspective-meta'),
   search: document.querySelector('#search'),
   team: document.querySelector('#team-filter'),
   faction: document.querySelector('#faction-filter'),
@@ -115,6 +127,7 @@ function setExpanded(card, open) {
 
 function render() {
   const visiblePlayers = filteredPlayers();
+  const perspective = players.find((player) => player.playerId === state.perspectivePlayerId) || kaashif;
   elements.grid.replaceChildren();
   elements.count.textContent = visiblePlayers.length;
   elements.empty.hidden = visiblePlayers.length !== 0;
@@ -159,6 +172,18 @@ function render() {
       const ratingLink = fragment.querySelector('.player-rating');
       const games = fragment.querySelector('.player-games');
       const rank = fragment.querySelector('.player-rank');
+      const matchupLink = fragment.querySelector('.matchup-rating');
+      const matchup = matchupsByPlayerId.get(list.playerId);
+      if (matchup) {
+        matchupLink.href = matchup.pageUrl;
+        matchupLink.textContent = matchup.stars;
+        matchupLink.title = `Kaashif matchup read: ${matchup.rating}/5 (${matchup.confidence.toLowerCase()} confidence)`;
+        matchupLink.setAttribute('aria-label', `Kaashif matchup read: ${matchup.rating} out of 5 stars`);
+      } else {
+        matchupLink.textContent = 'My team';
+        matchupLink.classList.add('matchup-rating--team');
+        matchupLink.removeAttribute('href');
+      }
       if (list.rating) {
         ratingLink.href = list.rating.profileUrl;
         ratingLink.textContent = `Glicko ${list.rating.rating}`;
@@ -188,7 +213,7 @@ function render() {
       fragment.querySelector('.list-card__content').innerHTML = list.linkedContent;
       fragment.querySelector('.source-link').href = list.sourceUrl;
       fragment.querySelector('.page-link').href = list.pageUrl;
-      populateLayouts(fragment, list);
+      populateLayouts(fragment, list, perspective);
 
       const summary = fragment.querySelector('.list-card__summary');
       summary.addEventListener('click', (event) => {
@@ -228,6 +253,9 @@ function clearFilters() {
 
 addOptions(elements.team, unique('team'));
 addOptions(elements.faction, unique('faction'));
+ownTeam.forEach((player) => elements.perspective.add(new Option(player.pagePlayer, player.playerId)));
+elements.perspective.value = state.perspectivePlayerId;
+elements.perspectiveMeta.textContent = `South London Squad · ${forceDisposition(kaashif)}`;
 elements.heroCount.textContent = data.count;
 document.querySelector('#event-link').href = data.eventUrl;
 document.querySelector('#footer-event-link').href = data.eventUrl;
@@ -236,6 +264,12 @@ document.querySelector('#ranked-player-count').textContent = data.ratings.ranked
 elements.search.addEventListener('input', (event) => { state.query = event.target.value; render(); });
 elements.team.addEventListener('change', (event) => { state.team = event.target.value; render(); });
 elements.faction.addEventListener('change', (event) => { state.faction = event.target.value; render(); });
+elements.perspective.addEventListener('change', (event) => {
+  state.perspectivePlayerId = event.target.value;
+  const perspective = players.find((player) => player.playerId === state.perspectivePlayerId) || kaashif;
+  elements.perspectiveMeta.textContent = `South London Squad · ${forceDisposition(perspective)}`;
+  render();
+});
 elements.clear.addEventListener('click', clearFilters);
 elements.empty.querySelector('button').addEventListener('click', clearFilters);
 elements.expandAll.addEventListener('click', () => {

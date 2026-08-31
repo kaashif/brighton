@@ -4,13 +4,15 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node scripts/build.mjs",
+    "build": "node scripts/build-matchups.mjs && node scripts/build.mjs",
+    "build:refresh": "REFRESH_WAHA=1 node scripts/build-matchups.mjs && REFRESH_WAHA=1 node scripts/build.mjs",
     "layouts": "node scripts/sync-layouts.mjs",
     "extract": "node scripts/extract.mjs",
     "ratings": "node scripts/fetch-ratings.mjs",
     "check": "node scripts/check-links.mjs",
     "check:waha": "node scripts/check-wahapedia.mjs",
     "check:waha:visual": "node scripts/spot-check-wahapedia.mjs",
+    "matchups:threats": "node scripts/fetch-matchup-threats.mjs",
     "qa": "node scripts/qa.mjs"
   },
   "devDependencies": {

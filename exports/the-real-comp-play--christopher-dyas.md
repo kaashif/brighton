@@ -1,4 +1,4 @@
-# Christopher  Dyas 
+# Christopher  Dyas
 
 - Team: The Real Comp Play
 - Faction: T'au Empire

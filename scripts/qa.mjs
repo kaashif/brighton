@@ -35,6 +35,10 @@ try {
   record('desktop player count', await desktop.locator('.list-card').count(), 40);
   record('desktop missing-list count', await desktop.locator('.list-card--missing').count(), 11);
   record('desktop team count', await desktop.locator('.team-group').count(), 10);
+  record('perspective selector has whole Kaashif team', await desktop.locator('#perspective-player option').count(), 4);
+  record('Kaashif is the default perspective', await desktop.locator('#perspective-player').inputValue(), 'zKNvC08xfWGI');
+  record('desktop opponent matchup links', await desktop.locator('.matchup-rating[href]').count(), 36);
+  record('desktop own-team matchup labels', await desktop.locator('.matchup-rating--team').count(), 4);
   record('desktop linked rating count', await desktop.locator('.player-rating[href]').count(), 19);
   record('desktop explicit unrated count', await desktop.locator('.player-rating--unrated').count(), 21);
   record('desktop player game count column', await desktop.locator('.player-games').allTextContents().then((items) => items.length === 40 && items.every((item) => /^(?:\d+ games|—)$/.test(item))));
@@ -56,9 +60,11 @@ try {
   record('all objective cards are present', await desktop.locator('.objective-card img').count(), 58);
   record('every published dropdown has layouts', await desktop.locator('.layout-strip').count(), 29);
   record('all layout thumbnails are present', await desktop.locator('.layout-thumbnail img').count(), 87);
+  record('all force-disposition layouts are available', data.layoutReference.layouts.length, 45);
+  record('all ordered objective matchups are available', data.layoutReference.objectiveMatchups.length, 25);
   record('only the vetted layout uses a suggested-deployment preview', data.layoutReference.layouts.filter((layout) => layout.suggestedDeployment).length, 1);
   const layoutAssetResponses = await Promise.all(data.layoutReference.layouts.map((layout) => desktop.request.get(`http://127.0.0.1:4173/${layout.asset}`)));
-  record('all 15 local layout assets load', layoutAssetResponses.every((response) => response.ok()));
+  record('all 45 local layout assets load', layoutAssetResponses.every((response) => response.ok()));
   const objectiveAssets = [...new Set(data.layoutReference.objectiveMatchups.flatMap((matchup) => [matchup.player.asset, matchup.opponent.asset]))];
   const objectiveAssetResponses = await Promise.all(objectiveAssets.map((asset) => desktop.request.get(`http://127.0.0.1:4173/${asset}`)));
   record('all local objective assets load', objectiveAssetResponses.every((response) => response.ok()));
@@ -70,20 +76,46 @@ try {
   record('Kaashif Layout A opens the loaded suggestion', await desktop.locator('.layout-thumbnail').first().getAttribute('href'), 'https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-take-and-hold-a&suggestion=1');
   record('Kaashif Layout A suggested preview renders', await desktop.locator('.layout-thumbnail img').first().evaluate((image) => image.complete && image.naturalWidth > 0));
   record('Kaashif mirror has two Battlefield Dominance cards', await desktop.locator('.objective-card figcaption span').allTextContents().then((items) => items.length === 2 && items.every((item) => item === 'Take and Hold — Battlefield Dominance')));
+  await desktop.locator('#perspective-player').selectOption('tLKxjlKF1ivt');
+  record('Joseph perspective switches matchup heading', await desktop.locator('.layout-strip__heading').textContent(), 'Purge the Foe vs Take and Hold');
+  record('Joseph objective switches to Unstoppable Force', await desktop.locator('.objective-card figcaption span').first().textContent(), 'Purge the Foe — Unstoppable Force');
+  record('Kaashif objective switches to Immovable Object', await desktop.locator('.objective-card figcaption span').nth(1).textContent(), 'Take and Hold — Immovable Object');
+  record('non-Kaashif perspective has three layouts', await desktop.locator('.layout-thumbnail').count(), 3);
+  record('non-Kaashif perspective does not load Kaashif suggestion', await desktop.locator('.layout-thumbnail strong').allTextContents().then((items) => items.every((item) => !item.includes('suggested deployment'))));
   await desktop.screenshot({ path: '/tmp/brighton-lists-desktop-search.png', fullPage: true });
 
   for (const list of data.lists) {
     const response = await desktop.request.get(`http://127.0.0.1:4173/${list.pageUrl}`);
     record(`route ${list.listId}`, response.ok());
   }
+  record('matchup dataset covers every opponent', data.matchupAnalysis.entries.length, 36);
+  record('matchup pages with exact-list confidence', data.matchupAnalysis.entries.filter((entry) => entry.confidence === 'High').length, 24);
+  record('provisional matchup pages', data.matchupAnalysis.entries.filter((entry) => entry.confidence === 'Low').length, 12);
+  record('matchup stars are all valid', data.matchupAnalysis.entries.every((entry) => entry.rating >= 1 && entry.rating <= 5 && entry.stars.length === 5));
+  for (const matchup of data.matchupAnalysis.entries) {
+    const response = await desktop.request.get(`http://127.0.0.1:4173/${matchup.pageUrl}`);
+    record(`matchup route ${matchup.playerId}`, response.ok());
+  }
+  await desktop.goto('http://127.0.0.1:4173/matchups/charles-bunn/', { waitUntil: 'networkidle' });
+  record('exact matchup shows threat links', (await desktop.locator('.matchup-threat a').count()) > 0);
+  record('exact matchup has high confidence label', await desktop.locator('.matchup-confidence strong').textContent(), 'High confidence.');
+  record('desktop matchup no horizontal overflow', await desktop.evaluate(() => document.documentElement.scrollWidth <= document.documentElement.clientWidth));
+  await desktop.screenshot({ path: '/tmp/brighton-matchup-desktop.png', fullPage: true });
+  await desktop.goto('http://127.0.0.1:4173/matchups/sam-cordell/', { waitUntil: 'networkidle' });
+  record('missing-list matchup is explicit', await desktop.locator('.matchup-confidence strong').textContent(), 'Low confidence.');
+  record('missing-list matchup has no invented exact threats', await desktop.locator('.matchup-threat').count(), 0);
 
   const mobile = await browser.newPage({ viewport: { width: 390, height: 844 }, deviceScaleFactor: 1 });
   await mobile.goto('http://127.0.0.1:4173/', { waitUntil: 'networkidle' });
   record('mobile player count', await mobile.locator('.list-card').count(), 40);
   record('mobile missing-list count', await mobile.locator('.list-card--missing').count(), 11);
+  record('mobile matchup links remain available', await mobile.locator('.matchup-rating[href]').count(), 36);
   record('mobile index no horizontal overflow', await mobile.evaluate(() => document.documentElement.scrollWidth <= document.documentElement.clientWidth));
   await mobile.screenshot({ path: '/tmp/brighton-lists-mobile-index.png', fullPage: false });
+  await mobile.locator('#perspective-player').selectOption('SlnqyU8XcuVu');
+  record('mobile perspective metadata updates', await mobile.locator('#perspective-meta').textContent(), 'South London Squad · Priority Assets');
   await mobile.locator('.list-card:not(.list-card--missing) .list-card__summary').first().click();
+  record('mobile layouts switch with identity', await mobile.locator('.layout-strip__heading').first().textContent(), 'Priority Assets vs Reconnaissance');
   record('mobile dropdown has unit links', (await mobile.locator('.list-card__content .roster-link--unit').count()) > 0);
   record('mobile dropdown has rules metadata links', (await mobile.locator('.list-card__content .roster-link--meta').count()) > 0);
   record('mobile roster has no nested scrollbar', await mobile.locator('.list-card__content').first().evaluate((element) => element.scrollHeight === element.clientHeight));
@@ -101,6 +133,11 @@ try {
   record('mobile detail has rules links', (await mobile.locator('.rules-panel a').count()) > 2);
   record('mobile detail no horizontal overflow', await mobile.evaluate(() => document.documentElement.scrollWidth <= document.documentElement.clientWidth));
   await mobile.screenshot({ path: '/tmp/brighton-list-detail-mobile.png', fullPage: false });
+  await mobile.goto('http://127.0.0.1:4173/matchups/david-bannister/', { waitUntil: 'networkidle' });
+  record('mobile matchup score visible', await mobile.locator('.matchup-score').isVisible());
+  record('mobile matchup threats visible', (await mobile.locator('.matchup-threat').count()) > 0);
+  record('mobile matchup no horizontal overflow', await mobile.evaluate(() => document.documentElement.scrollWidth <= document.documentElement.clientWidth));
+  await mobile.screenshot({ path: '/tmp/brighton-matchup-mobile.png', fullPage: true });
 } finally {
   await browser.close();
   await new Promise((resolve) => server.close(resolve));

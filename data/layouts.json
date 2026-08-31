@@ -2,13 +2,15 @@
   "schemaVersion": 1,
   "revision": "2026-08-26",
   "perspective": {
-    "player": "Kaashif Hymabaccus",
+    "team": "South London Squad",
+    "defaultPlayer": "Kaashif Hymabaccus",
     "forceDisposition": "Take and Hold"
   },
   "source": "https://raw.githubusercontent.com/kaashif/40k-planner/main/public/reference/11th-edition/data/event-layouts.json",
   "missionSource": "https://raw.githubusercontent.com/kaashif/40k-planner/main/public/reference/11th-edition/data/missions.json",
   "objectiveMatchups": [
     {
+      "playerDisposition": "Take and Hold",
       "opponentDisposition": "Take and Hold",
       "player": {
         "disposition": "Take and Hold",
@@ -24,21 +26,7 @@
       }
     },
     {
-      "opponentDisposition": "Disruption",
-      "player": {
-        "disposition": "Take and Hold",
-        "mission": "Determined Acquisition",
-        "asset": "assets/objectives/take-and-hold-determined-acquisition.png",
-        "sha256": "acd13db22a6803682a9ca8f36a0d9c8f965b3e151feb383271ae034f77409263"
-      },
-      "opponent": {
-        "disposition": "Disruption",
-        "mission": "Death Trap",
-        "asset": "assets/objectives/disruption-death-trap.png",
-        "sha256": "c509885f09706ee2fc3ecc3107a924692464ba7a64f5a1d3295d8da44268c368"
-      }
-    },
-    {
+      "playerDisposition": "Take and Hold",
       "opponentDisposition": "Purge the Foe",
       "player": {
         "disposition": "Take and Hold",
@@ -54,6 +42,23 @@
       }
     },
     {
+      "playerDisposition": "Take and Hold",
+      "opponentDisposition": "Disruption",
+      "player": {
+        "disposition": "Take and Hold",
+        "mission": "Determined Acquisition",
+        "asset": "assets/objectives/take-and-hold-determined-acquisition.png",
+        "sha256": "acd13db22a6803682a9ca8f36a0d9c8f965b3e151feb383271ae034f77409263"
+      },
+      "opponent": {
+        "disposition": "Disruption",
+        "mission": "Death Trap",
+        "asset": "assets/objectives/disruption-death-trap.png",
+        "sha256": "c509885f09706ee2fc3ecc3107a924692464ba7a64f5a1d3295d8da44268c368"
+      }
+    },
+    {
+      "playerDisposition": "Take and Hold",
       "opponentDisposition": "Reconnaissance",
       "player": {
         "disposition": "Take and Hold",
@@ -69,6 +74,7 @@
       }
     },
     {
+      "playerDisposition": "Take and Hold",
       "opponentDisposition": "Priority Assets",
       "player": {
         "disposition": "Take and Hold",
@@ -82,143 +88,868 @@
         "asset": "assets/objectives/priority-assets-secure-asset.png",
         "sha256": "30a909233c0fcc9b3f06cb341941de95fe3a2f226246f7ee7dc702ef5efe0958"
       }
+    },
+    {
+      "playerDisposition": "Purge the Foe",
+      "opponentDisposition": "Take and Hold",
+      "player": {
+        "disposition": "Purge the Foe",
+        "mission": "Unstoppable Force",
+        "asset": "assets/objectives/purge-the-foe-unstoppable-force.png",
+        "sha256": "3f4cb295f7ef34111989ae4c2c730fa31b4c3a1912931079c2ce539e6401ba6d"
+      },
+      "opponent": {
+        "disposition": "Take and Hold",
+        "mission": "Immovable Object",
+        "asset": "assets/objectives/take-and-hold-immovable-object.png",
+        "sha256": "f9bbf4356e5dc544065900468f3af755ecbfdd11f0823086e2fc3e055d7b6fb4"
+      }
+    },
+    {
+      "playerDisposition": "Purge the Foe",
+      "opponentDisposition": "Purge the Foe",
+      "player": {
+        "disposition": "Purge the Foe",
+        "mission": "Meatgrinder",
+        "asset": "assets/objectives/purge-the-foe-meatgrinder.png",
+        "sha256": "d4bcc1dfde2d72fb2fc31b095964d1ea7721dcd082967b0063bcfd77c9965c24"
+      },
+      "opponent": {
+        "disposition": "Purge the Foe",
+        "mission": "Meatgrinder",
+        "asset": "assets/objectives/purge-the-foe-meatgrinder.png",
+        "sha256": "d4bcc1dfde2d72fb2fc31b095964d1ea7721dcd082967b0063bcfd77c9965c24"
+      }
+    },
+    {
+      "playerDisposition": "Purge the Foe",
+      "opponentDisposition": "Disruption",
+      "player": {
+        "disposition": "Purge the Foe",
+        "mission": "Punishment",
+        "asset": "assets/objectives/purge-the-foe-punishment.png",
+        "sha256": "44bdaab0023b25ceec9666654c41041fa43b906238b79a8a1c292c9e8a059d29"
+      },
+      "opponent": {
+        "disposition": "Disruption",
+        "mission": "Delaying Action",
+        "asset": "assets/objectives/disruption-delaying-action.png",
+        "sha256": "23e2a5df6af572347f4d99ec13a8779aae8c85c957f6d24cb6b84204a44ed1f4"
+      }
+    },
+    {
+      "playerDisposition": "Purge the Foe",
+      "opponentDisposition": "Reconnaissance",
+      "player": {
+        "disposition": "Purge the Foe",
+        "mission": "Consecrate",
+        "asset": "assets/objectives/purge-the-foe-consecrate.png",
+        "sha256": "97569e0376cc199b287327ba537c81239b2c545eb49b9349ff2973acf5ed51cb"
+      },
+      "opponent": {
+        "disposition": "Reconnaissance",
+        "mission": "Triangulation",
+        "asset": "assets/objectives/reconnaissance-triangulation.png",
+        "sha256": "ce7fcec171afeab9745ec160fcc2ccbddc70b837dc90bf988eb9f94807a7602d"
+      }
+    },
+    {
+      "playerDisposition": "Purge the Foe",
+      "opponentDisposition": "Priority Assets",
+      "player": {
+        "disposition": "Purge the Foe",
+        "mission": "Destroyer's Wrath",
+        "asset": "assets/objectives/purge-the-foe-destroyers-wrath.png",
+        "sha256": "60ca2d9317944f2b9d983ef3731ebc6cee868bb63e29032ca65cd9c07102c239"
+      },
+      "opponent": {
+        "disposition": "Priority Assets",
+        "mission": "Vital Link",
+        "asset": "assets/objectives/priority-assets-vital-link.png",
+        "sha256": "9dc5da3e652dbf87587ff45f30a60929155443974e2367e853570db71c473b42"
+      }
+    },
+    {
+      "playerDisposition": "Disruption",
+      "opponentDisposition": "Take and Hold",
+      "player": {
+        "disposition": "Disruption",
+        "mission": "Death Trap",
+        "asset": "assets/objectives/disruption-death-trap.png",
+        "sha256": "c509885f09706ee2fc3ecc3107a924692464ba7a64f5a1d3295d8da44268c368"
+      },
+      "opponent": {
+        "disposition": "Take and Hold",
+        "mission": "Determined Acquisition",
+        "asset": "assets/objectives/take-and-hold-determined-acquisition.png",
+        "sha256": "acd13db22a6803682a9ca8f36a0d9c8f965b3e151feb383271ae034f77409263"
+      }
+    },
+    {
+      "playerDisposition": "Disruption",
+      "opponentDisposition": "Purge the Foe",
+      "player": {
+        "disposition": "Disruption",
+        "mission": "Delaying Action",
+        "asset": "assets/objectives/disruption-delaying-action.png",
+        "sha256": "23e2a5df6af572347f4d99ec13a8779aae8c85c957f6d24cb6b84204a44ed1f4"
+      },
+      "opponent": {
+        "disposition": "Purge the Foe",
+        "mission": "Punishment",
+        "asset": "assets/objectives/purge-the-foe-punishment.png",
+        "sha256": "44bdaab0023b25ceec9666654c41041fa43b906238b79a8a1c292c9e8a059d29"
+      }
+    },
+    {
+      "playerDisposition": "Disruption",
+      "opponentDisposition": "Disruption",
+      "player": {
+        "disposition": "Disruption",
+        "mission": "Outmanoeuvre",
+        "asset": "assets/objectives/disruption-outmanoeuvre.png",
+        "sha256": "5e6d5e136c70fc8ac60891ad15a91ac4f40954147144f98bea0e97c31b16abae"
+      },
+      "opponent": {
+        "disposition": "Disruption",
+        "mission": "Outmanoeuvre",
+        "asset": "assets/objectives/disruption-outmanoeuvre.png",
+        "sha256": "5e6d5e136c70fc8ac60891ad15a91ac4f40954147144f98bea0e97c31b16abae"
+      }
+    },
+    {
+      "playerDisposition": "Disruption",
+      "opponentDisposition": "Reconnaissance",
+      "player": {
+        "disposition": "Disruption",
+        "mission": "Smoke and Mirrors",
+        "asset": "assets/objectives/disruption-smoke-and-mirrors.png",
+        "sha256": "a68c7e1adc8186e8ca82d94d8c2b9ffa56e7a2502a6ae554ca90f1a67f31cdb4"
+      },
+      "opponent": {
+        "disposition": "Reconnaissance",
+        "mission": "Surveil the Foe",
+        "asset": "assets/objectives/reconnaissance-surveil-the-foe.png",
+        "sha256": "1325a46ad9666f7a0673c5232a5ff00cbc86632041650d1f43aabb10cb71206a"
+      }
+    },
+    {
+      "playerDisposition": "Disruption",
+      "opponentDisposition": "Priority Assets",
+      "player": {
+        "disposition": "Disruption",
+        "mission": "Locate and Deny",
+        "asset": "assets/objectives/disruption-locate-and-deny.png",
+        "sha256": "3f3778bcd75b4cf0134283a13a05fb1959b1ada57a8a00d5768b3edf16cbeb28"
+      },
+      "opponent": {
+        "disposition": "Priority Assets",
+        "mission": "Extract Relic",
+        "asset": "assets/objectives/priority-assets-extract-relic.png",
+        "sha256": "49c5c53921d482bf04e33efdf8c4e9b50b1c16a41c21a306e26460614f3405aa"
+      }
+    },
+    {
+      "playerDisposition": "Reconnaissance",
+      "opponentDisposition": "Take and Hold",
+      "player": {
+        "disposition": "Reconnaissance",
+        "mission": "Reconnaissance Sweep",
+        "asset": "assets/objectives/reconnaissance-reconnaissance-sweep.png",
+        "sha256": "35fc63e07d92543705ae85bc21412e27675aa209caf73d16b4d2f2092fcfaef1"
+      },
+      "opponent": {
+        "disposition": "Take and Hold",
+        "mission": "Purge and Secure",
+        "asset": "assets/objectives/take-and-hold-purge-and-secure.png",
+        "sha256": "c335482bb5707ed683c1af036083da6944e3838364ce9cc9d68382efea55c7f1"
+      }
+    },
+    {
+      "playerDisposition": "Reconnaissance",
+      "opponentDisposition": "Purge the Foe",
+      "player": {
+        "disposition": "Reconnaissance",
+        "mission": "Triangulation",
+        "asset": "assets/objectives/reconnaissance-triangulation.png",
+        "sha256": "ce7fcec171afeab9745ec160fcc2ccbddc70b837dc90bf988eb9f94807a7602d"
+      },
+      "opponent": {
+        "disposition": "Purge the Foe",
+        "mission": "Consecrate",
+        "asset": "assets/objectives/purge-the-foe-consecrate.png",
+        "sha256": "97569e0376cc199b287327ba537c81239b2c545eb49b9349ff2973acf5ed51cb"
+      }
+    },
+    {
+      "playerDisposition": "Reconnaissance",
+      "opponentDisposition": "Disruption",
+      "player": {
+        "disposition": "Reconnaissance",
+        "mission": "Surveil the Foe",
+        "asset": "assets/objectives/reconnaissance-surveil-the-foe.png",
+        "sha256": "1325a46ad9666f7a0673c5232a5ff00cbc86632041650d1f43aabb10cb71206a"
+      },
+      "opponent": {
+        "disposition": "Disruption",
+        "mission": "Smoke and Mirrors",
+        "asset": "assets/objectives/disruption-smoke-and-mirrors.png",
+        "sha256": "a68c7e1adc8186e8ca82d94d8c2b9ffa56e7a2502a6ae554ca90f1a67f31cdb4"
+      }
+    },
+    {
+      "playerDisposition": "Reconnaissance",
+      "opponentDisposition": "Reconnaissance",
+      "player": {
+        "disposition": "Reconnaissance",
+        "mission": "Gather Intel",
+        "asset": "assets/objectives/reconnaissance-gather-intel.png",
+        "sha256": "740896f381775ca5a865afb1fb06e145d772c066cbfd671ae956354515f47043"
+      },
+      "opponent": {
+        "disposition": "Reconnaissance",
+        "mission": "Gather Intel",
+        "asset": "assets/objectives/reconnaissance-gather-intel.png",
+        "sha256": "740896f381775ca5a865afb1fb06e145d772c066cbfd671ae956354515f47043"
+      }
+    },
+    {
+      "playerDisposition": "Reconnaissance",
+      "opponentDisposition": "Priority Assets",
+      "player": {
+        "disposition": "Reconnaissance",
+        "mission": "Search and Scour",
+        "asset": "assets/objectives/reconnaissance-search-and-scour.png",
+        "sha256": "b901d46856f5d6172198d5e74aacf48eee5156b109a9ea59822a819e3cf4fea7"
+      },
+      "opponent": {
+        "disposition": "Priority Assets",
+        "mission": "Vanguard Operation",
+        "asset": "assets/objectives/priority-assets-vanguard-operation.png",
+        "sha256": "c228b3b0b52d37217acd06fa3b53802f8c63d54a00616263ae854ca54ad31ae4"
+      }
+    },
+    {
+      "playerDisposition": "Priority Assets",
+      "opponentDisposition": "Take and Hold",
+      "player": {
+        "disposition": "Priority Assets",
+        "mission": "Secure Asset",
+        "asset": "assets/objectives/priority-assets-secure-asset.png",
+        "sha256": "30a909233c0fcc9b3f06cb341941de95fe3a2f226246f7ee7dc702ef5efe0958"
+      },
+      "opponent": {
+        "disposition": "Take and Hold",
+        "mission": "Inescapable Dominion",
+        "asset": "assets/objectives/take-and-hold-inescapable-dominion.png",
+        "sha256": "db59b7424e853deb9e5b23ad1825dc6d483a92c5da51107d44fc4d9c030210ad"
+      }
+    },
+    {
+      "playerDisposition": "Priority Assets",
+      "opponentDisposition": "Purge the Foe",
+      "player": {
+        "disposition": "Priority Assets",
+        "mission": "Vital Link",
+        "asset": "assets/objectives/priority-assets-vital-link.png",
+        "sha256": "9dc5da3e652dbf87587ff45f30a60929155443974e2367e853570db71c473b42"
+      },
+      "opponent": {
+        "disposition": "Purge the Foe",
+        "mission": "Destroyer's Wrath",
+        "asset": "assets/objectives/purge-the-foe-destroyers-wrath.png",
+        "sha256": "60ca2d9317944f2b9d983ef3731ebc6cee868bb63e29032ca65cd9c07102c239"
+      }
+    },
+    {
+      "playerDisposition": "Priority Assets",
+      "opponentDisposition": "Disruption",
+      "player": {
+        "disposition": "Priority Assets",
+        "mission": "Extract Relic",
+        "asset": "assets/objectives/priority-assets-extract-relic.png",
+        "sha256": "49c5c53921d482bf04e33efdf8c4e9b50b1c16a41c21a306e26460614f3405aa"
+      },
+      "opponent": {
+        "disposition": "Disruption",
+        "mission": "Locate and Deny",
+        "asset": "assets/objectives/disruption-locate-and-deny.png",
+        "sha256": "3f3778bcd75b4cf0134283a13a05fb1959b1ada57a8a00d5768b3edf16cbeb28"
+      }
+    },
+    {
+      "playerDisposition": "Priority Assets",
+      "opponentDisposition": "Reconnaissance",
+      "player": {
+        "disposition": "Priority Assets",
+        "mission": "Vanguard Operation",
+        "asset": "assets/objectives/priority-assets-vanguard-operation.png",
+        "sha256": "c228b3b0b52d37217acd06fa3b53802f8c63d54a00616263ae854ca54ad31ae4"
+      },
+      "opponent": {
+        "disposition": "Reconnaissance",
+        "mission": "Search and Scour",
+        "asset": "assets/objectives/reconnaissance-search-and-scour.png",
+        "sha256": "b901d46856f5d6172198d5e74aacf48eee5156b109a9ea59822a819e3cf4fea7"
+      }
+    },
+    {
+      "playerDisposition": "Priority Assets",
+      "opponentDisposition": "Priority Assets",
+      "player": {
+        "disposition": "Priority Assets",
+        "mission": "Sabotage",
+        "asset": "assets/objectives/priority-assets-sabotage.png",
+        "sha256": "f3ee997c3749996e4bf24c2618890bc1eb4e5701e636b90a9c9213741151cce0"
+      },
+      "opponent": {
+        "disposition": "Priority Assets",
+        "mission": "Sabotage",
+        "asset": "assets/objectives/priority-assets-sabotage.png",
+        "sha256": "f3ee997c3749996e4bf24c2618890bc1eb4e5701e636b90a9c9213741151cce0"
+      }
     }
   ],
   "layouts": [
     {
       "id": "take-and-hold-vs-take-and-hold-a",
       "variant": "A",
-      "opponentDisposition": "Take and Hold",
+      "attackerDisposition": "Take and Hold",
+      "defenderDisposition": "Take and Hold",
       "asset": "assets/layouts/take-and-hold-vs-take-and-hold-a-suggested.svg",
+      "baseAsset": "assets/layouts/take-and-hold-vs-take-and-hold-a.jpg",
       "suggestedDeployment": true,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-take-and-hold-a",
       "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-take-and-hold-a&suggestion=1",
-      "sha256": "d75d4bdcde8c006a3e805113b13eba7fc098545ee07ad5ac394ee7ca4f6513c4"
+      "sha256": "529143b252f4284fce0c2c7b5985b4d817b223cf49bf149361a4ad1c7bfa102a"
     },
     {
       "id": "take-and-hold-vs-take-and-hold-b",
       "variant": "B",
-      "opponentDisposition": "Take and Hold",
+      "attackerDisposition": "Take and Hold",
+      "defenderDisposition": "Take and Hold",
       "asset": "assets/layouts/take-and-hold-vs-take-and-hold-b.jpg",
+      "baseAsset": "assets/layouts/take-and-hold-vs-take-and-hold-b.jpg",
       "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-take-and-hold-b",
       "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-take-and-hold-b",
       "sha256": "7bd39e990bb1f415cf76112e624fefff0c0182d80426cf1d4f9ce119a05baa33"
     },
     {
       "id": "take-and-hold-vs-take-and-hold-c",
       "variant": "C",
-      "opponentDisposition": "Take and Hold",
+      "attackerDisposition": "Take and Hold",
+      "defenderDisposition": "Take and Hold",
       "asset": "assets/layouts/take-and-hold-vs-take-and-hold-c.jpg",
+      "baseAsset": "assets/layouts/take-and-hold-vs-take-and-hold-c.jpg",
       "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-take-and-hold-c",
       "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-take-and-hold-c",
       "sha256": "8e931b7bea94abed8da65912462b13e4bc4502471e998e1fc54aea7eb473a80b"
     },
     {
       "id": "take-and-hold-vs-purge-the-foe-a",
       "variant": "A",
-      "opponentDisposition": "Purge the Foe",
+      "attackerDisposition": "Take and Hold",
+      "defenderDisposition": "Purge the Foe",
       "asset": "assets/layouts/take-and-hold-vs-purge-the-foe-a.jpg",
+      "baseAsset": "assets/layouts/take-and-hold-vs-purge-the-foe-a.jpg",
       "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-purge-the-foe-a",
       "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-purge-the-foe-a",
       "sha256": "688b1da3f62ea623e94d179f52737f9906657729ea6af46a5c105098501b3af7"
     },
     {
       "id": "take-and-hold-vs-purge-the-foe-b",
       "variant": "B",
-      "opponentDisposition": "Purge the Foe",
+      "attackerDisposition": "Take and Hold",
+      "defenderDisposition": "Purge the Foe",
       "asset": "assets/layouts/take-and-hold-vs-purge-the-foe-b.jpg",
+      "baseAsset": "assets/layouts/take-and-hold-vs-purge-the-foe-b.jpg",
       "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-purge-the-foe-b",
       "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-purge-the-foe-b",
       "sha256": "a27e006b9cff8374fee754ef03d26788afd24a1abfc44c7af11fc5b766d1a175"
     },
     {
       "id": "take-and-hold-vs-purge-the-foe-c",
       "variant": "C",
-      "opponentDisposition": "Purge the Foe",
+      "attackerDisposition": "Take and Hold",
+      "defenderDisposition": "Purge the Foe",
       "asset": "assets/layouts/take-and-hold-vs-purge-the-foe-c.jpg",
+      "baseAsset": "assets/layouts/take-and-hold-vs-purge-the-foe-c.jpg",
       "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-purge-the-foe-c",
       "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-purge-the-foe-c",
       "sha256": "272df78e4a1f5644a69e7f976afd9a5f6452930d18454b216869458614c0bf27"
     },
     {
       "id": "take-and-hold-vs-disruption-a",
       "variant": "A",
-      "opponentDisposition": "Disruption",
+      "attackerDisposition": "Take and Hold",
+      "defenderDisposition": "Disruption",
       "asset": "assets/layouts/take-and-hold-vs-disruption-a.jpg",
+      "baseAsset": "assets/layouts/take-and-hold-vs-disruption-a.jpg",
       "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-disruption-a",
       "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-disruption-a",
       "sha256": "04fc547b33212f1c134445c190b953e40b2901fe5a8296f23a10e3aa894c7353"
     },
     {
       "id": "take-and-hold-vs-disruption-b",
       "variant": "B",
-      "opponentDisposition": "Disruption",
+      "attackerDisposition": "Take and Hold",
+      "defenderDisposition": "Disruption",
       "asset": "assets/layouts/take-and-hold-vs-disruption-b.jpg",
+      "baseAsset": "assets/layouts/take-and-hold-vs-disruption-b.jpg",
       "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-disruption-b",
       "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-disruption-b",
       "sha256": "05e0b447ab7269d74a6b92b6d31af94c3d91d2b1cfc000a2ac9dadc03c00688a"
     },
     {
       "id": "take-and-hold-vs-disruption-c",
       "variant": "C",
-      "opponentDisposition": "Disruption",
+      "attackerDisposition": "Take and Hold",
+      "defenderDisposition": "Disruption",
       "asset": "assets/layouts/take-and-hold-vs-disruption-c.jpg",
+      "baseAsset": "assets/layouts/take-and-hold-vs-disruption-c.jpg",
       "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-disruption-c",
       "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-disruption-c",
       "sha256": "6dbce99ead24f2a911ebddfc2455a143b6766ac47f09cba8426554384076ce7e"
     },
     {
       "id": "take-and-hold-vs-reconnaissance-a",
       "variant": "A",
-      "opponentDisposition": "Reconnaissance",
+      "attackerDisposition": "Take and Hold",
+      "defenderDisposition": "Reconnaissance",
       "asset": "assets/layouts/take-and-hold-vs-reconnaissance-a.jpg",
+      "baseAsset": "assets/layouts/take-and-hold-vs-reconnaissance-a.jpg",
       "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-reconnaissance-a",
       "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-reconnaissance-a",
       "sha256": "40f4a51ca4e7a32b24111d26bef6807ca60cbe1416e557b89e822cdf9a5ade29"
     },
     {
       "id": "take-and-hold-vs-reconnaissance-b",
       "variant": "B",
-      "opponentDisposition": "Reconnaissance",
+      "attackerDisposition": "Take and Hold",
+      "defenderDisposition": "Reconnaissance",
       "asset": "assets/layouts/take-and-hold-vs-reconnaissance-b.jpg",
+      "baseAsset": "assets/layouts/take-and-hold-vs-reconnaissance-b.jpg",
       "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-reconnaissance-b",
       "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-reconnaissance-b",
       "sha256": "13a1488fe665196b324f1fe8a501f3ced228ad90a754721c9e1e2c3d3f81db1f"
     },
     {
       "id": "take-and-hold-vs-reconnaissance-c",
       "variant": "C",
-      "opponentDisposition": "Reconnaissance",
+      "attackerDisposition": "Take and Hold",
+      "defenderDisposition": "Reconnaissance",
       "asset": "assets/layouts/take-and-hold-vs-reconnaissance-c.jpg",
+      "baseAsset": "assets/layouts/take-and-hold-vs-reconnaissance-c.jpg",
       "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-reconnaissance-c",
       "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-reconnaissance-c",
       "sha256": "5a0586ac33f8fae3766c6a218bf1b91e9aecd7457bcfa40fa3e3ec74d40ee851"
     },
     {
       "id": "take-and-hold-vs-priority-assets-a",
       "variant": "A",
-      "opponentDisposition": "Priority Assets",
+      "attackerDisposition": "Take and Hold",
+      "defenderDisposition": "Priority Assets",
       "asset": "assets/layouts/take-and-hold-vs-priority-assets-a.jpg",
+      "baseAsset": "assets/layouts/take-and-hold-vs-priority-assets-a.jpg",
       "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-priority-assets-a",
       "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-priority-assets-a",
       "sha256": "12ac579f7185ecf353aa7951994fa27b6711f42c77c6a1a5c49a2be271c802e5"
     },
     {
       "id": "take-and-hold-vs-priority-assets-b",
       "variant": "B",
-      "opponentDisposition": "Priority Assets",
+      "attackerDisposition": "Take and Hold",
+      "defenderDisposition": "Priority Assets",
       "asset": "assets/layouts/take-and-hold-vs-priority-assets-b.jpg",
+      "baseAsset": "assets/layouts/take-and-hold-vs-priority-assets-b.jpg",
       "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-priority-assets-b",
       "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-priority-assets-b",
       "sha256": "8f3695ac2e4caba6d298b5b74530fcba2a35f84ecf1ee811dbdb884587de8ad5"
     },
     {
       "id": "take-and-hold-vs-priority-assets-c",
       "variant": "C",
-      "opponentDisposition": "Priority Assets",
+      "attackerDisposition": "Take and Hold",
+      "defenderDisposition": "Priority Assets",
       "asset": "assets/layouts/take-and-hold-vs-priority-assets-c.jpg",
+      "baseAsset": "assets/layouts/take-and-hold-vs-priority-assets-c.jpg",
       "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-priority-assets-c",
       "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-priority-assets-c",
       "sha256": "16f78dab25ce8671528d7960547268a786b6fd361a7db20a225fbd85da8a93bc"
+    },
+    {
+      "id": "purge-the-foe-vs-purge-the-foe-a",
+      "variant": "A",
+      "attackerDisposition": "Purge the Foe",
+      "defenderDisposition": "Purge the Foe",
+      "asset": "assets/layouts/purge-the-foe-vs-purge-the-foe-a.jpg",
+      "baseAsset": "assets/layouts/purge-the-foe-vs-purge-the-foe-a.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-purge-the-foe-a",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-purge-the-foe-a",
+      "sha256": "3b33586d52141b81eaf5e55532fa0bc310b4e6eed3c46ae86146375887af56c2"
+    },
+    {
+      "id": "purge-the-foe-vs-purge-the-foe-b",
+      "variant": "B",
+      "attackerDisposition": "Purge the Foe",
+      "defenderDisposition": "Purge the Foe",
+      "asset": "assets/layouts/purge-the-foe-vs-purge-the-foe-b.jpg",
+      "baseAsset": "assets/layouts/purge-the-foe-vs-purge-the-foe-b.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-purge-the-foe-b",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-purge-the-foe-b",
+      "sha256": "8f92156ab01c74d9310e6bf5a60241bb95b10b2ede07a22618f88ddb3373da6c"
+    },
+    {
+      "id": "purge-the-foe-vs-purge-the-foe-c",
+      "variant": "C",
+      "attackerDisposition": "Purge the Foe",
+      "defenderDisposition": "Purge the Foe",
+      "asset": "assets/layouts/purge-the-foe-vs-purge-the-foe-c.jpg",
+      "baseAsset": "assets/layouts/purge-the-foe-vs-purge-the-foe-c.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-purge-the-foe-c",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-purge-the-foe-c",
+      "sha256": "8c2c02887c2830d5e7306eb4826e60546643869df2c41e18990c41d2646182e5"
+    },
+    {
+      "id": "purge-the-foe-vs-disruption-a",
+      "variant": "A",
+      "attackerDisposition": "Purge the Foe",
+      "defenderDisposition": "Disruption",
+      "asset": "assets/layouts/purge-the-foe-vs-disruption-a.jpg",
+      "baseAsset": "assets/layouts/purge-the-foe-vs-disruption-a.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-disruption-a",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-disruption-a",
+      "sha256": "1f9bddb942ae5b8d03bbac9744ce2ae2a17b2cd957ee8b30ea040ffb45d91dab"
+    },
+    {
+      "id": "purge-the-foe-vs-disruption-b",
+      "variant": "B",
+      "attackerDisposition": "Purge the Foe",
+      "defenderDisposition": "Disruption",
+      "asset": "assets/layouts/purge-the-foe-vs-disruption-b.jpg",
+      "baseAsset": "assets/layouts/purge-the-foe-vs-disruption-b.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-disruption-b",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-disruption-b",
+      "sha256": "f565bfda7fdf96bc67636cc96d0fbdb78c81923f7a923444785923221ce40353"
+    },
+    {
+      "id": "purge-the-foe-vs-disruption-c",
+      "variant": "C",
+      "attackerDisposition": "Purge the Foe",
+      "defenderDisposition": "Disruption",
+      "asset": "assets/layouts/purge-the-foe-vs-disruption-c.jpg",
+      "baseAsset": "assets/layouts/purge-the-foe-vs-disruption-c.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-disruption-c",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-disruption-c",
+      "sha256": "7999116f00da8b032707dd8476cd71589eceef89000217e9cee9855700a4ba99"
+    },
+    {
+      "id": "purge-the-foe-vs-reconnaissance-a",
+      "variant": "A",
+      "attackerDisposition": "Purge the Foe",
+      "defenderDisposition": "Reconnaissance",
+      "asset": "assets/layouts/purge-the-foe-vs-reconnaissance-a.jpg",
+      "baseAsset": "assets/layouts/purge-the-foe-vs-reconnaissance-a.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-reconnaissance-a",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-reconnaissance-a",
+      "sha256": "9c34f0b69f8c0bd4a109bb6a48ef398dac8b6e1f2233906bd7fb6bbed90ca872"
+    },
+    {
+      "id": "purge-the-foe-vs-reconnaissance-b",
+      "variant": "B",
+      "attackerDisposition": "Purge the Foe",
+      "defenderDisposition": "Reconnaissance",
+      "asset": "assets/layouts/purge-the-foe-vs-reconnaissance-b.jpg",
+      "baseAsset": "assets/layouts/purge-the-foe-vs-reconnaissance-b.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-reconnaissance-b",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-reconnaissance-b",
+      "sha256": "8c0075c013ffdc749a450a3691213b1bcb50e201d21fc49c24beec23581da74b"
+    },
+    {
+      "id": "purge-the-foe-vs-reconnaissance-c",
+      "variant": "C",
+      "attackerDisposition": "Purge the Foe",
+      "defenderDisposition": "Reconnaissance",
+      "asset": "assets/layouts/purge-the-foe-vs-reconnaissance-c.jpg",
+      "baseAsset": "assets/layouts/purge-the-foe-vs-reconnaissance-c.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-reconnaissance-c",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-reconnaissance-c",
+      "sha256": "08e0019c0025f5384a76fa282c9c41ab4782f396e0574b48c3c54901c4948821"
+    },
+    {
+      "id": "purge-the-foe-vs-priority-assets-a",
+      "variant": "A",
+      "attackerDisposition": "Purge the Foe",
+      "defenderDisposition": "Priority Assets",
+      "asset": "assets/layouts/purge-the-foe-vs-priority-assets-a.jpg",
+      "baseAsset": "assets/layouts/purge-the-foe-vs-priority-assets-a.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-priority-assets-a",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-priority-assets-a",
+      "sha256": "04bc39e348714bc4e61fb15cb960847f663c8f6de5af6bac384dddfe5481b0ae"
+    },
+    {
+      "id": "purge-the-foe-vs-priority-assets-b",
+      "variant": "B",
+      "attackerDisposition": "Purge the Foe",
+      "defenderDisposition": "Priority Assets",
+      "asset": "assets/layouts/purge-the-foe-vs-priority-assets-b.jpg",
+      "baseAsset": "assets/layouts/purge-the-foe-vs-priority-assets-b.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-priority-assets-b",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-priority-assets-b",
+      "sha256": "1d4987e35be17a1bf6275672c1bfb53598d996a59aee5f0ce520c844b37f8617"
+    },
+    {
+      "id": "purge-the-foe-vs-priority-assets-c",
+      "variant": "C",
+      "attackerDisposition": "Purge the Foe",
+      "defenderDisposition": "Priority Assets",
+      "asset": "assets/layouts/purge-the-foe-vs-priority-assets-c.jpg",
+      "baseAsset": "assets/layouts/purge-the-foe-vs-priority-assets-c.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-priority-assets-c",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-priority-assets-c",
+      "sha256": "72a64eebb79a7e4ed29f87c1af9a4ce3b545cae0f525bb15dd56a8f33d7a5330"
+    },
+    {
+      "id": "disruption-vs-disruption-a",
+      "variant": "A",
+      "attackerDisposition": "Disruption",
+      "defenderDisposition": "Disruption",
+      "asset": "assets/layouts/disruption-vs-disruption-a.jpg",
+      "baseAsset": "assets/layouts/disruption-vs-disruption-a.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=disruption-vs-disruption-a",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=disruption-vs-disruption-a",
+      "sha256": "4ae79b649ab399f68ff13e697ff650838b9e6f22f5e91a06e07ad535fa17d0e3"
+    },
+    {
+      "id": "disruption-vs-disruption-b",
+      "variant": "B",
+      "attackerDisposition": "Disruption",
+      "defenderDisposition": "Disruption",
+      "asset": "assets/layouts/disruption-vs-disruption-b.jpg",
+      "baseAsset": "assets/layouts/disruption-vs-disruption-b.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=disruption-vs-disruption-b",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=disruption-vs-disruption-b",
+      "sha256": "901775d6bf184c3b9102427b05f3bf16cd08a4e714183c8a6aa4cd5bd123cef6"
+    },
+    {
+      "id": "disruption-vs-disruption-c",
+      "variant": "C",
+      "attackerDisposition": "Disruption",
+      "defenderDisposition": "Disruption",
+      "asset": "assets/layouts/disruption-vs-disruption-c.jpg",
+      "baseAsset": "assets/layouts/disruption-vs-disruption-c.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=disruption-vs-disruption-c",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=disruption-vs-disruption-c",
+      "sha256": "3a8061832bc35f95e1246e50316f2cbf28034234381b80b03336717638b1b491"
+    },
+    {
+      "id": "disruption-vs-reconnaissance-a",
+      "variant": "A",
+      "attackerDisposition": "Disruption",
+      "defenderDisposition": "Reconnaissance",
+      "asset": "assets/layouts/disruption-vs-reconnaissance-a.jpg",
+      "baseAsset": "assets/layouts/disruption-vs-reconnaissance-a.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=disruption-vs-reconnaissance-a",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=disruption-vs-reconnaissance-a",
+      "sha256": "faeedd2c4b6a668c2362e3639f502b0b3b13862af5d22b062f6811db5d8c4a82"
+    },
+    {
+      "id": "disruption-vs-reconnaissance-b",
+      "variant": "B",
+      "attackerDisposition": "Disruption",
+      "defenderDisposition": "Reconnaissance",
+      "asset": "assets/layouts/disruption-vs-reconnaissance-b.jpg",
+      "baseAsset": "assets/layouts/disruption-vs-reconnaissance-b.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=disruption-vs-reconnaissance-b",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=disruption-vs-reconnaissance-b",
+      "sha256": "f15e68dfd3b92ba4bbd9577ab558924fd169b58d747f5002a412c9637ad0976c"
+    },
+    {
+      "id": "disruption-vs-reconnaissance-c",
+      "variant": "C",
+      "attackerDisposition": "Disruption",
+      "defenderDisposition": "Reconnaissance",
+      "asset": "assets/layouts/disruption-vs-reconnaissance-c.jpg",
+      "baseAsset": "assets/layouts/disruption-vs-reconnaissance-c.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=disruption-vs-reconnaissance-c",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=disruption-vs-reconnaissance-c",
+      "sha256": "3db8c5b9b012c104409837234550671977cc6c7eb93d9e8f12adb2db80c3d891"
+    },
+    {
+      "id": "disruption-vs-priority-assets-a",
+      "variant": "A",
+      "attackerDisposition": "Disruption",
+      "defenderDisposition": "Priority Assets",
+      "asset": "assets/layouts/disruption-vs-priority-assets-a.jpg",
+      "baseAsset": "assets/layouts/disruption-vs-priority-assets-a.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=disruption-vs-priority-assets-a",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=disruption-vs-priority-assets-a",
+      "sha256": "d146cf433cae168dd4a04845b15768359a6e69e4fc514a9ca732b8e28be333fe"
+    },
+    {
+      "id": "disruption-vs-priority-assets-b",
+      "variant": "B",
+      "attackerDisposition": "Disruption",
+      "defenderDisposition": "Priority Assets",
+      "asset": "assets/layouts/disruption-vs-priority-assets-b.jpg",
+      "baseAsset": "assets/layouts/disruption-vs-priority-assets-b.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=disruption-vs-priority-assets-b",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=disruption-vs-priority-assets-b",
+      "sha256": "9767ebee32eeb43aec1ea22be256bd83c338eaa0878956dcb8aa5988f833761f"
+    },
+    {
+      "id": "disruption-vs-priority-assets-c",
+      "variant": "C",
+      "attackerDisposition": "Disruption",
+      "defenderDisposition": "Priority Assets",
+      "asset": "assets/layouts/disruption-vs-priority-assets-c.jpg",
+      "baseAsset": "assets/layouts/disruption-vs-priority-assets-c.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=disruption-vs-priority-assets-c",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=disruption-vs-priority-assets-c",
+      "sha256": "c54bb22d4854227f79820a78abc57a35091e303a5d1b740de063ec763d71f9ab"
+    },
+    {
+      "id": "reconnaissance-vs-reconnaissance-a",
+      "variant": "A",
+      "attackerDisposition": "Reconnaissance",
+      "defenderDisposition": "Reconnaissance",
+      "asset": "assets/layouts/reconnaissance-vs-reconnaissance-a.jpg",
+      "baseAsset": "assets/layouts/reconnaissance-vs-reconnaissance-a.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=reconnaissance-vs-reconnaissance-a",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=reconnaissance-vs-reconnaissance-a",
+      "sha256": "abe14a31f52f3ec662c8eb21e6026fd2145b91cd160a6aa482fcc5a4e1a98572"
+    },
+    {
+      "id": "reconnaissance-vs-reconnaissance-b",
+      "variant": "B",
+      "attackerDisposition": "Reconnaissance",
+      "defenderDisposition": "Reconnaissance",
+      "asset": "assets/layouts/reconnaissance-vs-reconnaissance-b.jpg",
+      "baseAsset": "assets/layouts/reconnaissance-vs-reconnaissance-b.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=reconnaissance-vs-reconnaissance-b",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=reconnaissance-vs-reconnaissance-b",
+      "sha256": "3f63c2f5d5449af72e46731cfcc99af42c26f5518a9e4c7b8098d822a757771d"
+    },
+    {
+      "id": "reconnaissance-vs-reconnaissance-c",
+      "variant": "C",
+      "attackerDisposition": "Reconnaissance",
+      "defenderDisposition": "Reconnaissance",
+      "asset": "assets/layouts/reconnaissance-vs-reconnaissance-c.jpg",
+      "baseAsset": "assets/layouts/reconnaissance-vs-reconnaissance-c.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=reconnaissance-vs-reconnaissance-c",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=reconnaissance-vs-reconnaissance-c",
+      "sha256": "009d7f1b8a2c7791e8930823ff7e26225e2be73423f056f6150ce081224fb157"
+    },
+    {
+      "id": "reconnaissance-vs-priority-assets-a",
+      "variant": "A",
+      "attackerDisposition": "Reconnaissance",
+      "defenderDisposition": "Priority Assets",
+      "asset": "assets/layouts/reconnaissance-vs-priority-assets-a.jpg",
+      "baseAsset": "assets/layouts/reconnaissance-vs-priority-assets-a.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=reconnaissance-vs-priority-assets-a",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=reconnaissance-vs-priority-assets-a",
+      "sha256": "e08d51afa5f881132568e1d999e5481170dbca53d8ed8fc40920ad4ca2d33676"
+    },
+    {
+      "id": "reconnaissance-vs-priority-assets-b",
+      "variant": "B",
+      "attackerDisposition": "Reconnaissance",
+      "defenderDisposition": "Priority Assets",
+      "asset": "assets/layouts/reconnaissance-vs-priority-assets-b.jpg",
+      "baseAsset": "assets/layouts/reconnaissance-vs-priority-assets-b.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=reconnaissance-vs-priority-assets-b",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=reconnaissance-vs-priority-assets-b",
+      "sha256": "dc71b3dfe9252e0477a127538cc304ba1b481257c8b9e2845dd9c345e87339ea"
+    },
+    {
+      "id": "reconnaissance-vs-priority-assets-c",
+      "variant": "C",
+      "attackerDisposition": "Reconnaissance",
+      "defenderDisposition": "Priority Assets",
+      "asset": "assets/layouts/reconnaissance-vs-priority-assets-c.jpg",
+      "baseAsset": "assets/layouts/reconnaissance-vs-priority-assets-c.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=reconnaissance-vs-priority-assets-c",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=reconnaissance-vs-priority-assets-c",
+      "sha256": "6c13583dd2b251ec0e3917b343b333d003851c6254cd718d5d533b6feaa993bb"
+    },
+    {
+      "id": "priority-assets-vs-priority-assets-a",
+      "variant": "A",
+      "attackerDisposition": "Priority Assets",
+      "defenderDisposition": "Priority Assets",
+      "asset": "assets/layouts/priority-assets-vs-priority-assets-a.jpg",
+      "baseAsset": "assets/layouts/priority-assets-vs-priority-assets-a.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=priority-assets-vs-priority-assets-a",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=priority-assets-vs-priority-assets-a",
+      "sha256": "8269c37f08f16ebeeb16eee3856a5a3f347d1be0ae7570635199be0948dab830"
+    },
+    {
+      "id": "priority-assets-vs-priority-assets-b",
+      "variant": "B",
+      "attackerDisposition": "Priority Assets",
+      "defenderDisposition": "Priority Assets",
+      "asset": "assets/layouts/priority-assets-vs-priority-assets-b.jpg",
+      "baseAsset": "assets/layouts/priority-assets-vs-priority-assets-b.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=priority-assets-vs-priority-assets-b",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=priority-assets-vs-priority-assets-b",
+      "sha256": "8a495d18008c42014905ebf8f8cfb59864549c43c81b13d2f5d63e3e473549ad"
+    },
+    {
+      "id": "priority-assets-vs-priority-assets-c",
+      "variant": "C",
+      "attackerDisposition": "Priority Assets",
+      "defenderDisposition": "Priority Assets",
+      "asset": "assets/layouts/priority-assets-vs-priority-assets-c.jpg",
+      "baseAsset": "assets/layouts/priority-assets-vs-priority-assets-c.jpg",
+      "suggestedDeployment": false,
+      "basePlannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=priority-assets-vs-priority-assets-c",
+      "plannerUrl": "https://kaashif.github.io/40k-planner/planner/?layout=priority-assets-vs-priority-assets-c",
+      "sha256": "70f6a352bf99d9ff7d7d6e68293f9cb69f8a2b8f3be3b685d33c6c455320e016"
     }
   ]
 }

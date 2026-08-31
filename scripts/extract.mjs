@@ -1,9 +1,12 @@
 import { chromium } from 'playwright';
-import { writeFile } from 'node:fs/promises';
+import { readFile, writeFile } from 'node:fs/promises';
 
 const CDP_URL = process.env.CDP_URL || 'http://127.0.0.1:9223';
 const EVENT_ID = 'oBgVBdXRqUIy';
 const OUTPUT = new URL('../data/raw-lists.json', import.meta.url);
+const ratings = JSON.parse(await readFile(new URL('../data/player-ratings.json', import.meta.url), 'utf8'));
+const normalize = (value = '') => value.normalize('NFKD').replace(/\p{Diacritic}/gu, '').replace(/\s+/g, ' ').trim().toLowerCase();
+const dispositions = ['Take and Hold', 'Disruption', 'Purge the Foe', 'Reconnaissance', 'Priority Assets'];
 
 const browser = await chromium.connectOverCDP(CDP_URL);
 const context = browser.contexts()[0];
@@ -12,7 +15,7 @@ if (!eventPage) throw new Error(`Open event ${EVENT_ID} in the connected, authen
 
 await eventPage.waitForLoadState('domcontentloaded');
 
-const roster = await eventPage.locator('svg[data-icon="clipboard-list"]').evaluateAll((icons) =>
+const extractedRoster = await eventPage.locator('svg[data-icon="clipboard-list"]').evaluateAll((icons) =>
   icons.map((icon) => {
     const control = icon.closest('a, button');
     const row = control?.parentElement?.parentElement;
@@ -31,6 +34,15 @@ const roster = await eventPage.locator('svg[data-icon="clipboard-list"]').evalua
     };
   }),
 );
+
+const roster = extractedRoster.map((entry) => {
+  const observed = normalize(entry.player);
+  const identity = ratings.players.find((candidate) => observed === normalize(candidate.player) || observed.startsWith(`${normalize(candidate.player)} -`));
+  if (!identity) throw new Error(`Could not recover stable identity for ${entry.player}.`);
+  const listFaction = entry.faction;
+  const faction = dispositions.reduce((value, disposition) => value.replace(new RegExp(` - ${disposition}$`), ''), listFaction);
+  return { ...entry, playerId: identity.playerId, player: identity.player.trim(), team: identity.team.trim(), faction, listFaction };
+});
 
 const linked = roster.filter((entry) => entry.sourceUrl);
 let cursor = 0;
@@ -52,7 +64,8 @@ async function extractOne(entry) {
     const uploadedIndex = visible.findIndex((line) => line.trim().startsWith('Uploaded with Best Coast Pairings'));
     const listLines = uploadedIndex === -1 ? visible : visible.slice(0, uploadedIndex);
     while (listLines.length && !listLines.at(-1).trim()) listLines.pop();
-    return { ...entry, event, pagePlayer, content: listLines.join('\n') };
+    const { listFaction, ...publicEntry } = entry;
+    return { ...publicEntry, faction: listFaction, event, pagePlayer, content: listLines.join('\n') };
   } finally {
     await page.close();
   }
@@ -77,7 +90,7 @@ await writeFile(OUTPUT, `${JSON.stringify({
   rosterCount: roster.length,
   count: lists.length,
   missingListCount: roster.length - lists.length,
-  roster,
+  roster: roster.map(({ listFaction, ...entry }) => entry),
   lists,
 }, null, 2)}\n`);
 

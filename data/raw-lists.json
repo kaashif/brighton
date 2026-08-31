@@ -1,662 +1,790 @@
 {
   "event": "Brighton 40k Teams II",
+  "eventId": "oBgVBdXRqUIy",
   "eventUrl": "https://www.bestcoastpairings.com/event/oBgVBdXRqUIy?active_tab=roster",
-  "extractedAt": "2026-08-29T22:49:21.970Z",
-  "count": 29,
-  "lists": [
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/m3WkBIscvIfD",
-      "player": "Alexander England - Surrey Primarchs",
-      "faction": "Space Marines (Astartes) - Reconnaissance",
-      "team": "Comp Play Surrey Primarchs",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "Alexander England",
-      "listId": "m3WkBIscvIfD",
-      "content": "+++++++++++++++++++++++++++++++++++++++++++++++\n+ FACTION KEYWORD: Imperium - Adeptus Astartes - Salamanders\n+ DETACHMENT: Forgefather's Seekers, Librarius Conclave (Vulkan's Quest)\n+ FORCE DISPOSITION: Reconnaissance\n+ TOTAL ARMY POINTS: 2000pts\n+\n+ WARLORD: Char1: Vulkan He'stan\n+ ENHANCEMENT: Immolator (on Char2: Captain in Gravis Armour)\n& Temporal Corridor (on Char3: Librarian)\n& Celerity (on Char4: Librarian in Terminator Armour)\n+ NUMBER OF UNITS: 16\n+ SECONDARY: - Bring It Down: (2x2) + (1x4) - Assassination: 4 Characters\n+++++++++++++++++++++++++++++++++++++++++++++++\n\nAttached Units\nAttached Unit 1\n\nCaptain in Gravis Armour (90 pts)\n• Attached as: Leader (Character)\n• 1x Boltstorm gauntlet\n• 1x Power fist\n• 1x Relic Blade\n• Immolator (+10 pts)\n\nAggressor Squad (165 pts)\n• Attached as: Bodyguard\n• 1x Aggressor Sergeant\n• 1x Twin power fist\n• 1x Flamestorm Gauntlets\n• 5x Aggressors\n• 5x Twin power fist\n• 5x Flamestorm Gauntlets\n\nAttached Unit 2\n\nLibrarian (95 pts)\n• Attached as: Leader (Character)\n• 1x Bolt pistol\n• 1x Force weapon\n• 1x Smite\n• Temporal Corridor (+25 pts)\n\nInfernus Squad (180 pts)\n• Attached as: Bodyguard\n• 9x Infernus Marines\n• 9x Bolt pistol\n• 9x Close combat weapon\n• 9x Pyreblaster\n• 1x Infernus Sergeant\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Pyreblaster\n\nAttached Unit 3\n\nLibrarian in Terminator Armour (120 pts)\n• Attached as: Leader (Character)\n• 1x Force weapon\n• 1x Smite\n• 1x Storm bolter\n• Celerity (+35 pts)\n\nTerminator Squad (320 pts)\n• Attached as: Bodyguard\n• 1x Terminator Sergeant\n• 1x Storm bolter\n• 1x Power fist\n• 9x Terminator\n• 9x Power fist\n• 2x Cyclone missile launcher\n• 9x Storm bolter\n\nCHARACTER\n\nVulkan He'stan (95 pts)\n• 1x Bolt pistol\n• 1x Gauntlet of the Forge\n• 1x Spear of Vulkan\n• Warlord\n\nOTHER DATASHEETS\n\nEradicator Squad (90 pts)\n• 1x Eradicator\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Melta rifle\n• 1x Eradicator Sergeant\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Melta rifle\n• 1x Eradicator with Multi-melta\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Multi-melta\n\nEradicator Squad (90 pts)\n• 1x Eradicator\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Melta rifle\n• 1x Eradicator Sergeant\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Melta rifle\n• 1x Eradicator with Multi-melta\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Multi-melta\n\nEradicator Squad with Heavy Bolters (80 pts)\n• 2x Eradicator\n• 2x Bolt pistol\n• 2x Close combat weapon\n• 2x Heavy Bolter\n• 1x Eradicator Sergeant\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Heavy Bolter\n\nEradicator Squad with Heavy Bolters (80 pts)\n• 2x Eradicator\n• 2x Bolt pistol\n• 2x Close combat weapon\n• 2x Heavy Bolter\n• 1x Eradicator Sergeant\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Heavy Bolter\n\nInvader ATV (60 pts)\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Twin bolt rifle\n• 1x Multi-melta\n\nLand Raider Redeemer (260 pts)\n• 1x Armoured Tracks\n• 2x Flamestorm Cannon\n• 1x Hunter-killer missile\n• 1x Multi-melta\n• 1x Storm bolter\n• 1x Twin assault cannon\n\nLand Speeder (105 pts)\n• 1x Close combat weapon\n• 1x Multi-melta\n• 1x Stormfury Missile Launcher\n• 1x Onslaught gatling cannon\n\nLand Speeder (105 pts)\n• 1x Close combat weapon\n• 1x Multi-melta\n• 1x Stormfury Missile Launcher\n• 1x Onslaught gatling cannon\n\nScout Squad (65 pts)\n• 1x Scout Sergeant\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Astartes Chainsword\n• 4x Scouts\n• 4x Bolt pistol\n• 4x Close combat weapon\n• 4x Combat Knife\n\nCreated with newrecruit.eu v35.70"
-    },
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/NdL1eiju0V7K",
-      "player": "Geoff Legg - Comp | Play",
-      "faction": "Adeptus Custodes - Purge the Foe",
-      "team": "Comp Play Surrey Primarchs",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "Geoff Legg",
-      "listId": "NdL1eiju0V7K",
-      "content": "Custodes purge (2,000 Points)\n\nAdeptus Custodes\nShield Host and Tharanatoi Hammerblow (3 Detachment Points)\nPurge the Foe\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nBlade Champion (125 Points)\n• Attached as: Leader (Character)\n• 1x Vaultswords\n• Enhancements: Auric Mantle\n\nCustodian Guard (170 Points)\n• Attached as: Bodyguard (Battleline)\n• 4x Custodian Guard\n◦ 4x Guardian spear\n\nCHARACTERS\n\nShield-Captain on Dawneagle Jetbike (160 Points)\n• Warlord\n• 1x Interceptor lance\n• 1x Salvo launcher\n• Enhancements: Castellan’s Mark\n\nBATTLELINE\n\nCustodian Guard (170 Points)\n• 4x Custodian Guard\n◦ 4x Guardian spear\n\nCustodian Guard (170 Points)\n• 4x Custodian Guard\n◦ 4x Guardian spear\n\nOTHER DATASHEETS\n\nAllarus Custodians (280 Points)\n• 5x Allarus Custodian\n◦ 5x Balistus grenade launcher\n◦ 5x Guardian spear\n\nAllarus Custodians (280 Points)\n• 5x Allarus Custodian\n◦ 5x Balistus grenade launcher\n◦ 5x Guardian spear\n\nProsecutors (45 Points)\n• 1x Prosecutor Sister Superior\n◦ 1x Boltgun\n◦ 1x Close combat weapon\n• 3x Prosecutor\n◦ 3x Boltgun\n◦ 3x Close combat weapon\n\nProsecutors (45 Points)\n• 1x Prosecutor Sister Superior\n◦ 1x Boltgun\n◦ 1x Close combat weapon\n• 3x Prosecutor\n◦ 3x Boltgun\n◦ 3x Close combat weapon\n\nVenatari Custodians (165 Points)\n• 3x Venatari Custodian\n◦ 3x Venatari lance\n\nVenatari Custodians (165 Points)\n• 3x Venatari Custodian\n◦ 3x Venatari lance\n\nVenatari Custodians (175 Points)\n• 3x Venatari Custodian\n◦ 3x Venatari lance\n\nWitchseekers (50 Points)\n• 1x Witchseeker Sister Superior\n◦ 1x Close combat weapon\n◦ 1x Witchseeker flamer\n• 3x Witchseeker\n◦ 3x Close combat weapon\n◦ 3x Witchseeker flamer\n\nExported with App Version: v2.5.0 (1), Data Version: v931"
-    },
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/lfqP8aM2Xp0P",
-      "player": "Grzegorz Bondaruk - Surrey Primarchs",
-      "faction": "Necrons - Take and Hold",
-      "team": "Comp Play Surrey Primarchs",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "Grzegorz Bondaruk",
-      "listId": "lfqP8aM2Xp0P",
-      "content": "Emotional Damage (2000 points)\n\nNecrons\nAwakened Dynasty (3 Detachment Points)\nTake and Hold\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nTechnomancer (80 points)\n• Attached as: Support (Character)\n• 1x Staff of light\n\nCanoptek Wraiths (220 points)\n• Attached as: Bodyguard\n• 6x Canoptek Wraith\n• 6x Particle caster\n6x Vicious claws\n\n\nCHARACTERS\n\nC’tan Shard of the Deceiver (330 points)\n• 1x Cosmic insanity\n1x Golden fists\n\nC’tan Shard of the Nightbringer (360 points)\n• 1x Gaze of death\n1x Scythe of the Nightbringer\n\nC’tan Shard of the Void Dragon (345 points)\n• 1x Canoptek tail blades\n1x Spear of the Void Dragon\n1x Voltaic storm\n\nIlluminor Szeras (175 points)\n• Warlord\n• 1x Eldritch Lance\n1x Impaling legs\n\nImotekh the Stormlord (100 points)\n• 1x Gauntlet of Fire\n1x Staff of the Destroyer\n\nNekrosor Ammentar (185 points)\n• 1x Blade tail and whip coils\n1x Enmitic disintegrators\n1x Nullstone Field Generator (Aura)\n1x Unmaker Gauntlet\n\nSkorpekh Lord (125 points)\n• 1x Enmitic annihilator\n1x Flensing claw\n1x Hyperphase harvester\n• Enhancement: Enaegic Dermal Bond\n\n\nOTHER DATASHEETS\n\nOphydian Destroyers (80 points)\n• 3x Ophydian Destroyer\n• 3x Ophydian hyperphase weapons\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
-    },
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/BEnXNOLQuCZh",
-      "player": "Jerome Connolly",
-      "faction": "Adeptus Mechanicus - Priority Assets",
-      "team": "Comp Play Surrey Primarchs",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "Jerome Connolly",
-      "listId": "BEnXNOLQuCZh",
-      "content": "Cohort & Lords (1,995 Points)\n\nAdeptus Mechanicus\nCohort Cybernetica and Lords of the Forge (3 Detachment Points)\nPriority Assets\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nCybernetica Datasmith (25 Points)\n• Attached as: Support (Character)\n• 1x Mechanicus pistol\n• 1x Power fist\n\nKastelan Robots (300 Points)\n• Attached as: Bodyguard\n• 4x Kastelan Robot\n◦ 4x Heavy phosphor blaster\n◦ 4x Kastelan fist\n◦ 4x Kastelan phosphor blaster\n\nCHARACTERS\n\nBelisarius Cawl (220 Points)\n• Warlord\n• 1x Arc scourge\n• 1x Cawl’s Omnissian axe\n• 1x Mechadendrite hive\n• 1x Solar atomiser\n\nTech-Priest Enginseer (75 Points)\n• 1x Mechanicus pistol\n• 1x Omnissian axe\n• 1x Servo-arm\n• Enhancements: Necromechanic\n\nThulia Ghuld (180 Points)\n• 1x Jericho‑class conversion resonator\n• 1x Rod of the War Forge\n\nBATTLELINE\n\nSkitarii Rangers (85 Points)\n• 1x Skitarii Ranger Alpha\n◦ 1x Alpha combat weapon\n◦ 1x Close combat weapon\n◦ 1x Galvanic rifle\n• 9x Skitarii Ranger\n◦ 1x Arc rifle\n◦ 9x Close combat weapon\n◦ 6x Galvanic rifle\n◦ 1x Omnispex\n◦ 1x Plasma caliver\n◦ 1x Transuranic arquebus\n\nSkitarii Rangers (85 Points)\n• 1x Skitarii Ranger Alpha\n◦ 1x Alpha combat weapon\n◦ 1x Close combat weapon\n◦ 1x Galvanic rifle\n• 9x Skitarii Ranger\n◦ 1x Arc rifle\n◦ 9x Close combat weapon\n◦ 6x Galvanic rifle\n◦ 1x Omnispex\n◦ 1x Plasma caliver\n◦ 1x Transuranic arquebus\n\nOTHER DATASHEETS\n\nIronstrider Ballistarii (250 Points)\n• 3x Ironstrider Ballistarii\n◦ 3x Ironstrider feet\n◦ 3x Twin cognis autocannon\n\nSerberys Raiders (60 Points)\n• 1x Serberys Raider Alpha\n◦ 1x Cavalry sabre and clawed limbs\n◦ 1x Galvanic carbine\n◦ 1x Mechanicus pistol\n• 2x Serberys Raider\n◦ 2x Cavalry sabre and clawed limbs\n◦ 1x Enhanced data-tether\n◦ 2x Galvanic carbine\n\nServitor Battleclade (65 Points)\n• 1x Servitor Underseer\n◦ 1x Dataspikes\n◦ 1x Mechanicus pistol\n• 2x Gun Servitor\n◦ 1x Heavy arc rifle\n◦ 1x Heavy bolter\n◦ 2x Servo-claw\n• 6x Combat Servitor\n◦ 3x Incendine igniter\n◦ 1x Meltagun\n◦ 2x Phosphor blaster\n◦ 6x Servo-claw\n\nServitor Battleclade (65 Points)\n• 1x Servitor Underseer\n◦ 1x Dataspikes\n◦ 1x Mechanicus pistol\n• 2x Gun Servitor\n◦ 1x Heavy arc rifle\n◦ 1x Heavy bolter\n◦ 2x Servo-claw\n• 6x Combat Servitor\n◦ 3x Incendine igniter\n◦ 1x Meltagun\n◦ 2x Phosphor blaster\n◦ 6x Servo-claw\n\nServitor Battleclade (75 Points)\n• 1x Servitor Underseer\n◦ 1x Dataspikes\n◦ 1x Mechanicus pistol\n• 2x Gun Servitor\n◦ 1x Heavy arc rifle\n◦ 1x Heavy bolter\n◦ 2x Servo-claw\n• 6x Combat Servitor\n◦ 3x Incendine igniter\n◦ 1x Meltagun\n◦ 2x Phosphor blaster\n◦ 6x Servo-claw\n\nSkorpius Disintegrator (170 Points)\n• 1x Armoured hull\n• 3x Cognis heavy stubber\n• 1x Disruptor missile launcher\n• 1x Ferrumite cannon\n\nSkorpius Disintegrator (170 Points)\n• 1x Armoured hull\n• 3x Cognis heavy stubber\n• 1x Disruptor missile launcher\n• 1x Ferrumite cannon\n\nSydonian Dragoons with Taser Lances (170 Points)\n• 3x Sydonian Dragoon\n◦ 3x Phosphor serpenta\n◦ 3x Taser lance\n\nExported with App Version: v2.5.0 (1), Data Version: v931"
-    },
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/XZZSlQ9YT5Me",
-      "player": "Christian Faustino",
-      "faction": "Blood Angels - Disruption",
-      "team": "Defenders of Outpost 47",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "Christian Faustino",
-      "listId": "XZZSlQ9YT5Me",
-      "content": "+++++++++++++++++++++++++++++++++++++++++++++++\n+ FACTION KEYWORD: Imperium - Adeptus Astartes - Blood Angels\n+ DETACHMENT: Legacy of Grace, Stormlance Task Force (Legacy of the Angel)\n+ FORCE DISPOSITION: Disruption\n+ TOTAL ARMY POINTS: 1990pts\n+\n+ WARLORD: Char1: Chief Librarian Mephiston\n+ ENHANCEMENT: Aureole of the Angel (on Char4: Captain with Jump Pack)\n+ NUMBER OF UNITS: 14\n+ SECONDARY: - Bring It Down: (1x2) + (1x4) - Assassination: 4 Characters\n+++++++++++++++++++++++++++++++++++++++++++++++\n\nChar1: 1x Chief Librarian Mephiston (110 pts): Warlord\n\nChar2: 1x Commander Dante (125 pts)\nLeading Sanguinary Guard[1]\n\n6x Sanguinary Guard (260 pts)\n1 with Encarmine Spear, Inferno Pistol\n1 with Sanguinary Banner, Encarmine Spear, Inferno Pistol\n4 with Encarmine Spear, Angelus Boltgun\nAttached to Commander Dante\n\nChar3: 1x Lemartes (100 pts)\nLeading Death Company Marines with Jump Packs\n\n10x Death Company Marines with Jump Packs (230 pts)\n2 with Eviscerator, Heavy Bolt Pistol\n3 with Power fist, Plasma pistol\nAttached to Lemartes\n\nChar4: 1x Captain with Jump Pack (100 pts): Power fist, Plasma pistol\nEnhancement: Aureole of the Angel (+20 pts)\nLeading Sanguinary Guard[2]\n\n6x Sanguinary Guard (260 pts)\n1 with Encarmine Spear, Inferno Pistol\n1 with Sanguinary Banner, Encarmine Spear, Inferno Pistol\n4 with Encarmine Spear, Angelus Boltgun\nAttached to Captain with Jump Pack\n\n\n5x Intercessor Squad (80 pts)\n• 1x Intercessor Sergeant: Bolt Rifle w/ Grenade Launcher, Power fist\n• 4x Intercessor\n\n1x Baal Predator (125 pts): 2 Heavy Flamers, Hunter-killer missile, Storm bolter, Baal Flamestorm Cannon\n\n5x Infiltrator Squad (110 pts)\n• 4x Infiltrator\n1 with Infiltrator Comms Array\n1 with Helix Gauntlet\n• 1x Infiltrator Sergeant\n\n1x Land Raider Redeemer (250 pts): Hunter-killer missile, Multi-melta, Storm bolter\n\n5x Scout Squad (65 pts)\n• 1x Scout Sergeant: Astartes Chainsword\n• 1x Scout: Heavy Bolter\n• 3x Scouts\n\n5x Scout Squad (65 pts)\n• 2x Scout\n1 with Missile Launcher\n• 1x Scout Sergeant: Astartes Chainsword\n• 2x Scouts\n\n5x Vanguard Veteran Squad with Jump Packs (110 pts)\n• 1x Vanguard Veteran Sergeant with Jump Pack: Master-crafted Power Weapon, Heavy Bolt Pistol\n• 4x Vanguard Veterans with Jump Packs: 4 with Master-crafted Power Weapon, Heavy Bolt Pistol"
-    },
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/nJX30tKBYWDG",
-      "player": "Daniel Fuller",
-      "faction": "Emperor's Children - Purge the Foe",
-      "team": "Defenders of Outpost 47",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "Daniel Fuller",
-      "listId": "nJX30tKBYWDG",
-      "content": "Fulgrim’s Blade Carnival (1,995 Points)\n\nEmperor’s Children\nCourt of the Phoenician and Spectacle of Slaughter (3 Detachment Points)\nPurge the Foe\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nLord Exultant (90 Points)\n• Attached as: Leader (Character)\n• 1x Bolt Pistol\n• 1x Close combat weapon\n• 1x Phoenix power spear\n• 1x Rapture lash\n\nInfractors (160 Points)\n• Attached as: Bodyguard (Battleline)\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Rapture lash\n• 9x Infractor\n◦ 9x Bolt pistol\n◦ 9x Duelling sabre\n◦ 1x Icon of Excess\n\nAttached unit 2\n\nLord Exultant (90 Points)\n• Attached as: Leader (Character)\n• 1x Bolt Pistol\n• 1x Close combat weapon\n• 1x Phoenix power spear\n• 1x Rapture lash\n\nInfractors (160 Points)\n• Attached as: Bodyguard (Battleline)\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Rapture lash\n• 9x Infractor\n◦ 9x Bolt pistol\n◦ 9x Duelling sabre\n◦ 1x Icon of Excess\n\nAttached unit 3\n\nSorcerer (55 Points)\n• Attached as: Leader (Character)\n• 1x Agonising Energies\n• 1x Bolt pistol\n• 1x Force weapon\n\nNoise Marines (145 Points)\n• Attached as: Bodyguard\n• 1x Disharmonist\n◦ 1x Close combat weapon\n◦ 1x Sonic blaster\n• 5x Noise Marine\n◦ 2x Blastmaster\n◦ 5x Close combat weapon\n◦ 3x Sonic blaster\n\nCHARACTERS\n\nFulgrim (340 Points)\n• Warlord\n• 1x Daemonic blades\n• 1x Malefic lash\n• 1x Serpentine tail\n\nLucius the Eternal (120 Points)\n• 1x Blade of the Laer\n• 1x Lash of Torment\n\nBATTLELINE\n\nTormentors (80 Points)\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Power sword\n• 4x Tormentor\n◦ 2x Boltgun\n◦ 4x Close combat weapon\n◦ 1x Icon of Excess\n◦ 1x Meltagun\n◦ 1x Plasma gun\n\nTormentors (80 Points)\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Power sword\n• 4x Tormentor\n◦ 2x Boltgun\n◦ 4x Close combat weapon\n◦ 1x Icon of Excess\n◦ 1x Meltagun\n◦ 1x Plasma gun\n\nOTHER DATASHEETS\n\nFlawless Blades (205 Points)\n• Enhancements: Beguiling Grotesquerie (Upgrade)\n• 6x Flawless Blade\n◦ 6x Blissblade\n◦ 6x Bolt pistol\n\nFlawless Blades (205 Points)\n• Enhancements: Beguiling Grotesquerie (Upgrade)\n• 6x Flawless Blade\n◦ 6x Blissblade\n◦ 6x Bolt pistol\n\nMaulerfiend (120 Points)\n• 1x Lasher tendrils\n• 1x Maulerfiend fists\n\nNoise Marines (145 Points)\n• 1x Disharmonist\n◦ 1x Close combat weapon\n◦ 1x Sonic blaster\n• 5x Noise Marine\n◦ 2x Blastmaster\n◦ 5x Close combat weapon\n◦ 3x Sonic blaster"
-    },
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/ZKEWviLwBYWR",
-      "player": "Jack Holliday - One And Four",
-      "faction": "T'au Empire - Priority Assets",
-      "team": "Defenders of Outpost 47",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "Jack Holliday",
-      "listId": "ZKEWviLwBYWR",
-      "content": "in the end, everything returns to monke\n\nshort version - montka - priority assets\ntwin lance\ncadre fireblade - 2 gun drones\n- breachers - guardian + gun\nethereal - hover drone + strike swiftly (scout 6)\n\n3x broadsides - missiles + seeker + plasma\nghostkeel - fusion + fusion\nkroot carnivores\nkrootox rider - repeater cannon\npathfinders - -2 to charge + rails\npathfinders - infil + rails\npiranha - fusion + seekers\npiranha - fusion + seekers\nriptide - ion + plasma\nriptide - ion + plasma\nstealth team\nstealth team\ndevilfish - bursts\n+++++++++++++++++++++++++++++++++++++++++++++++\n+ FACTION KEYWORD: Xenos - T'au Empire\n+ DETACHMENT: Mont'ka (Killing Blow)\n+ FORCE DISPOSITION: Priority Assets\n+ TOTAL ARMY POINTS: 2000pts\n+\n+ WARLORD: Char1: The Twin Lance\n+ ENHANCEMENT: Strike Swiftly (on Char3: Ethereal)\n+ NUMBER OF UNITS: 17\n+ SECONDARY: - Bring It Down: (6x2) + (1x4) + (1x6) - Assassination: 3 Characters\n+++++++++++++++++++++++++++++++++++++++++++++++\n\nChar2: 1x Cadre Fireblade (50 pts): 2x Gun Drone, Close combat weapon, Fireblade pulse rifle\nLeading Breacher Team\nChar3: 1x Ethereal (95 pts): Hover Drone, Marker Drone, Shield Drone, Honour stave\nEnhancement: Strike Swiftly (+35 pts)\nChar1: 2x The Twin Lance (230 pts): Warlord\n• 1x Ri'Lantar: MV15 Gun Drone, Twin pulse blaster, Fusion eliminator, Twin pulse blaster, Shardstorm burst system, XV pulse pistol\n• 1x Ri'Locai: MV15 Gun Drone, Twin pulse blaster, Ion scattercannon, Twin pulse blaster, Shardstorm burst system, XV pulse pistol\n\n10x Breacher Team (90 pts)\n• 1x Breacher Fire Warrior Shas'ui: Guardian Drone, Gun Drone, Close combat weapon, Pulse blaster, Pulse pistol, Support turret\n• 9x Breacher Fire Warriors: 9 with Close combat weapon, Pulse blaster, Pulse pistol\nAttached to Cadre Fireblade\n\n3x Broadside Battlesuits (270 pts)\n• 1x Broadside Shas’vre: 2x Missile Drone, Crushing bulk, High-yield missile pods, Seeker missile, Twin plasma rifle\n• 2x Broadside Shas’ui: 2 with 2x Missile Drone, Crushing bulk, High-yield missile pods, Seeker missile, Twin plasma rifle\n1x Devilfish (75 pts): Accelerator burst cannon, Armoured hull, 2x Seeker missile, 2x Twin pulse carbine\n1x Ghostkeel Battlesuit (150 pts): Battlesuit support system, Ghostkeel fists, Fusion Collider, Twin fusion blaster\n10x Kroot Carnivores (65 pts)\n• 1x Long-quill: Close combat weapon, Kroot pistol, Kroot carbine\n• 9x Kroot Carnivores: 9 with Close combat weapon, Kroot rifle\n1x Krootox Riders (45 pts): Close combat weapon, Krootox fists, Repeater cannon\n10x Pathfinder Team (85 pts)\n• 9x Pathfinders\n6 with Close combat weapon, Pulse carbine, Pulse pistol\n3 with Close combat weapon, Pulse pistol, Rail rifle\n• 1x Pathfinder Shas'ui: 2x Shield Drone, Grav-inhibitor drone, Close combat weapon, Pulse carbine, Pulse pistol, Semi-automatic grenade launcher\n10x Pathfinder Team (85 pts)\n• 9x Pathfinders\n6 with Close combat weapon, Pulse carbine, Pulse pistol\n3 with Close combat weapon, Pulse pistol, Rail rifle\n• 1x Pathfinder Shas'ui: 2x Shield Drone, Recon drone, Drone burst cannon, Close combat weapon, Pulse carbine, Pulse pistol, Semi-automatic grenade launcher, Drone burst cannon\n1x Piranhas (65 pts): Armoured hull, 2x Twin pulse carbine, Piranha fusion blaster, 2x Seeker missile\n1x Piranhas (65 pts): Armoured hull, 2x Twin pulse carbine, Piranha fusion blaster, 2x Seeker missile\n1x Riptide Battlesuit (215 pts): Riptide fists, Ion accelerator, 2x Missile pod, Twin plasma rifle\n1x Riptide Battlesuit (215 pts): Riptide fists, Ion accelerator, 2x Missile pod, Twin plasma rifle\n5x Stealth Battlesuits (100 pts)\n• 4x Stealth Shas'ui\n3 with Battlesuit fists, Burst cannon\n1 with Homing beacon, Battlesuit fists, Fusion blaster\n• 1x Stealth Shas'vre: Gun Drone, Marker Drone, Battlesuit fists, Pulse pistol, Fusion blaster\n5x Stealth Battlesuits (100 pts)\n• 4x Stealth Shas'ui\n3 with Battlesuit fists, Burst cannon\n1 with Homing beacon, Battlesuit fists, Fusion blaster\n• 1x Stealth Shas'vre: Gun Drone, Marker Drone, Battlesuit fists, Pulse pistol, Fusion blaster\n\nCreated with newrecruit.eu v35.60"
-    },
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/qG3mVRGCi6gk",
-      "player": "Louis Anderson",
-      "faction": "Tyranids - Take and Hold",
-      "team": "Defenders of Outpost 47",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "Louis Anderson",
-      "listId": "qG3mVRGCi6gk",
-      "content": "Starship trooper (2,000 Points)\n\nTyranids\nInvasion Fleet (3 Detachment Points)\nTake and Hold\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nThe Swarmlord (210 Points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Bone sabres\n• 1x Synaptic pulse\n\nTyrant Guard (170 Points)\n• Attached as: Bodyguard\n• 6x Tyrant Guard\n◦ 6x Crushing claws and rending claws\n\nCHARACTERS\n\nDeathleaper (80 Points)\n• 1x Lictor claws and talons\n\nParasite of Mortrex (70 Points)\n• 1x Barbed ovipositor\n• 1x Clawed limbs\n\nWinged Hive Tyrant (185 Points)\n• 1x Stranglethorn cannon\n• 1x Tyrant talons\n\nBATTLELINE\n\nTermagants (110 Points)\n• 20x Termagant\n◦ 20x Chitinous claws and teeth\n◦ 18x Fleshborer\n◦ 1x Shardlauncher\n◦ 1x Strangleweb\n\nTermagants (60 Points)\n• 10x Termagant\n◦ 10x Chitinous claws and teeth\n◦ 10x Fleshborer\n\nTermagants (110 Points)\n• 20x Termagant\n◦ 20x Chitinous claws and teeth\n◦ 18x Fleshborer\n◦ 1x Shardlauncher\n◦ 1x Strangleweb\n\nOTHER DATASHEETS\n\nBarbgaunts (55 Points)\n• 5x Barbgaunt\n◦ 5x Barblauncher\n◦ 5x Chitinous claws and teeth\n\nBiovores (60 Points)\n• 1x Chitin-barbed limbs\n• 1x Spore Mine launcher\n\nGenestealers (75 Points)\n• 5x Genestealer\n◦ 5x Genestealers claws and talons\n\nGenestealers (75 Points)\n• 5x Genestealer\n◦ 5x Genestealers claws and talons\n\nNorn Emissary (250 Points)\n• 1x Monstrous rending claws\n• 1x Monstrous scything talons\n• 1x Psychic Tendril\n\nTyrannofex (190 Points)\n• 1x Powerful limbs\n• 1x Rupture cannon\n• 1x Stinger salvoes\n\nTyrannofex (190 Points)\n• 1x Powerful limbs\n• 1x Rupture cannon\n• 1x Stinger salvoes\n\nVon Ryan’s Leapers (55 Points)\n• 3x Von Ryan’s Leaper\n◦ 3x Leaper’s talons\n\nVon Ryan’s Leapers (55 Points)\n• 3x Von Ryan’s Leaper\n◦ 3x Leaper’s talons\n\nExported with App Version: v2.5.0 (1), Data Version: v931"
-    },
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/GnQfCBUNhIZR",
-      "player": "Brando McCready - Comp | Play",
-      "faction": "Leagues of Votann - Priority Assets",
-      "team": "For King & Comp Play",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "Brando McCready",
-      "listId": "GnQfCBUNhIZR",
-      "content": "Suck your mum"
-    },
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/MrTiQfQ6axlj",
-      "player": "Bradley Stuart-James - Pheromone Maxxing",
-      "faction": "Tyranids - Take and Hold",
-      "team": "Pheromone Maxxing",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "Bradley Stuart-James",
-      "listId": "MrTiQfQ6axlj",
-      "content": "Necron Cosplayers (2,000 Points)\n\nTyranids\nAssimilation Swarm and Talons of the Norn Queen (3 Detachment Points)\nTake and Hold\nStrike Force (2,000 Points)\n\nCHARACTERS\n\nThe Swarmlord (210 Points) (attached to tyrant guard)\n• 1x Bone sabres\n• 1x Synaptic pulse\n\nTyranid Prime with Lash Whip (75 Points) (attached to hormies)\n• 1x Lash whip\n• 1x Rending claw\n• 1x Scything talons\n\nBATTLELINE\n\nHormagaunts (70 Points)\n• 10x Hormagaunt\n◦ 10x Hormagaunt talons\n\nOTHER DATASHEETS\n\nBiovores (60 Points)\n• 1x Chitin-barbed limbs\n• 1x Spore Mine launcher\n\nHaruspex (125 Points)\n• 1x Grasping tongue\n• 1x Ravenous maw\n• 1x Shovelling claws\n\nMaleceptor (180 Points)\n• 1x Massive scything talons\n• 1x Psychic overload\n\nNorn Assimilator (280 Points)\n• 1x Monstrous scything talons\n• 1x Toxinjector Harpoon\n• Enhancements: Synaptoprescience (Upgrade)\n\nNorn Assimilator (300 Points)\n• 1x Monstrous scything talons\n• 1x Toxinjector Harpoon\n• Enhancements: Synaptoprescience (Upgrade)\n\nNorn Assimilator (300 Points)\n• 1x Monstrous scything talons\n• 1x Toxinjector Harpoon\n• Enhancements: Synaptoprescience (Upgrade)\n\nPsychophage (110 Points)\n• 1x Psychoclastic torrent\n• 1x Talons and betentacled maw\n\nPsychophage (110 Points)\n• 1x Psychoclastic torrent\n• 1x Talons and betentacled maw\n\nPyrovores (70 Points)\n• 2x Pyrovore\n◦ 2x Chitin-barbed limbs\n◦ 2x Flamespurt\n\nRipper Swarms (30 Points)\n• 1x Chitinous claws and teeth\n\nTyrant Guard (80 Points)\n• 3x Tyrant Guard\n◦ 3x Scything talons and rending claws\n\nExported with App Version: v2.5.0 (1), Data Version: v931"
-    },
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/FPKEgr8Gr2Oi",
-      "player": "Ezra Adams",
-      "faction": "Adeptus Custodes - Purge the Foe",
-      "team": "Pheromone Maxxing",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "Ezra Moran Adams",
-      "listId": "FPKEgr8Gr2Oi",
-      "content": "Imperium - Adeptus Custodes - Shield + termies - [1990 pts]\n\nShield host + TH\n\nBlade Champion [110 pts]:\n• Leading: Custodian Guard\nBlade Champion [125 pts]:\n• Leading: Custodian Wardens\nShield-Captain in Allarus Terminator Armour [130 pts]:\n• Leading: Allarus Custodians\nShield-Captain on Dawneagle Jetbike [140 pts]:\n• Leading: Vertus Praetors\n\nCustodian Guard [215 pts]:\n• 4x Custodian Guard (Guardian Spear)\n• 1x Custodian Guard (Vexilla, Praesidium Shield & Misericordia)\n• Leader: Blade Champion[1]\n\nAllarus Custodians [330 pts]:\n• 6x Allarus Custodian (Guardian Spear)\n• Leader: Shield-Captain in Allarus Terminator Armour\nCustodian Wardens [250 pts]:\n• 4x Custodian Warden (Guardian Spear)\n• 1x Custodian Warden w/ Vexilla\n• Leader: Blade Champion[2]\nProsecutors [45 pts]:\n• 3x Prosecutor\nVenatari Custodians [165 pts]:\n• 3x Venatari Custodian (Venatari lance) [5 pts]\nVenatari Custodians [165 pts]:\n• 3x Venatari Custodian (Venatari lance) [5 pts]\n\nVertus Praetors [215 pts]:\n• 3x Vertus Praetor (Salvo Launcher)\n• Leader: Shield-Captain on Dawneagle Jetbike\n\nCallidus Assassin [100 pts]"
-    },
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/BIcvGDyhQRUk",
-      "player": "Matt Delves - Pheromone Maxxing",
-      "faction": "Leagues of Votann - Priority Assets",
-      "team": "Pheromone Maxxing",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "Matt Delves",
-      "listId": "BIcvGDyhQRUk",
-      "content": "Wincells (1995 points)\n\nLeagues of Votann\nHearthguard Covenant and Needgaârd Oathband (3 Detachment Points)\nPriority Assets\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nEinhyr Champion (80 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Autoch-pattern combi-bolter\n1x Mass hammer\n1x Weavefield Crest\n• Enhancement: Ancestral Crest\n\nEinhyr Hearthguard (130 points)\n• Attached as: Bodyguard\n• 1x Hesyr\n• 1x Concussion gauntlet\n1x EtaCarn plasma gun\n1x Exoarmour grenade launcher\n1x Weavefield crest\n• 4x Einhyr Hearthguard\n• 4x Concussion gauntlet\n4x EtaCarn plasma gun\n4x Exoarmour grenade launcher\n\nAttached Unit 2\n\nÛthar the Destined (90 points)\n• Attached as: Leader (Character)\n• 1x Blade of the Ancestors\n1x Rampart Crest\n1x Volkanite disintegrator\n\nEinhyr Hearthguard (130 points)\n• Attached as: Bodyguard\n• 1x Hesyr\n• 1x Concussion gauntlet\n1x EtaCarn plasma gun\n1x Exoarmour grenade launcher\n1x Weavefield crest\n• 4x Einhyr Hearthguard\n• 4x Concussion gauntlet\n4x EtaCarn plasma gun\n4x Exoarmour grenade launcher\n\nAttached Unit 3\n\nMemnyr Strategist (45 points)\n• Attached as: Leader (Character)\n• 1x Autoch-pattern bolt pistol\n1x Close combat weapon\n\nIronkin Steeljacks with Heavy Volkanite Disintegrators (170 points)\n• Attached as: Bodyguard\n• 1x Steeljack Theyn\n• 1x Heavy volkanite disintegrator\n1x Plasma knife\n1x Preymark Crest\n• 5x Ironkin Steeljack\n• 5x Heavy volkanite disintegrator\n5x Plasma knife\n\n\nCHARACTERS\n\nBuri Aegnirssen (85 points)\n• 1x Autoch‑pattern bolt pistol\n1x Bane\n\n\nBATTLELINE\n\nHearthkyn Warriors (90 points)\n• 1x Theyn\n• 1x Autoch-pattern bolt pistol\n1x Autoch-pattern bolter\n1x Close combat weapon\n1x Weavefield crest\n• 9x Hearthkyn Warrior\n• 9x Autoch-pattern bolt pistol\n9x Autoch-pattern bolter\n9x Close combat weapon\n\n\nOTHER DATASHEETS\n\nBrôkhyr Thunderkyn (80 points)\n• 3x Brôkhyr Thunderkyn\n• 3x Close combat weapon\n3x SP conversion beamer\n\nBrôkhyr Thunderkyn (80 points)\n• 3x Brôkhyr Thunderkyn\n• 3x Close combat weapon\n3x SP conversion beamer\n\nBrôkhyr Thunderkyn (90 points)\n• 3x Brôkhyr Thunderkyn\n• 3x Close combat weapon\n3x SP conversion beamer\n\nCthonian Earthshakers (100 points)\n• 2x Cthonian Earthshakers\n• 4x Autoch-pattern bolt pistol\n2x Plasma picks\n2x Tremor shells\n\nHekaton Land Fortress (250 points)\n• 1x Armoured wheels\n1x Heavy magna-rail cannon\n1x MATR autocannon\n1x Panspectral Scanner\n2x Twin ion beamer\n\nHekaton Land Fortress (265 points)\n• 1x Armoured wheels\n1x MATR autocannon\n1x Panspectral Scanner\n1x SP heavy conversion beamer\n2x Twin ion beamer\n\nHernkyn Pioneers (80 points)\n• 3x Hernkyn Pioneer\n• 3x Bolt revolver\n3x Bolt shotgun\n3x Magna-coil autocannon\n1x Panspectral Scanner\n3x Plasma knife\n1x Rollbar Searchlight\n\nHernkyn Pioneers (80 points)\n• 3x Hernkyn Pioneer\n• 3x Bolt revolver\n3x Bolt shotgun\n3x Magna-coil autocannon\n1x Panspectral Scanner\n3x Plasma knife\n1x Rollbar Searchlight\n\nIronkin Steeljacks with Melee Weapons (150 points)\n• 1x Steeljack Theyn\n• 1x Autoch-pattern bolter\n1x Plasma sword\n1x Preymark Crest\n• 5x Ironkin Steeljack\n• 5x Autoch-pattern bolter\n3x Concussion gauntlet\n2x Plasma sword\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
-    },
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/vgclWfLSgu5c",
-      "player": "Max Dennis",
-      "faction": "Emperor's Children - Reconnaissance",
-      "team": "Pheromone Maxxing",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "Max Dennis",
-      "listId": "vgclWfLSgu5c",
-      "content": "(1990 points)\n\nEmperor’s Children\nCourt of the Phoenician and Frenzied Host (3 Detachment Points)\nReconnaissance\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nLord Exultant (90 points)\n• Attached as: Leader (Character)\n• 1x Bolt Pistol\n1x Close combat weapon\n1x Phoenix power spear\n1x Rapture lash\n\nInfractors (160 points)\n• Attached as: Bodyguard (Battleline)\n• 1x Obsessionist\n• 1x Plasma pistol\n1x Rapture lash\n• 9x Infractor\n• 9x Bolt pistol\n9x Duelling sabre\n1x Icon of Excess\n\nAttached Unit 2\n\nLord Exultant (90 points)\n• Attached as: Leader (Character)\n• 1x Bolt Pistol\n1x Close combat weapon\n1x Phoenix power spear\n1x Rapture lash\n\nInfractors (85 points)\n• Attached as: Bodyguard (Battleline)\n• 1x Obsessionist\n• 1x Plasma pistol\n1x Rapture lash\n• 4x Infractor\n• 4x Bolt pistol\n4x Duelling sabre\n1x Icon of Excess\n\nAttached Unit 3\n\nLord Exultant (100 points)\n• Attached as: Leader (Character)\n• 1x Bolt Pistol\n1x Close combat weapon\n1x Phoenix power spear\n1x Rapture lash\n\nInfractors (85 points)\n• Attached as: Bodyguard (Battleline)\n• 1x Obsessionist\n• 1x Plasma pistol\n1x Rapture lash\n• 4x Infractor\n• 4x Bolt pistol\n4x Duelling sabre\n1x Icon of Excess\n\n\nCHARACTERS\n\nDaemon Prince of Slaanesh with Wings (205 points)\n• 1x Hellforged weapons\n1x Infernal cannon\n\n\nBATTLELINE\n\nInfractors (85 points)\n• 1x Obsessionist\n• 1x Plasma pistol\n1x Rapture lash\n• 4x Infractor\n• 4x Bolt pistol\n4x Duelling sabre\n1x Icon of Excess\n\nInfractors (85 points)\n• 1x Obsessionist\n• 1x Plasma pistol\n1x Rapture lash\n• 4x Infractor\n• 4x Bolt pistol\n4x Duelling sabre\n1x Icon of Excess\n\nTormentors (80 points)\n• 1x Obsessionist\n• 1x Plasma pistol\n1x Rapture lash\n• 4x Tormentor\n• 2x Boltgun\n4x Close combat weapon\n1x Icon of Excess\n1x Meltagun\n1x Plasma gun\n\n\nDEDICATED TRANSPORTS\n\nChaos Rhino (70 points)\n• 1x Armoured tracks\n1x Combi-bolter\n1x Combi-weapon\n1x Havoc launcher\n\nChaos Rhino (70 points)\n• 1x Armoured tracks\n1x Combi-bolter\n1x Combi-weapon\n1x Havoc launcher\n\n\nOTHER DATASHEETS\n\nChaos Spawn (70 points)\n• 2x Chaos Spawn\n• 2x Hideous mutations\n\nDefiler (330 points)\n• 1x Ectoplasma destructor\n2x Excruciator cannon\n2x Heavy reaper autocannon\n1x Shearing Claws\n\nFlawless Blades (95 points)\n• 3x Flawless Blade\n• 3x Blissblade\n3x Bolt pistol\n\nNoise Marines (145 points)\n• 1x Disharmonist\n• 1x Close combat weapon\n1x Sonic blaster\n• 5x Noise Marine\n• 5x Close combat weapon\n5x Sonic blaster\n\nNoise Marines (145 points)\n• 1x Disharmonist\n• 1x Close combat weapon\n1x Sonic blaster\n• 5x Noise Marine\n• 5x Close combat weapon\n5x Sonic blaster\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
-    },
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/etRv0t6dYvgk",
-      "player": "Joseph Whitmarsh",
-      "faction": "World Eaters - Purge the Foe",
-      "team": "South London Squad",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "Joseph Whitmarsh",
-      "listId": "etRv0t6dYvgk",
-      "content": "Competitive list #7362 (2,000 Points)\n\nWorld Eaters\nBerzerker Warband (3 Detachment Points)\nPurge the Foe\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nSlaughterbound (120 Points)\n• Attached as: Leader (Character)\n• 1x Lacerator and daemonic claw\n• Enhancements: Battle-lust\n\nExalted Eightbound (130 Points)\n• Attached as: Bodyguard\n• 1x Exalted Eightbound Champion\n◦ 1x Chainblades\n• 2x Exalted Eightbound\n◦ 2x Chainblades\n\nAttached unit 2\n\nKhârn the Betrayer (115 Points)\n• Attached as: Leader (Character)\n• 1x Gorechild\n• 1x Plasma pistol\n\nKhorne Berzerkers (160 Points)\n• Attached as: Bodyguard (Battleline)\n• 1x Khorne Berzerker Champion\n◦ 1x Chainblade\n◦ 1x Plasma pistol\n• 9x Khorne Berzerker\n◦ 7x Bolt pistol\n◦ 7x Chainblade\n◦ 1x Icon of Khorne\n◦ 2x Khornate eviscerator\n◦ 2x Plasma pistol\n\nCHARACTERS\n\nDaemon Prince of Khorne (230 Points)\n• Warlord\n• 1x Hellforged weapons\n• 1x Infernal cannon\n• Enhancements: Helm of Brazen Ire\n\nDEDICATED TRANSPORTS\n\nChaos Rhino (75 Points)\n• 1x Armoured tracks\n• 1x Combi-bolter\n• 1x Combi-weapon\n• 1x Havoc launcher\n\nOTHER DATASHEETS\n\nChaos Spawn (95 Points)\n• 2x Chaos Spawn\n◦ 2x Hideous mutations\n\nChaos Spawn (95 Points)\n• 2x Chaos Spawn\n◦ 2x Hideous mutations\n\nChaos Spawn (95 Points)\n• 2x Chaos Spawn\n◦ 2x Hideous mutations\n\nEightbound (125 Points)\n• 1x Eightbound Champion\n◦ 1x Chainblades\n• 2x Eightbound\n◦ 2x Chainblades\n\nEightbound (125 Points)\n• 1x Eightbound Champion\n◦ 1x Chainblades\n• 2x Eightbound\n◦ 2x Chainblades\n\nExalted Eightbound (130 Points)\n• 1x Exalted Eightbound Champion\n◦ 1x Chainblades\n• 2x Exalted Eightbound\n◦ 2x Chainblades\n\nForgefiend (155 Points)\n• 1x Ectoplasma cannon\n• 2x Ectoplasma cannon\n• 1x Forgefiend claws\n\nForgefiend (145 Points)\n• 1x Ectoplasma cannon\n• 1x Forgefiend claws\n• 2x Hades autocannon\n\nGoremongers (75 Points)\n• 1x Blood Herald\n◦ 1x Autopistol\n◦ 1x Chainblade\n◦ 1x Close combat weapon\n• 7x Goremongers\n◦ 7x Autopistol\n◦ 1x Blood harpoon\n◦ 6x Chainblade\n◦ 7x Close combat weapon\n\nJakhals (65 Points)\n• 1x Jakhal Pack Leader\n◦ 1x Autopistol\n◦ 1x Chainblades\n• 1x Dishonoured\n◦ 1x Skullsmasher and mangler\n• 8x Jakhal\n◦ 8x Autopistol\n◦ 7x Chainblades\n◦ 1x Icon of Khorne\n◦ 1x Mauler chainblade\n\nJakhals (65 Points)\n• 1x Jakhal Pack Leader\n◦ 1x Autopistol\n◦ 1x Chainblades\n• 1x Dishonoured\n◦ 1x Skullsmasher and mangler\n• 8x Jakhal\n◦ 8x Autopistol\n◦ 7x Chainblades\n◦ 1x Icon of Khorne\n◦ 1x Mauler chainblade\n\nExported with App Version: v2.5.0 (1), Data Version: v931"
-    },
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/i534s43QaAij",
-      "player": "Kaashif Hymabaccus - South London Squad",
-      "faction": "Necrons - Take and Hold",
-      "team": "South London Squad",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "Kaashif Hymabaccus",
-      "listId": "i534s43QaAij",
-      "content": "The Lord giveth and the Lord taketh and holdeth (2000 points)\n\nNecrons\nAwakened Dynasty (3 Detachment Points)\nTake and Hold\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nSkorpekh Lord (125 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Enmitic annihilator\n1x Flensing claw\n1x Hyperphase harvester\n• Enhancement: Enaegic Dermal Bond\n\nSkorpekh Destroyers (170 points)\n• Attached as: Bodyguard\n• 6x Skorpekh Destroyer\n• 2x Plasmacyte\n6x Skorpekh hyperphase weapons\n\nAttached Unit 2\n\nTechnomancer (80 points)\n• Attached as: Support (Character)\n• 1x Staff of light\n\nCanoptek Wraiths (220 points)\n• Attached as: Bodyguard\n• 6x Canoptek Wraith\n• 6x Transdimensional beamer\n6x Vicious claws\n\nAttached Unit 3\n\nTechnomancer (90 points)\n• Attached as: Support (Character)\n• 1x Staff of light\n\nCanoptek Wraiths (240 points)\n• Attached as: Bodyguard\n• 6x Canoptek Wraith\n• 6x Transdimensional beamer\n6x Vicious claws\n\n\nCHARACTERS\n\nC’tan Shard of the Nightbringer (360 points)\n• 1x Gaze of death\n1x Scythe of the Nightbringer\n\nC’tan Shard of the Void Dragon (345 points)\n• 1x Canoptek tail blades\n1x Spear of the Void Dragon\n1x Voltaic storm\n\nNekrosor Ammentar (185 points)\n• 1x Blade tail and whip coils\n1x Enmitic disintegrators\n1x Nullstone Field Generator (Aura)\n1x Unmaker Gauntlet\n\n\nOTHER DATASHEETS\n\nCanoptek Reanimator (75 points)\n• 2x Atomiser beam\n1x Reanimator’s claws\n\nFlayed Ones (55 points)\n• 5x Flayed One\n• 5x Flayer claws\n\nFlayed Ones (55 points)\n• 5x Flayed One\n• 5x Flayer claws\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
-    },
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/90uVfSpDZZUw",
-      "player": "Sascha Sajjad - South London Squad",
-      "faction": "Dark Angels - Reconnaissance",
-      "team": "South London Squad",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "Sascha Sajjad",
-      "listId": "90uVfSpDZZUw",
-      "content": "Gotta go fast (2000 points)\n\nSpace Marines\nDark Angels\nCompany of Hunters and Darkflight Pursuit (3 Detachment Points)\nReconnaissance\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nAzrael (140 points)\n• Attached as: Leader (Character)\n• 1x Lion’s Wrath\n1x The Lion Helm\n1x The Sword of Secrets\n\nInner Circle Companions (160 points)\n• Attached as: Bodyguard\n• 6x Inner Circle Companion\n• 6x Calibanite greatsword\n6x Heavy bolt pistol\n\n\nCHARACTERS\n\nLion El’Jonson (265 points)\n• Warlord\n• 1x Arma Luminis\n1x Fealty\n\n\nOTHER DATASHEETS\n\nDeathwing Knights (240 points)\n• 1x Knight Master\n• 1x Great weapon of the Unforgiven\n• 4x Deathwing Knight\n• 4x Mace of absolution\n\nIncursor Squad (85 points)\n• 1x Incursor Sergeant\n• 1x Bolt pistol\n1x Occulus bolt carbine\n1x Paired combat blades\n• 4x Incursor\n• 4x Bolt pistol\n1x Haywire Mine\n4x Occulus bolt carbine\n4x Paired combat blades\n\nLand Speeder (105 points)\n• 1x Close-combat weapon\n1x Multi-melta\n1x Onslaught gatling cannon\n1x Stormfury missile launcher\n\nLand Speeder (105 points)\n• 1x Close-combat weapon\n1x Multi-melta\n1x Onslaught gatling cannon\n1x Stormfury missile launcher\n\nLand Speeder (120 points)\n• 1x Close-combat weapon\n1x Multi-melta\n1x Onslaught gatling cannon\n1x Stormfury missile launcher\n• Enhancement: Thundercowl Turbines (Upgrade)\n\nLand Speeder Vengeance (145 points)\n• 1x Assault cannon\n1x Close combat weapon\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\nLand Speeder Vengeance (145 points)\n• 1x Assault cannon\n1x Close combat weapon\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\nLand Speeder Vengeance (155 points)\n• 1x Assault cannon\n1x Close combat weapon\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\nScout Squad (65 points)\n• 1x Scout Sergeant\n• 1x Bolt pistol\n1x Boltgun\n1x Close combat weapon\n• 4x Scout\n• 4x Bolt pistol\n2x Boltgun\n4x Close combat weapon\n1x Missile launcher\n1x Scout sniper rifle\n\nStorm Speeder Thunderstrike (135 points)\n• 1x Close combat weapon\n1x Stormfury missiles\n1x Thunderstrike las-talon\n1x Twin Icarus rocket pod\n\nStorm Speeder Thunderstrike (135 points)\n• 1x Close combat weapon\n1x Stormfury missiles\n1x Thunderstrike las-talon\n1x Twin Icarus rocket pod\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
-    },
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/LJRHYhOWHq7b",
-      "player": "Zachary Lockett - South London Squad",
-      "faction": "Leagues of Votann - Priority Assets",
-      "team": "South London Squad",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "Zachary Lockett",
-      "listId": "LJRHYhOWHq7b",
-      "content": "Uthar! Berehk! Buri! Team Votann is blasting off again! (1990 points)\n\nLeagues of Votann\nHearthguard Covenant and Needgaârd Oathband (3 Detachment Points)\nPriority Assets\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nBerehk Stornbröw (85 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Kromlôk’s Revenge\n1x Warforge Gauntlets\n\nCthonian Beserks (95 points)\n• Attached as: Bodyguard\n• 5x Cthonian Beserk\n• 4x Concussion maul\n1x Mole grenade launcher\n1x Twin concussion gauntlet\n\nAttached Unit 2\n\nKâhl (80 points)\n• Attached as: Leader (Character)\n• 1x Mass gauntlet\n1x Teleport Crest\n1x Volkanite disintegrator\n• Enhancement: Ancestral Crest\n\nEinhyr Hearthguard (270 points)\n• Attached as: Bodyguard\n• 1x Hesyr\n• 1x EtaCarn plasma gun\n1x Exoarmour grenade launcher\n1x Graviton hammer\n1x Weavefield crest\n• 9x Einhyr Hearthguard\n• 9x Concussion gauntlet\n9x EtaCarn plasma gun\n9x Exoarmour grenade launcher\n\nAttached Unit 3\n\nÛthar the Destined (90 points)\n• Attached as: Leader (Character)\n• 1x Blade of the Ancestors\n1x Rampart Crest\n1x Volkanite disintegrator\n\nEinhyr Hearthguard (130 points)\n• Attached as: Bodyguard\n• 1x Hesyr\n• 1x EtaCarn plasma gun\n1x Exoarmour grenade launcher\n1x Graviton hammer\n1x Teleport Crest\n• 4x Einhyr Hearthguard\n• 4x Concussion gauntlet\n4x EtaCarn plasma gun\n4x Exoarmour grenade launcher\n\n\nCHARACTERS\n\nBrôkhyr Iron-master (100 points)\n• 1x Brôkhyr Iron-master\n• 1x Graviton hammer\n1x Graviton rifle\n• Enhancement: Oathbound Speculator\n• 1x Ironkin Assistant\n• 1x Close combat weapon\n1x Las-beam cutter\n• 1x E-COG\n• 1x Plasma torch\n• 1x E-COG\n• 1x Manipulator arms\n• 1x E-COG\n• 1x Autoch-pattern bolt pistol\n1x Close combat weapon\n\nBuri Aegnirssen (85 points)\n• 1x Autoch‑pattern bolt pistol\n1x Bane\n\nMemnyr Strategist (55 points)\n• 1x Autoch-pattern bolt pistol\n1x Close combat weapon\n• Enhancement: Dead Reckoning\n\n\nDEDICATED TRANSPORTS\n\nKapricus Carrier (70 points)\n• 1x Armoured hull\n1x Magna-coil autocannon\n1x Smoke Launcher\n1x Twin magna‑coil autocannon\n\n\nOTHER DATASHEETS\n\nBrôkhyr Thunderkyn (170 points)\n• 6x Brôkhyr Thunderkyn\n• 6x Close combat weapon\n6x SP conversion beamer\n\nHekaton Land Fortress (250 points)\n• 1x Armoured wheels\n1x Heavy magna-rail cannon\n1x MATR autocannon\n1x Panspectral Scanner\n2x Twin bolt cannon\n\nHekaton Land Fortress (265 points)\n• 1x Armoured wheels\n1x Heavy magna-rail cannon\n1x MATR autocannon\n1x Panspectral Scanner\n2x Twin bolt cannon\n\nHernkyn Pioneers (80 points)\n• 3x Hernkyn Pioneer\n• 3x Bolt revolver\n3x Bolt shotgun\n1x HYLas rotary cannon\n3x Magna-coil autocannon\n1x Panspectral Scanner\n3x Plasma knife\n1x Rollbar Searchlight\n\nHernkyn Yaegirs (90 points)\n• 1x Yaegir Theyn\n• 1x Bolt shotgun\n1x Close combat weapon\n• 9x Hernkyn Yaegir\n• 1x APM launcher\n7x Bolt shotgun\n9x Close combat weapon\n1x Magna-coil rifle\n\nIronkin Steeljacks with Melee Weapons (75 points)\n• 1x Steeljack Theyn\n• 1x Autoch-pattern bolter\n1x Plasma sword\n1x Preymark Crest\n• 2x Ironkin Steeljack\n• 2x Autoch-pattern bolter\n2x Plasma sword\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
-    },
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/Bybv62GHpKvV",
-      "player": "Alex Dracup - Surrey Primarchs",
-      "faction": "Orks - Take and Hold",
-      "team": "Surrey Primarchs B",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "Alex Dracup",
-      "listId": "Bybv62GHpKvV",
-      "content": "Freebooter krew (2000 points)\n\nOrks\nFreebooter Krew and More Dakka! (3 Detachment Points)\nTake and Hold\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nGhazghkull Thraka (235 points)\n• Attached as: Leader (Character)\n• 1x Ghazghkull Thraka\n• Warlord\n• 1x Gork’s Klaw\n1x Mork’s Roar\n• 1x Makari\n• 1x Makari’s stabba\n\nBannernob (75 points)\n• Attached as: Support (Character)\n• 1x Choppa\n1x Shoota\n• Enhancement: Razgit’s Magik Map\n\nBoyz (160 points)\n• Attached as: Bodyguard (Battleline)\n• 19x Boy\n• 17x Choppa\n2x Close combat weapon\n2x Rokkit launcha\n17x Shoota\n17x Slugga\n• 1x Boss Nob\n• 1x Power klaw\n1x Slugga\n\nAttached Unit 2\n\nBeastboss on Squigosaur (105 points)\n• Attached as: Leader (Character)\n• 1x Beastchoppa\n1x Slugga\n1x Squigosaur’s jaws\n1x Thump gun\n• Enhancement: Da Kaptin\n\nSquighog Boyz (140 points)\n• Attached as: Bodyguard\n• 1x Bomb Squig\n• 3x Squighog Boy\n• 3x Saddlegit weapons\n3x Squig jaws\n3x Stikka\n• 1x Nob on Smasha Squig\n• 1x Big choppa\n1x Slugga\n1x Squig jaws\n\nAttached Unit 3\n\nMozrog Skragbad (125 points)\n• Attached as: Leader (Character)\n• 1x Big Chompa’s jaws\n1x Gutrippa\n1x Thump gun\n\nSquighog Boyz (270 points)\n• Attached as: Bodyguard\n• 2x Bomb Squig\n• 6x Squighog Boy\n• 6x Saddlegit weapons\n6x Squig jaws\n6x Stikka\n• 2x Nob on Smasha Squig\n• 2x Big choppa\n2x Slugga\n2x Squig jaws\n\nAttached Unit 4\n\nBig Mek with Shokk Attack Gun (90 points)\n• Attached as: Leader (Character)\n• 1x Close combat weapon\n1x Shokk attack gun\n• Enhancement: Git-Spotter Squig\n\nTankbustas (125 points)\n• Attached as: Bodyguard\n• 1x Boss Nob\n• 1x Choppa\n1x Rokkit pistol\n1x Smash hammer\n• 5x Tankbusta\n• 5x Close combat weapon\n6x Rokkit launcha\n\n\nCHARACTERS\n\nBoss Snikrot (75 points)\n• 1x Mork’s Teeth\n1x Slugga\n\nWazdakka Gutsmek (175 points)\n• 1x Fixit’s wrench\n1x Grabba dragga\n1x Psyko‑gatler\n1x Speeding bulk and flaming exhaust\n\n\nDEDICATED TRANSPORTS\n\nTrukk (55 points)\n• 1x Big shoota\n1x Spiked wheels\n1x Wreckin’ ball\n\n\nOTHER DATASHEETS\n\nFlash Gitz (75 points)\n• 1x Ammo Runt\n• 1x Kaptin\n• 1x Choppa\n1x Snazzgun\n• 4x Flash Git\n• 4x Choppa\n4x Snazzgun\n\nGretchin (45 points)\n• 10x Gretchin\n• 10x Close combat weapon\n10x Grot blasta\n• 1x Runtherd\n• 1x Runtherd tools\n1x Slugga\n\nKommandos (120 points)\n• 1x Bomb Squig\n1x Distraction Grot\n• 9x Kommando\n• 1x Breacha ram\n1x Burna\n6x Choppa\n2x Close combat weapon\n1x Rokkit launcha\n6x Slugga\n• 1x Boss Nob\n• 1x Power klaw\n1x Slugga\n\nStormboyz (65 points)\n• 4x Stormboy\n• 4x Choppa\n4x Slugga\n• 1x Boss Nob\n• 1x Power klaw\n1x Slugga\n\nStormboyz (65 points)\n• 4x Stormboy\n• 4x Choppa\n4x Slugga\n• 1x Boss Nob\n• 1x Power klaw\n1x Slugga\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
-    },
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/rBYVquBqN9i0",
-      "player": "Andrew Mcbride",
-      "faction": "World Eaters - Disruption",
-      "team": "Surrey Primarchs B",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "Andrew Mcbride",
-      "listId": "rBYVquBqN9i0",
-      "content": "I can't believe I'm using a Dirty Defiler (2000 points)\n\nWorld Eaters\nBrazen Engines and Goretrack Onslaught (3 Detachment Points)\nDisruption\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nKhârn the Betrayer (115 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Gorechild\n1x Plasma pistol\n\nKhorne Berzerkers (160 points)\n• Attached as: Bodyguard (Battleline)\n• 1x Khorne Berzerker Champion\n• 1x Chainblade\n1x Plasma pistol\n• 9x Khorne Berzerker\n• 7x Bolt pistol\n7x Chainblade\n1x Icon of Khorne\n2x Khornate eviscerator\n2x Plasma pistol\n\nAttached Unit 2\n\nSlaughterbound (100 points)\n• Attached as: Leader (Character)\n• 1x Lacerator and daemonic claw\n\nExalted Eightbound (265 points)\n• Attached as: Bodyguard\n• 1x Exalted Eightbound Champion\n• 1x Chainblades\n• 5x Exalted Eightbound\n• 5x Chainblades\n\n\nCHARACTERS\n\nLord Invocatus (100 points)\n• 1x Bladed horn\n1x Bolt pistol\n1x Coward’s Bane\n\nMaster of Executions (80 points)\n• 1x Axe of dismemberment\n1x Bolt pistol\n• Enhancement: Aggressive Deployment\n\n\nDEDICATED TRANSPORTS\n\nChaos Rhino (75 points)\n• 1x Armoured tracks\n2x Combi-bolter\n1x Havoc launcher\n\n\nOTHER DATASHEETS\n\nDefiler (300 points)\n• 1x Ectoplasma destructor\n2x Excruciator cannon\n2x Heavy reaper autocannon\n1x Shearing claws\n\nEightbound (125 points)\n• 1x Eightbound Champion\n• 1x Chainblades\n• 2x Eightbound\n• 2x Chainblades\n\nEightbound (125 points)\n• 1x Eightbound Champion\n• 1x Chainblades\n• 2x Eightbound\n• 2x Chainblades\n\nExalted Eightbound (130 points)\n• 1x Exalted Eightbound Champion\n• 1x Chainblades\n• 2x Exalted Eightbound\n• 2x Chainblades\n\nForgefiend (145 points)\n• 1x Ectoplasma cannon\n1x Forgefiend claws\n2x Hades autocannon\n\nGoremongers (75 points)\n• 1x Blood Herald\n• 1x Autopistol\n1x Chainblade\n1x Close combat weapon\n• 7x Goremongers\n• 7x Autopistol\n7x Chainblade\n7x Close combat weapon\n\nJakhals (65 points)\n• 1x Jakhal Pack Leader\n• 1x Autopistol\n1x Chainblades\n• 1x Dishonoured\n• 1x Skullsmasher and mangler\n• 8x Jakhal\n• 8x Autopistol\n7x Chainblades\n1x Icon of Khorne\n1x Mauler chainblade\n\nMaulerfiend (140 points)\n• 2x Magma cutter\n1x Maulerfiend fists\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
-    },
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/b80sIcBubm4z",
-      "player": "Charles Bunn",
-      "faction": "Thousand Sons - Priority Assets",
-      "team": "Surrey Primarchs B",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "Charles Bunn",
-      "listId": "b80sIcBubm4z",
-      "content": "FF (2000 points)\n\nThousand Sons\nGrand Coven (3 Detachment Points)\nPriority Assets\nStrike Force (2000 points)\n\n\nCHARACTERS\n\nDaemon Prince of Tzeentch with Wings (205 points)\n• 1x Dark Blessing\n1x Hellforged weapons\n1x Infernal cannon\n• Enhancement: Eldritch Vortex of E’Taph\n\nMagnus the Red (455 points)\n• 1x Blade of Magnus\n1x Gaze of Magnus\n1x Tzeentch’s Firestorm\n\nSorcerer (95 points)\n• 1x Force weapon\n1x Inferno bolt pistol\n1x Pandaemonic Delusion\n\nSorcerer (95 points)\n• 1x Force weapon\n1x Inferno bolt pistol\n1x Pandaemonic Delusion\n\nSorcerer in Terminator Armour (130 points)\n• 1x Force weapon\n1x Gaze of Hate\n1x Inferno combi-bolter\n• Enhancement: Umbralefic Crystal\n\n\nBATTLELINE\n\nRubric Marines (100 points)\n• 1x Aspiring Sorcerer\n• 1x Force weapon\n1x Inferno bolt pistol\n1x Malefic Curse\n• 4x Rubric Marine\n• 4x Close combat weapon\n1x Icon of Flame\n3x Inferno boltgun\n1x Soulreaper cannon\n\nRubric Marines (100 points)\n• 1x Aspiring Sorcerer\n• 1x Force weapon\n1x Inferno bolt pistol\n1x Malefic Curse\n• 4x Rubric Marine\n• 4x Close combat weapon\n1x Icon of Flame\n3x Inferno boltgun\n1x Soulreaper cannon\n\n\nOTHER DATASHEETS\n\nChaos Spawn (65 points)\n• 2x Chaos Spawn\n• 2x Hideous mutations\n\nForgefiend (140 points)\n• 1x Ectoplasma cannon\n1x Forgefiend claws\n2x Hades autocannon\n\nScarab Occult Terminators (385 points)\n• 1x Scarab Occult Sorcerer\n• 1x Force weapon\n1x Inferno combi-bolter\n1x Malefic Curse\n• 9x Scarab Occult Terminator\n• 2x Hellfyre missile rack\n7x Inferno combi-bolter\n9x Prosperine khopesh\n2x Soulreaper cannon\n\nTzaangor Enlightened (50 points)\n• 1x Aviarch\n• 1x Divining spear\n• 2x Enlightened\n• 2x Divining spear\n\nTzaangor Enlightened (50 points)\n• 1x Aviarch\n• 1x Divining spear\n• 2x Enlightened\n• 2x Divining spear\n\nTzaangor Enlightened with Fatecaster Greatbows (55 points)\n• 1x Aviarch\n• 1x Close combat weapon\n1x Fatecaster greatbow\n• 2x Enlightened\n• 2x Close combat weapon\n2x Fatecaster greatbow\n\nTzaangors (75 points)\n• 1x Twistbray\n• 1x Tzaangor blades\n• 9x Tzaangor\n• 9x Tzaangor blades\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
-    },
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/SpSM9F22RyY1",
-      "player": "Rob Scott",
-      "faction": "Dark Angels - Reconnaissance",
-      "team": "Surrey Primarchs B",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "Rob Scott",
-      "listId": "SpSM9F22RyY1",
-      "content": "There are fewer bikes here than expected (1995 points)\n\nSpace Marines\nDark Angels\nCompany of Hunters and Darkflight Pursuit (3 Detachment Points)\nReconnaissance\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nAzrael (140 points)\n• Attached as: Leader (Character)\n• 1x Lion’s Wrath\n1x The Lion Helm\n1x The Sword of Secrets\n\nIntercessor Squad (80 points)\n• Attached as: Bodyguard (Battleline)\n• 1x Intercessor Sergeant\n• 1x Bolt pistol\n1x Plasma pistol\n1x Power fist\n• 4x Intercessor\n• 4x Bolt pistol\n4x Bolt rifle\n4x Close combat weapon\n\nAttached Unit 2\n\nSammael (105 points)\n• Attached as: Leader (Character)\n• 1x Bolt Pistol\n1x Master-crafted plasma cannon\n1x The Raven Sword\n1x Twin storm bolter\n\nRavenwing Command Squad (135 points)\n• Attached as: Support (Character)\n• 1x Ravenwing Champion\n• 1x Bolt pistol\n1x Master-crafted power weapon\n1x Plasma talon\n• Enhancement: Recon Hunter\n• 1x Ravenwing Apothecary\n• 1x Black Knight combat weapon\n1x Bolt pistol\n1x Plasma talon\n• 1x Ravenwing Ancient\n• 1x Black Knight combat weapon\n1x Bolt pistol\n1x Plasma talon\n\nOutrider Squad (70 points)\n• Attached as: Bodyguard (Battleline)\n• 1x Outrider Sergeant\n• 1x Astartes chainsword\n1x Heavy bolt pistol\n1x Twin bolt rifle\n• 2x Outrider\n• 2x Astartes chainsword\n2x Heavy bolt pistol\n2x Twin bolt rifle\n\nAttached Unit 3\n\nChaplain on Bike (85 points)\n• Attached as: Leader (Character)\n• 1x Absolvor bolt pistol\n1x Crozius arcanum\n1x Twin bolt rifle\n• Enhancement: Master of Manoeuvre\n\nRavenwing Command Squad (105 points)\n• Attached as: Support (Character)\n• 1x Ravenwing Champion\n• 1x Bolt pistol\n1x Master-crafted power weapon\n1x Plasma talon\n• 1x Ravenwing Apothecary\n• 1x Black Knight combat weapon\n1x Bolt pistol\n1x Plasma talon\n• 1x Ravenwing Ancient\n• 1x Black Knight combat weapon\n1x Bolt pistol\n1x Plasma talon\n\nOutrider Squad (70 points)\n• Attached as: Bodyguard (Battleline)\n• 1x Outrider Sergeant\n• 1x Astartes chainsword\n1x Heavy bolt pistol\n1x Twin bolt rifle\n• 2x Outrider\n• 2x Astartes chainsword\n2x Heavy bolt pistol\n2x Twin bolt rifle\n\n\nCHARACTERS\n\nLion El’Jonson (265 points)\n• Warlord\n• 1x Arma Luminis\n1x Fealty\n\n\nOTHER DATASHEETS\n\nLand Speeder (105 points)\n• 1x Close-combat weapon\n1x Multi-melta\n1x Onslaught gatling cannon\n1x Stormfury missile launcher\n\nLand Speeder (120 points)\n• 1x Close-combat weapon\n1x Multi-melta\n1x Onslaught gatling cannon\n1x Stormfury missile launcher\n• Enhancement: Thundercowl Turbines (Upgrade)\n\nLand Speeder Vengeance (145 points)\n• 1x Close combat weapon\n1x Heavy bolter\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\nLand Speeder Vengeance (145 points)\n• 1x Close combat weapon\n1x Heavy bolter\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\nLand Speeder Vengeance (155 points)\n• 1x Close combat weapon\n1x Heavy bolter\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\nRavenwing Darkshroud (70 points)\n• 1x Close combat weapon\n1x Heavy bolter\n\nScout Squad (65 points)\n• 1x Scout Sergeant\n• 1x Astartes chainsword\n1x Bolt pistol\n1x Close combat weapon\n• 4x Scout\n• 4x Bolt pistol\n4x Close combat weapon\n2x Combat knife\n1x Heavy bolter\n1x Scout sniper rifle\n\nStorm Speeder Thunderstrike (135 points)\n• 1x Close combat weapon\n1x Stormfury missiles\n1x Thunderstrike las-talon\n1x Twin Icarus rocket pod\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
-    },
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/rSTOdfvkpFWq",
-      "player": "Adam Wright - Life begins at 40K",
-      "faction": "Space Marines (Astartes) - Priority Assets",
-      "team": "The boys go to Brighton for “Warhammer”",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "Adam Wright",
-      "listId": "rSTOdfvkpFWq",
-      "content": "Relight my fire, your love is my only desire (2,000 Points)\n\nSpace Marines\nSalamanders\nForgefather’s Seekers and Librarius Conclave (3 Detachment Points)\nPriority Assets\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nLibrarian (95 Points)\n• Attached as: Leader (Character)\n• 1x Bolt pistol\n• 1x Force weapon\n• 1x Smite\n• Enhancements: Temporal Corridor\n\nInfernus Squad (180 Points)\n• Attached as: Bodyguard\n• 1x Infernus Sergeant\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n◦ 1x Pyreblaster\n• 9x Infernus Marine\n◦ 9x Bolt pistol\n◦ 9x Close combat weapon\n◦ 9x Pyreblaster\n\nAttached unit 2\n\nLibrarian (95 Points)\n• Attached as: Leader (Character)\n• 1x Bolt pistol\n• 1x Force weapon\n• 1x Smite\n• Enhancements: Fusillade\n\nSternguard Veteran Squad (200 Points)\n• Attached as: Bodyguard\n• 1x Sternguard Veteran Sergeant\n◦ 1x Close combat weapon\n◦ 1x Power fist\n◦ 1x Sternguard bolt pistol\n◦ 1x Sternguard bolt rifle\n• 9x Sternguard Veteran\n◦ 9x Close combat weapon\n◦ 9x Sternguard bolt pistol\n◦ 7x Sternguard bolt rifle\n◦ 2x Sternguard heavy bolter\n\nAttached unit 3\n\nCaptain with Jump Pack (75 Points)\n• Attached as: Leader (Character)\n• 1x Hand flamer\n• 1x Power fist\n\nVanguard Veteran Squad with Jump Packs (210 Points)\n• Attached as: Bodyguard\n• 1x Vanguard Veteran Sergeant with Jump Pack\n◦ 1x Hand flamer\n◦ 1x Vanguard Veteran weapon\n• 9x Vanguard Veteran with Jump Pack\n◦ 9x Hand flamer\n◦ 9x Vanguard Veteran weapon\n\nCHARACTERS\n\nVulkan He’stan (95 Points)\n• Warlord\n• 1x Bolt Pistol\n• 1x Gauntlet of the Forge\n• 1x Spear of Vulkan\n\nOTHER DATASHEETS\n\nAggressor Squad (165 Points)\n• 1x Aggressor Sergeant\n◦ 1x Flamestorm gauntlets\n◦ 1x Twin power fists\n• 5x Aggressor\n◦ 5x Flamestorm gauntlets\n◦ 5x Twin power fists\n\nInfernus Squad (85 Points)\n• 1x Infernus Sergeant\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n◦ 1x Pyreblaster\n• 4x Infernus Marine\n◦ 4x Bolt pistol\n◦ 4x Close combat weapon\n◦ 4x Pyreblaster\n\nLand Raider Redeemer (260 Points)\n• 1x Armoured tracks\n• 2x Flamestorm cannon\n• 1x Hunter-killer missile\n• 1x Multi-melta\n• 1x Storm bolter\n• 1x Twin assault cannon\n\nLand Speeder (105 Points)\n• 1x Close-combat weapon\n• 1x Multi-melta\n• 1x Onslaught gatling cannon\n• 1x Stormfury missile launcher\n\nRepulsor (170 Points)\n• 1x Armoured hull\n• 1x Hunter-slayer missile\n• 1x Las-talon\n• 1x Repulsor defensive array\n• 1x Twin lascannon\n\nScout Squad (65 Points)\n• 1x Scout Sergeant\n◦ 1x Astartes chainsword\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n• 4x Scout\n◦ 2x Astartes shotgun\n◦ 4x Bolt pistol\n◦ 4x Close combat weapon\n◦ 1x Missile launcher\n◦ 1x Scout sniper rifle\n\nScout Squad (65 Points)\n• 1x Scout Sergeant\n◦ 1x Astartes chainsword\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n• 4x Scout\n◦ 2x Astartes shotgun\n◦ 4x Bolt pistol\n◦ 4x Close combat weapon\n◦ 1x Missile launcher\n◦ 1x Scout sniper rifle\n\nStorm Speeder Thunderstrike (135 Points)\n• 1x Close combat weapon\n• 1x Stormfury missiles\n• 1x Thunderstrike las-talon\n• 1x Twin Icarus rocket pod\n\nExported with App Version: v2.5.0 (1), Data Version: v931"
-    },
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/D9dNkC9eMyi0",
-      "player": "Daniel Latham - Life begins at 40K",
-      "faction": "Necrons - Purge the Foe",
-      "team": "The boys go to Brighton for “Warhammer”",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "Daniel Latham",
-      "listId": "D9dNkC9eMyi0",
-      "content": "Thanks Stan (1995 points)\n\nNecrons\nCursed Legion and Skyshroud Spearhead (3 Detachment Points)\nPurge the Foe\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nLokhust Lord (100 points)\n• Attached as: Leader (Character)\n• 1x Lord’s blade\n1x Resurrection Orb\n• Enhancement: Mark of the Nekrosor\n\nLokhust Destroyers (175 points)\n• Attached as: Bodyguard\n• 6x Lokhust Destroyer\n• 6x Close combat weapon\n6x Gauss cannon\n\nAttached Unit 2\n\nLokhust Lord (80 points)\n• Attached as: Leader (Character)\n• 1x Lord’s blade\n1x Resurrection Orb\n\nLokhust Destroyers (175 points)\n• Attached as: Bodyguard\n• 6x Lokhust Destroyer\n• 6x Close combat weapon\n6x Gauss cannon\n\nAttached Unit 3\n\nOverlord (110 points)\n• Attached as: Leader (Character)\n• 1x Resurrection Orb\n1x Voidscythe\n• Enhancement: Destroyer Ankh\n\nLychguard (160 points)\n• Attached as: Bodyguard\n• 10x Lychguard\n• 10x Dispersion Shield\n10x Hyperphase sword\n\nAttached Unit 4\n\nSkorpekh Lord (95 points)\n• Attached as: Leader (Character)\n• 1x Enmitic annihilator\n1x Flensing claw\n1x Hyperphase harvester\n\nSkorpekh Destroyers (85 points)\n• Attached as: Bodyguard\n• 3x Skorpekh Destroyer\n• 1x Plasmacyte\n3x Skorpekh hyperphase weapons\n\n\nCHARACTERS\n\nC’tan Shard of the Void Dragon (345 points)\n• 1x Canoptek tail blades\n1x Spear of the Void Dragon\n1x Voltaic storm\n\nIlluminor Szeras (175 points)\n• 1x Eldritch Lance\n1x Impaling legs\n\nImotekh the Stormlord (100 points)\n• Warlord\n• 1x Gauntlet of Fire\n1x Staff of the Destroyer\n\nNekrosor Ammentar (185 points)\n• 1x Blade tail and whip coils\n1x Enmitic disintegrators\n1x Nullstone Field Generator (Aura)\n1x Unmaker Gauntlet\n\n\nOTHER DATASHEETS\n\nCanoptek Reanimator (75 points)\n• 2x Atomiser beam\n1x Reanimator’s claws\n\nFlayed Ones (55 points)\n• 5x Flayed One\n• 5x Flayer claws\n\nOphydian Destroyers (80 points)\n• 3x Ophydian Destroyer\n• 3x Ophydian hyperphase weapons\n1x Plasmacyte\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
-    },
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/QLbZTVgmcaPG",
-      "player": "Pete Armstrong - Life begins at 40K",
-      "faction": "Chaos Knights - Reconnaissance",
-      "team": "The boys go to Brighton for “Warhammer”",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "Pete Armstrong",
-      "listId": "QLbZTVgmcaPG",
-      "content": "Pete goes dogging in Brighton.\n\nChaos Knights\nHoundpack Lance and Hunting Warpack (3 Detachment Points)\nReconnaissance\nStrike Force (2000 points)\n\n\nCHARACTERS\n\nWar Dog Brigand (155 points)\n• Houndpack Lance Keyword: Character\n• Warlord\n• 1x Armoured feet\n1x Avenger chaincannon\n1x Daemonbreath spear\n1x Diabolus heavy stubber\n• Enhancement: Final Howl (Aura)\n\nWar Dog Brigand (135 points)\n• Houndpack Lance Keyword: Character\n• 1x Armoured feet\n1x Avenger chaincannon\n1x Daemonbreath spear\n1x Diabolus heavy stubber\n\nWar Dog Karnivore (160 points)\n• Houndpack Lance Keyword: Character\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n• Enhancement: Panoply of the Cursed Knights\n\n\nBATTLELINE\n\nWar Dog Brigand (135 points)\n• 1x Armoured feet\n1x Avenger chaincannon\n1x Daemonbreath spear\n1x Diabolus heavy stubber\n\nWar Dog Executioner (140 points)\n• 1x Armoured feet\n1x Daemonbreath meltagun\n2x War Dog autocannon\n• Enhancement: Snarling Rivalry (Upgrade)\n\nWar Dog Executioner (140 points)\n• 1x Armoured feet\n1x Daemonbreath meltagun\n2x War Dog autocannon\n• Enhancement: Snarling Rivalry (Upgrade)\n\nWar Dog Executioner (140 points)\n• 1x Armoured feet\n1x Daemonbreath meltagun\n2x War Dog autocannon\n• Enhancement: Snarling Rivalry (Upgrade)\n\nWar Dog Karnivore (145 points)\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\nWar Dog Karnivore (145 points)\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\nWar Dog Karnivore (145 points)\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\nWar Dog Karnivore (145 points)\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\nWar Dog Karnivore (145 points)\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\nWar Dog Stalker (135 points)\n• 1x Daemonbreath spear\n1x Diabolus heavy stubber\n1x Slaughterclaw\n\nWar Dog Stalker (135 points)\n• 1x Daemonbreath spear\n1x Diabolus heavy stubber\n1x Slaughterclaw\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
-    },
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/vwcKAR0WtG9u",
-      "player": "Ryan Nichol - Life begins at 40K",
-      "faction": "Adeptus Custodes - Take and Hold",
-      "team": "The boys go to Brighton for “Warhammer”",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "Ryan Nichol",
-      "listId": "vwcKAR0WtG9u",
-      "content": "Dan said I can't bring my plane\n:(\n(2000 points)\n\nAdeptus Custodes\nLions of the Emperor (3 Detachment Points)\nTake and Hold\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nTrajann Valoris (135 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Eagle’s Scream\n1x Watcher’s Axe\n\nCustodian Wardens (220 points)\n• Attached as: Bodyguard\n• 4x Custodian Warden\n• 4x Guardian spear\n\nAttached Unit 2\n\nBlade Champion (135 points)\n• Attached as: Leader (Character)\n• 1x Vaultswords\n• Enhancement: Superior Creation\n\nCustodian Guard (215 points)\n• Attached as: Bodyguard (Battleline)\n• 5x Custodian Guard\n• 3x Guardian spear\n1x Misericordia\n2x Praesidium Shield\n1x Sentinel blade\n1x Vexilla\n\nAttached Unit 3\n\nValerian (110 points)\n• Attached as: Leader (Character)\n• 1x Gnosis\n\nCustodian Wardens (200 points)\n• Attached as: Bodyguard\n• 4x Custodian Warden\n• 4x Guardian spear\n\n\nBATTLELINE\n\nCustodian Guard (170 points)\n• 4x Custodian Guard\n• 1x Misericordia\n4x Praesidium Shield\n3x Sentinel blade\n1x Vexilla\n\n\nOTHER DATASHEETS\n\nAllarus Custodians (340 points)\n• 6x Allarus Custodian\n• 6x Balistus grenade launcher\n6x Guardian spear\n\nAllarus Custodians (340 points)\n• 6x Allarus Custodian\n• 6x Balistus grenade launcher\n6x Guardian spear\n\nProsecutors (45 points)\n• 1x Prosecutor Sister Superior\n• 1x Boltgun\n1x Close combat weapon\n• 3x Prosecutor\n• 3x Boltgun\n3x Close combat weapon\n\nProsecutors (45 points)\n• 1x Prosecutor Sister Superior\n• 1x Boltgun\n1x Close combat weapon\n• 3x Prosecutor\n• 3x Boltgun\n3x Close combat weapon\n\nProsecutors (45 points)\n• 1x Prosecutor Sister Superior\n• 1x Boltgun\n1x Close combat weapon\n• 3x Prosecutor\n• 3x Boltgun\n3x Close combat weapon\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
-    },
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/gXfEJxZjpKer",
-      "player": "David Bannister - Wessex Wyverns",
-      "faction": "T'au Empire - Purge the Foe",
-      "team": "Wessex Wyverns",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "David Bannister",
-      "listId": "gXfEJxZjpKer",
-      "content": "Four man teams (2000 points)\n\nT’au Empire\nRetaliation Cadre (3 Detachment Points)\nPurge the Foe\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nCommander in Coldstar Battlesuit (95 points)\n• Attached as: Leader (Character)\n• 1x Battlesuit fists\n1x Marker Drone\n3x Missile pod\n1x Shield Drone\n1x Shield Generator\n\nCrisis Fireknife Battlesuits (130 points)\n• Attached as: Bodyguard\n• 1x Crisis Fireknife Shas’vre\n• 1x Battlesuit fists\n1x Gun Drone\n2x Missile pod\n1x Shield Drone\n• 2x Crisis Fireknife Shas’ui\n• 2x Battlesuit fists\n2x Gun Drone\n4x Missile pod\n2x Shield Drone\n\nAttached Unit 2\n\nCommander in Enforcer Battlesuit (80 points)\n• Attached as: Leader (Character)\n• 1x Battlesuit fists\n1x Marker Drone\n4x Missile pod\n1x Shield Drone\n\nCrisis Fireknife Battlesuits (105 points)\n• Attached as: Bodyguard\n• 1x Crisis Fireknife Shas’vre\n• 1x Battlesuit fists\n1x Gun Drone\n2x Plasma rifle\n1x Shield Drone\n• 2x Crisis Fireknife Shas’ui\n• 2x Battlesuit fists\n2x Gun Drone\n1x Missile pod\n3x Plasma rifle\n2x Shield Drone\n\nAttached Unit 3\n\nCommander in Enforcer Battlesuit (80 points)\n• Attached as: Leader (Character)\n• 1x Battlesuit fists\n1x Marker Drone\n4x Plasma rifle\n1x Shield Drone\n\nCrisis Fireknife Battlesuits (110 points)\n• Attached as: Bodyguard\n• 1x Crisis Fireknife Shas’vre\n• 1x Battlesuit fists\n1x Gun Drone\n2x Plasma rifle\n1x Shield Drone\n• 2x Crisis Fireknife Shas’ui\n• 2x Battlesuit fists\n4x Plasma rifle\n\nAttached Unit 4\n\nCommander Farsight (70 points)\n• Attached as: Leader (Character)\n• 1x Dawn Blade\n1x High-intensity plasma rifle\n\nCrisis Starscythe Battlesuits (130 points)\n• Attached as: Bodyguard\n• 1x Crisis Starscythe Shas’vre\n• 1x Battlesuit fists\n1x Gun Drone\n1x Shield Drone\n2x T’au flamer\n• 2x Crisis Starscythe Shas’ui\n• 2x Battlesuit fists\n2x Gun Drone\n2x Shield Drone\n4x T’au flamer\n\nAttached Unit 5\n\nCommander in Coldstar Battlesuit (95 points)\n• Attached as: Leader (Character)\n• 1x Battlesuit fists\n3x Fusion blaster\n1x Marker Drone\n1x Shield Drone\n1x Shield Generator\n\nCrisis Sunforge Battlesuits (125 points)\n• Attached as: Bodyguard\n• 1x Crisis Sunforge Shas’vre\n• 1x Battlesuit fists\n2x Fusion blaster\n1x Gun Drone\n1x Shield Drone\n• 2x Crisis Sunforge Shas’ui\n• 2x Battlesuit fists\n4x Fusion blaster\n2x Gun Drone\n2x Shield Drone\n\n\nCHARACTERS\n\nDarkstrider (60 points)\n• 1x Close combat weapon\n1x Shade\n\nThe Twin Lance (230 points)\n• 1x Ri’Lantar\n• Warlord\n• 1x Fusion eliminator\n1x MV15 Gun Drone\n1x Shardstorm burst system\n1x XV pulse pistol\n• 1x Ri’Locai\n• 1x Ion scattercannon\n1x MV15 Gun Drone\n1x Shardstorm burst system\n1x XV pulse pistol\n\n\nOTHER DATASHEETS\n\nHammerhead Gunship (150 points)\n• 2x Accelerator burst cannon\n1x Armoured hull\n1x Ion cannon\n2x Seeker missile\n\nPiranhas (65 points)\n• 1x Armoured hull\n1x Piranha fusion blaster\n2x Seeker missile\n2x Twin pulse carbine\n\nStealth Battlesuits (100 points)\n• 1x Stealth Shas’vre\n• 1x Battlesuit fists\n1x Fusion blaster\n1x Gun Drone\n1x Marker Drone\n1x Pulse pistol\n• 4x Stealth Shas’ui\n• 4x Battlesuit fists\n3x Burst cannon\n1x Fusion blaster\n\n1x Homing Beacon\n\n\n\nStormsurge (375 points)\n• 1x Cluster rocket system\n1x Destroyer missiles\n1x Pulse blast cannon\n1x Thunderous footfalls\n1x Twin burst cannon\n2x Twin smart missile system\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
-    },
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/UVw0qAolBcWm",
-      "player": "Jonathan Aylett - Wessex Wyverns",
-      "faction": "Orks - Disruption",
-      "team": "Wessex Wyverns",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "Jonathan Aylett",
-      "listId": "UVw0qAolBcWm",
-      "content": "Scout scout scout again (1,995 Points)\n\nOrks\nEquatorial Hordes and Freebooter Krew (3 Detachment Points)\nDisruption\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nGhazghkull Thraka (235 Points)\n• Attached as: Leader (Character)\n• 1x Ghazghkull Thraka\n• Warlord\n◦ 1x Gork’s Klaw\n◦ 1x Mork’s Roar\n• 1x Makari\n◦ 1x Makari’s stabba\n\nPainboy (90 Points)\n• Attached as: Support (Character)\n• 1x Grot Orderly\n• 1x Power klaw\n• 1x ’Urty syringe\n\nBoyz (160 Points)\n• Attached as: Bodyguard (Battleline)\n• 19x Boy\n◦ 19x Choppa\n◦ 19x Slugga\n• 1x Boss Nob\n◦ 1x Power klaw\n◦ 1x Slugga\n\nAttached unit 2\n\nBigboss (55 Points)\n• Attached as: Leader (Character)\n• 1x Slugga\n• 1x Two‑handed big choppa\n\nPainboy (90 Points)\n• Attached as: Support (Character)\n• 1x Grot Orderly\n• 1x Power klaw\n• 1x ’Urty syringe\n\nBoyz (160 Points)\n• Attached as: Bodyguard (Battleline)\n• 19x Boy\n◦ 19x Choppa\n◦ 19x Slugga\n• 1x Boss Nob\n◦ 1x Power klaw\n◦ 1x Slugga\n\nAttached unit 3\n\nZodgrod Wortsnagga (80 Points)\n• Attached as: Leader (Character)\n• 1x Da Grabzappa\n• 1x Squigstoppa\n\nGretchin (80 Points)\n• Attached as: Bodyguard\n• 20x Gretchin\n◦ 20x Close combat weapon\n◦ 20x Grot blasta\n\nAttached unit 4\n\nBig Mek with Shokk Attack Gun (90 Points)\n• Attached as: Leader (Character)\n• 1x Close combat weapon\n• 1x Grot Assistant\n• 1x Shokk attack gun\n• Enhancements: Git-Spotter Squig\n\nTankbustas (125 Points)\n• Attached as: Bodyguard\n• 1x Boss Nob\n◦ 1x Choppa\n◦ 1x Rokkit pistol\n◦ 1x Smash hammer\n• 5x Tankbusta\n◦ 5x Close combat weapon\n◦ 1x Pulsa Rokkit\n◦ 5x Rokkit launcha\n\nCHARACTERS\n\nBeastboss on Squigosaur (95 Points)\n• 1x Beastchoppa\n• 1x Slugga\n• 1x Squigosaur’s jaws\n• 1x Thump gun\n\nWazdakka Gutsmek (175 Points)\n• 1x Fixit’s wrench\n• 1x Grabba dragga\n• 1x Psyko‑gatler\n• 1x Speeding bulk and flaming exhaust\n\nBATTLELINE\n\nBoyz (75 Points)\n• 9x Boy\n◦ 9x Choppa\n◦ 9x Slugga\n• 1x Boss Nob\n◦ 1x Power klaw\n◦ 1x Slugga\n\nDEDICATED TRANSPORTS\n\nTrukk (55 Points)\n• 1x Big shoota\n• 1x Spiked wheels\n\nOTHER DATASHEETS\n\nBig Mek Dakkarig (115 Points)\n• 1x Blitzkannon\n• 1x Rokkit launcha\n• 1x Stompy feet\n\nFlash Gitz (75 Points)\n• 1x Ammo Runt\n• 1x Kaptin\n◦ 1x Choppa\n◦ 1x Snazzgun\n• 4x Flash Git\n◦ 4x Choppa\n◦ 4x Snazzgun\n\nFlash Gitz (75 Points)\n• 1x Ammo Runt\n• 1x Kaptin\n◦ 1x Choppa\n◦ 1x Snazzgun\n• 4x Flash Git\n◦ 4x Choppa\n◦ 4x Snazzgun\n\nGretchin (45 Points)\n• 10x Gretchin\n◦ 10x Close combat weapon\n◦ 10x Grot blasta\n• 1x Runtherd\n◦ 1x Runtherd tools\n◦ 1x Slugga\n\nKommandos (120 Points)\n• 1x Bomb Squig\n• 1x Distraction Grot\n• 9x Kommando\n◦ 1x Breacha ram\n◦ 8x Choppa\n◦ 8x Slugga\n• 1x Boss Nob\n◦ 1x Power klaw\n◦ 1x Slugga\n\nExported with App Version: v2.5.0 (1), Data Version: v931"
-    },
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/DcwSiKWvmpP1",
-      "player": "Nicholas Bannister - Wessex Wyverns",
-      "faction": "Adeptus Custodes - Take and Hold",
-      "team": "Wessex Wyverns",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "Nicholas Bannister",
-      "listId": "DcwSiKWvmpP1",
-      "content": "Lions Sisters Spam (1995 points)\n\nAdeptus Custodes\nLions of the Emperor (3 Detachment Points)\nTake and Hold\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nBlade Champion (135 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Vaultswords\n• Enhancement: Superior Creation\n\nCustodian Wardens (250 points)\n• Attached as: Bodyguard\n• 5x Custodian Warden\n• 2x Castellan axe\n3x Guardian spear\n1x Vexilla\n\nAttached Unit 2\n\nShield-Captain on Dawneagle Jetbike (170 points)\n• Attached as: Leader (Character)\n• 1x Interceptor lance\n1x Vertus hurricane bolter\n• Enhancement: Admonimortis\n\nVertus Praetors (215 points)\n• Attached as: Bodyguard\n• 3x Vertus Praetor\n• 3x Interceptor lance\n3x Vertus hurricane bolter\n\n\nBATTLELINE\n\nCustodian Guard (215 points)\n• 5x Custodian Guard\n• 4x Guardian spear\n1x Misericordia\n1x Praesidium Shield\n1x Vexilla\n\n\nOTHER DATASHEETS\n\nAllarus Custodians (340 points)\n• 6x Allarus Custodian\n• 6x Balistus grenade launcher\n6x Guardian spear\n\nAllarus Custodians (340 points)\n• 6x Allarus Custodian\n• 6x Balistus grenade launcher\n1x Castellan axe\n4x Guardian spear\n1x Misericordia\n1x Vexilla\n\nVenatari Custodians (330 points)\n• 6x Venatari Custodian\n• 6x Venatari lance\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
-    },
-    {
-      "sourceUrl": "https://www.bestcoastpairings.com/list/EY03zmcAyvXG",
-      "player": "William Samms - Wessex Wyverns",
-      "faction": "Blood Angels - Priority Assets",
-      "team": "Wessex Wyverns",
-      "event": "Brighton 40k Teams II",
-      "pagePlayer": "William Samms",
-      "listId": "EY03zmcAyvXG",
-      "content": "Blood angels Brighton teams list (1,995 Points)\n\nSpace Marines\nBlood Angels\nLegacy of Grace and Stormlance Task Force (3 Detachment Points)\nPriority Assets\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nCaptain with Jump Pack (80 Points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Plasma pistol\n• 1x Power fist\n\nSanguinary Guard (120 Points)\n• Attached as: Bodyguard\n• 3x Sanguinary Guard\n◦ 2x Angelus boltgun\n◦ 3x Encarmine spear\n◦ 1x Inferno pistol\n◦ 1x Sanguinary Banner\n\nAttached unit 2\n\nDeath Company Captain with Jump Pack (75 Points)\n• Attached as: Leader (Character)\n• 1x Plasma pistol\n• 1x Power fist\n\nDeath Company Marines with Jump Packs (115 Points)\n• Attached as: Bodyguard\n• 5x Death Company Marine with Jump Packs\n◦ 2x Astartes chainsword\n◦ 1x Eviscerator\n◦ 3x Heavy bolt pistol\n◦ 2x Plasma pistol\n◦ 2x Power fist\n\nAttached unit 3\n\nCaptain with Jump Pack (80 Points)\n• Attached as: Leader (Character)\n• 1x Plasma pistol\n• 1x Power fist\n\nSanguinary Guard (120 Points)\n• Attached as: Bodyguard\n• 3x Sanguinary Guard\n◦ 2x Angelus boltgun\n◦ 3x Encarmine spear\n◦ 1x Inferno pistol\n◦ 1x Sanguinary Banner\n\nAttached unit 4\n\nChaplain in Terminator Armour (75 Points)\n• Attached as: Leader (Character)\n• 1x Crozius arcanum\n• 1x Relic Shield\n\nAncient in Terminator Armour (85 Points)\n• Attached as: Support (Character)\n• 1x Twin lightning claws\n• Enhancements: Aureole of the Angel\n\nTerminator Assault Squad (335 Points)\n• Attached as: Bodyguard\n• 1x Assault Terminator Sergeant\n◦ 1x Twin lightning claws\n• 9x Assault Terminator\n◦ 5x Storm Shield\n◦ 5x Thunder hammer\n◦ 4x Twin lightning claws\n\nCHARACTERS\n\nDeath Company Captain with Jump Pack (75 Points)\n• 1x Plasma pistol\n• 1x Power fist\n\nOTHER DATASHEETS\n\nIncursor Squad (85 Points)\n• 1x Incursor Sergeant\n◦ 1x Bolt pistol\n◦ 1x Occulus bolt carbine\n◦ 1x Paired combat blades\n• 4x Incursor\n◦ 4x Bolt pistol\n◦ 1x Haywire Mine\n◦ 4x Occulus bolt carbine\n◦ 4x Paired combat blades\n\nInfiltrator Squad (110 Points)\n• 1x Infiltrator Sergeant\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n◦ 1x Marksman bolt carbine\n• 4x Infiltrator\n◦ 4x Bolt pistol\n◦ 4x Close combat weapon\n◦ 1x Helix Gauntlet\n◦ 1x Infiltrator Comms Array\n◦ 4x Marksman bolt carbine\n\nScout Squad (65 Points)\n• 1x Scout Sergeant\n◦ 1x Astartes chainsword\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n• 4x Scout\n◦ 4x Bolt pistol\n◦ 4x Close combat weapon\n◦ 4x Combat knife\n\nScout Squad (65 Points)\n• 1x Scout Sergeant\n◦ 1x Astartes chainsword\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n• 4x Scout\n◦ 4x Bolt pistol\n◦ 4x Close combat weapon\n◦ 4x Combat knife\n\nStorm Speeder Hammerstrike (140 Points)\n• 1x Close combat weapon\n• 1x Hammerstrike missile launcher\n• 2x Krakstorm grenade launcher\n• 1x Melta destroyer\n\nVindicator (185 Points)\n• 1x Armoured tracks\n• 1x Demolisher cannon\n• 1x Hunter-killer missile\n• 1x Storm bolter\n\nVindicator (185 Points)\n• 1x Armoured tracks\n• 1x Demolisher cannon\n• 1x Hunter-killer missile\n• 1x Storm bolter\n\nExported with App Version: v2.5.0 (1), Data Version: v931"
-    }
-  ],
+  "extractedAt": "2026-08-31T14:31:08.043Z",
   "rosterCount": 40,
+  "count": 29,
   "missingListCount": 11,
   "roster": [
     {
-      "playerId": "fUEV9jjYXUPC",
       "player": "Dan Freeman",
       "team": "Comp Play",
       "faction": "World Eaters",
       "checkedIn": true,
       "listId": null,
-      "hasPublishedList": false
+      "hasPublishedList": false,
+      "sourceUrl": null,
+      "playerId": "fUEV9jjYXUPC"
     },
     {
-      "playerId": "ve9Jtj6OI9dq",
       "player": "Harley Stevens",
       "team": "Comp Play",
       "faction": "Death Guard",
       "checkedIn": true,
       "listId": null,
-      "hasPublishedList": false
+      "hasPublishedList": false,
+      "sourceUrl": null,
+      "playerId": "ve9Jtj6OI9dq"
     },
     {
-      "playerId": "A2YnULLCXvNK",
       "player": "Luke Vincent",
       "team": "Comp Play",
       "faction": "Genestealer Cult",
       "checkedIn": true,
       "listId": null,
-      "hasPublishedList": false
+      "hasPublishedList": false,
+      "sourceUrl": null,
+      "playerId": "A2YnULLCXvNK"
     },
     {
-      "playerId": "us56yYVKKzis",
       "player": "Tim Anderson",
       "team": "Comp Play",
       "faction": "Space Marines (Astartes)",
       "checkedIn": true,
       "listId": null,
-      "hasPublishedList": false
+      "hasPublishedList": false,
+      "sourceUrl": null,
+      "playerId": "us56yYVKKzis"
     },
     {
-      "playerId": "BuiJpJWVybKf",
       "player": "Alexander England",
       "team": "Comp Play Surrey Primarchs",
       "faction": "Space Marines (Astartes)",
       "checkedIn": true,
       "listId": "m3WkBIscvIfD",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/m3WkBIscvIfD",
+      "playerId": "BuiJpJWVybKf"
     },
     {
-      "playerId": "Ybq7tFb88pv2",
       "player": "Geoff Legg",
       "team": "Comp Play Surrey Primarchs",
       "faction": "Adeptus Custodes",
       "checkedIn": true,
       "listId": "NdL1eiju0V7K",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/NdL1eiju0V7K",
+      "playerId": "Ybq7tFb88pv2"
     },
     {
-      "playerId": "jEDddX0ZTBD6",
       "player": "Grzegorz Bondaruk",
       "team": "Comp Play Surrey Primarchs",
       "faction": "Necrons",
       "checkedIn": true,
       "listId": "lfqP8aM2Xp0P",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/lfqP8aM2Xp0P",
+      "playerId": "jEDddX0ZTBD6"
     },
     {
-      "playerId": "QrLPAP1DOyfu",
       "player": "Jerome Connolly",
       "team": "Comp Play Surrey Primarchs",
       "faction": "Adeptus Mechanicus",
       "checkedIn": true,
       "listId": "BEnXNOLQuCZh",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/BEnXNOLQuCZh",
+      "playerId": "QrLPAP1DOyfu"
     },
     {
-      "playerId": "TC7NSJS2MqC4",
       "player": "Christian Faustino",
       "team": "Defenders of Outpost 47",
       "faction": "Blood Angels",
       "checkedIn": true,
       "listId": "XZZSlQ9YT5Me",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/XZZSlQ9YT5Me",
+      "playerId": "TC7NSJS2MqC4"
     },
     {
-      "playerId": "uR5seyGkjDxB",
       "player": "Daniel Fuller",
       "team": "Defenders of Outpost 47",
       "faction": "Emperor's Children",
       "checkedIn": true,
       "listId": "nJX30tKBYWDG",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/nJX30tKBYWDG",
+      "playerId": "uR5seyGkjDxB"
     },
     {
-      "playerId": "wagWtQit7iMh",
       "player": "Jack Holliday",
       "team": "Defenders of Outpost 47",
       "faction": "T'au Empire",
       "checkedIn": true,
       "listId": "ZKEWviLwBYWR",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/ZKEWviLwBYWR",
+      "playerId": "wagWtQit7iMh"
     },
     {
-      "playerId": "M5bhhq669twZ",
       "player": "Louis Anderson",
       "team": "Defenders of Outpost 47",
       "faction": "Tyranids",
       "checkedIn": true,
       "listId": "qG3mVRGCi6gk",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/qG3mVRGCi6gk",
+      "playerId": "M5bhhq669twZ"
     },
     {
-      "playerId": "svEcgUyRuxeu",
       "player": "Brando McCready",
       "team": "For King & Comp Play",
       "faction": "Leagues of Votann",
       "checkedIn": true,
       "listId": "GnQfCBUNhIZR",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/GnQfCBUNhIZR",
+      "playerId": "svEcgUyRuxeu"
     },
     {
-      "playerId": "rA97GI9XUbqP",
       "player": "Max Pringle",
       "team": "For King & Comp Play",
       "faction": "Chaos Space Marines",
       "checkedIn": true,
       "listId": null,
-      "hasPublishedList": false
+      "hasPublishedList": false,
+      "sourceUrl": null,
+      "playerId": "rA97GI9XUbqP"
     },
     {
-      "playerId": "05EtaDqVOpyt",
       "player": "Rob Lebeau",
       "team": "For King & Comp Play",
       "faction": "Drukhari",
       "checkedIn": true,
       "listId": null,
-      "hasPublishedList": false
+      "hasPublishedList": false,
+      "sourceUrl": null,
+      "playerId": "05EtaDqVOpyt"
     },
     {
-      "playerId": "xvRnMLgEwfn8",
       "player": "Sam Cordell",
       "team": "For King & Comp Play",
       "faction": "T'au Empire",
       "checkedIn": true,
       "listId": null,
-      "hasPublishedList": false
+      "hasPublishedList": false,
+      "sourceUrl": null,
+      "playerId": "xvRnMLgEwfn8"
     },
     {
-      "playerId": "vI3V935pWkTB",
       "player": "Bradley Stuart-James",
       "team": "Pheromone Maxxing",
       "faction": "Tyranids",
       "checkedIn": true,
       "listId": "MrTiQfQ6axlj",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/MrTiQfQ6axlj",
+      "playerId": "vI3V935pWkTB"
     },
     {
-      "playerId": "caRiqCD3kplH",
       "player": "Ezra Adams",
       "team": "Pheromone Maxxing",
       "faction": "Adeptus Custodes",
       "checkedIn": true,
       "listId": "FPKEgr8Gr2Oi",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/FPKEgr8Gr2Oi",
+      "playerId": "caRiqCD3kplH"
     },
     {
-      "playerId": "0iZ1S8KtduUe",
       "player": "Matt Delves",
       "team": "Pheromone Maxxing",
       "faction": "Leagues of Votann",
       "checkedIn": true,
       "listId": "BIcvGDyhQRUk",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/BIcvGDyhQRUk",
+      "playerId": "0iZ1S8KtduUe"
     },
     {
-      "playerId": "A788NNoLqnoA",
       "player": "Max Dennis",
       "team": "Pheromone Maxxing",
       "faction": "Emperor's Children",
       "checkedIn": true,
       "listId": "vgclWfLSgu5c",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/vgclWfLSgu5c",
+      "playerId": "A788NNoLqnoA"
     },
     {
-      "playerId": "tLKxjlKF1ivt",
       "player": "Joseph Whitmarsh",
       "team": "South London Squad",
       "faction": "World Eaters",
       "checkedIn": true,
       "listId": "etRv0t6dYvgk",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/etRv0t6dYvgk",
+      "playerId": "tLKxjlKF1ivt"
     },
     {
-      "playerId": "zKNvC08xfWGI",
       "player": "Kaashif Hymabaccus",
       "team": "South London Squad",
       "faction": "Necrons",
       "checkedIn": true,
       "listId": "i534s43QaAij",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/i534s43QaAij",
+      "playerId": "zKNvC08xfWGI"
     },
     {
-      "playerId": "0VF0E1vewCY7",
       "player": "Sascha Sajjad",
       "team": "South London Squad",
       "faction": "Dark Angels",
       "checkedIn": true,
       "listId": "90uVfSpDZZUw",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/90uVfSpDZZUw",
+      "playerId": "0VF0E1vewCY7"
     },
     {
-      "playerId": "SlnqyU8XcuVu",
       "player": "Zachary Lockett",
       "team": "South London Squad",
       "faction": "Leagues of Votann",
       "checkedIn": true,
       "listId": "LJRHYhOWHq7b",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/LJRHYhOWHq7b",
+      "playerId": "SlnqyU8XcuVu"
     },
     {
-      "playerId": "LjHIm9kiW2vL",
       "player": "Alex Dracup",
       "team": "Surrey Primarchs B",
       "faction": "Orks",
       "checkedIn": true,
       "listId": "Bybv62GHpKvV",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/Bybv62GHpKvV",
+      "playerId": "LjHIm9kiW2vL"
     },
     {
-      "playerId": "kUHsdazGk8sL",
       "player": "Andrew Mcbride",
       "team": "Surrey Primarchs B",
       "faction": "World Eaters",
       "checkedIn": true,
       "listId": "rBYVquBqN9i0",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/rBYVquBqN9i0",
+      "playerId": "kUHsdazGk8sL"
     },
     {
-      "playerId": "UXSL82XLbIKA",
       "player": "Charles Bunn",
       "team": "Surrey Primarchs B",
       "faction": "Thousand Sons",
       "checkedIn": true,
       "listId": "b80sIcBubm4z",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/b80sIcBubm4z",
+      "playerId": "UXSL82XLbIKA"
     },
     {
-      "playerId": "30yp19Xry9BM",
       "player": "Rob Scott",
       "team": "Surrey Primarchs B",
       "faction": "Dark Angels",
       "checkedIn": true,
       "listId": "SpSM9F22RyY1",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/SpSM9F22RyY1",
+      "playerId": "30yp19Xry9BM"
     },
     {
-      "playerId": "ZEmx47DNpWhE",
       "player": "Adam Wright",
       "team": "The boys go to Brighton for “Warhammer”",
       "faction": "Space Marines (Astartes)",
       "checkedIn": true,
       "listId": "rSTOdfvkpFWq",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/rSTOdfvkpFWq",
+      "playerId": "ZEmx47DNpWhE"
     },
     {
-      "playerId": "F3ZBcZlDGToH",
       "player": "Daniel Latham",
       "team": "The boys go to Brighton for “Warhammer”",
       "faction": "Necrons",
       "checkedIn": true,
       "listId": "D9dNkC9eMyi0",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/D9dNkC9eMyi0",
+      "playerId": "F3ZBcZlDGToH"
     },
     {
-      "playerId": "JghtoUiZIWZu",
       "player": "Pete Armstrong",
       "team": "The boys go to Brighton for “Warhammer”",
       "faction": "Chaos Knights",
       "checkedIn": true,
       "listId": "QLbZTVgmcaPG",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/QLbZTVgmcaPG",
+      "playerId": "JghtoUiZIWZu"
     },
     {
-      "playerId": "oXogJH2T3JAj",
       "player": "Ryan Nichol",
       "team": "The boys go to Brighton for “Warhammer”",
       "faction": "Adeptus Custodes",
       "checkedIn": true,
       "listId": "vwcKAR0WtG9u",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/vwcKAR0WtG9u",
+      "playerId": "oXogJH2T3JAj"
     },
     {
-      "playerId": "emXgJOxr91aT",
       "player": "Chris Shaw",
       "team": "The Real Comp Play",
       "faction": "Orks",
       "checkedIn": true,
       "listId": null,
-      "hasPublishedList": false
+      "hasPublishedList": false,
+      "sourceUrl": null,
+      "playerId": "emXgJOxr91aT"
     },
     {
-      "playerId": "mROtAJW47SFR",
-      "player": "Christopher  Dyas ",
+      "player": "Christopher  Dyas",
       "team": "The Real Comp Play",
       "faction": "T'au Empire",
       "checkedIn": true,
       "listId": null,
-      "hasPublishedList": false
+      "hasPublishedList": false,
+      "sourceUrl": null,
+      "playerId": "mROtAJW47SFR"
     },
     {
-      "playerId": "u9p9775Nzq8s",
       "player": "Liam Macindoe",
       "team": "The Real Comp Play",
       "faction": "Thousand Sons",
       "checkedIn": true,
       "listId": null,
-      "hasPublishedList": false
+      "hasPublishedList": false,
+      "sourceUrl": null,
+      "playerId": "u9p9775Nzq8s"
     },
     {
-      "playerId": "HylIlKMx6e7T",
       "player": "Nick Watkins",
       "team": "The Real Comp Play",
       "faction": "Space Marines (Astartes)",
       "checkedIn": true,
       "listId": null,
-      "hasPublishedList": false
+      "hasPublishedList": false,
+      "sourceUrl": null,
+      "playerId": "HylIlKMx6e7T"
     },
     {
-      "playerId": "JmqO98hulLMS",
       "player": "David Bannister",
-      "team": "Wessex Wyverns ",
+      "team": "Wessex Wyverns",
       "faction": "T'au Empire",
       "checkedIn": true,
       "listId": "gXfEJxZjpKer",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/gXfEJxZjpKer",
+      "playerId": "JmqO98hulLMS"
     },
     {
-      "playerId": "GJbF7VhC98A7",
       "player": "Jonathan Aylett",
-      "team": "Wessex Wyverns ",
+      "team": "Wessex Wyverns",
       "faction": "Orks",
       "checkedIn": true,
       "listId": "UVw0qAolBcWm",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/UVw0qAolBcWm",
+      "playerId": "GJbF7VhC98A7"
     },
     {
-      "playerId": "CDysAE4Q7MHe",
       "player": "Nicholas Bannister",
-      "team": "Wessex Wyverns ",
+      "team": "Wessex Wyverns",
       "faction": "Adeptus Custodes",
       "checkedIn": true,
       "listId": "DcwSiKWvmpP1",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/DcwSiKWvmpP1",
+      "playerId": "CDysAE4Q7MHe"
     },
     {
-      "playerId": "F2YzCXRGZBGt",
       "player": "William Samms",
-      "team": "Wessex Wyverns ",
+      "team": "Wessex Wyverns",
       "faction": "Blood Angels",
       "checkedIn": true,
       "listId": "EY03zmcAyvXG",
-      "hasPublishedList": true
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/EY03zmcAyvXG",
+      "playerId": "F2YzCXRGZBGt"
+    }
+  ],
+  "lists": [
+    {
+      "player": "Alexander England",
+      "team": "Comp Play Surrey Primarchs",
+      "faction": "Space Marines (Astartes) - Reconnaissance",
+      "checkedIn": true,
+      "listId": "m3WkBIscvIfD",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/m3WkBIscvIfD",
+      "playerId": "BuiJpJWVybKf",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Alexander England",
+      "content": "+++++++++++++++++++++++++++++++++++++++++++++++\n+ FACTION KEYWORD: Imperium - Adeptus Astartes - Salamanders\n+ DETACHMENT: Forgefather's Seekers, Librarius Conclave (Vulkan's Quest)\n+ FORCE DISPOSITION: Reconnaissance\n+ TOTAL ARMY POINTS: 2000pts\n+\n+ WARLORD: Char1: Vulkan He'stan\n+ ENHANCEMENT: Immolator (on Char2: Captain in Gravis Armour)\n& Temporal Corridor (on Char3: Librarian)\n& Celerity (on Char4: Librarian in Terminator Armour)\n+ NUMBER OF UNITS: 16\n+ SECONDARY: - Bring It Down: (2x2) + (1x4) - Assassination: 4 Characters\n+++++++++++++++++++++++++++++++++++++++++++++++\n\nAttached Units\nAttached Unit 1\n\nCaptain in Gravis Armour (90 pts)\n• Attached as: Leader (Character)\n• 1x Boltstorm gauntlet\n• 1x Power fist\n• 1x Relic Blade\n• Immolator (+10 pts)\n\nAggressor Squad (165 pts)\n• Attached as: Bodyguard\n• 1x Aggressor Sergeant\n• 1x Twin power fist\n• 1x Flamestorm Gauntlets\n• 5x Aggressors\n• 5x Twin power fist\n• 5x Flamestorm Gauntlets\n\nAttached Unit 2\n\nLibrarian (95 pts)\n• Attached as: Leader (Character)\n• 1x Bolt pistol\n• 1x Force weapon\n• 1x Smite\n• Temporal Corridor (+25 pts)\n\nInfernus Squad (180 pts)\n• Attached as: Bodyguard\n• 9x Infernus Marines\n• 9x Bolt pistol\n• 9x Close combat weapon\n• 9x Pyreblaster\n• 1x Infernus Sergeant\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Pyreblaster\n\nAttached Unit 3\n\nLibrarian in Terminator Armour (120 pts)\n• Attached as: Leader (Character)\n• 1x Force weapon\n• 1x Smite\n• 1x Storm bolter\n• Celerity (+35 pts)\n\nTerminator Squad (320 pts)\n• Attached as: Bodyguard\n• 1x Terminator Sergeant\n• 1x Storm bolter\n• 1x Power fist\n• 9x Terminator\n• 9x Power fist\n• 2x Cyclone missile launcher\n• 9x Storm bolter\n\nCHARACTER\n\nVulkan He'stan (95 pts)\n• 1x Bolt pistol\n• 1x Gauntlet of the Forge\n• 1x Spear of Vulkan\n• Warlord\n\nOTHER DATASHEETS\n\nEradicator Squad (90 pts)\n• 1x Eradicator\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Melta rifle\n• 1x Eradicator Sergeant\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Melta rifle\n• 1x Eradicator with Multi-melta\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Multi-melta\n\nEradicator Squad (90 pts)\n• 1x Eradicator\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Melta rifle\n• 1x Eradicator Sergeant\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Melta rifle\n• 1x Eradicator with Multi-melta\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Multi-melta\n\nEradicator Squad with Heavy Bolters (80 pts)\n• 2x Eradicator\n• 2x Bolt pistol\n• 2x Close combat weapon\n• 2x Heavy Bolter\n• 1x Eradicator Sergeant\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Heavy Bolter\n\nEradicator Squad with Heavy Bolters (80 pts)\n• 2x Eradicator\n• 2x Bolt pistol\n• 2x Close combat weapon\n• 2x Heavy Bolter\n• 1x Eradicator Sergeant\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Heavy Bolter\n\nInvader ATV (60 pts)\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Twin bolt rifle\n• 1x Multi-melta\n\nLand Raider Redeemer (260 pts)\n• 1x Armoured Tracks\n• 2x Flamestorm Cannon\n• 1x Hunter-killer missile\n• 1x Multi-melta\n• 1x Storm bolter\n• 1x Twin assault cannon\n\nLand Speeder (105 pts)\n• 1x Close combat weapon\n• 1x Multi-melta\n• 1x Stormfury Missile Launcher\n• 1x Onslaught gatling cannon\n\nLand Speeder (105 pts)\n• 1x Close combat weapon\n• 1x Multi-melta\n• 1x Stormfury Missile Launcher\n• 1x Onslaught gatling cannon\n\nScout Squad (65 pts)\n• 1x Scout Sergeant\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Astartes Chainsword\n• 4x Scouts\n• 4x Bolt pistol\n• 4x Close combat weapon\n• 4x Combat Knife\n\nCreated with newrecruit.eu v35.70"
+    },
+    {
+      "player": "Geoff Legg",
+      "team": "Comp Play Surrey Primarchs",
+      "faction": "Adeptus Custodes - Purge the Foe",
+      "checkedIn": true,
+      "listId": "NdL1eiju0V7K",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/NdL1eiju0V7K",
+      "playerId": "Ybq7tFb88pv2",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Geoff Legg",
+      "content": "Custodes purge (2,000 Points)\n\nAdeptus Custodes\nShield Host and Tharanatoi Hammerblow (3 Detachment Points)\nPurge the Foe\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nBlade Champion (125 Points)\n• Attached as: Leader (Character)\n• 1x Vaultswords\n• Enhancements: Auric Mantle\n\nCustodian Guard (170 Points)\n• Attached as: Bodyguard (Battleline)\n• 4x Custodian Guard\n◦ 4x Guardian spear\n\nCHARACTERS\n\nShield-Captain on Dawneagle Jetbike (160 Points)\n• Warlord\n• 1x Interceptor lance\n• 1x Salvo launcher\n• Enhancements: Castellan’s Mark\n\nBATTLELINE\n\nCustodian Guard (170 Points)\n• 4x Custodian Guard\n◦ 4x Guardian spear\n\nCustodian Guard (170 Points)\n• 4x Custodian Guard\n◦ 4x Guardian spear\n\nOTHER DATASHEETS\n\nAllarus Custodians (280 Points)\n• 5x Allarus Custodian\n◦ 5x Balistus grenade launcher\n◦ 5x Guardian spear\n\nAllarus Custodians (280 Points)\n• 5x Allarus Custodian\n◦ 5x Balistus grenade launcher\n◦ 5x Guardian spear\n\nProsecutors (45 Points)\n• 1x Prosecutor Sister Superior\n◦ 1x Boltgun\n◦ 1x Close combat weapon\n• 3x Prosecutor\n◦ 3x Boltgun\n◦ 3x Close combat weapon\n\nProsecutors (45 Points)\n• 1x Prosecutor Sister Superior\n◦ 1x Boltgun\n◦ 1x Close combat weapon\n• 3x Prosecutor\n◦ 3x Boltgun\n◦ 3x Close combat weapon\n\nVenatari Custodians (165 Points)\n• 3x Venatari Custodian\n◦ 3x Venatari lance\n\nVenatari Custodians (165 Points)\n• 3x Venatari Custodian\n◦ 3x Venatari lance\n\nVenatari Custodians (175 Points)\n• 3x Venatari Custodian\n◦ 3x Venatari lance\n\nWitchseekers (50 Points)\n• 1x Witchseeker Sister Superior\n◦ 1x Close combat weapon\n◦ 1x Witchseeker flamer\n• 3x Witchseeker\n◦ 3x Close combat weapon\n◦ 3x Witchseeker flamer\n\nExported with App Version: v2.5.0 (1), Data Version: v931"
+    },
+    {
+      "player": "Grzegorz Bondaruk",
+      "team": "Comp Play Surrey Primarchs",
+      "faction": "Necrons - Take and Hold",
+      "checkedIn": true,
+      "listId": "lfqP8aM2Xp0P",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/lfqP8aM2Xp0P",
+      "playerId": "jEDddX0ZTBD6",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Grzegorz Bondaruk",
+      "content": "Emotional Damage (2000 points)\n\nNecrons\nAwakened Dynasty (3 Detachment Points)\nTake and Hold\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nTechnomancer (80 points)\n• Attached as: Support (Character)\n• 1x Staff of light\n\nCanoptek Wraiths (220 points)\n• Attached as: Bodyguard\n• 6x Canoptek Wraith\n• 6x Particle caster\n6x Vicious claws\n\n\nCHARACTERS\n\nC’tan Shard of the Deceiver (330 points)\n• 1x Cosmic insanity\n1x Golden fists\n\nC’tan Shard of the Nightbringer (360 points)\n• 1x Gaze of death\n1x Scythe of the Nightbringer\n\nC’tan Shard of the Void Dragon (345 points)\n• 1x Canoptek tail blades\n1x Spear of the Void Dragon\n1x Voltaic storm\n\nIlluminor Szeras (175 points)\n• Warlord\n• 1x Eldritch Lance\n1x Impaling legs\n\nImotekh the Stormlord (100 points)\n• 1x Gauntlet of Fire\n1x Staff of the Destroyer\n\nNekrosor Ammentar (185 points)\n• 1x Blade tail and whip coils\n1x Enmitic disintegrators\n1x Nullstone Field Generator (Aura)\n1x Unmaker Gauntlet\n\nSkorpekh Lord (125 points)\n• 1x Enmitic annihilator\n1x Flensing claw\n1x Hyperphase harvester\n• Enhancement: Enaegic Dermal Bond\n\n\nOTHER DATASHEETS\n\nOphydian Destroyers (80 points)\n• 3x Ophydian Destroyer\n• 3x Ophydian hyperphase weapons\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+    },
+    {
+      "player": "Jerome Connolly",
+      "team": "Comp Play Surrey Primarchs",
+      "faction": "Adeptus Mechanicus - Priority Assets",
+      "checkedIn": true,
+      "listId": "BEnXNOLQuCZh",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/BEnXNOLQuCZh",
+      "playerId": "QrLPAP1DOyfu",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Jerome Connolly",
+      "content": "Cohort & Lords (1,995 Points)\n\nAdeptus Mechanicus\nCohort Cybernetica and Lords of the Forge (3 Detachment Points)\nPriority Assets\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nCybernetica Datasmith (25 Points)\n• Attached as: Support (Character)\n• 1x Mechanicus pistol\n• 1x Power fist\n\nKastelan Robots (300 Points)\n• Attached as: Bodyguard\n• 4x Kastelan Robot\n◦ 4x Heavy phosphor blaster\n◦ 4x Kastelan fist\n◦ 4x Kastelan phosphor blaster\n\nCHARACTERS\n\nBelisarius Cawl (220 Points)\n• Warlord\n• 1x Arc scourge\n• 1x Cawl’s Omnissian axe\n• 1x Mechadendrite hive\n• 1x Solar atomiser\n\nTech-Priest Enginseer (75 Points)\n• 1x Mechanicus pistol\n• 1x Omnissian axe\n• 1x Servo-arm\n• Enhancements: Necromechanic\n\nThulia Ghuld (180 Points)\n• 1x Jericho‑class conversion resonator\n• 1x Rod of the War Forge\n\nBATTLELINE\n\nSkitarii Rangers (85 Points)\n• 1x Skitarii Ranger Alpha\n◦ 1x Alpha combat weapon\n◦ 1x Close combat weapon\n◦ 1x Galvanic rifle\n• 9x Skitarii Ranger\n◦ 1x Arc rifle\n◦ 9x Close combat weapon\n◦ 6x Galvanic rifle\n◦ 1x Omnispex\n◦ 1x Plasma caliver\n◦ 1x Transuranic arquebus\n\nSkitarii Rangers (85 Points)\n• 1x Skitarii Ranger Alpha\n◦ 1x Alpha combat weapon\n◦ 1x Close combat weapon\n◦ 1x Galvanic rifle\n• 9x Skitarii Ranger\n◦ 1x Arc rifle\n◦ 9x Close combat weapon\n◦ 6x Galvanic rifle\n◦ 1x Omnispex\n◦ 1x Plasma caliver\n◦ 1x Transuranic arquebus\n\nOTHER DATASHEETS\n\nIronstrider Ballistarii (250 Points)\n• 3x Ironstrider Ballistarii\n◦ 3x Ironstrider feet\n◦ 3x Twin cognis autocannon\n\nSerberys Raiders (60 Points)\n• 1x Serberys Raider Alpha\n◦ 1x Cavalry sabre and clawed limbs\n◦ 1x Galvanic carbine\n◦ 1x Mechanicus pistol\n• 2x Serberys Raider\n◦ 2x Cavalry sabre and clawed limbs\n◦ 1x Enhanced data-tether\n◦ 2x Galvanic carbine\n\nServitor Battleclade (65 Points)\n• 1x Servitor Underseer\n◦ 1x Dataspikes\n◦ 1x Mechanicus pistol\n• 2x Gun Servitor\n◦ 1x Heavy arc rifle\n◦ 1x Heavy bolter\n◦ 2x Servo-claw\n• 6x Combat Servitor\n◦ 3x Incendine igniter\n◦ 1x Meltagun\n◦ 2x Phosphor blaster\n◦ 6x Servo-claw\n\nServitor Battleclade (65 Points)\n• 1x Servitor Underseer\n◦ 1x Dataspikes\n◦ 1x Mechanicus pistol\n• 2x Gun Servitor\n◦ 1x Heavy arc rifle\n◦ 1x Heavy bolter\n◦ 2x Servo-claw\n• 6x Combat Servitor\n◦ 3x Incendine igniter\n◦ 1x Meltagun\n◦ 2x Phosphor blaster\n◦ 6x Servo-claw\n\nServitor Battleclade (75 Points)\n• 1x Servitor Underseer\n◦ 1x Dataspikes\n◦ 1x Mechanicus pistol\n• 2x Gun Servitor\n◦ 1x Heavy arc rifle\n◦ 1x Heavy bolter\n◦ 2x Servo-claw\n• 6x Combat Servitor\n◦ 3x Incendine igniter\n◦ 1x Meltagun\n◦ 2x Phosphor blaster\n◦ 6x Servo-claw\n\nSkorpius Disintegrator (170 Points)\n• 1x Armoured hull\n• 3x Cognis heavy stubber\n• 1x Disruptor missile launcher\n• 1x Ferrumite cannon\n\nSkorpius Disintegrator (170 Points)\n• 1x Armoured hull\n• 3x Cognis heavy stubber\n• 1x Disruptor missile launcher\n• 1x Ferrumite cannon\n\nSydonian Dragoons with Taser Lances (170 Points)\n• 3x Sydonian Dragoon\n◦ 3x Phosphor serpenta\n◦ 3x Taser lance\n\nExported with App Version: v2.5.0 (1), Data Version: v931"
+    },
+    {
+      "player": "Christian Faustino",
+      "team": "Defenders of Outpost 47",
+      "faction": "Blood Angels - Disruption",
+      "checkedIn": true,
+      "listId": "XZZSlQ9YT5Me",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/XZZSlQ9YT5Me",
+      "playerId": "TC7NSJS2MqC4",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Christian Faustino",
+      "content": "+++++++++++++++++++++++++++++++++++++++++++++++\n+ FACTION KEYWORD: Imperium - Adeptus Astartes - Blood Angels\n+ DETACHMENT: Legacy of Grace, Stormlance Task Force (Legacy of the Angel)\n+ FORCE DISPOSITION: Disruption\n+ TOTAL ARMY POINTS: 1990pts\n+\n+ WARLORD: Char1: Chief Librarian Mephiston\n+ ENHANCEMENT: Aureole of the Angel (on Char4: Captain with Jump Pack)\n+ NUMBER OF UNITS: 14\n+ SECONDARY: - Bring It Down: (1x2) + (1x4) - Assassination: 4 Characters\n+++++++++++++++++++++++++++++++++++++++++++++++\n\nChar1: 1x Chief Librarian Mephiston (110 pts): Warlord\n\nChar2: 1x Commander Dante (125 pts)\nLeading Sanguinary Guard[1]\n\n6x Sanguinary Guard (260 pts)\n1 with Encarmine Spear, Inferno Pistol\n1 with Sanguinary Banner, Encarmine Spear, Inferno Pistol\n4 with Encarmine Spear, Angelus Boltgun\nAttached to Commander Dante\n\nChar3: 1x Lemartes (100 pts)\nLeading Death Company Marines with Jump Packs\n\n10x Death Company Marines with Jump Packs (230 pts)\n2 with Eviscerator, Heavy Bolt Pistol\n3 with Power fist, Plasma pistol\nAttached to Lemartes\n\nChar4: 1x Captain with Jump Pack (100 pts): Power fist, Plasma pistol\nEnhancement: Aureole of the Angel (+20 pts)\nLeading Sanguinary Guard[2]\n\n6x Sanguinary Guard (260 pts)\n1 with Encarmine Spear, Inferno Pistol\n1 with Sanguinary Banner, Encarmine Spear, Inferno Pistol\n4 with Encarmine Spear, Angelus Boltgun\nAttached to Captain with Jump Pack\n\n\n5x Intercessor Squad (80 pts)\n• 1x Intercessor Sergeant: Bolt Rifle w/ Grenade Launcher, Power fist\n• 4x Intercessor\n\n1x Baal Predator (125 pts): 2 Heavy Flamers, Hunter-killer missile, Storm bolter, Baal Flamestorm Cannon\n\n5x Infiltrator Squad (110 pts)\n• 4x Infiltrator\n1 with Infiltrator Comms Array\n1 with Helix Gauntlet\n• 1x Infiltrator Sergeant\n\n1x Land Raider Redeemer (250 pts): Hunter-killer missile, Multi-melta, Storm bolter\n\n5x Scout Squad (65 pts)\n• 1x Scout Sergeant: Astartes Chainsword\n• 1x Scout: Heavy Bolter\n• 3x Scouts\n\n5x Scout Squad (65 pts)\n• 2x Scout\n1 with Missile Launcher\n• 1x Scout Sergeant: Astartes Chainsword\n• 2x Scouts\n\n5x Vanguard Veteran Squad with Jump Packs (110 pts)\n• 1x Vanguard Veteran Sergeant with Jump Pack: Master-crafted Power Weapon, Heavy Bolt Pistol\n• 4x Vanguard Veterans with Jump Packs: 4 with Master-crafted Power Weapon, Heavy Bolt Pistol"
+    },
+    {
+      "player": "Daniel Fuller",
+      "team": "Defenders of Outpost 47",
+      "faction": "Emperor's Children - Purge the Foe",
+      "checkedIn": true,
+      "listId": "nJX30tKBYWDG",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/nJX30tKBYWDG",
+      "playerId": "uR5seyGkjDxB",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Daniel Fuller",
+      "content": "Fulgrim’s Blade Carnival (1,995 Points)\n\nEmperor’s Children\nCourt of the Phoenician and Spectacle of Slaughter (3 Detachment Points)\nPurge the Foe\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nLord Exultant (90 Points)\n• Attached as: Leader (Character)\n• 1x Bolt Pistol\n• 1x Close combat weapon\n• 1x Phoenix power spear\n• 1x Rapture lash\n\nInfractors (160 Points)\n• Attached as: Bodyguard (Battleline)\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Rapture lash\n• 9x Infractor\n◦ 9x Bolt pistol\n◦ 9x Duelling sabre\n◦ 1x Icon of Excess\n\nAttached unit 2\n\nLord Exultant (90 Points)\n• Attached as: Leader (Character)\n• 1x Bolt Pistol\n• 1x Close combat weapon\n• 1x Phoenix power spear\n• 1x Rapture lash\n\nInfractors (160 Points)\n• Attached as: Bodyguard (Battleline)\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Rapture lash\n• 9x Infractor\n◦ 9x Bolt pistol\n◦ 9x Duelling sabre\n◦ 1x Icon of Excess\n\nAttached unit 3\n\nSorcerer (55 Points)\n• Attached as: Leader (Character)\n• 1x Agonising Energies\n• 1x Bolt pistol\n• 1x Force weapon\n\nNoise Marines (145 Points)\n• Attached as: Bodyguard\n• 1x Disharmonist\n◦ 1x Close combat weapon\n◦ 1x Sonic blaster\n• 5x Noise Marine\n◦ 2x Blastmaster\n◦ 5x Close combat weapon\n◦ 3x Sonic blaster\n\nCHARACTERS\n\nFulgrim (340 Points)\n• Warlord\n• 1x Daemonic blades\n• 1x Malefic lash\n• 1x Serpentine tail\n\nLucius the Eternal (120 Points)\n• 1x Blade of the Laer\n• 1x Lash of Torment\n\nBATTLELINE\n\nTormentors (80 Points)\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Power sword\n• 4x Tormentor\n◦ 2x Boltgun\n◦ 4x Close combat weapon\n◦ 1x Icon of Excess\n◦ 1x Meltagun\n◦ 1x Plasma gun\n\nTormentors (80 Points)\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Power sword\n• 4x Tormentor\n◦ 2x Boltgun\n◦ 4x Close combat weapon\n◦ 1x Icon of Excess\n◦ 1x Meltagun\n◦ 1x Plasma gun\n\nOTHER DATASHEETS\n\nFlawless Blades (205 Points)\n• Enhancements: Beguiling Grotesquerie (Upgrade)\n• 6x Flawless Blade\n◦ 6x Blissblade\n◦ 6x Bolt pistol\n\nFlawless Blades (205 Points)\n• Enhancements: Beguiling Grotesquerie (Upgrade)\n• 6x Flawless Blade\n◦ 6x Blissblade\n◦ 6x Bolt pistol\n\nMaulerfiend (120 Points)\n• 1x Lasher tendrils\n• 1x Maulerfiend fists\n\nNoise Marines (145 Points)\n• 1x Disharmonist\n◦ 1x Close combat weapon\n◦ 1x Sonic blaster\n• 5x Noise Marine\n◦ 2x Blastmaster\n◦ 5x Close combat weapon\n◦ 3x Sonic blaster"
+    },
+    {
+      "player": "Jack Holliday",
+      "team": "Defenders of Outpost 47",
+      "faction": "T'au Empire - Priority Assets",
+      "checkedIn": true,
+      "listId": "ZKEWviLwBYWR",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/ZKEWviLwBYWR",
+      "playerId": "wagWtQit7iMh",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Jack Holliday",
+      "content": "in the end, everything returns to monke\n\nshort version - montka - priority assets\ntwin lance\ncadre fireblade - 2 gun drones\n- breachers - guardian + gun\nethereal - hover drone + strike swiftly (scout 6)\n\n3x broadsides - missiles + seeker + plasma\nghostkeel - fusion + fusion\nkroot carnivores\nkrootox rider - repeater cannon\npathfinders - -2 to charge + rails\npathfinders - infil + rails\npiranha - fusion + seekers\npiranha - fusion + seekers\nriptide - ion + plasma\nriptide - ion + plasma\nstealth team\nstealth team\ndevilfish - bursts\n+++++++++++++++++++++++++++++++++++++++++++++++\n+ FACTION KEYWORD: Xenos - T'au Empire\n+ DETACHMENT: Mont'ka (Killing Blow)\n+ FORCE DISPOSITION: Priority Assets\n+ TOTAL ARMY POINTS: 2000pts\n+\n+ WARLORD: Char1: The Twin Lance\n+ ENHANCEMENT: Strike Swiftly (on Char3: Ethereal)\n+ NUMBER OF UNITS: 17\n+ SECONDARY: - Bring It Down: (6x2) + (1x4) + (1x6) - Assassination: 3 Characters\n+++++++++++++++++++++++++++++++++++++++++++++++\n\nChar2: 1x Cadre Fireblade (50 pts): 2x Gun Drone, Close combat weapon, Fireblade pulse rifle\nLeading Breacher Team\nChar3: 1x Ethereal (95 pts): Hover Drone, Marker Drone, Shield Drone, Honour stave\nEnhancement: Strike Swiftly (+35 pts)\nChar1: 2x The Twin Lance (230 pts): Warlord\n• 1x Ri'Lantar: MV15 Gun Drone, Twin pulse blaster, Fusion eliminator, Twin pulse blaster, Shardstorm burst system, XV pulse pistol\n• 1x Ri'Locai: MV15 Gun Drone, Twin pulse blaster, Ion scattercannon, Twin pulse blaster, Shardstorm burst system, XV pulse pistol\n\n10x Breacher Team (90 pts)\n• 1x Breacher Fire Warrior Shas'ui: Guardian Drone, Gun Drone, Close combat weapon, Pulse blaster, Pulse pistol, Support turret\n• 9x Breacher Fire Warriors: 9 with Close combat weapon, Pulse blaster, Pulse pistol\nAttached to Cadre Fireblade\n\n3x Broadside Battlesuits (270 pts)\n• 1x Broadside Shas’vre: 2x Missile Drone, Crushing bulk, High-yield missile pods, Seeker missile, Twin plasma rifle\n• 2x Broadside Shas’ui: 2 with 2x Missile Drone, Crushing bulk, High-yield missile pods, Seeker missile, Twin plasma rifle\n1x Devilfish (75 pts): Accelerator burst cannon, Armoured hull, 2x Seeker missile, 2x Twin pulse carbine\n1x Ghostkeel Battlesuit (150 pts): Battlesuit support system, Ghostkeel fists, Fusion Collider, Twin fusion blaster\n10x Kroot Carnivores (65 pts)\n• 1x Long-quill: Close combat weapon, Kroot pistol, Kroot carbine\n• 9x Kroot Carnivores: 9 with Close combat weapon, Kroot rifle\n1x Krootox Riders (45 pts): Close combat weapon, Krootox fists, Repeater cannon\n10x Pathfinder Team (85 pts)\n• 9x Pathfinders\n6 with Close combat weapon, Pulse carbine, Pulse pistol\n3 with Close combat weapon, Pulse pistol, Rail rifle\n• 1x Pathfinder Shas'ui: 2x Shield Drone, Grav-inhibitor drone, Close combat weapon, Pulse carbine, Pulse pistol, Semi-automatic grenade launcher\n10x Pathfinder Team (85 pts)\n• 9x Pathfinders\n6 with Close combat weapon, Pulse carbine, Pulse pistol\n3 with Close combat weapon, Pulse pistol, Rail rifle\n• 1x Pathfinder Shas'ui: 2x Shield Drone, Recon drone, Drone burst cannon, Close combat weapon, Pulse carbine, Pulse pistol, Semi-automatic grenade launcher, Drone burst cannon\n1x Piranhas (65 pts): Armoured hull, 2x Twin pulse carbine, Piranha fusion blaster, 2x Seeker missile\n1x Piranhas (65 pts): Armoured hull, 2x Twin pulse carbine, Piranha fusion blaster, 2x Seeker missile\n1x Riptide Battlesuit (215 pts): Riptide fists, Ion accelerator, 2x Missile pod, Twin plasma rifle\n1x Riptide Battlesuit (215 pts): Riptide fists, Ion accelerator, 2x Missile pod, Twin plasma rifle\n5x Stealth Battlesuits (100 pts)\n• 4x Stealth Shas'ui\n3 with Battlesuit fists, Burst cannon\n1 with Homing beacon, Battlesuit fists, Fusion blaster\n• 1x Stealth Shas'vre: Gun Drone, Marker Drone, Battlesuit fists, Pulse pistol, Fusion blaster\n5x Stealth Battlesuits (100 pts)\n• 4x Stealth Shas'ui\n3 with Battlesuit fists, Burst cannon\n1 with Homing beacon, Battlesuit fists, Fusion blaster\n• 1x Stealth Shas'vre: Gun Drone, Marker Drone, Battlesuit fists, Pulse pistol, Fusion blaster\n\nCreated with newrecruit.eu v35.60"
+    },
+    {
+      "player": "Louis Anderson",
+      "team": "Defenders of Outpost 47",
+      "faction": "Tyranids - Take and Hold",
+      "checkedIn": true,
+      "listId": "qG3mVRGCi6gk",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/qG3mVRGCi6gk",
+      "playerId": "M5bhhq669twZ",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Louis Anderson",
+      "content": "Starship trooper (2,000 Points)\n\nTyranids\nInvasion Fleet (3 Detachment Points)\nTake and Hold\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nThe Swarmlord (210 Points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Bone sabres\n• 1x Synaptic pulse\n\nTyrant Guard (170 Points)\n• Attached as: Bodyguard\n• 6x Tyrant Guard\n◦ 6x Crushing claws and rending claws\n\nCHARACTERS\n\nDeathleaper (80 Points)\n• 1x Lictor claws and talons\n\nParasite of Mortrex (70 Points)\n• 1x Barbed ovipositor\n• 1x Clawed limbs\n\nWinged Hive Tyrant (185 Points)\n• 1x Stranglethorn cannon\n• 1x Tyrant talons\n\nBATTLELINE\n\nTermagants (110 Points)\n• 20x Termagant\n◦ 20x Chitinous claws and teeth\n◦ 18x Fleshborer\n◦ 1x Shardlauncher\n◦ 1x Strangleweb\n\nTermagants (60 Points)\n• 10x Termagant\n◦ 10x Chitinous claws and teeth\n◦ 10x Fleshborer\n\nTermagants (110 Points)\n• 20x Termagant\n◦ 20x Chitinous claws and teeth\n◦ 18x Fleshborer\n◦ 1x Shardlauncher\n◦ 1x Strangleweb\n\nOTHER DATASHEETS\n\nBarbgaunts (55 Points)\n• 5x Barbgaunt\n◦ 5x Barblauncher\n◦ 5x Chitinous claws and teeth\n\nBiovores (60 Points)\n• 1x Chitin-barbed limbs\n• 1x Spore Mine launcher\n\nGenestealers (75 Points)\n• 5x Genestealer\n◦ 5x Genestealers claws and talons\n\nGenestealers (75 Points)\n• 5x Genestealer\n◦ 5x Genestealers claws and talons\n\nNorn Emissary (250 Points)\n• 1x Monstrous rending claws\n• 1x Monstrous scything talons\n• 1x Psychic Tendril\n\nTyrannofex (190 Points)\n• 1x Powerful limbs\n• 1x Rupture cannon\n• 1x Stinger salvoes\n\nTyrannofex (190 Points)\n• 1x Powerful limbs\n• 1x Rupture cannon\n• 1x Stinger salvoes\n\nVon Ryan’s Leapers (55 Points)\n• 3x Von Ryan’s Leaper\n◦ 3x Leaper’s talons\n\nVon Ryan’s Leapers (55 Points)\n• 3x Von Ryan’s Leaper\n◦ 3x Leaper’s talons\n\nExported with App Version: v2.5.0 (1), Data Version: v931"
+    },
+    {
+      "player": "Brando McCready",
+      "team": "For King & Comp Play",
+      "faction": "Leagues of Votann - Priority Assets",
+      "checkedIn": true,
+      "listId": "GnQfCBUNhIZR",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/GnQfCBUNhIZR",
+      "playerId": "svEcgUyRuxeu",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Brando McCready",
+      "content": "Suck your mum"
+    },
+    {
+      "player": "Bradley Stuart-James",
+      "team": "Pheromone Maxxing",
+      "faction": "Tyranids - Take and Hold",
+      "checkedIn": true,
+      "listId": "MrTiQfQ6axlj",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/MrTiQfQ6axlj",
+      "playerId": "vI3V935pWkTB",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Bradley Stuart-James",
+      "content": "Necron Cosplayers (2,000 Points)\n\nTyranids\nAssimilation Swarm and Talons of the Norn Queen (3 Detachment Points)\nTake and Hold\nStrike Force (2,000 Points)\n\nCHARACTERS\n\nThe Swarmlord (210 Points) (attached to tyrant guard)\n• 1x Bone sabres\n• 1x Synaptic pulse\n\nTyranid Prime with Lash Whip (75 Points) (attached to hormies)\n• 1x Lash whip\n• 1x Rending claw\n• 1x Scything talons\n\nBATTLELINE\n\nHormagaunts (70 Points)\n• 10x Hormagaunt\n◦ 10x Hormagaunt talons\n\nOTHER DATASHEETS\n\nBiovores (60 Points)\n• 1x Chitin-barbed limbs\n• 1x Spore Mine launcher\n\nHaruspex (125 Points)\n• 1x Grasping tongue\n• 1x Ravenous maw\n• 1x Shovelling claws\n\nMaleceptor (180 Points)\n• 1x Massive scything talons\n• 1x Psychic overload\n\nNorn Assimilator (280 Points)\n• 1x Monstrous scything talons\n• 1x Toxinjector Harpoon\n• Enhancements: Synaptoprescience (Upgrade)\n\nNorn Assimilator (300 Points)\n• 1x Monstrous scything talons\n• 1x Toxinjector Harpoon\n• Enhancements: Synaptoprescience (Upgrade)\n\nNorn Assimilator (300 Points)\n• 1x Monstrous scything talons\n• 1x Toxinjector Harpoon\n• Enhancements: Synaptoprescience (Upgrade)\n\nPsychophage (110 Points)\n• 1x Psychoclastic torrent\n• 1x Talons and betentacled maw\n\nPsychophage (110 Points)\n• 1x Psychoclastic torrent\n• 1x Talons and betentacled maw\n\nPyrovores (70 Points)\n• 2x Pyrovore\n◦ 2x Chitin-barbed limbs\n◦ 2x Flamespurt\n\nRipper Swarms (30 Points)\n• 1x Chitinous claws and teeth\n\nTyrant Guard (80 Points)\n• 3x Tyrant Guard\n◦ 3x Scything talons and rending claws\n\nExported with App Version: v2.5.0 (1), Data Version: v931"
+    },
+    {
+      "player": "Ezra Adams",
+      "team": "Pheromone Maxxing",
+      "faction": "Adeptus Custodes - Purge the Foe",
+      "checkedIn": true,
+      "listId": "FPKEgr8Gr2Oi",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/FPKEgr8Gr2Oi",
+      "playerId": "caRiqCD3kplH",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Ezra Moran Adams",
+      "content": "Imperium - Adeptus Custodes - Shield + termies - [1990 pts]\n\nShield host + TH\n\nBlade Champion [110 pts]:\n• Leading: Custodian Guard\nBlade Champion [125 pts]:\n• Leading: Custodian Wardens\nShield-Captain in Allarus Terminator Armour [130 pts]:\n• Leading: Allarus Custodians\nShield-Captain on Dawneagle Jetbike [140 pts]:\n• Leading: Vertus Praetors\n\nCustodian Guard [215 pts]:\n• 4x Custodian Guard (Guardian Spear)\n• 1x Custodian Guard (Vexilla, Praesidium Shield & Misericordia)\n• Leader: Blade Champion[1]\n\nAllarus Custodians [330 pts]:\n• 6x Allarus Custodian (Guardian Spear)\n• Leader: Shield-Captain in Allarus Terminator Armour\nCustodian Wardens [250 pts]:\n• 4x Custodian Warden (Guardian Spear)\n• 1x Custodian Warden w/ Vexilla\n• Leader: Blade Champion[2]\nProsecutors [45 pts]:\n• 3x Prosecutor\nVenatari Custodians [165 pts]:\n• 3x Venatari Custodian (Venatari lance) [5 pts]\nVenatari Custodians [165 pts]:\n• 3x Venatari Custodian (Venatari lance) [5 pts]\n\nVertus Praetors [215 pts]:\n• 3x Vertus Praetor (Salvo Launcher)\n• Leader: Shield-Captain on Dawneagle Jetbike\n\nCallidus Assassin [100 pts]"
+    },
+    {
+      "player": "Matt Delves",
+      "team": "Pheromone Maxxing",
+      "faction": "Leagues of Votann - Priority Assets",
+      "checkedIn": true,
+      "listId": "BIcvGDyhQRUk",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/BIcvGDyhQRUk",
+      "playerId": "0iZ1S8KtduUe",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Matt Delves",
+      "content": "Wincells (1995 points)\n\nLeagues of Votann\nHearthguard Covenant and Needgaârd Oathband (3 Detachment Points)\nPriority Assets\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nEinhyr Champion (80 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Autoch-pattern combi-bolter\n1x Mass hammer\n1x Weavefield Crest\n• Enhancement: Ancestral Crest\n\nEinhyr Hearthguard (130 points)\n• Attached as: Bodyguard\n• 1x Hesyr\n• 1x Concussion gauntlet\n1x EtaCarn plasma gun\n1x Exoarmour grenade launcher\n1x Weavefield crest\n• 4x Einhyr Hearthguard\n• 4x Concussion gauntlet\n4x EtaCarn plasma gun\n4x Exoarmour grenade launcher\n\nAttached Unit 2\n\nÛthar the Destined (90 points)\n• Attached as: Leader (Character)\n• 1x Blade of the Ancestors\n1x Rampart Crest\n1x Volkanite disintegrator\n\nEinhyr Hearthguard (130 points)\n• Attached as: Bodyguard\n• 1x Hesyr\n• 1x Concussion gauntlet\n1x EtaCarn plasma gun\n1x Exoarmour grenade launcher\n1x Weavefield crest\n• 4x Einhyr Hearthguard\n• 4x Concussion gauntlet\n4x EtaCarn plasma gun\n4x Exoarmour grenade launcher\n\nAttached Unit 3\n\nMemnyr Strategist (45 points)\n• Attached as: Leader (Character)\n• 1x Autoch-pattern bolt pistol\n1x Close combat weapon\n\nIronkin Steeljacks with Heavy Volkanite Disintegrators (170 points)\n• Attached as: Bodyguard\n• 1x Steeljack Theyn\n• 1x Heavy volkanite disintegrator\n1x Plasma knife\n1x Preymark Crest\n• 5x Ironkin Steeljack\n• 5x Heavy volkanite disintegrator\n5x Plasma knife\n\n\nCHARACTERS\n\nBuri Aegnirssen (85 points)\n• 1x Autoch‑pattern bolt pistol\n1x Bane\n\n\nBATTLELINE\n\nHearthkyn Warriors (90 points)\n• 1x Theyn\n• 1x Autoch-pattern bolt pistol\n1x Autoch-pattern bolter\n1x Close combat weapon\n1x Weavefield crest\n• 9x Hearthkyn Warrior\n• 9x Autoch-pattern bolt pistol\n9x Autoch-pattern bolter\n9x Close combat weapon\n\n\nOTHER DATASHEETS\n\nBrôkhyr Thunderkyn (80 points)\n• 3x Brôkhyr Thunderkyn\n• 3x Close combat weapon\n3x SP conversion beamer\n\nBrôkhyr Thunderkyn (80 points)\n• 3x Brôkhyr Thunderkyn\n• 3x Close combat weapon\n3x SP conversion beamer\n\nBrôkhyr Thunderkyn (90 points)\n• 3x Brôkhyr Thunderkyn\n• 3x Close combat weapon\n3x SP conversion beamer\n\nCthonian Earthshakers (100 points)\n• 2x Cthonian Earthshakers\n• 4x Autoch-pattern bolt pistol\n2x Plasma picks\n2x Tremor shells\n\nHekaton Land Fortress (250 points)\n• 1x Armoured wheels\n1x Heavy magna-rail cannon\n1x MATR autocannon\n1x Panspectral Scanner\n2x Twin ion beamer\n\nHekaton Land Fortress (265 points)\n• 1x Armoured wheels\n1x MATR autocannon\n1x Panspectral Scanner\n1x SP heavy conversion beamer\n2x Twin ion beamer\n\nHernkyn Pioneers (80 points)\n• 3x Hernkyn Pioneer\n• 3x Bolt revolver\n3x Bolt shotgun\n3x Magna-coil autocannon\n1x Panspectral Scanner\n3x Plasma knife\n1x Rollbar Searchlight\n\nHernkyn Pioneers (80 points)\n• 3x Hernkyn Pioneer\n• 3x Bolt revolver\n3x Bolt shotgun\n3x Magna-coil autocannon\n1x Panspectral Scanner\n3x Plasma knife\n1x Rollbar Searchlight\n\nIronkin Steeljacks with Melee Weapons (150 points)\n• 1x Steeljack Theyn\n• 1x Autoch-pattern bolter\n1x Plasma sword\n1x Preymark Crest\n• 5x Ironkin Steeljack\n• 5x Autoch-pattern bolter\n3x Concussion gauntlet\n2x Plasma sword\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+    },
+    {
+      "player": "Max Dennis",
+      "team": "Pheromone Maxxing",
+      "faction": "Emperor's Children - Reconnaissance",
+      "checkedIn": true,
+      "listId": "vgclWfLSgu5c",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/vgclWfLSgu5c",
+      "playerId": "A788NNoLqnoA",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Max Dennis",
+      "content": "(1990 points)\n\nEmperor’s Children\nCourt of the Phoenician and Frenzied Host (3 Detachment Points)\nReconnaissance\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nLord Exultant (90 points)\n• Attached as: Leader (Character)\n• 1x Bolt Pistol\n1x Close combat weapon\n1x Phoenix power spear\n1x Rapture lash\n\nInfractors (160 points)\n• Attached as: Bodyguard (Battleline)\n• 1x Obsessionist\n• 1x Plasma pistol\n1x Rapture lash\n• 9x Infractor\n• 9x Bolt pistol\n9x Duelling sabre\n1x Icon of Excess\n\nAttached Unit 2\n\nLord Exultant (90 points)\n• Attached as: Leader (Character)\n• 1x Bolt Pistol\n1x Close combat weapon\n1x Phoenix power spear\n1x Rapture lash\n\nInfractors (85 points)\n• Attached as: Bodyguard (Battleline)\n• 1x Obsessionist\n• 1x Plasma pistol\n1x Rapture lash\n• 4x Infractor\n• 4x Bolt pistol\n4x Duelling sabre\n1x Icon of Excess\n\nAttached Unit 3\n\nLord Exultant (100 points)\n• Attached as: Leader (Character)\n• 1x Bolt Pistol\n1x Close combat weapon\n1x Phoenix power spear\n1x Rapture lash\n\nInfractors (85 points)\n• Attached as: Bodyguard (Battleline)\n• 1x Obsessionist\n• 1x Plasma pistol\n1x Rapture lash\n• 4x Infractor\n• 4x Bolt pistol\n4x Duelling sabre\n1x Icon of Excess\n\n\nCHARACTERS\n\nDaemon Prince of Slaanesh with Wings (205 points)\n• 1x Hellforged weapons\n1x Infernal cannon\n\n\nBATTLELINE\n\nInfractors (85 points)\n• 1x Obsessionist\n• 1x Plasma pistol\n1x Rapture lash\n• 4x Infractor\n• 4x Bolt pistol\n4x Duelling sabre\n1x Icon of Excess\n\nInfractors (85 points)\n• 1x Obsessionist\n• 1x Plasma pistol\n1x Rapture lash\n• 4x Infractor\n• 4x Bolt pistol\n4x Duelling sabre\n1x Icon of Excess\n\nTormentors (80 points)\n• 1x Obsessionist\n• 1x Plasma pistol\n1x Rapture lash\n• 4x Tormentor\n• 2x Boltgun\n4x Close combat weapon\n1x Icon of Excess\n1x Meltagun\n1x Plasma gun\n\n\nDEDICATED TRANSPORTS\n\nChaos Rhino (70 points)\n• 1x Armoured tracks\n1x Combi-bolter\n1x Combi-weapon\n1x Havoc launcher\n\nChaos Rhino (70 points)\n• 1x Armoured tracks\n1x Combi-bolter\n1x Combi-weapon\n1x Havoc launcher\n\n\nOTHER DATASHEETS\n\nChaos Spawn (70 points)\n• 2x Chaos Spawn\n• 2x Hideous mutations\n\nDefiler (330 points)\n• 1x Ectoplasma destructor\n2x Excruciator cannon\n2x Heavy reaper autocannon\n1x Shearing Claws\n\nFlawless Blades (95 points)\n• 3x Flawless Blade\n• 3x Blissblade\n3x Bolt pistol\n\nNoise Marines (145 points)\n• 1x Disharmonist\n• 1x Close combat weapon\n1x Sonic blaster\n• 5x Noise Marine\n• 5x Close combat weapon\n5x Sonic blaster\n\nNoise Marines (145 points)\n• 1x Disharmonist\n• 1x Close combat weapon\n1x Sonic blaster\n• 5x Noise Marine\n• 5x Close combat weapon\n5x Sonic blaster\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+    },
+    {
+      "player": "Joseph Whitmarsh",
+      "team": "South London Squad",
+      "faction": "World Eaters - Purge the Foe",
+      "checkedIn": true,
+      "listId": "etRv0t6dYvgk",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/etRv0t6dYvgk",
+      "playerId": "tLKxjlKF1ivt",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Joseph Whitmarsh",
+      "content": "Competitive list #7362 (2,000 Points)\n\nWorld Eaters\nBerzerker Warband (3 Detachment Points)\nPurge the Foe\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nSlaughterbound (120 Points)\n• Attached as: Leader (Character)\n• 1x Lacerator and daemonic claw\n• Enhancements: Battle-lust\n\nExalted Eightbound (130 Points)\n• Attached as: Bodyguard\n• 1x Exalted Eightbound Champion\n◦ 1x Chainblades\n• 2x Exalted Eightbound\n◦ 2x Chainblades\n\nAttached unit 2\n\nKhârn the Betrayer (115 Points)\n• Attached as: Leader (Character)\n• 1x Gorechild\n• 1x Plasma pistol\n\nKhorne Berzerkers (160 Points)\n• Attached as: Bodyguard (Battleline)\n• 1x Khorne Berzerker Champion\n◦ 1x Chainblade\n◦ 1x Plasma pistol\n• 9x Khorne Berzerker\n◦ 7x Bolt pistol\n◦ 7x Chainblade\n◦ 1x Icon of Khorne\n◦ 2x Khornate eviscerator\n◦ 2x Plasma pistol\n\nCHARACTERS\n\nDaemon Prince of Khorne (230 Points)\n• Warlord\n• 1x Hellforged weapons\n• 1x Infernal cannon\n• Enhancements: Helm of Brazen Ire\n\nDEDICATED TRANSPORTS\n\nChaos Rhino (75 Points)\n• 1x Armoured tracks\n• 1x Combi-bolter\n• 1x Combi-weapon\n• 1x Havoc launcher\n\nOTHER DATASHEETS\n\nChaos Spawn (95 Points)\n• 2x Chaos Spawn\n◦ 2x Hideous mutations\n\nChaos Spawn (95 Points)\n• 2x Chaos Spawn\n◦ 2x Hideous mutations\n\nChaos Spawn (95 Points)\n• 2x Chaos Spawn\n◦ 2x Hideous mutations\n\nEightbound (125 Points)\n• 1x Eightbound Champion\n◦ 1x Chainblades\n• 2x Eightbound\n◦ 2x Chainblades\n\nEightbound (125 Points)\n• 1x Eightbound Champion\n◦ 1x Chainblades\n• 2x Eightbound\n◦ 2x Chainblades\n\nExalted Eightbound (130 Points)\n• 1x Exalted Eightbound Champion\n◦ 1x Chainblades\n• 2x Exalted Eightbound\n◦ 2x Chainblades\n\nForgefiend (155 Points)\n• 1x Ectoplasma cannon\n• 2x Ectoplasma cannon\n• 1x Forgefiend claws\n\nForgefiend (145 Points)\n• 1x Ectoplasma cannon\n• 1x Forgefiend claws\n• 2x Hades autocannon\n\nGoremongers (75 Points)\n• 1x Blood Herald\n◦ 1x Autopistol\n◦ 1x Chainblade\n◦ 1x Close combat weapon\n• 7x Goremongers\n◦ 7x Autopistol\n◦ 1x Blood harpoon\n◦ 6x Chainblade\n◦ 7x Close combat weapon\n\nJakhals (65 Points)\n• 1x Jakhal Pack Leader\n◦ 1x Autopistol\n◦ 1x Chainblades\n• 1x Dishonoured\n◦ 1x Skullsmasher and mangler\n• 8x Jakhal\n◦ 8x Autopistol\n◦ 7x Chainblades\n◦ 1x Icon of Khorne\n◦ 1x Mauler chainblade\n\nJakhals (65 Points)\n• 1x Jakhal Pack Leader\n◦ 1x Autopistol\n◦ 1x Chainblades\n• 1x Dishonoured\n◦ 1x Skullsmasher and mangler\n• 8x Jakhal\n◦ 8x Autopistol\n◦ 7x Chainblades\n◦ 1x Icon of Khorne\n◦ 1x Mauler chainblade\n\nExported with App Version: v2.5.0 (1), Data Version: v931"
+    },
+    {
+      "player": "Kaashif Hymabaccus",
+      "team": "South London Squad",
+      "faction": "Necrons - Take and Hold",
+      "checkedIn": true,
+      "listId": "i534s43QaAij",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/i534s43QaAij",
+      "playerId": "zKNvC08xfWGI",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Kaashif Hymabaccus",
+      "content": "The Lord giveth and the Lord taketh and holdeth (2000 points)\n\nNecrons\nAwakened Dynasty (3 Detachment Points)\nTake and Hold\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nSkorpekh Lord (125 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Enmitic annihilator\n1x Flensing claw\n1x Hyperphase harvester\n• Enhancement: Enaegic Dermal Bond\n\nSkorpekh Destroyers (170 points)\n• Attached as: Bodyguard\n• 6x Skorpekh Destroyer\n• 2x Plasmacyte\n6x Skorpekh hyperphase weapons\n\nAttached Unit 2\n\nTechnomancer (80 points)\n• Attached as: Support (Character)\n• 1x Staff of light\n\nCanoptek Wraiths (220 points)\n• Attached as: Bodyguard\n• 6x Canoptek Wraith\n• 6x Transdimensional beamer\n6x Vicious claws\n\nAttached Unit 3\n\nTechnomancer (90 points)\n• Attached as: Support (Character)\n• 1x Staff of light\n\nCanoptek Wraiths (240 points)\n• Attached as: Bodyguard\n• 6x Canoptek Wraith\n• 6x Transdimensional beamer\n6x Vicious claws\n\n\nCHARACTERS\n\nC’tan Shard of the Nightbringer (360 points)\n• 1x Gaze of death\n1x Scythe of the Nightbringer\n\nC’tan Shard of the Void Dragon (345 points)\n• 1x Canoptek tail blades\n1x Spear of the Void Dragon\n1x Voltaic storm\n\nNekrosor Ammentar (185 points)\n• 1x Blade tail and whip coils\n1x Enmitic disintegrators\n1x Nullstone Field Generator (Aura)\n1x Unmaker Gauntlet\n\n\nOTHER DATASHEETS\n\nCanoptek Reanimator (75 points)\n• 2x Atomiser beam\n1x Reanimator’s claws\n\nFlayed Ones (55 points)\n• 5x Flayed One\n• 5x Flayer claws\n\nFlayed Ones (55 points)\n• 5x Flayed One\n• 5x Flayer claws\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+    },
+    {
+      "player": "Sascha Sajjad",
+      "team": "South London Squad",
+      "faction": "Dark Angels - Reconnaissance",
+      "checkedIn": true,
+      "listId": "90uVfSpDZZUw",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/90uVfSpDZZUw",
+      "playerId": "0VF0E1vewCY7",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Sascha Sajjad",
+      "content": "Gotta go fast (2000 points)\n\nSpace Marines\nDark Angels\nCompany of Hunters and Darkflight Pursuit (3 Detachment Points)\nReconnaissance\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nAzrael (140 points)\n• Attached as: Leader (Character)\n• 1x Lion’s Wrath\n1x The Lion Helm\n1x The Sword of Secrets\n\nInner Circle Companions (160 points)\n• Attached as: Bodyguard\n• 6x Inner Circle Companion\n• 6x Calibanite greatsword\n6x Heavy bolt pistol\n\n\nCHARACTERS\n\nLion El’Jonson (265 points)\n• Warlord\n• 1x Arma Luminis\n1x Fealty\n\n\nOTHER DATASHEETS\n\nDeathwing Knights (240 points)\n• 1x Knight Master\n• 1x Great weapon of the Unforgiven\n• 4x Deathwing Knight\n• 4x Mace of absolution\n\nIncursor Squad (85 points)\n• 1x Incursor Sergeant\n• 1x Bolt pistol\n1x Occulus bolt carbine\n1x Paired combat blades\n• 4x Incursor\n• 4x Bolt pistol\n1x Haywire Mine\n4x Occulus bolt carbine\n4x Paired combat blades\n\nLand Speeder (105 points)\n• 1x Close-combat weapon\n1x Multi-melta\n1x Onslaught gatling cannon\n1x Stormfury missile launcher\n\nLand Speeder (105 points)\n• 1x Close-combat weapon\n1x Multi-melta\n1x Onslaught gatling cannon\n1x Stormfury missile launcher\n\nLand Speeder (120 points)\n• 1x Close-combat weapon\n1x Multi-melta\n1x Onslaught gatling cannon\n1x Stormfury missile launcher\n• Enhancement: Thundercowl Turbines (Upgrade)\n\nLand Speeder Vengeance (145 points)\n• 1x Assault cannon\n1x Close combat weapon\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\nLand Speeder Vengeance (145 points)\n• 1x Assault cannon\n1x Close combat weapon\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\nLand Speeder Vengeance (155 points)\n• 1x Assault cannon\n1x Close combat weapon\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\nScout Squad (65 points)\n• 1x Scout Sergeant\n• 1x Bolt pistol\n1x Boltgun\n1x Close combat weapon\n• 4x Scout\n• 4x Bolt pistol\n2x Boltgun\n4x Close combat weapon\n1x Missile launcher\n1x Scout sniper rifle\n\nStorm Speeder Thunderstrike (135 points)\n• 1x Close combat weapon\n1x Stormfury missiles\n1x Thunderstrike las-talon\n1x Twin Icarus rocket pod\n\nStorm Speeder Thunderstrike (135 points)\n• 1x Close combat weapon\n1x Stormfury missiles\n1x Thunderstrike las-talon\n1x Twin Icarus rocket pod\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+    },
+    {
+      "player": "Zachary Lockett",
+      "team": "South London Squad",
+      "faction": "Leagues of Votann - Priority Assets",
+      "checkedIn": true,
+      "listId": "LJRHYhOWHq7b",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/LJRHYhOWHq7b",
+      "playerId": "SlnqyU8XcuVu",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Zachary Lockett",
+      "content": "Uthar! Berehk! Buri! Team Votann is blasting off again! (1990 points)\n\nLeagues of Votann\nHearthguard Covenant and Needgaârd Oathband (3 Detachment Points)\nPriority Assets\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nBerehk Stornbröw (85 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Kromlôk’s Revenge\n1x Warforge Gauntlets\n\nCthonian Beserks (95 points)\n• Attached as: Bodyguard\n• 5x Cthonian Beserk\n• 4x Concussion maul\n1x Mole grenade launcher\n1x Twin concussion gauntlet\n\nAttached Unit 2\n\nKâhl (80 points)\n• Attached as: Leader (Character)\n• 1x Mass gauntlet\n1x Teleport Crest\n1x Volkanite disintegrator\n• Enhancement: Ancestral Crest\n\nEinhyr Hearthguard (270 points)\n• Attached as: Bodyguard\n• 1x Hesyr\n• 1x EtaCarn plasma gun\n1x Exoarmour grenade launcher\n1x Graviton hammer\n1x Weavefield crest\n• 9x Einhyr Hearthguard\n• 9x Concussion gauntlet\n9x EtaCarn plasma gun\n9x Exoarmour grenade launcher\n\nAttached Unit 3\n\nÛthar the Destined (90 points)\n• Attached as: Leader (Character)\n• 1x Blade of the Ancestors\n1x Rampart Crest\n1x Volkanite disintegrator\n\nEinhyr Hearthguard (130 points)\n• Attached as: Bodyguard\n• 1x Hesyr\n• 1x EtaCarn plasma gun\n1x Exoarmour grenade launcher\n1x Graviton hammer\n1x Teleport Crest\n• 4x Einhyr Hearthguard\n• 4x Concussion gauntlet\n4x EtaCarn plasma gun\n4x Exoarmour grenade launcher\n\n\nCHARACTERS\n\nBrôkhyr Iron-master (100 points)\n• 1x Brôkhyr Iron-master\n• 1x Graviton hammer\n1x Graviton rifle\n• Enhancement: Oathbound Speculator\n• 1x Ironkin Assistant\n• 1x Close combat weapon\n1x Las-beam cutter\n• 1x E-COG\n• 1x Plasma torch\n• 1x E-COG\n• 1x Manipulator arms\n• 1x E-COG\n• 1x Autoch-pattern bolt pistol\n1x Close combat weapon\n\nBuri Aegnirssen (85 points)\n• 1x Autoch‑pattern bolt pistol\n1x Bane\n\nMemnyr Strategist (55 points)\n• 1x Autoch-pattern bolt pistol\n1x Close combat weapon\n• Enhancement: Dead Reckoning\n\n\nDEDICATED TRANSPORTS\n\nKapricus Carrier (70 points)\n• 1x Armoured hull\n1x Magna-coil autocannon\n1x Smoke Launcher\n1x Twin magna‑coil autocannon\n\n\nOTHER DATASHEETS\n\nBrôkhyr Thunderkyn (170 points)\n• 6x Brôkhyr Thunderkyn\n• 6x Close combat weapon\n6x SP conversion beamer\n\nHekaton Land Fortress (250 points)\n• 1x Armoured wheels\n1x Heavy magna-rail cannon\n1x MATR autocannon\n1x Panspectral Scanner\n2x Twin bolt cannon\n\nHekaton Land Fortress (265 points)\n• 1x Armoured wheels\n1x Heavy magna-rail cannon\n1x MATR autocannon\n1x Panspectral Scanner\n2x Twin bolt cannon\n\nHernkyn Pioneers (80 points)\n• 3x Hernkyn Pioneer\n• 3x Bolt revolver\n3x Bolt shotgun\n1x HYLas rotary cannon\n3x Magna-coil autocannon\n1x Panspectral Scanner\n3x Plasma knife\n1x Rollbar Searchlight\n\nHernkyn Yaegirs (90 points)\n• 1x Yaegir Theyn\n• 1x Bolt shotgun\n1x Close combat weapon\n• 9x Hernkyn Yaegir\n• 1x APM launcher\n7x Bolt shotgun\n9x Close combat weapon\n1x Magna-coil rifle\n\nIronkin Steeljacks with Melee Weapons (75 points)\n• 1x Steeljack Theyn\n• 1x Autoch-pattern bolter\n1x Plasma sword\n1x Preymark Crest\n• 2x Ironkin Steeljack\n• 2x Autoch-pattern bolter\n2x Plasma sword\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+    },
+    {
+      "player": "Alex Dracup",
+      "team": "Surrey Primarchs B",
+      "faction": "Orks - Take and Hold",
+      "checkedIn": true,
+      "listId": "Bybv62GHpKvV",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/Bybv62GHpKvV",
+      "playerId": "LjHIm9kiW2vL",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Alex Dracup",
+      "content": "Freebooter krew (2000 points)\n\nOrks\nFreebooter Krew and More Dakka! (3 Detachment Points)\nTake and Hold\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nGhazghkull Thraka (235 points)\n• Attached as: Leader (Character)\n• 1x Ghazghkull Thraka\n• Warlord\n• 1x Gork’s Klaw\n1x Mork’s Roar\n• 1x Makari\n• 1x Makari’s stabba\n\nBannernob (75 points)\n• Attached as: Support (Character)\n• 1x Choppa\n1x Shoota\n• Enhancement: Razgit’s Magik Map\n\nBoyz (160 points)\n• Attached as: Bodyguard (Battleline)\n• 19x Boy\n• 17x Choppa\n2x Close combat weapon\n2x Rokkit launcha\n17x Shoota\n17x Slugga\n• 1x Boss Nob\n• 1x Power klaw\n1x Slugga\n\nAttached Unit 2\n\nBeastboss on Squigosaur (105 points)\n• Attached as: Leader (Character)\n• 1x Beastchoppa\n1x Slugga\n1x Squigosaur’s jaws\n1x Thump gun\n• Enhancement: Da Kaptin\n\nSquighog Boyz (140 points)\n• Attached as: Bodyguard\n• 1x Bomb Squig\n• 3x Squighog Boy\n• 3x Saddlegit weapons\n3x Squig jaws\n3x Stikka\n• 1x Nob on Smasha Squig\n• 1x Big choppa\n1x Slugga\n1x Squig jaws\n\nAttached Unit 3\n\nMozrog Skragbad (125 points)\n• Attached as: Leader (Character)\n• 1x Big Chompa’s jaws\n1x Gutrippa\n1x Thump gun\n\nSquighog Boyz (270 points)\n• Attached as: Bodyguard\n• 2x Bomb Squig\n• 6x Squighog Boy\n• 6x Saddlegit weapons\n6x Squig jaws\n6x Stikka\n• 2x Nob on Smasha Squig\n• 2x Big choppa\n2x Slugga\n2x Squig jaws\n\nAttached Unit 4\n\nBig Mek with Shokk Attack Gun (90 points)\n• Attached as: Leader (Character)\n• 1x Close combat weapon\n1x Shokk attack gun\n• Enhancement: Git-Spotter Squig\n\nTankbustas (125 points)\n• Attached as: Bodyguard\n• 1x Boss Nob\n• 1x Choppa\n1x Rokkit pistol\n1x Smash hammer\n• 5x Tankbusta\n• 5x Close combat weapon\n6x Rokkit launcha\n\n\nCHARACTERS\n\nBoss Snikrot (75 points)\n• 1x Mork’s Teeth\n1x Slugga\n\nWazdakka Gutsmek (175 points)\n• 1x Fixit’s wrench\n1x Grabba dragga\n1x Psyko‑gatler\n1x Speeding bulk and flaming exhaust\n\n\nDEDICATED TRANSPORTS\n\nTrukk (55 points)\n• 1x Big shoota\n1x Spiked wheels\n1x Wreckin’ ball\n\n\nOTHER DATASHEETS\n\nFlash Gitz (75 points)\n• 1x Ammo Runt\n• 1x Kaptin\n• 1x Choppa\n1x Snazzgun\n• 4x Flash Git\n• 4x Choppa\n4x Snazzgun\n\nGretchin (45 points)\n• 10x Gretchin\n• 10x Close combat weapon\n10x Grot blasta\n• 1x Runtherd\n• 1x Runtherd tools\n1x Slugga\n\nKommandos (120 points)\n• 1x Bomb Squig\n1x Distraction Grot\n• 9x Kommando\n• 1x Breacha ram\n1x Burna\n6x Choppa\n2x Close combat weapon\n1x Rokkit launcha\n6x Slugga\n• 1x Boss Nob\n• 1x Power klaw\n1x Slugga\n\nStormboyz (65 points)\n• 4x Stormboy\n• 4x Choppa\n4x Slugga\n• 1x Boss Nob\n• 1x Power klaw\n1x Slugga\n\nStormboyz (65 points)\n• 4x Stormboy\n• 4x Choppa\n4x Slugga\n• 1x Boss Nob\n• 1x Power klaw\n1x Slugga\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+    },
+    {
+      "player": "Andrew Mcbride",
+      "team": "Surrey Primarchs B",
+      "faction": "World Eaters - Disruption",
+      "checkedIn": true,
+      "listId": "rBYVquBqN9i0",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/rBYVquBqN9i0",
+      "playerId": "kUHsdazGk8sL",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Andrew Mcbride",
+      "content": "I can't believe I'm using a Dirty Defiler (2000 points)\n\nWorld Eaters\nBrazen Engines and Goretrack Onslaught (3 Detachment Points)\nDisruption\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nKhârn the Betrayer (115 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Gorechild\n1x Plasma pistol\n\nKhorne Berzerkers (160 points)\n• Attached as: Bodyguard (Battleline)\n• 1x Khorne Berzerker Champion\n• 1x Chainblade\n1x Plasma pistol\n• 9x Khorne Berzerker\n• 7x Bolt pistol\n7x Chainblade\n1x Icon of Khorne\n2x Khornate eviscerator\n2x Plasma pistol\n\nAttached Unit 2\n\nSlaughterbound (100 points)\n• Attached as: Leader (Character)\n• 1x Lacerator and daemonic claw\n\nExalted Eightbound (265 points)\n• Attached as: Bodyguard\n• 1x Exalted Eightbound Champion\n• 1x Chainblades\n• 5x Exalted Eightbound\n• 5x Chainblades\n\n\nCHARACTERS\n\nLord Invocatus (100 points)\n• 1x Bladed horn\n1x Bolt pistol\n1x Coward’s Bane\n\nMaster of Executions (80 points)\n• 1x Axe of dismemberment\n1x Bolt pistol\n• Enhancement: Aggressive Deployment\n\n\nDEDICATED TRANSPORTS\n\nChaos Rhino (75 points)\n• 1x Armoured tracks\n2x Combi-bolter\n1x Havoc launcher\n\n\nOTHER DATASHEETS\n\nDefiler (300 points)\n• 1x Ectoplasma destructor\n2x Excruciator cannon\n2x Heavy reaper autocannon\n1x Shearing claws\n\nEightbound (125 points)\n• 1x Eightbound Champion\n• 1x Chainblades\n• 2x Eightbound\n• 2x Chainblades\n\nEightbound (125 points)\n• 1x Eightbound Champion\n• 1x Chainblades\n• 2x Eightbound\n• 2x Chainblades\n\nExalted Eightbound (130 points)\n• 1x Exalted Eightbound Champion\n• 1x Chainblades\n• 2x Exalted Eightbound\n• 2x Chainblades\n\nForgefiend (145 points)\n• 1x Ectoplasma cannon\n1x Forgefiend claws\n2x Hades autocannon\n\nGoremongers (75 points)\n• 1x Blood Herald\n• 1x Autopistol\n1x Chainblade\n1x Close combat weapon\n• 7x Goremongers\n• 7x Autopistol\n7x Chainblade\n7x Close combat weapon\n\nJakhals (65 points)\n• 1x Jakhal Pack Leader\n• 1x Autopistol\n1x Chainblades\n• 1x Dishonoured\n• 1x Skullsmasher and mangler\n• 8x Jakhal\n• 8x Autopistol\n7x Chainblades\n1x Icon of Khorne\n1x Mauler chainblade\n\nMaulerfiend (140 points)\n• 2x Magma cutter\n1x Maulerfiend fists\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+    },
+    {
+      "player": "Charles Bunn",
+      "team": "Surrey Primarchs B",
+      "faction": "Thousand Sons - Priority Assets",
+      "checkedIn": true,
+      "listId": "b80sIcBubm4z",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/b80sIcBubm4z",
+      "playerId": "UXSL82XLbIKA",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Charles Bunn",
+      "content": "FF (2000 points)\n\nThousand Sons\nGrand Coven (3 Detachment Points)\nPriority Assets\nStrike Force (2000 points)\n\n\nCHARACTERS\n\nDaemon Prince of Tzeentch with Wings (205 points)\n• 1x Dark Blessing\n1x Hellforged weapons\n1x Infernal cannon\n• Enhancement: Eldritch Vortex of E’Taph\n\nMagnus the Red (455 points)\n• 1x Blade of Magnus\n1x Gaze of Magnus\n1x Tzeentch’s Firestorm\n\nSorcerer (95 points)\n• 1x Force weapon\n1x Inferno bolt pistol\n1x Pandaemonic Delusion\n\nSorcerer (95 points)\n• 1x Force weapon\n1x Inferno bolt pistol\n1x Pandaemonic Delusion\n\nSorcerer in Terminator Armour (130 points)\n• 1x Force weapon\n1x Gaze of Hate\n1x Inferno combi-bolter\n• Enhancement: Umbralefic Crystal\n\n\nBATTLELINE\n\nRubric Marines (100 points)\n• 1x Aspiring Sorcerer\n• 1x Force weapon\n1x Inferno bolt pistol\n1x Malefic Curse\n• 4x Rubric Marine\n• 4x Close combat weapon\n1x Icon of Flame\n3x Inferno boltgun\n1x Soulreaper cannon\n\nRubric Marines (100 points)\n• 1x Aspiring Sorcerer\n• 1x Force weapon\n1x Inferno bolt pistol\n1x Malefic Curse\n• 4x Rubric Marine\n• 4x Close combat weapon\n1x Icon of Flame\n3x Inferno boltgun\n1x Soulreaper cannon\n\n\nOTHER DATASHEETS\n\nChaos Spawn (65 points)\n• 2x Chaos Spawn\n• 2x Hideous mutations\n\nForgefiend (140 points)\n• 1x Ectoplasma cannon\n1x Forgefiend claws\n2x Hades autocannon\n\nScarab Occult Terminators (385 points)\n• 1x Scarab Occult Sorcerer\n• 1x Force weapon\n1x Inferno combi-bolter\n1x Malefic Curse\n• 9x Scarab Occult Terminator\n• 2x Hellfyre missile rack\n7x Inferno combi-bolter\n9x Prosperine khopesh\n2x Soulreaper cannon\n\nTzaangor Enlightened (50 points)\n• 1x Aviarch\n• 1x Divining spear\n• 2x Enlightened\n• 2x Divining spear\n\nTzaangor Enlightened (50 points)\n• 1x Aviarch\n• 1x Divining spear\n• 2x Enlightened\n• 2x Divining spear\n\nTzaangor Enlightened with Fatecaster Greatbows (55 points)\n• 1x Aviarch\n• 1x Close combat weapon\n1x Fatecaster greatbow\n• 2x Enlightened\n• 2x Close combat weapon\n2x Fatecaster greatbow\n\nTzaangors (75 points)\n• 1x Twistbray\n• 1x Tzaangor blades\n• 9x Tzaangor\n• 9x Tzaangor blades\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+    },
+    {
+      "player": "Rob Scott",
+      "team": "Surrey Primarchs B",
+      "faction": "Dark Angels - Reconnaissance",
+      "checkedIn": true,
+      "listId": "SpSM9F22RyY1",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/SpSM9F22RyY1",
+      "playerId": "30yp19Xry9BM",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Rob Scott",
+      "content": "There are fewer bikes here than expected (1995 points)\n\nSpace Marines\nDark Angels\nCompany of Hunters and Darkflight Pursuit (3 Detachment Points)\nReconnaissance\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nAzrael (140 points)\n• Attached as: Leader (Character)\n• 1x Lion’s Wrath\n1x The Lion Helm\n1x The Sword of Secrets\n\nIntercessor Squad (80 points)\n• Attached as: Bodyguard (Battleline)\n• 1x Intercessor Sergeant\n• 1x Bolt pistol\n1x Plasma pistol\n1x Power fist\n• 4x Intercessor\n• 4x Bolt pistol\n4x Bolt rifle\n4x Close combat weapon\n\nAttached Unit 2\n\nSammael (105 points)\n• Attached as: Leader (Character)\n• 1x Bolt Pistol\n1x Master-crafted plasma cannon\n1x The Raven Sword\n1x Twin storm bolter\n\nRavenwing Command Squad (135 points)\n• Attached as: Support (Character)\n• 1x Ravenwing Champion\n• 1x Bolt pistol\n1x Master-crafted power weapon\n1x Plasma talon\n• Enhancement: Recon Hunter\n• 1x Ravenwing Apothecary\n• 1x Black Knight combat weapon\n1x Bolt pistol\n1x Plasma talon\n• 1x Ravenwing Ancient\n• 1x Black Knight combat weapon\n1x Bolt pistol\n1x Plasma talon\n\nOutrider Squad (70 points)\n• Attached as: Bodyguard (Battleline)\n• 1x Outrider Sergeant\n• 1x Astartes chainsword\n1x Heavy bolt pistol\n1x Twin bolt rifle\n• 2x Outrider\n• 2x Astartes chainsword\n2x Heavy bolt pistol\n2x Twin bolt rifle\n\nAttached Unit 3\n\nChaplain on Bike (85 points)\n• Attached as: Leader (Character)\n• 1x Absolvor bolt pistol\n1x Crozius arcanum\n1x Twin bolt rifle\n• Enhancement: Master of Manoeuvre\n\nRavenwing Command Squad (105 points)\n• Attached as: Support (Character)\n• 1x Ravenwing Champion\n• 1x Bolt pistol\n1x Master-crafted power weapon\n1x Plasma talon\n• 1x Ravenwing Apothecary\n• 1x Black Knight combat weapon\n1x Bolt pistol\n1x Plasma talon\n• 1x Ravenwing Ancient\n• 1x Black Knight combat weapon\n1x Bolt pistol\n1x Plasma talon\n\nOutrider Squad (70 points)\n• Attached as: Bodyguard (Battleline)\n• 1x Outrider Sergeant\n• 1x Astartes chainsword\n1x Heavy bolt pistol\n1x Twin bolt rifle\n• 2x Outrider\n• 2x Astartes chainsword\n2x Heavy bolt pistol\n2x Twin bolt rifle\n\n\nCHARACTERS\n\nLion El’Jonson (265 points)\n• Warlord\n• 1x Arma Luminis\n1x Fealty\n\n\nOTHER DATASHEETS\n\nLand Speeder (105 points)\n• 1x Close-combat weapon\n1x Multi-melta\n1x Onslaught gatling cannon\n1x Stormfury missile launcher\n\nLand Speeder (120 points)\n• 1x Close-combat weapon\n1x Multi-melta\n1x Onslaught gatling cannon\n1x Stormfury missile launcher\n• Enhancement: Thundercowl Turbines (Upgrade)\n\nLand Speeder Vengeance (145 points)\n• 1x Close combat weapon\n1x Heavy bolter\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\nLand Speeder Vengeance (145 points)\n• 1x Close combat weapon\n1x Heavy bolter\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\nLand Speeder Vengeance (155 points)\n• 1x Close combat weapon\n1x Heavy bolter\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\nRavenwing Darkshroud (70 points)\n• 1x Close combat weapon\n1x Heavy bolter\n\nScout Squad (65 points)\n• 1x Scout Sergeant\n• 1x Astartes chainsword\n1x Bolt pistol\n1x Close combat weapon\n• 4x Scout\n• 4x Bolt pistol\n4x Close combat weapon\n2x Combat knife\n1x Heavy bolter\n1x Scout sniper rifle\n\nStorm Speeder Thunderstrike (135 points)\n• 1x Close combat weapon\n1x Stormfury missiles\n1x Thunderstrike las-talon\n1x Twin Icarus rocket pod\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+    },
+    {
+      "player": "Adam Wright",
+      "team": "The boys go to Brighton for “Warhammer”",
+      "faction": "Space Marines (Astartes) - Priority Assets",
+      "checkedIn": true,
+      "listId": "rSTOdfvkpFWq",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/rSTOdfvkpFWq",
+      "playerId": "ZEmx47DNpWhE",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Adam Wright",
+      "content": "Relight my fire, your love is my only desire (2,000 Points)\n\nSpace Marines\nSalamanders\nForgefather’s Seekers and Librarius Conclave (3 Detachment Points)\nPriority Assets\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nLibrarian (95 Points)\n• Attached as: Leader (Character)\n• 1x Bolt pistol\n• 1x Force weapon\n• 1x Smite\n• Enhancements: Temporal Corridor\n\nInfernus Squad (180 Points)\n• Attached as: Bodyguard\n• 1x Infernus Sergeant\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n◦ 1x Pyreblaster\n• 9x Infernus Marine\n◦ 9x Bolt pistol\n◦ 9x Close combat weapon\n◦ 9x Pyreblaster\n\nAttached unit 2\n\nLibrarian (95 Points)\n• Attached as: Leader (Character)\n• 1x Bolt pistol\n• 1x Force weapon\n• 1x Smite\n• Enhancements: Fusillade\n\nSternguard Veteran Squad (200 Points)\n• Attached as: Bodyguard\n• 1x Sternguard Veteran Sergeant\n◦ 1x Close combat weapon\n◦ 1x Power fist\n◦ 1x Sternguard bolt pistol\n◦ 1x Sternguard bolt rifle\n• 9x Sternguard Veteran\n◦ 9x Close combat weapon\n◦ 9x Sternguard bolt pistol\n◦ 7x Sternguard bolt rifle\n◦ 2x Sternguard heavy bolter\n\nAttached unit 3\n\nCaptain with Jump Pack (75 Points)\n• Attached as: Leader (Character)\n• 1x Hand flamer\n• 1x Power fist\n\nVanguard Veteran Squad with Jump Packs (210 Points)\n• Attached as: Bodyguard\n• 1x Vanguard Veteran Sergeant with Jump Pack\n◦ 1x Hand flamer\n◦ 1x Vanguard Veteran weapon\n• 9x Vanguard Veteran with Jump Pack\n◦ 9x Hand flamer\n◦ 9x Vanguard Veteran weapon\n\nCHARACTERS\n\nVulkan He’stan (95 Points)\n• Warlord\n• 1x Bolt Pistol\n• 1x Gauntlet of the Forge\n• 1x Spear of Vulkan\n\nOTHER DATASHEETS\n\nAggressor Squad (165 Points)\n• 1x Aggressor Sergeant\n◦ 1x Flamestorm gauntlets\n◦ 1x Twin power fists\n• 5x Aggressor\n◦ 5x Flamestorm gauntlets\n◦ 5x Twin power fists\n\nInfernus Squad (85 Points)\n• 1x Infernus Sergeant\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n◦ 1x Pyreblaster\n• 4x Infernus Marine\n◦ 4x Bolt pistol\n◦ 4x Close combat weapon\n◦ 4x Pyreblaster\n\nLand Raider Redeemer (260 Points)\n• 1x Armoured tracks\n• 2x Flamestorm cannon\n• 1x Hunter-killer missile\n• 1x Multi-melta\n• 1x Storm bolter\n• 1x Twin assault cannon\n\nLand Speeder (105 Points)\n• 1x Close-combat weapon\n• 1x Multi-melta\n• 1x Onslaught gatling cannon\n• 1x Stormfury missile launcher\n\nRepulsor (170 Points)\n• 1x Armoured hull\n• 1x Hunter-slayer missile\n• 1x Las-talon\n• 1x Repulsor defensive array\n• 1x Twin lascannon\n\nScout Squad (65 Points)\n• 1x Scout Sergeant\n◦ 1x Astartes chainsword\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n• 4x Scout\n◦ 2x Astartes shotgun\n◦ 4x Bolt pistol\n◦ 4x Close combat weapon\n◦ 1x Missile launcher\n◦ 1x Scout sniper rifle\n\nScout Squad (65 Points)\n• 1x Scout Sergeant\n◦ 1x Astartes chainsword\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n• 4x Scout\n◦ 2x Astartes shotgun\n◦ 4x Bolt pistol\n◦ 4x Close combat weapon\n◦ 1x Missile launcher\n◦ 1x Scout sniper rifle\n\nStorm Speeder Thunderstrike (135 Points)\n• 1x Close combat weapon\n• 1x Stormfury missiles\n• 1x Thunderstrike las-talon\n• 1x Twin Icarus rocket pod\n\nExported with App Version: v2.5.0 (1), Data Version: v931"
+    },
+    {
+      "player": "Daniel Latham",
+      "team": "The boys go to Brighton for “Warhammer”",
+      "faction": "Necrons - Purge the Foe",
+      "checkedIn": true,
+      "listId": "D9dNkC9eMyi0",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/D9dNkC9eMyi0",
+      "playerId": "F3ZBcZlDGToH",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Daniel Latham",
+      "content": "Thanks Stan (1995 points)\n\nNecrons\nCursed Legion and Skyshroud Spearhead (3 Detachment Points)\nPurge the Foe\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nLokhust Lord (100 points)\n• Attached as: Leader (Character)\n• 1x Lord’s blade\n1x Resurrection Orb\n• Enhancement: Mark of the Nekrosor\n\nLokhust Destroyers (175 points)\n• Attached as: Bodyguard\n• 6x Lokhust Destroyer\n• 6x Close combat weapon\n6x Gauss cannon\n\nAttached Unit 2\n\nLokhust Lord (80 points)\n• Attached as: Leader (Character)\n• 1x Lord’s blade\n1x Resurrection Orb\n\nLokhust Destroyers (175 points)\n• Attached as: Bodyguard\n• 6x Lokhust Destroyer\n• 6x Close combat weapon\n6x Gauss cannon\n\nAttached Unit 3\n\nOverlord (110 points)\n• Attached as: Leader (Character)\n• 1x Resurrection Orb\n1x Voidscythe\n• Enhancement: Destroyer Ankh\n\nLychguard (160 points)\n• Attached as: Bodyguard\n• 10x Lychguard\n• 10x Dispersion Shield\n10x Hyperphase sword\n\nAttached Unit 4\n\nSkorpekh Lord (95 points)\n• Attached as: Leader (Character)\n• 1x Enmitic annihilator\n1x Flensing claw\n1x Hyperphase harvester\n\nSkorpekh Destroyers (85 points)\n• Attached as: Bodyguard\n• 3x Skorpekh Destroyer\n• 1x Plasmacyte\n3x Skorpekh hyperphase weapons\n\n\nCHARACTERS\n\nC’tan Shard of the Void Dragon (345 points)\n• 1x Canoptek tail blades\n1x Spear of the Void Dragon\n1x Voltaic storm\n\nIlluminor Szeras (175 points)\n• 1x Eldritch Lance\n1x Impaling legs\n\nImotekh the Stormlord (100 points)\n• Warlord\n• 1x Gauntlet of Fire\n1x Staff of the Destroyer\n\nNekrosor Ammentar (185 points)\n• 1x Blade tail and whip coils\n1x Enmitic disintegrators\n1x Nullstone Field Generator (Aura)\n1x Unmaker Gauntlet\n\n\nOTHER DATASHEETS\n\nCanoptek Reanimator (75 points)\n• 2x Atomiser beam\n1x Reanimator’s claws\n\nFlayed Ones (55 points)\n• 5x Flayed One\n• 5x Flayer claws\n\nOphydian Destroyers (80 points)\n• 3x Ophydian Destroyer\n• 3x Ophydian hyperphase weapons\n1x Plasmacyte\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+    },
+    {
+      "player": "Pete Armstrong",
+      "team": "The boys go to Brighton for “Warhammer”",
+      "faction": "Chaos Knights - Reconnaissance",
+      "checkedIn": true,
+      "listId": "QLbZTVgmcaPG",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/QLbZTVgmcaPG",
+      "playerId": "JghtoUiZIWZu",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Pete Armstrong",
+      "content": "Pete goes dogging in Brighton.\n\nChaos Knights\nHoundpack Lance and Hunting Warpack (3 Detachment Points)\nReconnaissance\nStrike Force (2000 points)\n\n\nCHARACTERS\n\nWar Dog Brigand (155 points)\n• Houndpack Lance Keyword: Character\n• Warlord\n• 1x Armoured feet\n1x Avenger chaincannon\n1x Daemonbreath spear\n1x Diabolus heavy stubber\n• Enhancement: Final Howl (Aura)\n\nWar Dog Brigand (135 points)\n• Houndpack Lance Keyword: Character\n• 1x Armoured feet\n1x Avenger chaincannon\n1x Daemonbreath spear\n1x Diabolus heavy stubber\n\nWar Dog Karnivore (160 points)\n• Houndpack Lance Keyword: Character\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n• Enhancement: Panoply of the Cursed Knights\n\n\nBATTLELINE\n\nWar Dog Brigand (135 points)\n• 1x Armoured feet\n1x Avenger chaincannon\n1x Daemonbreath spear\n1x Diabolus heavy stubber\n\nWar Dog Executioner (140 points)\n• 1x Armoured feet\n1x Daemonbreath meltagun\n2x War Dog autocannon\n• Enhancement: Snarling Rivalry (Upgrade)\n\nWar Dog Executioner (140 points)\n• 1x Armoured feet\n1x Daemonbreath meltagun\n2x War Dog autocannon\n• Enhancement: Snarling Rivalry (Upgrade)\n\nWar Dog Executioner (140 points)\n• 1x Armoured feet\n1x Daemonbreath meltagun\n2x War Dog autocannon\n• Enhancement: Snarling Rivalry (Upgrade)\n\nWar Dog Karnivore (145 points)\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\nWar Dog Karnivore (145 points)\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\nWar Dog Karnivore (145 points)\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\nWar Dog Karnivore (145 points)\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\nWar Dog Karnivore (145 points)\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\nWar Dog Stalker (135 points)\n• 1x Daemonbreath spear\n1x Diabolus heavy stubber\n1x Slaughterclaw\n\nWar Dog Stalker (135 points)\n• 1x Daemonbreath spear\n1x Diabolus heavy stubber\n1x Slaughterclaw\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+    },
+    {
+      "player": "Ryan Nichol",
+      "team": "The boys go to Brighton for “Warhammer”",
+      "faction": "Adeptus Custodes - Take and Hold",
+      "checkedIn": true,
+      "listId": "vwcKAR0WtG9u",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/vwcKAR0WtG9u",
+      "playerId": "oXogJH2T3JAj",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Ryan Nichol",
+      "content": "Dan said I can't bring my plane\n:(\n(2000 points)\n\nAdeptus Custodes\nLions of the Emperor (3 Detachment Points)\nTake and Hold\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nTrajann Valoris (135 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Eagle’s Scream\n1x Watcher’s Axe\n\nCustodian Wardens (220 points)\n• Attached as: Bodyguard\n• 4x Custodian Warden\n• 4x Guardian spear\n\nAttached Unit 2\n\nBlade Champion (135 points)\n• Attached as: Leader (Character)\n• 1x Vaultswords\n• Enhancement: Superior Creation\n\nCustodian Guard (215 points)\n• Attached as: Bodyguard (Battleline)\n• 5x Custodian Guard\n• 3x Guardian spear\n1x Misericordia\n2x Praesidium Shield\n1x Sentinel blade\n1x Vexilla\n\nAttached Unit 3\n\nValerian (110 points)\n• Attached as: Leader (Character)\n• 1x Gnosis\n\nCustodian Wardens (200 points)\n• Attached as: Bodyguard\n• 4x Custodian Warden\n• 4x Guardian spear\n\n\nBATTLELINE\n\nCustodian Guard (170 points)\n• 4x Custodian Guard\n• 1x Misericordia\n4x Praesidium Shield\n3x Sentinel blade\n1x Vexilla\n\n\nOTHER DATASHEETS\n\nAllarus Custodians (340 points)\n• 6x Allarus Custodian\n• 6x Balistus grenade launcher\n6x Guardian spear\n\nAllarus Custodians (340 points)\n• 6x Allarus Custodian\n• 6x Balistus grenade launcher\n6x Guardian spear\n\nProsecutors (45 points)\n• 1x Prosecutor Sister Superior\n• 1x Boltgun\n1x Close combat weapon\n• 3x Prosecutor\n• 3x Boltgun\n3x Close combat weapon\n\nProsecutors (45 points)\n• 1x Prosecutor Sister Superior\n• 1x Boltgun\n1x Close combat weapon\n• 3x Prosecutor\n• 3x Boltgun\n3x Close combat weapon\n\nProsecutors (45 points)\n• 1x Prosecutor Sister Superior\n• 1x Boltgun\n1x Close combat weapon\n• 3x Prosecutor\n• 3x Boltgun\n3x Close combat weapon\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+    },
+    {
+      "player": "David Bannister",
+      "team": "Wessex Wyverns",
+      "faction": "T'au Empire - Purge the Foe",
+      "checkedIn": true,
+      "listId": "gXfEJxZjpKer",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/gXfEJxZjpKer",
+      "playerId": "JmqO98hulLMS",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "David Bannister",
+      "content": "Four man teams (2000 points)\n\nT’au Empire\nRetaliation Cadre (3 Detachment Points)\nPurge the Foe\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nCommander in Coldstar Battlesuit (95 points)\n• Attached as: Leader (Character)\n• 1x Battlesuit fists\n1x Marker Drone\n3x Missile pod\n1x Shield Drone\n1x Shield Generator\n\nCrisis Fireknife Battlesuits (130 points)\n• Attached as: Bodyguard\n• 1x Crisis Fireknife Shas’vre\n• 1x Battlesuit fists\n1x Gun Drone\n2x Missile pod\n1x Shield Drone\n• 2x Crisis Fireknife Shas’ui\n• 2x Battlesuit fists\n2x Gun Drone\n4x Missile pod\n2x Shield Drone\n\nAttached Unit 2\n\nCommander in Enforcer Battlesuit (80 points)\n• Attached as: Leader (Character)\n• 1x Battlesuit fists\n1x Marker Drone\n4x Missile pod\n1x Shield Drone\n\nCrisis Fireknife Battlesuits (105 points)\n• Attached as: Bodyguard\n• 1x Crisis Fireknife Shas’vre\n• 1x Battlesuit fists\n1x Gun Drone\n2x Plasma rifle\n1x Shield Drone\n• 2x Crisis Fireknife Shas’ui\n• 2x Battlesuit fists\n2x Gun Drone\n1x Missile pod\n3x Plasma rifle\n2x Shield Drone\n\nAttached Unit 3\n\nCommander in Enforcer Battlesuit (80 points)\n• Attached as: Leader (Character)\n• 1x Battlesuit fists\n1x Marker Drone\n4x Plasma rifle\n1x Shield Drone\n\nCrisis Fireknife Battlesuits (110 points)\n• Attached as: Bodyguard\n• 1x Crisis Fireknife Shas’vre\n• 1x Battlesuit fists\n1x Gun Drone\n2x Plasma rifle\n1x Shield Drone\n• 2x Crisis Fireknife Shas’ui\n• 2x Battlesuit fists\n4x Plasma rifle\n\nAttached Unit 4\n\nCommander Farsight (70 points)\n• Attached as: Leader (Character)\n• 1x Dawn Blade\n1x High-intensity plasma rifle\n\nCrisis Starscythe Battlesuits (130 points)\n• Attached as: Bodyguard\n• 1x Crisis Starscythe Shas’vre\n• 1x Battlesuit fists\n1x Gun Drone\n1x Shield Drone\n2x T’au flamer\n• 2x Crisis Starscythe Shas’ui\n• 2x Battlesuit fists\n2x Gun Drone\n2x Shield Drone\n4x T’au flamer\n\nAttached Unit 5\n\nCommander in Coldstar Battlesuit (95 points)\n• Attached as: Leader (Character)\n• 1x Battlesuit fists\n3x Fusion blaster\n1x Marker Drone\n1x Shield Drone\n1x Shield Generator\n\nCrisis Sunforge Battlesuits (125 points)\n• Attached as: Bodyguard\n• 1x Crisis Sunforge Shas’vre\n• 1x Battlesuit fists\n2x Fusion blaster\n1x Gun Drone\n1x Shield Drone\n• 2x Crisis Sunforge Shas’ui\n• 2x Battlesuit fists\n4x Fusion blaster\n2x Gun Drone\n2x Shield Drone\n\n\nCHARACTERS\n\nDarkstrider (60 points)\n• 1x Close combat weapon\n1x Shade\n\nThe Twin Lance (230 points)\n• 1x Ri’Lantar\n• Warlord\n• 1x Fusion eliminator\n1x MV15 Gun Drone\n1x Shardstorm burst system\n1x XV pulse pistol\n• 1x Ri’Locai\n• 1x Ion scattercannon\n1x MV15 Gun Drone\n1x Shardstorm burst system\n1x XV pulse pistol\n\n\nOTHER DATASHEETS\n\nHammerhead Gunship (150 points)\n• 2x Accelerator burst cannon\n1x Armoured hull\n1x Ion cannon\n2x Seeker missile\n\nPiranhas (65 points)\n• 1x Armoured hull\n1x Piranha fusion blaster\n2x Seeker missile\n2x Twin pulse carbine\n\nStealth Battlesuits (100 points)\n• 1x Stealth Shas’vre\n• 1x Battlesuit fists\n1x Fusion blaster\n1x Gun Drone\n1x Marker Drone\n1x Pulse pistol\n• 4x Stealth Shas’ui\n• 4x Battlesuit fists\n3x Burst cannon\n1x Fusion blaster\n\n1x Homing Beacon\n\n\n\nStormsurge (375 points)\n• 1x Cluster rocket system\n1x Destroyer missiles\n1x Pulse blast cannon\n1x Thunderous footfalls\n1x Twin burst cannon\n2x Twin smart missile system\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+    },
+    {
+      "player": "Jonathan Aylett",
+      "team": "Wessex Wyverns",
+      "faction": "Orks - Disruption",
+      "checkedIn": true,
+      "listId": "UVw0qAolBcWm",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/UVw0qAolBcWm",
+      "playerId": "GJbF7VhC98A7",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Jonathan Aylett",
+      "content": "Scout scout scout again (1,995 Points)\n\nOrks\nEquatorial Hordes and Freebooter Krew (3 Detachment Points)\nDisruption\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nGhazghkull Thraka (235 Points)\n• Attached as: Leader (Character)\n• 1x Ghazghkull Thraka\n• Warlord\n◦ 1x Gork’s Klaw\n◦ 1x Mork’s Roar\n• 1x Makari\n◦ 1x Makari’s stabba\n\nPainboy (90 Points)\n• Attached as: Support (Character)\n• 1x Grot Orderly\n• 1x Power klaw\n• 1x ’Urty syringe\n\nBoyz (160 Points)\n• Attached as: Bodyguard (Battleline)\n• 19x Boy\n◦ 19x Choppa\n◦ 19x Slugga\n• 1x Boss Nob\n◦ 1x Power klaw\n◦ 1x Slugga\n\nAttached unit 2\n\nBigboss (55 Points)\n• Attached as: Leader (Character)\n• 1x Slugga\n• 1x Two‑handed big choppa\n\nPainboy (90 Points)\n• Attached as: Support (Character)\n• 1x Grot Orderly\n• 1x Power klaw\n• 1x ’Urty syringe\n\nBoyz (160 Points)\n• Attached as: Bodyguard (Battleline)\n• 19x Boy\n◦ 19x Choppa\n◦ 19x Slugga\n• 1x Boss Nob\n◦ 1x Power klaw\n◦ 1x Slugga\n\nAttached unit 3\n\nZodgrod Wortsnagga (80 Points)\n• Attached as: Leader (Character)\n• 1x Da Grabzappa\n• 1x Squigstoppa\n\nGretchin (80 Points)\n• Attached as: Bodyguard\n• 20x Gretchin\n◦ 20x Close combat weapon\n◦ 20x Grot blasta\n\nAttached unit 4\n\nBig Mek with Shokk Attack Gun (90 Points)\n• Attached as: Leader (Character)\n• 1x Close combat weapon\n• 1x Grot Assistant\n• 1x Shokk attack gun\n• Enhancements: Git-Spotter Squig\n\nTankbustas (125 Points)\n• Attached as: Bodyguard\n• 1x Boss Nob\n◦ 1x Choppa\n◦ 1x Rokkit pistol\n◦ 1x Smash hammer\n• 5x Tankbusta\n◦ 5x Close combat weapon\n◦ 1x Pulsa Rokkit\n◦ 5x Rokkit launcha\n\nCHARACTERS\n\nBeastboss on Squigosaur (95 Points)\n• 1x Beastchoppa\n• 1x Slugga\n• 1x Squigosaur’s jaws\n• 1x Thump gun\n\nWazdakka Gutsmek (175 Points)\n• 1x Fixit’s wrench\n• 1x Grabba dragga\n• 1x Psyko‑gatler\n• 1x Speeding bulk and flaming exhaust\n\nBATTLELINE\n\nBoyz (75 Points)\n• 9x Boy\n◦ 9x Choppa\n◦ 9x Slugga\n• 1x Boss Nob\n◦ 1x Power klaw\n◦ 1x Slugga\n\nDEDICATED TRANSPORTS\n\nTrukk (55 Points)\n• 1x Big shoota\n• 1x Spiked wheels\n\nOTHER DATASHEETS\n\nBig Mek Dakkarig (115 Points)\n• 1x Blitzkannon\n• 1x Rokkit launcha\n• 1x Stompy feet\n\nFlash Gitz (75 Points)\n• 1x Ammo Runt\n• 1x Kaptin\n◦ 1x Choppa\n◦ 1x Snazzgun\n• 4x Flash Git\n◦ 4x Choppa\n◦ 4x Snazzgun\n\nFlash Gitz (75 Points)\n• 1x Ammo Runt\n• 1x Kaptin\n◦ 1x Choppa\n◦ 1x Snazzgun\n• 4x Flash Git\n◦ 4x Choppa\n◦ 4x Snazzgun\n\nGretchin (45 Points)\n• 10x Gretchin\n◦ 10x Close combat weapon\n◦ 10x Grot blasta\n• 1x Runtherd\n◦ 1x Runtherd tools\n◦ 1x Slugga\n\nKommandos (120 Points)\n• 1x Bomb Squig\n• 1x Distraction Grot\n• 9x Kommando\n◦ 1x Breacha ram\n◦ 8x Choppa\n◦ 8x Slugga\n• 1x Boss Nob\n◦ 1x Power klaw\n◦ 1x Slugga\n\nExported with App Version: v2.5.0 (1), Data Version: v931"
+    },
+    {
+      "player": "Nicholas Bannister",
+      "team": "Wessex Wyverns",
+      "faction": "Adeptus Custodes - Take and Hold",
+      "checkedIn": true,
+      "listId": "DcwSiKWvmpP1",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/DcwSiKWvmpP1",
+      "playerId": "CDysAE4Q7MHe",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Nicholas Bannister",
+      "content": "Lions Sisters Spam (1995 points)\n\nAdeptus Custodes\nLions of the Emperor (3 Detachment Points)\nTake and Hold\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nBlade Champion (135 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Vaultswords\n• Enhancement: Superior Creation\n\nCustodian Wardens (250 points)\n• Attached as: Bodyguard\n• 5x Custodian Warden\n• 2x Castellan axe\n3x Guardian spear\n1x Vexilla\n\nAttached Unit 2\n\nShield-Captain on Dawneagle Jetbike (170 points)\n• Attached as: Leader (Character)\n• 1x Interceptor lance\n1x Vertus hurricane bolter\n• Enhancement: Admonimortis\n\nVertus Praetors (215 points)\n• Attached as: Bodyguard\n• 3x Vertus Praetor\n• 3x Interceptor lance\n3x Vertus hurricane bolter\n\n\nBATTLELINE\n\nCustodian Guard (215 points)\n• 5x Custodian Guard\n• 4x Guardian spear\n1x Misericordia\n1x Praesidium Shield\n1x Vexilla\n\n\nOTHER DATASHEETS\n\nAllarus Custodians (340 points)\n• 6x Allarus Custodian\n• 6x Balistus grenade launcher\n6x Guardian spear\n\nAllarus Custodians (340 points)\n• 6x Allarus Custodian\n• 6x Balistus grenade launcher\n1x Castellan axe\n4x Guardian spear\n1x Misericordia\n1x Vexilla\n\nVenatari Custodians (330 points)\n• 6x Venatari Custodian\n• 6x Venatari lance\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+    },
+    {
+      "player": "William Samms",
+      "team": "Wessex Wyverns",
+      "faction": "Blood Angels - Priority Assets",
+      "checkedIn": true,
+      "listId": "EY03zmcAyvXG",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/EY03zmcAyvXG",
+      "playerId": "F2YzCXRGZBGt",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "William Samms",
+      "content": "Blood angels Brighton teams list (1,995 Points)\n\nSpace Marines\nBlood Angels\nLegacy of Grace and Stormlance Task Force (3 Detachment Points)\nPriority Assets\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nCaptain with Jump Pack (80 Points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Plasma pistol\n• 1x Power fist\n\nSanguinary Guard (120 Points)\n• Attached as: Bodyguard\n• 3x Sanguinary Guard\n◦ 2x Angelus boltgun\n◦ 3x Encarmine spear\n◦ 1x Inferno pistol\n◦ 1x Sanguinary Banner\n\nAttached unit 2\n\nDeath Company Captain with Jump Pack (75 Points)\n• Attached as: Leader (Character)\n• 1x Plasma pistol\n• 1x Power fist\n\nDeath Company Marines with Jump Packs (115 Points)\n• Attached as: Bodyguard\n• 5x Death Company Marine with Jump Packs\n◦ 2x Astartes chainsword\n◦ 1x Eviscerator\n◦ 3x Heavy bolt pistol\n◦ 2x Plasma pistol\n◦ 2x Power fist\n\nAttached unit 3\n\nCaptain with Jump Pack (80 Points)\n• Attached as: Leader (Character)\n• 1x Plasma pistol\n• 1x Power fist\n\nSanguinary Guard (120 Points)\n• Attached as: Bodyguard\n• 3x Sanguinary Guard\n◦ 2x Angelus boltgun\n◦ 3x Encarmine spear\n◦ 1x Inferno pistol\n◦ 1x Sanguinary Banner\n\nAttached unit 4\n\nChaplain in Terminator Armour (75 Points)\n• Attached as: Leader (Character)\n• 1x Crozius arcanum\n• 1x Relic Shield\n\nAncient in Terminator Armour (85 Points)\n• Attached as: Support (Character)\n• 1x Twin lightning claws\n• Enhancements: Aureole of the Angel\n\nTerminator Assault Squad (335 Points)\n• Attached as: Bodyguard\n• 1x Assault Terminator Sergeant\n◦ 1x Twin lightning claws\n• 9x Assault Terminator\n◦ 5x Storm Shield\n◦ 5x Thunder hammer\n◦ 4x Twin lightning claws\n\nCHARACTERS\n\nDeath Company Captain with Jump Pack (75 Points)\n• 1x Plasma pistol\n• 1x Power fist\n\nOTHER DATASHEETS\n\nIncursor Squad (85 Points)\n• 1x Incursor Sergeant\n◦ 1x Bolt pistol\n◦ 1x Occulus bolt carbine\n◦ 1x Paired combat blades\n• 4x Incursor\n◦ 4x Bolt pistol\n◦ 1x Haywire Mine\n◦ 4x Occulus bolt carbine\n◦ 4x Paired combat blades\n\nInfiltrator Squad (110 Points)\n• 1x Infiltrator Sergeant\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n◦ 1x Marksman bolt carbine\n• 4x Infiltrator\n◦ 4x Bolt pistol\n◦ 4x Close combat weapon\n◦ 1x Helix Gauntlet\n◦ 1x Infiltrator Comms Array\n◦ 4x Marksman bolt carbine\n\nScout Squad (65 Points)\n• 1x Scout Sergeant\n◦ 1x Astartes chainsword\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n• 4x Scout\n◦ 4x Bolt pistol\n◦ 4x Close combat weapon\n◦ 4x Combat knife\n\nScout Squad (65 Points)\n• 1x Scout Sergeant\n◦ 1x Astartes chainsword\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n• 4x Scout\n◦ 4x Bolt pistol\n◦ 4x Close combat weapon\n◦ 4x Combat knife\n\nStorm Speeder Hammerstrike (140 Points)\n• 1x Close combat weapon\n• 1x Hammerstrike missile launcher\n• 2x Krakstorm grenade launcher\n• 1x Melta destroyer\n\nVindicator (185 Points)\n• 1x Armoured tracks\n• 1x Demolisher cannon\n• 1x Hunter-killer missile\n• 1x Storm bolter\n\nVindicator (185 Points)\n• 1x Armoured tracks\n• 1x Demolisher cannon\n• 1x Hunter-killer missile\n• 1x Storm bolter\n\nExported with App Version: v2.5.0 (1), Data Version: v931"
     }
   ]
 }

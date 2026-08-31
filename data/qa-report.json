@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-30T00:45:47.639Z",
+  "checkedAt": "2026-08-31T14:36:30.356Z",
   "checks": [
     {
       "name": "desktop player count",
@@ -18,6 +18,30 @@
       "passed": true,
       "value": 10,
       "expected": 10
+    },
+    {
+      "name": "perspective selector has whole Kaashif team",
+      "passed": true,
+      "value": 4,
+      "expected": 4
+    },
+    {
+      "name": "Kaashif is the default perspective",
+      "passed": true,
+      "value": "zKNvC08xfWGI",
+      "expected": "zKNvC08xfWGI"
+    },
+    {
+      "name": "desktop opponent matchup links",
+      "passed": true,
+      "value": 36,
+      "expected": 36
+    },
+    {
+      "name": "desktop own-team matchup labels",
+      "passed": true,
+      "value": 4,
+      "expected": 4
     },
     {
       "name": "desktop linked rating count",
@@ -128,13 +152,25 @@
       "expected": 87
     },
     {
+      "name": "all force-disposition layouts are available",
+      "passed": true,
+      "value": 45,
+      "expected": 45
+    },
+    {
+      "name": "all ordered objective matchups are available",
+      "passed": true,
+      "value": 25,
+      "expected": 25
+    },
+    {
       "name": "only the vetted layout uses a suggested-deployment preview",
       "passed": true,
       "value": 1,
       "expected": 1
     },
     {
-      "name": "all 15 local layout assets load",
+      "name": "all 45 local layout assets load",
       "passed": true,
       "value": true,
       "expected": true
@@ -183,6 +219,36 @@
     },
     {
       "name": "Kaashif mirror has two Battlefield Dominance cards",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "Joseph perspective switches matchup heading",
+      "passed": true,
+      "value": "Purge the Foe vs Take and Hold",
+      "expected": "Purge the Foe vs Take and Hold"
+    },
+    {
+      "name": "Joseph objective switches to Unstoppable Force",
+      "passed": true,
+      "value": "Purge the Foe — Unstoppable Force",
+      "expected": "Purge the Foe — Unstoppable Force"
+    },
+    {
+      "name": "Kaashif objective switches to Immovable Object",
+      "passed": true,
+      "value": "Take and Hold — Immovable Object",
+      "expected": "Take and Hold — Immovable Object"
+    },
+    {
+      "name": "non-Kaashif perspective has three layouts",
+      "passed": true,
+      "value": 3,
+      "expected": 3
+    },
+    {
+      "name": "non-Kaashif perspective does not load Kaashif suggestion",
       "passed": true,
       "value": true,
       "expected": true
@@ -362,6 +428,276 @@
       "expected": true
     },
     {
+      "name": "matchup dataset covers every opponent",
+      "passed": true,
+      "value": 36,
+      "expected": 36
+    },
+    {
+      "name": "matchup pages with exact-list confidence",
+      "passed": true,
+      "value": 24,
+      "expected": 24
+    },
+    {
+      "name": "provisional matchup pages",
+      "passed": true,
+      "value": 12,
+      "expected": 12
+    },
+    {
+      "name": "matchup stars are all valid",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route fUEV9jjYXUPC",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route ve9Jtj6OI9dq",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route A2YnULLCXvNK",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route us56yYVKKzis",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route BuiJpJWVybKf",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route Ybq7tFb88pv2",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route jEDddX0ZTBD6",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route QrLPAP1DOyfu",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route TC7NSJS2MqC4",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route uR5seyGkjDxB",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route wagWtQit7iMh",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route M5bhhq669twZ",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route svEcgUyRuxeu",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route rA97GI9XUbqP",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route 05EtaDqVOpyt",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route xvRnMLgEwfn8",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route vI3V935pWkTB",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route caRiqCD3kplH",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route 0iZ1S8KtduUe",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route A788NNoLqnoA",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route LjHIm9kiW2vL",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route kUHsdazGk8sL",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route UXSL82XLbIKA",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route 30yp19Xry9BM",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route ZEmx47DNpWhE",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route F3ZBcZlDGToH",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route JghtoUiZIWZu",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route oXogJH2T3JAj",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route emXgJOxr91aT",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route mROtAJW47SFR",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route u9p9775Nzq8s",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route HylIlKMx6e7T",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route JmqO98hulLMS",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route GJbF7VhC98A7",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route CDysAE4Q7MHe",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "matchup route F2YzCXRGZBGt",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "exact matchup shows threat links",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "exact matchup has high confidence label",
+      "passed": true,
+      "value": "High confidence.",
+      "expected": "High confidence."
+    },
+    {
+      "name": "desktop matchup no horizontal overflow",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "missing-list matchup is explicit",
+      "passed": true,
+      "value": "Low confidence.",
+      "expected": "Low confidence."
+    },
+    {
+      "name": "missing-list matchup has no invented exact threats",
+      "passed": true,
+      "value": 0,
+      "expected": 0
+    },
+    {
       "name": "mobile player count",
       "passed": true,
       "value": 40,
@@ -374,10 +710,28 @@
       "expected": 11
     },
     {
+      "name": "mobile matchup links remain available",
+      "passed": true,
+      "value": 36,
+      "expected": 36
+    },
+    {
       "name": "mobile index no horizontal overflow",
       "passed": true,
       "value": true,
       "expected": true
+    },
+    {
+      "name": "mobile perspective metadata updates",
+      "passed": true,
+      "value": "South London Squad · Priority Assets",
+      "expected": "South London Squad · Priority Assets"
+    },
+    {
+      "name": "mobile layouts switch with identity",
+      "passed": true,
+      "value": "Priority Assets vs Reconnaissance",
+      "expected": "Priority Assets vs Reconnaissance"
     },
     {
       "name": "mobile dropdown has unit links",
@@ -435,6 +789,24 @@
     },
     {
       "name": "mobile detail no horizontal overflow",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "mobile matchup score visible",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "mobile matchup threats visible",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "mobile matchup no horizontal overflow",
       "passed": true,
       "value": true,
       "expected": true

@@ -1,11 +1,161 @@
 {
-  "checkedAt": "2026-08-30T00:45:59.329Z",
-  "htmlFiles": 30,
-  "internalLinks": 86,
-  "externalLinks": 256,
+  "checkedAt": "2026-08-31T14:34:13.480Z",
+  "htmlFiles": 67,
+  "internalLinks": 327,
+  "externalLinks": 291,
   "unresolvedInternal": [],
   "failedExternal": [],
   "externalResults": [
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=disruption-vs-disruption-a",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=disruption-vs-disruption-b",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=disruption-vs-disruption-c",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=disruption-vs-priority-assets-a",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=disruption-vs-priority-assets-b",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=disruption-vs-priority-assets-c",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=disruption-vs-reconnaissance-a",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=disruption-vs-reconnaissance-b",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=disruption-vs-reconnaissance-c",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=priority-assets-vs-priority-assets-a",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=priority-assets-vs-priority-assets-b",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=priority-assets-vs-priority-assets-c",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-disruption-a",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-disruption-b",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-disruption-c",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-priority-assets-a",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-priority-assets-b",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-priority-assets-c",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-purge-the-foe-a",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-purge-the-foe-b",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-purge-the-foe-c",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-reconnaissance-a",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-reconnaissance-b",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=purge-the-foe-vs-reconnaissance-c",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=reconnaissance-vs-priority-assets-a",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=reconnaissance-vs-priority-assets-b",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=reconnaissance-vs-priority-assets-c",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=reconnaissance-vs-reconnaissance-a",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=reconnaissance-vs-reconnaissance-b",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/planner/?layout=reconnaissance-vs-reconnaissance-c",
+      "status": 200,
+      "ok": true
+    },
     {
       "url": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-disruption-a",
       "status": 200,
@@ -78,6 +228,11 @@
     },
     {
       "url": "https://kaashif.github.io/40k-planner/planner/?layout=take-and-hold-vs-take-and-hold-c",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://kaashif.github.io/40k-planner/reviews/",
       "status": 200,
       "ok": true
     },
@@ -237,6 +392,21 @@
       "ok": true
     },
     {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/death-guard/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/drukhari/",
+      "status": 200,
+      "ok": true
+    },
+    {
       "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/",
       "status": 200,
       "ok": true
@@ -303,6 +473,11 @@
     },
     {
       "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Tormentors/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/",
       "status": 200,
       "ok": true
     },

@@ -18,10 +18,13 @@ a { color: var(--link); }
 .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
 
 .site-header { border-bottom: 1px solid var(--border); }
-.site-header__inner { width: min(960px, calc(100% - 32px)); margin: auto; padding: 28px 0; }
+.site-header__inner { display: flex; align-items: end; justify-content: space-between; gap: 24px; width: min(960px, calc(100% - 32px)); margin: auto; padding: 28px 0; }
 .site-header h1 { margin: 0; font-size: clamp(1.65rem, 4vw, 2.35rem); line-height: 1.2; letter-spacing: -.025em; }
 .site-header p { margin: 10px 0 4px; color: var(--muted); line-height: 1.5; }
 .site-header a { font-size: .9rem; }
+.perspective-picker { flex: 0 0 260px; display: grid; gap: 4px; border-left: 1px solid var(--border); padding-left: 18px; }
+.perspective-picker span, .perspective-picker small { color: var(--muted); font-size: .72rem; }
+.perspective-picker select { width: 100%; min-height: 38px; border: 1px solid var(--border); border-radius: 0; background: var(--background); padding: 0 8px; color: var(--text); }
 
 main { width: min(960px, calc(100% - 32px)); margin: auto; padding: 24px 0 64px; }
 .toolbar { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(400px, 1fr); gap: 12px; }
@@ -46,7 +49,7 @@ kbd { margin-right: 10px; border: 1px solid var(--border); border-radius: 3px; p
 .team-group h2 span { color: var(--muted); font-size: .82rem; font-weight: 400; text-align: right; }
 .team-lists { border-top: 1px solid var(--border); }
 .list-card { border-bottom: 1px solid var(--border); }
-.list-card__summary { display: grid; grid-template-columns: 34px minmax(140px, 1fr) 92px 64px 104px minmax(140px, .9fr) 20px; column-gap: 10px; align-items: center; width: 100%; min-height: 64px; border: 0; padding: 10px 4px 10px 0; background: transparent; color: var(--text); text-align: left; cursor: pointer; }
+.list-card__summary { display: grid; grid-template-columns: 34px minmax(130px, 1fr) 88px 58px 98px 72px minmax(120px, .8fr) 20px; column-gap: 8px; align-items: center; width: 100%; min-height: 64px; border: 0; padding: 10px 4px 10px 0; background: transparent; color: var(--text); text-align: left; cursor: pointer; }
 .list-card__summary:hover { background: var(--subtle); }
 .list-card__summary[aria-disabled="true"] { cursor: default; }
 .list-card__summary[aria-disabled="true"]:hover { background: transparent; }
@@ -56,6 +59,9 @@ kbd { margin-right: 10px; border: 1px solid var(--border); border-radius: 3px; p
 .player-rating { color: var(--link); font-size: .76rem; font-weight: 500; white-space: nowrap; }
 .player-rating--unrated { color: var(--muted); pointer-events: none; }
 .player-games, .player-rank { color: var(--muted); font-size: .76rem; white-space: nowrap; }
+.matchup-rating { color: #8a5200; font-size: .82rem; font-weight: 600; letter-spacing: -.04em; text-decoration: none; white-space: nowrap; }
+.matchup-rating:hover { text-decoration: underline; }
+.matchup-rating--team { color: var(--muted); font-size: .72rem; font-weight: 400; letter-spacing: 0; pointer-events: none; }
 .list-card__faction { color: var(--muted); font-size: .84rem; }
 .list-card__toggle { position: relative; width: 16px; height: 16px; justify-self: end; }
 .list-card__toggle::before, .list-card__toggle::after { content: ""; position: absolute; left: 2px; top: 7px; width: 12px; height: 1px; background: var(--text); }
@@ -105,6 +111,33 @@ footer p { margin: 0; }
 .primary-links a:hover, .datasheet-links a:hover { text-decoration: underline; }
 .powered { margin: 22px 0 0; color: var(--muted); font-size: .76rem; line-height: 1.5; }
 
+/* Kaashif-specific matchup analysis, intentionally separate from factual list pages. */
+.matchup-hero { padding-bottom: 30px; }
+.matchup-score { display: flex; align-items: baseline; gap: 12px; margin-top: 22px; }
+.matchup-score strong { color: #8a5200; font-size: 1.45rem; letter-spacing: -.05em; }
+.matchup-score span { color: var(--muted); font-size: .9rem; }
+.matchup-verdict { max-width: 760px; margin: 12px 0 0; font-size: 1.08rem; line-height: 1.55; }
+.matchup-confidence { max-width: 760px; margin: 10px 0 0; color: var(--muted); font-size: .82rem; line-height: 1.5; }
+.matchup-main, .matchup-index { width: min(960px, calc(100% - 32px)); margin: auto; padding: 30px 0 64px; }
+.matchup-section { max-width: 760px; }
+.matchup-section + .matchup-section, .matchup-method { margin-top: 38px; }
+.matchup-section h2, .matchup-method h2 { margin: 24px 0 8px; font-size: 1.05rem; }
+.matchup-section p, .matchup-method p { margin: 0 0 12px; line-height: 1.65; }
+.matchup-section--threats { max-width: none; }
+.matchup-section--threats > h2 { border-bottom: 1px solid var(--border); padding-bottom: 9px; }
+.matchup-threat { display: grid; grid-template-columns: minmax(180px, .55fr) minmax(0, 1.45fr); gap: 18px; border-bottom: 1px solid var(--border); padding: 14px 0; }
+.matchup-threat h3 { margin: 0; font-size: .9rem; }
+.matchup-threat ul { margin: 0; padding-left: 18px; color: var(--muted); font-size: .84rem; line-height: 1.5; }
+.matchup-empty { border: 1px solid var(--border); background: var(--subtle); padding: 16px; color: var(--muted); }
+.matchup-method { max-width: 760px; border-top: 1px solid var(--border); padding-top: 16px; color: var(--muted); font-size: .84rem; }
+.matchup-index { display: grid; gap: 34px; }
+.matchup-index-team h2 { margin: 0 0 7px; font-size: 1.05rem; }
+.matchup-index-team > div { border-top: 1px solid var(--border); }
+.matchup-index-team a { display: grid; grid-template-columns: minmax(180px, 1fr) minmax(180px, .8fr) 72px; gap: 14px; align-items: center; border-bottom: 1px solid var(--border); padding: 12px 0; color: var(--text); text-decoration: none; }
+.matchup-index-team a:hover { background: var(--subtle); }
+.matchup-index-team span { color: var(--muted); font-size: .84rem; }
+.matchup-index-team b { color: #8a5200; font-size: .82rem; letter-spacing: -.04em; }
+
 @media (max-width: 760px) {
   .toolbar { grid-template-columns: 1fr; }
   .detail-layout { grid-template-columns: 1fr; gap: 32px; }
@@ -113,16 +146,20 @@ footer p { margin: 0; }
 }
 
 @media (max-width: 520px) {
-  .site-header__inner { padding: 20px 0; }
+  .site-header__inner { align-items: stretch; flex-direction: column; gap: 16px; padding: 20px 0; }
+  .perspective-picker { flex-basis: auto; border-top: 1px solid var(--border); border-left: 0; padding-top: 12px; padding-left: 0; }
   main { padding-top: 16px; }
   .filters { grid-template-columns: 1fr 1fr; }
   .filters button { grid-column: 1 / -1; min-height: 38px; }
   .list-grid { gap: 28px; }
-  .list-card__summary { grid-template-columns: 26px minmax(80px, 1fr) 82px 52px 20px; column-gap: 7px; min-height: 94px; }
-  .list-card__number { grid-row: 1 / span 3; }
-  .player-rank { grid-column: 3 / span 2; grid-row: 2; }
-  .list-card__faction { grid-column: 2 / span 3; grid-row: 3; margin-top: 4px; }
-  .list-card__toggle { grid-column: 5; grid-row: 1 / span 3; }
+  .list-card__summary { grid-template-columns: 26px minmax(94px, 1fr) 78px 20px; column-gap: 7px; min-height: 118px; }
+  .list-card__number { grid-row: 1 / span 4; }
+  .player-rating { grid-column: 3; grid-row: 1; }
+  .player-games { grid-column: 2; grid-row: 2; }
+  .player-rank { grid-column: 3; grid-row: 2; }
+  .matchup-rating { grid-column: 2 / span 2; grid-row: 3; }
+  .list-card__faction { grid-column: 2 / span 2; grid-row: 4; margin-top: 4px; }
+  .list-card__toggle { grid-column: 4; grid-row: 1 / span 4; }
   .list-card__body { padding-left: 0; }
   .objective-strip__cards { gap: 6px; }
   .objective-card figcaption { padding: 5px; }
@@ -137,4 +174,8 @@ footer p { margin: 0; }
   .rules-panel { padding: 0 16px; }
   .roster-panel h2 { padding: 0 16px; }
   .detail-roster { border-right: 0; border-left: 0; padding: 14px; font-size: .66rem; }
+  .matchup-threat { grid-template-columns: 1fr; gap: 7px; }
+  .matchup-index-team a { grid-template-columns: 1fr 68px; gap: 5px 12px; }
+  .matchup-index-team span { grid-column: 1; grid-row: 2; }
+  .matchup-index-team b { grid-column: 2; grid-row: 1 / span 2; }
 }

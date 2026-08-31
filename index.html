@@ -10,9 +10,16 @@
   <body>
     <header class="site-header">
       <div class="site-header__inner">
-        <h1>Brighton 40k Teams II army lists</h1>
-        <p><span id="hero-count">29</span> submitted lists from 40 players. Grouped by team.</p>
-        <a id="event-link" href="#">View the event on Best Coast Pairings</a>
+        <div>
+          <h1>Brighton 40k Teams II army lists</h1>
+          <p><span id="hero-count">29</span> submitted lists from 40 players. Grouped by team.</p>
+          <a id="event-link" href="#">View the event on Best Coast Pairings</a> · <a href="matchups/">Kaashif’s matchup reads</a> · <a href="https://kaashif.github.io/40k-planner/reviews/">Deployment reviews</a>
+        </div>
+        <label class="perspective-picker">
+          <span>Objectives and layouts for</span>
+          <select id="perspective-player"></select>
+          <small id="perspective-meta">South London Squad</small>
+        </label>
       </div>
     </header>
 
@@ -63,6 +70,7 @@
           <a class="player-rating" target="_blank" rel="noreferrer"></a>
           <span class="player-games"></span>
           <span class="player-rank"></span>
+          <a class="matchup-rating"></a>
           <span class="list-card__faction"></span>
           <span class="list-card__toggle" aria-hidden="true"></span>
         </div>

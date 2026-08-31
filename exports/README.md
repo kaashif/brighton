@@ -61,7 +61,7 @@ All 40 event players are included. Players without a published submission are re
 ## The Real Comp Play
 
 - [Chris Shaw](./the-real-comp-play--chris-shaw.md) — Orks — no list submitted — Unrated
-- [Christopher  Dyas ](./the-real-comp-play--christopher-dyas.md) — T'au Empire — no list submitted — Unrated
+- [Christopher  Dyas](./the-real-comp-play--christopher-dyas.md) — T'au Empire — no list submitted — Unrated
 - [Liam Macindoe](./the-real-comp-play--liam-macindoe.md) — Thousand Sons — no list submitted — [Glicko-2 1688 · rank #2,844 / 12,446 · 3 11th-edition games](https://tabletop-tools.net/new-meta/#/player/2AGb21LTUKDzGRBBdXJKQ)
 - [Nick Watkins](./the-real-comp-play--nick-watkins.md) — Space Marines (Astartes) — no list submitted — [Glicko-2 1449 · rank #8,130 / 12,446 · 3 11th-edition games](https://tabletop-tools.net/new-meta/#/player/_YMgS19xYkS5e6akx34_O)
 

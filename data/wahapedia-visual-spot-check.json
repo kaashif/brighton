@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-29T23:19:02.548Z",
+  "checkedAt": "2026-08-31T14:35:15.446Z",
   "method": "One rendered standalone datasheet page per represented faction; visible heading and screenshot checked.",
   "screenshotDirectory": "/tmp/brighton-wahapedia-spot-check",
   "passed": 13,
@@ -13,7 +13,7 @@
       "title": "Captain In Gravis Armour — Space Marines [Warhammer 40,000 11th edition]",
       "visibleHeading": "Space Marines\n– Captain In Gravis Armour",
       "screenshot": "01-space-marines-captain-in-gravis-armour.png",
-      "elapsedMs": 2249,
+      "elapsedMs": 2638,
       "passed": true
     },
     {
@@ -24,7 +24,7 @@
       "title": "Blade Champion — Adeptus Custodes [Warhammer 40,000 11th edition]",
       "visibleHeading": "Adeptus Custodes\n– Blade Champion",
       "screenshot": "02-adeptus-custodes-blade-champion.png",
-      "elapsedMs": 1010,
+      "elapsedMs": 1160,
       "passed": true
     },
     {
@@ -35,7 +35,7 @@
       "title": "Technomancer — Necrons [Warhammer 40,000 11th edition]",
       "visibleHeading": "Necrons\n– Technomancer",
       "screenshot": "03-necrons-technomancer.png",
-      "elapsedMs": 974,
+      "elapsedMs": 977,
       "passed": true
     },
     {
@@ -46,7 +46,7 @@
       "title": "Cybernetica Datasmith — Adeptus Mechanicus [Warhammer 40,000 11th edition]",
       "visibleHeading": "Adeptus Mechanicus\n– Cybernetica Datasmith",
       "screenshot": "04-adeptus-mechanicus-cybernetica-datasmith.png",
-      "elapsedMs": 1029,
+      "elapsedMs": 1474,
       "passed": true
     },
     {
@@ -57,7 +57,7 @@
       "title": "Lord Exultant — Emperor’s Children [Warhammer 40,000 11th edition]",
       "visibleHeading": "Emperor’s Children\n– Lord Exultant",
       "screenshot": "05-emperor-s-children-lord-exultant.png",
-      "elapsedMs": 1118,
+      "elapsedMs": 1151,
       "passed": true
     },
     {
@@ -68,7 +68,7 @@
       "title": "Breacher Team — T’au Empire [Warhammer 40,000 11th edition]",
       "visibleHeading": "T’au Empire\n– Breacher Team",
       "screenshot": "06-t-au-empire-breacher-team.png",
-      "elapsedMs": 942,
+      "elapsedMs": 945,
       "passed": true
     },
     {
@@ -79,7 +79,7 @@
       "title": "The Swarmlord — Tyranids [Warhammer 40,000 11th edition]",
       "visibleHeading": "Tyranids\n– The Swarmlord",
       "screenshot": "07-tyranids-the-swarmlord.png",
-      "elapsedMs": 1011,
+      "elapsedMs": 1349,
       "passed": true
     },
     {
@@ -90,7 +90,7 @@
       "title": "Callidus Assassin — Imperial Agents [Warhammer 40,000 11th edition]",
       "visibleHeading": "Imperial Agents\n– Callidus Assassin",
       "screenshot": "08-imperial-agents-callidus-assassin.png",
-      "elapsedMs": 967,
+      "elapsedMs": 1183,
       "passed": true
     },
     {
@@ -101,7 +101,7 @@
       "title": "Einhyr Champion — Leagues of Votann [Warhammer 40,000 11th edition]",
       "visibleHeading": "Leagues of Votann\n– Einhyr Champion",
       "screenshot": "09-leagues-of-votann-einhyr-champion.png",
-      "elapsedMs": 894,
+      "elapsedMs": 1111,
       "passed": true
     },
     {
@@ -112,7 +112,7 @@
       "title": "Slaughterbound — World Eaters [Warhammer 40,000 11th edition]",
       "visibleHeading": "World Eaters\n– Slaughterbound",
       "screenshot": "10-world-eaters-slaughterbound.png",
-      "elapsedMs": 1157,
+      "elapsedMs": 1281,
       "passed": true
     },
     {
@@ -123,7 +123,7 @@
       "title": "Ghazghkull Thraka — Orks [Warhammer 40,000 11th edition]",
       "visibleHeading": "Orks\n– Ghazghkull Thraka",
       "screenshot": "11-orks-ghazghkull-thraka.png",
-      "elapsedMs": 1047,
+      "elapsedMs": 1235,
       "passed": true
     },
     {
@@ -134,7 +134,7 @@
       "title": "Daemon Prince of Tzeentch with Wings — Thousand Sons [Warhammer 40,000 11th edition]",
       "visibleHeading": "Thousand Sons\n– Daemon Prince of Tzeentch with Wings",
       "screenshot": "12-thousand-sons-daemon-prince-of-tzeentch-with-wings.png",
-      "elapsedMs": 1129,
+      "elapsedMs": 1241,
       "passed": true
     },
     {
@@ -145,7 +145,7 @@
       "title": "War Dog Brigand — Chaos Knights [Warhammer 40,000 11th edition]",
       "visibleHeading": "Chaos Knights\n– War Dog Brigand",
       "screenshot": "13-chaos-knights-war-dog-brigand.png",
-      "elapsedMs": 933,
+      "elapsedMs": 1327,
       "passed": true
     }
   ]

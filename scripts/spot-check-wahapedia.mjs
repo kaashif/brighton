@@ -27,7 +27,15 @@ for (const [index, item] of [...unique.values()].entries()) {
   const page = await context.newPage();
   const started = Date.now();
   try {
-    const response = await page.goto(item.url, { waitUntil: 'domcontentloaded', timeout: 30_000 });
+    let response;
+    for (let attempt = 1; attempt <= 2; attempt += 1) {
+      try {
+        response = await page.goto(item.url, { waitUntil: 'domcontentloaded', timeout: 30_000 });
+        break;
+      } catch (error) {
+        if (attempt === 2) throw error;
+      }
+    }
     const headings = await page.locator('h1, h2').allInnerTexts();
     const visibleHeading = headings.find((heading) => normalize(heading).includes(normalize(item.name))) || '';
     const screenshot = `${String(index + 1).padStart(2, '0')}-${item.factionSlug}-${slugify(item.name)}.png`;
