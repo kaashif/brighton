@@ -3,12 +3,12 @@
 - Team: South London Squad
 - Faction: Dark Angels
 - [Glicko-2 rating: 1600; rank #4,746 of 12,446; 5 11th-edition games](https://tabletop-tools.net/new-meta/#/player/_vksjDvJduVFlocMaYaWy)
-- [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/90uVfSpDZZUw)
-- [Web version](https://kaashif.github.io/brighton/lists/90uVfSpDZZUw/)
+- [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/NCr1t40BFouY)
+- [Web version](https://kaashif.github.io/brighton/lists/NCr1t40BFouY/)
 
 ## Army list
 
-<pre>Gotta go fast (2000 points)
+<pre>1. Gotta go fast (2000 points)
 
 Space Marines
 Dark Angels

@@ -1,13 +1,1625 @@
 {
   "schemaVersion": 1,
   "edition": 11,
-  "fetchedAt": "2026-08-30T10:02:18.910Z",
+  "fetchedAt": "2026-09-04T20:55:22.692Z",
   "source": "Wahapedia 11th-edition datasheets",
-  "playerCount": 25,
-  "datasheetCount": 187,
+  "playerCount": 36,
+  "datasheetCount": 222,
   "players": [
     {
-      "listId": "m3WkBIscvIfD",
+      "listId": "UteQl8HRtVLw",
+      "player": "Chris Shaw",
+      "faction": "Orks",
+      "datasheets": [
+        {
+          "name": "Ghazghkull Thraka",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Ghazghkull-Thraka/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Gork’s Klaw - strike",
+              "range": "Melee",
+              "attacks": "6",
+              "skill": "2+",
+              "strength": "14",
+              "ap": "-3",
+              "damage": "4"
+            },
+            {
+              "name": "Makari’s stabba devastating wounds",
+              "range": "Melee",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "3",
+              "ap": "0",
+              "damage": "1"
+            }
+          ],
+          "abilities": [
+            "Prophet of Da Great Waaagh!: While this unit is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll and add 1 to the Wound roll and if the Waaagh! is active for your army, a Critical Hit is scored on a successful unmodified Hit roll of 5+.Ghazghkull’s Waaagh! Banner (Aura): While a friendly ORKS unit is within 12\" of Makari, if the Waaagh! is active for your army, melee weapons equipped by models in that unit have the [LETHAL HITS] ability."
+          ]
+        },
+        {
+          "name": "Painboy(⌀32mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Painboy/",
+          "flags": {
+            "precision": true,
+            "mortalWounds": true,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "’Urty syringe anti-infantry 4+ extra attacks precision",
+              "range": "Melee",
+              "attacks": "1",
+              "skill": "3+",
+              "strength": "2",
+              "ap": "0",
+              "damage": "1"
+            }
+          ],
+          "abilities": [
+            "Dok’s Toolz: While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability.Hold Still and Say ‘Aargh!’: Each time an attack made by this model with its ’urty syringe scores a Critical Wound against a unit (excluding VEHICLE units), that unit suffers D6 mortal wounds.",
+            "Kunnin’ But Brutal15Supa-Cybork Body15Headwoppa’s Killchoppa20Follow Me Ladz25Mork’s Kunnin’20Da Gobshot Thunderbuss15Dead Shiny Shootas15Bionik Workshop15Git-spotter Squig20Razgit’s Magik Map25Runnin’ Boots10Blitzkaptin25Tuff Git5Speed Makes Right25Fasta Than Yooz35Ferocious Show Off10Bloodthirsty Belligerence15Raucous Warcaller20Brutal But Kunnin’25Living Battering RamScarred Brute"
+          ]
+        },
+        {
+          "name": "Boyz",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Boyz/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Kombi-rokkit",
+              "range": "24\"",
+              "attacks": "1",
+              "skill": "5+",
+              "strength": "10",
+              "ap": "-2",
+              "damage": "3"
+            },
+            {
+              "name": "Kombi-weapon anti-infantry 4+ devastating wounds rapid fire 1",
+              "range": "24\"",
+              "attacks": "1",
+              "skill": "5+",
+              "strength": "4",
+              "ap": "0",
+              "damage": "1"
+            },
+            {
+              "name": "Rokkit launcha blast",
+              "range": "24\"",
+              "attacks": "D3",
+              "skill": "5+",
+              "strength": "9",
+              "ap": "-2",
+              "damage": "3"
+            }
+          ],
+          "abilities": [
+            "Dead Shiny Shootas15"
+          ]
+        },
+        {
+          "name": "Warboss In Mega Armour(⌀50mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Warboss-In-Mega-Armour/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "’Uge choppa",
+              "range": "Melee",
+              "attacks": "4",
+              "skill": "2+",
+              "strength": "12",
+              "ap": "-2",
+              "damage": "2"
+            }
+          ],
+          "abilities": [
+            "Might is Right: While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll.Dead Brutal: While the Waaagh! is active for your army, this model’s ’uge choppa has a Damage characteristic of 3.",
+            "1 Warboss in Mega ArmourThis model is equipped with: big shoota; ’uge choppa.",
+            "Kunnin’ But Brutal15Supa-Cybork Body15Headwoppa’s Killchoppa20Follow Me Ladz25Mork’s Kunnin’20Da Gobshot Thunderbuss15Dead Shiny Shootas15Da Kaptin10Git-spotter Squig20Razgit’s Magik Map25Runnin’ Boots10Blitzkaptin25Tuff Git5Kunnin’ Hunta25Unkillable Scourge25Speed Makes Right25Fasta Than Yooz35Ferocious Show Off10Bloodthirsty Belligerence15Raucous Warcaller20Brutal But Kunnin’25’Eadstompa10Da Biggest Boss15Big Gob20Tellyporta25Living Battering RamScarred BruteGnasher Squig Crates"
+          ]
+        },
+        {
+          "name": "Meganobz(⌀40mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Meganobz/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": false,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Kombi-weapon anti-infantry 4+ devastating wounds rapid fire 1",
+              "range": "24\"",
+              "attacks": "1",
+              "skill": "5+",
+              "strength": "4",
+              "ap": "0",
+              "damage": "1"
+            },
+            {
+              "name": "Killsaw",
+              "range": "Melee",
+              "attacks": "2",
+              "skill": "4+",
+              "strength": "12",
+              "ap": "-3",
+              "damage": "2"
+            },
+            {
+              "name": "Twin killsaw twin-linked",
+              "range": "Melee",
+              "attacks": "2",
+              "skill": "4+",
+              "strength": "12",
+              "ap": "-3",
+              "damage": "2"
+            }
+          ],
+          "abilities": [
+            "2-6 MeganobzEvery model is equipped with: kustom shoota; power klaw.",
+            "Dead Shiny Shootas15Tellyporta"
+          ]
+        },
+        {
+          "name": "Big Mek In Mega Armour(⌀40mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Big-Mek-In-Mega-Armour/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Kombi-weapon anti-infantry 4+ devastating wounds rapid fire 1",
+              "range": "24\"",
+              "attacks": "1",
+              "skill": "5+",
+              "strength": "4",
+              "ap": "0",
+              "damage": "1"
+            },
+            {
+              "name": "Kustom mega-blasta hazardous",
+              "range": "24\"",
+              "attacks": "3",
+              "skill": "5+",
+              "strength": "9",
+              "ap": "-2",
+              "damage": "D6"
+            },
+            {
+              "name": "Tellyport blasta blast",
+              "range": "12\"",
+              "attacks": "3",
+              "skill": "5+",
+              "strength": "8",
+              "ap": "-1",
+              "damage": "3"
+            },
+            {
+              "name": "Killsaw",
+              "range": "Melee",
+              "attacks": "3",
+              "skill": "4+",
+              "strength": "12",
+              "ap": "-3",
+              "damage": "2"
+            }
+          ],
+          "abilities": [
+            "Kunnin’ But Brutal15Supa-Cybork Body15Headwoppa’s Killchoppa20Follow Me Ladz25Mork’s Kunnin’20Da Gobshot Thunderbuss15Dead Shiny Shootas15Git-spotter Squig20Razgit’s Magik Map25Dakkamek25Runnin’ Boots10Supercharged Squig Oil10Blitzkaptin25Tuff Git5Speed Makes Right25Fasta Than Yooz35Gitfinder Googlez10Smoky Gubbinz15Supa-glowy Fing20Press It Fasta!35Ferocious Show Off10Bloodthirsty Belligerence15Raucous Warcaller20Brutal But Kunnin’25Living Battering RamScarred Brute"
+          ]
+        },
+        {
+          "name": "Mozrog Skragbad(⌀80mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Mozrog-Skragbad/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Big Chompa’s jaws devastating wounds extra attacks",
+              "range": "Melee",
+              "attacks": "3",
+              "skill": "3+",
+              "strength": "7",
+              "ap": "-2",
+              "damage": "4"
+            },
+            {
+              "name": "Gutrippa anti-monster 4+ anti-vehicle 4+",
+              "range": "Melee",
+              "attacks": "6",
+              "skill": "2+",
+              "strength": "7",
+              "ap": "-1",
+              "damage": "3"
+            }
+          ],
+          "abilities": [
+            "One Last Kill: While this model is leading a unit, each time a model in that unit is destroyed by a melee attack, if it has not fought this phase, roll one D6: on a 4+, do not remove it from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play.Da Bigger Dey iz...: Each time this model makes a melee attack that targets a MONSTER or VEHICLE unit, add 1 to the Damage characteristic of that attack. Each time this model makes a melee attack that targets a TITANIC unit, add 2 to the Damage characteristic of that attack instead."
+          ]
+        },
+        {
+          "name": "Squighog Boyz",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Squighog-Boyz/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": true,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Stikka assault anti-monster 4+ anti-vehicle 4+",
+              "range": "9\"",
+              "attacks": "1",
+              "skill": "5+",
+              "strength": "5",
+              "ap": "-1",
+              "damage": "2"
+            },
+            {
+              "name": "Big Choppa anti-monster 4+ anti-vehicle 4+",
+              "range": "Melee",
+              "attacks": "4",
+              "skill": "3+",
+              "strength": "6",
+              "ap": "-1",
+              "damage": "2"
+            },
+            {
+              "name": "Stikka anti-monster 4+ anti-vehicle 4+ lance",
+              "range": "Melee",
+              "attacks": "3",
+              "skill": "3+",
+              "strength": "5",
+              "ap": "-1",
+              "damage": "2"
+            }
+          ],
+          "abilities": [
+            "Bomb Squigs: Once per battle, for each bomb squig this unit has, after this unit ends a Normal move, you can use one Bomb Squig. If you do, select one enemy unit within 12\" and visible to this unit and roll one D6: on a 3+, that enemy unit suffers D3 mortal wounds.Designer’s Note: Place the relevant number of Bomb Squig tokens next to the unit, removing one each time this unit uses this ability."
+          ]
+        },
+        {
+          "name": "Boss Snikrot(⌀40mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Boss-Snikrot/",
+          "flags": {
+            "precision": true,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Mork’s Teeth precision twin-linked",
+              "range": "Melee",
+              "attacks": "6",
+              "skill": "2+",
+              "strength": "6",
+              "ap": "-1",
+              "damage": "2"
+            }
+          ],
+          "abilities": []
+        },
+        {
+          "name": "Gretchin",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Gretchin/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": [
+            "Dead Shiny Shootas15"
+          ]
+        },
+        {
+          "name": "Kommandos",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Kommandos/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": true,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Rokkit launcha blast",
+              "range": "24\"",
+              "attacks": "D3",
+              "skill": "5+",
+              "strength": "9",
+              "ap": "-2",
+              "damage": "3"
+            }
+          ],
+          "abilities": [
+            "Sneaky Surprise: Enemy units cannot target this unit with snap shooting attacks.",
+            "Distraction Grot: Once per battle, in your opponent’s Shooting phase, before making a saving throw for a model in this unit, it can deploy the distraction grot. If it does, until the end of the phase, models in this unit have a 5+ invulnerable save.Designer’s Note: Place a Distraction Grot token next to the unit, removing it when this unit uses this ability.",
+            "Bomb Squigs: Once per battle, for each bomb squig this unit has, after this unit ends a Normal move, you can use one Bomb Squig. If you do, select one enemy unit within 12\" and visible to this unit and roll one D6: on a 3+, that enemy unit suffers D3 mortal wounds.Designer’s Note: Place a Bomb Squig token next to the unit, removing it when this unit uses this ability.",
+            "Dead Shiny Shootas15"
+          ]
+        },
+        {
+          "name": "Stormboyz",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Stormboyz/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": [
+            "Dead Shiny Shootas15"
+          ]
+        }
+      ]
+    },
+    {
+      "listId": "74VbeImojDQH",
+      "player": "Christopher Dyas",
+      "faction": "T'au Empire",
+      "datasheets": [
+        {
+          "name": "Commander In Coldstar Battlesuit(⌀60mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Commander-In-Coldstar-Battlesuit/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Airbursting fragmentation projector blast indirect fire",
+              "range": "24\"",
+              "attacks": "D6",
+              "skill": "3+",
+              "strength": "3",
+              "ap": "0",
+              "damage": "1"
+            },
+            {
+              "name": "Fusion blaster melta 2",
+              "range": "12\"",
+              "attacks": "1",
+              "skill": "3+",
+              "strength": "9",
+              "ap": "-4",
+              "damage": "D6"
+            },
+            {
+              "name": "Plasma rifle",
+              "range": "18\"",
+              "attacks": "1",
+              "skill": "3+",
+              "strength": "8",
+              "ap": "-3",
+              "damage": "3"
+            }
+          ],
+          "abilities": [
+            "Battlesuit Support System: The bearer’s unit is eligible to shoot in a turn in which it Fell Back, but when doing so only models equipped with this wargear can make ranged attacks.",
+            "Precision of the Patient Hunter15Exemplar of the Kauyon20Solid-image Projection Unit20Through Unity, Devastation30Admired Leader20Supernova Launcher15Thermoneutronic Projector15Plasma Accelerator Rifle20Strike Swiftly 45Exemplar of the Mont’ka10Strategic Conqueror15Coordinated Exploitation30Prototype Weapon System15Puretide Engram Neurochip15Internal Grenade Racks20Starflare Ignition System20"
+          ]
+        },
+        {
+          "name": "Crisis Sunforge Battlesuits(⌀50mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Crisis-Sunforge-Battlesuits/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Fusion blaster melta 2",
+              "range": "12\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "9",
+              "ap": "-4",
+              "damage": "D6"
+            }
+          ],
+          "abilities": [
+            "Patient HunterKilling BlowBonded HeroesMarkerlight Precision"
+          ]
+        },
+        {
+          "name": "Ethereal(⌀40mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Ethereal/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": [
+            "Patient HunterKilling BlowMarkerlight Precision",
+            "Precision of the Patient Hunter15Exemplar of the Kauyon20Solid-image Projection Unit20Through Unity, Devastation30Admired Leader20Strike Swiftly 45Exemplar of the Mont’ka10Strategic Conqueror15Coordinated Exploitation30Duty’s Echo"
+          ]
+        },
+        {
+          "name": "The Twin Lance(⌀60mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/The-Twin-Lance/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Fusion eliminator melta 2",
+              "range": "18\"",
+              "attacks": "2",
+              "skill": "2+",
+              "strength": "10",
+              "ap": "-4",
+              "damage": "D6"
+            },
+            {
+              "name": "Ion scattercannon – overcharge hazardous rapid fire 2",
+              "range": "18\"",
+              "attacks": "4",
+              "skill": "2+",
+              "strength": "8",
+              "ap": "-3",
+              "damage": "3"
+            },
+            {
+              "name": "Fusion eliminator extra attacks",
+              "range": "Melee",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "10",
+              "ap": "-4",
+              "damage": "D6+2"
+            }
+          ],
+          "abilities": [
+            "Exemplars of Mont’ka: Each time a model in this unit makes a ranged attack that targets the closest eligible target, that attack has the [SUSTAINED HITS 1] and [IGNORES COVER] abilities.Neocapacitor Shields: At the start of your opponent’s Charge phase, you can select one visible enemy unit (excluding MONSTER and VEHICLE units) within 12\" of this unit. That unit must take a Battle-shock test and, until the end of the turn, subtract 1 from Charge rolls made for that unit.Retro-thrusters: At the end of the Fight phase, if this unit was eligible to fight this phase, this unit can either make a Normal move of up to 6\" or a Fall Back move."
+          ]
+        },
+        {
+          "name": "Breacher Team(⌀25mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Breacher-Team/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Support turret indirect fire twin-linked",
+              "range": "30\"",
+              "attacks": "2",
+              "skill": "5+",
+              "strength": "5",
+              "ap": "0",
+              "damage": "1"
+            }
+          ],
+          "abilities": [
+            "Patient HunterKilling BlowMarkerlight Precision"
+          ]
+        },
+        {
+          "name": "Devilfish(⌀60mm flying base)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Devilfish/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Seeker missile one shot",
+              "range": "48\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "14",
+              "ap": "-3",
+              "damage": "D6+1"
+            },
+            {
+              "name": "Smart missile system indirect fire",
+              "range": "30\"",
+              "attacks": "3",
+              "skill": "4+",
+              "strength": "5",
+              "ap": "0",
+              "damage": "1"
+            }
+          ],
+          "abilities": [
+            "One Shot: The bearer can only shoot with this weapon once per battle.",
+            "Rapid Deployment: Units can disembark from this TRANSPORT after it has Advanced. Units that do so make a shock disembark move (Core Rules, 18.07) for that disembarkation."
+          ]
+        },
+        {
+          "name": "Crisis Fireknife Battlesuits(⌀50mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Crisis-Fireknife-Battlesuits/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Plasma rifle",
+              "range": "18\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "8",
+              "ap": "-3",
+              "damage": "3"
+            }
+          ],
+          "abilities": [
+            "Patient HunterKilling BlowBonded HeroesMarkerlight Precision"
+          ]
+        },
+        {
+          "name": "Ghostkeel Battlesuit(⌀105 x 70mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Ghostkeel-Battlesuit/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Cyclic ion raker – overcharge hazardous",
+              "range": "36\"",
+              "attacks": "6",
+              "skill": "4+",
+              "strength": "8",
+              "ap": "-2",
+              "damage": "3"
+            },
+            {
+              "name": "Fusion collider melta 2",
+              "range": "18\"",
+              "attacks": "2",
+              "skill": "4+",
+              "strength": "12",
+              "ap": "-4",
+              "damage": "D6"
+            },
+            {
+              "name": "Twin fusion blaster melta 2 twin-linked",
+              "range": "12\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "9",
+              "ap": "-4",
+              "damage": "D6"
+            }
+          ],
+          "abilities": [
+            "Stealth Drones: Twice per battle, after an attack has been allocated to this model, you can change the Damage characteristic of that attack to 0. Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one each time this ability has been used.",
+            "Battlesuit Support System: The bearer is eligible to shoot in a turn in which it Fell Back but it loses the SMOKE keyword."
+          ]
+        },
+        {
+          "name": "Hammerhead Gunship(⌀60mm flying base)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Hammerhead-Gunship/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Ion cannon – overcharge blast hazardous",
+              "range": "60\"",
+              "attacks": "D6+3",
+              "skill": "4+",
+              "strength": "8",
+              "ap": "-2",
+              "damage": "3"
+            },
+            {
+              "name": "Railgun heavy devastating wounds",
+              "range": "72\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "20",
+              "ap": "-5",
+              "damage": "D6+6"
+            },
+            {
+              "name": "Seeker missile one shot",
+              "range": "48\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "14",
+              "ap": "-3",
+              "damage": "D6+1"
+            },
+            {
+              "name": "Smart missile system indirect fire",
+              "range": "30\"",
+              "attacks": "3",
+              "skill": "4+",
+              "strength": "5",
+              "ap": "0",
+              "damage": "1"
+            }
+          ],
+          "abilities": [
+            "One Shot: The bearer can only shoot with this weapon once per battle.",
+            "Armour Hunter: Each time this model makes an attack that targets a MONSTER or VEHICLE, add 1 to the Hit roll.Targeting Array: Each time this model is selected to shoot, you can re-roll one Hit roll or you can re-roll one Wound roll when resolving those attacks."
+          ]
+        },
+        {
+          "name": "Kroot Carnivores(⌀28.5mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Kroot-Carnivores/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": []
+        },
+        {
+          "name": "Pathfinder Team(⌀25mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Pathfinder-Team/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Rail rifle devastating wounds heavy",
+              "range": "30\"",
+              "attacks": "1",
+              "skill": "5+",
+              "strength": "10",
+              "ap": "-4",
+              "damage": "3"
+            },
+            {
+              "name": "Semi-automatic grenade launcher – EMP anti-vehicle 4+ devastating wounds",
+              "range": "18\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "3",
+              "ap": "0",
+              "damage": "1"
+            },
+            {
+              "name": "Semi-automatic grenade launcher – fusion",
+              "range": "18\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "6",
+              "ap": "-1",
+              "damage": "3"
+            }
+          ],
+          "abilities": [
+            "Patient HunterKilling BlowMarkerlight PrecisionExpert Fieldcraft"
+          ]
+        },
+        {
+          "name": "Piranhas(⌀60mm flying base)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Piranhas/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Piranha fusion blaster melta 4",
+              "range": "12\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "9",
+              "ap": "-4",
+              "damage": "D6"
+            },
+            {
+              "name": "Seeker missile one shot",
+              "range": "48\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "14",
+              "ap": "-3",
+              "damage": "D6+1"
+            }
+          ],
+          "abilities": [
+            "One Shot: The bearer can only shoot with this weapon once per battle.",
+            "Drone Harassment Tactics: At the end of your Movement phase, select one enemy unit within 12\" of this unit; that enemy unit must take a Battle-shock test."
+          ]
+        },
+        {
+          "name": "Stealth Battlesuits(⌀32mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Stealth-Battlesuits/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Fusion blaster melta 2",
+              "range": "12\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "9",
+              "ap": "-4",
+              "damage": "D6"
+            }
+          ],
+          "abilities": [
+            "Patient HunterIntegrated Command StructureKilling BlowBonded HeroesMarkerlight PrecisionExpert Fieldcraft"
+          ]
+        },
+        {
+          "name": "Vespid Stingwings(⌀28.5mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Vespid-Stingwings/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Neutron rail rifle DEVASTATING WOUNDS",
+              "range": "30\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "10",
+              "ap": "-4",
+              "damage": "3"
+            }
+          ],
+          "abilities": [
+            "Oversight Drone: Once per battle, when the bearer’s unit is selected to shoot, until the end of the phase, ranged weapons equipped by models in this unit have the [IGNORES COVER] ability. Designer’s Note: Place an Oversight Drone token next to the bearer, removing it once this ability has been used.",
+            "Patient HunterIntegrated Command StructureKilling BlowMarkerlight Precision"
+          ]
+        }
+      ]
+    },
+    {
+      "listId": "w4U68Cw6cMwP",
+      "player": "Liam Macindoe",
+      "faction": "Deathwatch",
+      "datasheets": [
+        {
+          "name": "Captain In Gravis Armour(⌀40mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Captain-In-Gravis-Armour/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Master-crafted heavy bolt rifle assault heavy",
+              "range": "30\"",
+              "attacks": "2",
+              "skill": "2+",
+              "strength": "5",
+              "ap": "-1",
+              "damage": "3"
+            }
+          ],
+          "abilities": [
+            "Rites of Battle: Once per battle round, one unit from your army with this ability can use it when its unit is targeted with a Stratagem. If it does, reduce the CP cost of that use of that Stratagem by 1CP.Refuse to Yield: Each time an attack is allocated to this model, halve the Damage characteristic of that attack."
+          ]
+        },
+        {
+          "name": "Indomitor Kill Team(⌀40mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Indomitor-Kill-Team/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Deathwatch heavy bolter assault heavy lethal hits sustained hits 1",
+              "range": "36\"",
+              "attacks": "3",
+              "skill": "3+",
+              "strength": "5",
+              "ap": "-2",
+              "damage": "3"
+            },
+            {
+              "name": "Melta rifle heavy melta 2",
+              "range": "18\"",
+              "attacks": "1",
+              "skill": "3+",
+              "strength": "9",
+              "ap": "-4",
+              "damage": "D6"
+            },
+            {
+              "name": "Multi-melta heavy melta 2",
+              "range": "18\"",
+              "attacks": "2",
+              "skill": "4+",
+              "strength": "9",
+              "ap": "-4",
+              "damage": "D6"
+            }
+          ],
+          "abilities": []
+        },
+        {
+          "name": "Watch Master(⌀32mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Watch-Master/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Vigil spear lance",
+              "range": "Melee",
+              "attacks": "6",
+              "skill": "2+",
+              "strength": "6",
+              "ap": "-2",
+              "damage": "D3"
+            }
+          ],
+          "abilities": [
+            "Strategic Knowledge: While this model is leading a unit, that unit is eligible to shoot and declare a charge in a turn in which it Advanced or Fell Back.Rites of Battle: Once per battle round, one unit from your army with this ability can use it when its unit is targeted with a Stratagem. If it does, reduce the CP cost of that use of that Stratagem by 1CP."
+          ]
+        },
+        {
+          "name": "Deathwatch Veterans(⌀32mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Deathwatch-Veterans/",
+          "flags": {
+            "precision": true,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Combi-weapon anti-infantry 4+ devastating wounds rapid fire 1",
+              "range": "24\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "4",
+              "ap": "-1",
+              "damage": "1"
+            },
+            {
+              "name": "Stalker-pattern boltgun heavy precision",
+              "range": "24\"",
+              "attacks": "1",
+              "skill": "3+",
+              "strength": "4",
+              "ap": "-1",
+              "damage": "2"
+            },
+            {
+              "name": "Deathwatch thunder hammer devastating wounds",
+              "range": "Melee",
+              "attacks": "3",
+              "skill": "4+",
+              "strength": "10",
+              "ap": "-2",
+              "damage": "3"
+            },
+            {
+              "name": "Xenophase blade devastating wounds",
+              "range": "Melee",
+              "attacks": "4",
+              "skill": "3+",
+              "strength": "5",
+              "ap": "-2",
+              "damage": "1"
+            }
+          ],
+          "abilities": []
+        },
+        {
+          "name": "Lieutenant With Combi-weapon(⌀40mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Lieutenant-with-Combi-weapon/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Combi-weapon anti-infantry 4+ devastating wounds rapid fire 1",
+              "range": "24\"",
+              "attacks": "1",
+              "skill": "3+",
+              "strength": "4",
+              "ap": "0",
+              "damage": "1"
+            }
+          ],
+          "abilities": [
+            "Priority Objective Identified: At the start of the first battle round, if your army includes one or more models with this ability, you can select one objective marker on the battlefield. Until the end of the battle, while one or more models with this ability are on the battlefield, each time a friendly ADEPTUS ASTARTES model makes an attack that targets an enemy unit that is within range of that objective marker, re-roll a Wound roll of 1.Evade and Survive: In your opponent’s Movement phase, if an enemy unit ends a move within 8\" of this unit, if this unit is not within Engagement Range of one or more enemy units, this unit can make a Normal move of up to 6\"."
+          ]
+        },
+        {
+          "name": "Intercessor Squad(⌀32mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Intercessor-Squad/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Astartes grenade launcher – krak",
+              "range": "24\"",
+              "attacks": "1",
+              "skill": "3+",
+              "strength": "9",
+              "ap": "-2",
+              "damage": "D3"
+            },
+            {
+              "name": "Thunder hammer devastating wounds",
+              "range": "Melee",
+              "attacks": "3",
+              "skill": "4+",
+              "strength": "8",
+              "ap": "-2",
+              "damage": "2"
+            }
+          ],
+          "abilities": [
+            "Objective Secured: If you control an objective marker at the end of your Command phase and this unit is within range of that objective marker, that objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn.Hail of Bolts: In your Shooting phase, when this unit is selected to shoot, select up to one visible enemy unit. While making those attacks, this unit’s Bolt Rifle attacks that targeted that enemy unit have +2 A."
+          ]
+        },
+        {
+          "name": "Deathwatch Terminator Squad(⌀40mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Deathwatch-Terminator-Squad/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Assault cannon devastating wounds",
+              "range": "24\"",
+              "attacks": "6",
+              "skill": "3+",
+              "strength": "6",
+              "ap": "0",
+              "damage": "1"
+            },
+            {
+              "name": "Cyclone missile launcher – krak",
+              "range": "36\"",
+              "attacks": "2",
+              "skill": "3+",
+              "strength": "9",
+              "ap": "-2",
+              "damage": "D6"
+            },
+            {
+              "name": "Chainfist anti-vehicle 3+",
+              "range": "Melee",
+              "attacks": "3",
+              "skill": "4+",
+              "strength": "8",
+              "ap": "-2",
+              "damage": "2"
+            },
+            {
+              "name": "Thunder hammer devastating wounds",
+              "range": "Melee",
+              "attacks": "3",
+              "skill": "4+",
+              "strength": "8",
+              "ap": "-2",
+              "damage": "2"
+            }
+          ],
+          "abilities": []
+        },
+        {
+          "name": "Storm Speeder Thunderstrike(⌀90mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Storm-Speeder-Thunderstrike/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Stormfury missiles",
+              "range": "48\"",
+              "attacks": "1",
+              "skill": "2+",
+              "strength": "12",
+              "ap": "-3",
+              "damage": "D6+1"
+            },
+            {
+              "name": "Thunderstrike las-talon",
+              "range": "36\"",
+              "attacks": "2",
+              "skill": "2+",
+              "strength": "9",
+              "ap": "-3",
+              "damage": "D6+1"
+            }
+          ],
+          "abilities": [
+            "Thunderstrike: Each time this model has shot, select one enemy MONSTER or VEHICLE unit that was hit by one or more attacks made by this model this phase. Until the end of the phase, each time a friendly ADEPTUS ASTARTES unit makes a ranged attack that targets that enemy unit, add 1 to the Wound roll."
+          ]
+        },
+        {
+          "name": "Talonstrike Kill Team",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Talonstrike-Kill-Team/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Plasma exterminators – supercharge assault hazardous pistol twin-linked",
+              "range": "18\"",
+              "attacks": "2",
+              "skill": "3+",
+              "strength": "8",
+              "ap": "-3",
+              "damage": "3"
+            }
+          ],
+          "abilities": []
+        }
+      ]
+    },
+    {
+      "listId": "3bHF7kowOiVP",
+      "player": "Nick Watkins",
+      "faction": "Emperor's Children",
+      "datasheets": [
+        {
+          "name": "Lord Exultant(⌀40mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Lord-Exultant/",
+          "flags": {
+            "precision": true,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Master-crafted power sword precision",
+              "range": "Melee",
+              "attacks": "5",
+              "skill": "2+",
+              "strength": "5",
+              "ap": "-2",
+              "damage": "2"
+            }
+          ],
+          "abilities": []
+        },
+        {
+          "name": "Infractors(⌀32mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Infractors/",
+          "flags": {
+            "precision": true,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Duelling sabre precision",
+              "range": "Melee",
+              "attacks": "4",
+              "skill": "3+",
+              "strength": "4",
+              "ap": "-1",
+              "damage": "1"
+            },
+            {
+              "name": "Power sword precision",
+              "range": "Melee",
+              "attacks": "4",
+              "skill": "3+",
+              "strength": "5",
+              "ap": "-2",
+              "damage": "1"
+            },
+            {
+              "name": "Rapture lash precision",
+              "range": "Melee",
+              "attacks": "6",
+              "skill": "3+",
+              "strength": "4",
+              "ap": "-1",
+              "damage": "1"
+            }
+          ],
+          "abilities": [
+            "Icon of Excess: At the end of your Shooting phase or the Fight phase, if the bearer’s unit destroyed one or more enemy units that phase, the bearer’s unit takes a Leadership test. If that test is passed, you gain 1CP."
+          ]
+        },
+        {
+          "name": "Daemon Prince of Slaanesh with Wings(⌀60mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Daemon-Prince-of-Slaanesh-with-Wings/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": true,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": [
+            "Daemonic Destruction: Each time this model ends a Charge move, select one enemy unit within Engagement Range of it and roll one D6 for each of this model’s remaining wounds: for each 4+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds).Stimulated by Pain: Each time an attack is allocated to this model, subtract 1 from the Damage characteristic of that attack."
+          ]
+        },
+        {
+          "name": "Keeper of Secrets(⌀100mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Keeper-of-Secrets/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Phantasmagoria – witchfire devastating wounds psychic",
+              "range": "18\"",
+              "attacks": "6",
+              "skill": "2+",
+              "strength": "6",
+              "ap": "-2",
+              "damage": "1"
+            },
+            {
+              "name": "Phantasmagoria – focused witchfire devastating wounds hazardous psychic",
+              "range": "18\"",
+              "attacks": "9",
+              "skill": "2+",
+              "strength": "6",
+              "ap": "-2",
+              "damage": "1"
+            },
+            {
+              "name": "Snapping claws devastating wounds extra attacks",
+              "range": "Melee",
+              "attacks": "4",
+              "skill": "2+",
+              "strength": "6",
+              "ap": "-2",
+              "damage": "3"
+            },
+            {
+              "name": "Witstealer sword",
+              "range": "Melee",
+              "attacks": "6",
+              "skill": "2+",
+              "strength": "8",
+              "ap": "-2",
+              "damage": "3"
+            }
+          ],
+          "abilities": []
+        },
+        {
+          "name": "Shalaxi Helbane(⌀100mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Shalaxi-Helbane/",
+          "flags": {
+            "precision": true,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Pavane of Slaanesh – witchfire devastating wounds psychic",
+              "range": "18\"",
+              "attacks": "D6",
+              "skill": "2+",
+              "strength": "9",
+              "ap": "-1",
+              "damage": "D3"
+            },
+            {
+              "name": "Pavane of Slaanesh – focused witchfire hazardous devastating wounds psychic sustained hits 3",
+              "range": "18\"",
+              "attacks": "D6",
+              "skill": "2+",
+              "strength": "9",
+              "ap": "-2",
+              "damage": "D3"
+            },
+            {
+              "name": "Snapping claws devastating wounds extra attacks",
+              "range": "Melee",
+              "attacks": "4",
+              "skill": "2+",
+              "strength": "6",
+              "ap": "-2",
+              "damage": "3"
+            },
+            {
+              "name": "Soulpiercer precision",
+              "range": "Melee",
+              "attacks": "6",
+              "skill": "2+",
+              "strength": "12",
+              "ap": "-3",
+              "damage": "D6+2"
+            }
+          ],
+          "abilities": [
+            "No Prey Can Evade: You can re-roll Advance and Charge rolls made for this model.Monarch of the Hunt: At the start of the first battle round, select one enemy unit to be this model’s quarry. Each time this model makes a melee attack that targets its quarry, you can re-roll the Hit roll and you can re-roll the Wound roll. Each time this model’s quarry is destroyed, select one new enemy unit to be this model’s quarry."
+          ]
+        },
+        {
+          "name": "Daemonettes(⌀25mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Daemonettes/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Slashing claws devastating wounds",
+              "range": "Melee",
+              "attacks": "3",
+              "skill": "3+",
+              "strength": "4",
+              "ap": "-1",
+              "damage": "1"
+            }
+          ],
+          "abilities": []
+        },
+        {
+          "name": "Tormentors(⌀32mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Tormentors/",
+          "flags": {
+            "precision": true,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Bolt pistol pistol precision",
+              "range": "12\"",
+              "attacks": "1",
+              "skill": "3+",
+              "strength": "4",
+              "ap": "0",
+              "damage": "1"
+            },
+            {
+              "name": "Boltgun precision",
+              "range": "24\"",
+              "attacks": "2",
+              "skill": "3+",
+              "strength": "4",
+              "ap": "0",
+              "damage": "1"
+            },
+            {
+              "name": "Meltagun melta 2 precision",
+              "range": "12\"",
+              "attacks": "1",
+              "skill": "3+",
+              "strength": "9",
+              "ap": "-4",
+              "damage": "D6"
+            },
+            {
+              "name": "Plasma gun - standard precision rapid fire 1",
+              "range": "24\"",
+              "attacks": "1",
+              "skill": "3+",
+              "strength": "7",
+              "ap": "-2",
+              "damage": "1"
+            },
+            {
+              "name": "Plasma gun - supercharge hazardous precision rapid fire 1",
+              "range": "24\"",
+              "attacks": "1",
+              "skill": "3+",
+              "strength": "8",
+              "ap": "-3",
+              "damage": "2"
+            },
+            {
+              "name": "Plasma pistol - standard pistol precision",
+              "range": "12\"",
+              "attacks": "1",
+              "skill": "3+",
+              "strength": "7",
+              "ap": "-2",
+              "damage": "1"
+            },
+            {
+              "name": "Plasma pistol - supercharge hazardous pistol precision",
+              "range": "12\"",
+              "attacks": "1",
+              "skill": "3+",
+              "strength": "8",
+              "ap": "-3",
+              "damage": "2"
+            }
+          ],
+          "abilities": [
+            "Icon of Excess: At the end of your Shooting phase or the Fight phase, if the bearer’s unit destroyed one or more enemy units that phase, the bearer’s unit takes a Leadership test. If that test is passed, you gain 1CP."
+          ]
+        },
+        {
+          "name": "Chaos Spawn(⌀50mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Chaos-Spawn/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": [
+            "Scuttling Horrors: In your opponent's Movement phase, if an enemy unit ends a move within 8\" of this unit, if this unit is not within Engagement Range of one or more enemy units, this unit can make a Normal move of up to 6\"."
+          ]
+        },
+        {
+          "name": "Defiler(⌀160mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Defiler/",
+          "flags": {
+            "precision": true,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Hades battle cannon blast",
+              "range": "48\"",
+              "attacks": "D6+3",
+              "skill": "3+",
+              "strength": "10",
+              "ap": "-1",
+              "damage": "3"
+            },
+            {
+              "name": "Ectoplasma destructor blast",
+              "range": "36\"",
+              "attacks": "D6",
+              "skill": "3+",
+              "strength": "12",
+              "ap": "-3",
+              "damage": "3"
+            },
+            {
+              "name": "Magma cutters melta 2",
+              "range": "12\"",
+              "attacks": "2",
+              "skill": "3+",
+              "strength": "9",
+              "ap": "-4",
+              "damage": "D6"
+            },
+            {
+              "name": "Hades lascannon",
+              "range": "48\"",
+              "attacks": "2",
+              "skill": "3+",
+              "strength": "12",
+              "ap": "-3",
+              "damage": "D6+1"
+            },
+            {
+              "name": "Heavy reaper autocannon devastating wounds sustained hits 1",
+              "range": "48\"",
+              "attacks": "4",
+              "skill": "3+",
+              "strength": "9",
+              "ap": "-1",
+              "damage": "3"
+            },
+            {
+              "name": "Heavy missile launcher – krak",
+              "range": "48\"",
+              "attacks": "2",
+              "skill": "3+",
+              "strength": "10",
+              "ap": "-2",
+              "damage": "D6+1"
+            },
+            {
+              "name": "Shearing claws – strike precision",
+              "range": "Melee",
+              "attacks": "5",
+              "skill": "3+",
+              "strength": "16",
+              "ap": "-3",
+              "damage": "D6+1"
+            },
+            {
+              "name": "Electroscourge extra attacks sustained hits 2",
+              "range": "Melee",
+              "attacks": "5",
+              "skill": "3+",
+              "strength": "12",
+              "ap": "-2",
+              "damage": "2"
+            }
+          ],
+          "abilities": []
+        },
+        {
+          "name": "Fiends(⌀75 x 42mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Fiends/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Barbed tail and dissecting claws devastating wounds",
+              "range": "Melee",
+              "attacks": "5",
+              "skill": "3+",
+              "strength": "5",
+              "ap": "-2",
+              "damage": "2"
+            }
+          ],
+          "abilities": []
+        },
+        {
+          "name": "Maulerfiend(⌀120 x 92mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Maulerfiend/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Magma cutters melta 2",
+              "range": "6\"",
+              "attacks": "2",
+              "skill": "3+",
+              "strength": "9",
+              "ap": "-4",
+              "damage": "D6"
+            },
+            {
+              "name": "Maulerfiend fists",
+              "range": "Melee",
+              "attacks": "6",
+              "skill": "3+",
+              "strength": "14",
+              "ap": "-2",
+              "damage": "D6+1"
+            }
+          ],
+          "abilities": []
+        }
+      ]
+    },
+    {
+      "listId": "fl6dywK1fELx",
       "player": "Alexander England",
       "faction": "Space Marines (Astartes)",
       "datasheets": [
@@ -424,57 +2036,10 @@
       ]
     },
     {
-      "listId": "NdL1eiju0V7K",
+      "listId": "MQlR1KawpKFV",
       "player": "Geoff Legg",
       "faction": "Adeptus Custodes",
       "datasheets": [
-        {
-          "name": "Blade Champion(⌀40mm)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Blade-Champion/",
-          "flags": {
-            "precision": true,
-            "mortalWounds": false,
-            "devastatingWounds": true,
-            "highDamage": true,
-            "antiTank": false
-          },
-          "weapons": [
-            {
-              "name": "Vaultswords – Behemor precision",
-              "range": "Melee",
-              "attacks": "6",
-              "skill": "2+",
-              "strength": "7",
-              "ap": "-2",
-              "damage": "2"
-            },
-            {
-              "name": "Vaultswords – Victus devastating wounds",
-              "range": "Melee",
-              "attacks": "5",
-              "skill": "2+",
-              "strength": "6",
-              "ap": "-3",
-              "damage": "3"
-            }
-          ],
-          "abilities": []
-        },
-        {
-          "name": "Custodian Guard(⌀40mm)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard/",
-          "flags": {
-            "precision": false,
-            "mortalWounds": false,
-            "devastatingWounds": false,
-            "highDamage": false,
-            "antiTank": false
-          },
-          "weapons": [],
-          "abilities": [
-            "Stand Vigil: Each time a model in this unit makes an attack, re-roll a Wound roll of 1. While this unit is within range of an objective marker you control, you can re-roll the Wound roll instead.Sentinel Storm: Once per battle, in your Shooting phase, after this unit has shot, it can shoot again."
-          ]
-        },
         {
           "name": "Shield-captain On Dawneagle Jetbike(⌀75 x 42mm)",
           "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Shield-captain-On-Dawneagle-Jetbike/",
@@ -498,6 +2063,21 @@
           ],
           "abilities": [
             "Sweeping Advance: Once per battle, at the end of the Fight phase, if this model’s unit has fought this phase, if it is within Engagement Range of one or more enemy units, it can make a Fall Back move or, if it is not within Engagement Range of one or more enemy units, it can make a Normal moveStrategic Mastery: Once per battle round, you can select one model from your army with this ability and target that model’s unit with a Stratagem. If it does, reduce the CP cost of that use of that Stratagem by 1CP."
+          ]
+        },
+        {
+          "name": "Custodian Guard(⌀40mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": [
+            "Stand Vigil: Each time a model in this unit makes an attack, re-roll a Wound roll of 1. While this unit is within range of an objective marker you control, you can re-roll the Wound roll instead.Sentinel Storm: Once per battle, in your Shooting phase, after this unit has shot, it can shoot again."
           ]
         },
         {
@@ -551,6 +2131,31 @@
           "weapons": [],
           "abilities": [
             "Strike from the Skies: This unit is eligible to shoot and declare a charge in a turn in which it Fell Back.Swooping Dive: Once per battle, you can target this unit with the Rapid Ingress Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase."
+          ]
+        },
+        {
+          "name": "Vertus Praetors(⌀75 x 42mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Vertus-Praetors/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": true,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Salvo launcher twin-linked",
+              "range": "24\"",
+              "attacks": "1",
+              "skill": "2+",
+              "strength": "10",
+              "ap": "-3",
+              "damage": "D6+1"
+            }
+          ],
+          "abilities": [
+            "Turbo-boost: Each time this unit Advances, do not make an Advance roll. Instead, until the end of the phase, add 6\" to the Move characteristic of models in this unit.Quicksilver Execution: Once per battle, after this unit ends a Normal Move or Advance move, you can select one enemy unit (excluding MONSTER and VEHICLE units) that it moved over during that move, then roll one D6 for each model in this unit: for each 2+, that enemy unit suffers 2 mortal wounds."
           ]
         },
         {
@@ -1410,7 +3015,7 @@
       ]
     },
     {
-      "listId": "nJX30tKBYWDG",
+      "listId": "IZ3tB6zywOUZ",
       "player": "Daniel Fuller",
       "faction": "Emperor's Children",
       "datasheets": [
@@ -2175,10 +3780,1205 @@
       ]
     },
     {
-      "listId": "GnQfCBUNhIZR",
+      "listId": "1WsdUJAerW1n",
       "player": "Brando McCready",
       "faction": "Leagues of Votann",
       "datasheets": []
+    },
+    {
+      "listId": "DCRQd624qk8j",
+      "player": "Max Pringle",
+      "faction": "Chaos Space Marines",
+      "datasheets": [
+        {
+          "name": "Huron Blackheart(⌀50mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Huron-Blackheart/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Tyrant’s Claw and exalted power weapon",
+              "range": "Melee",
+              "attacks": "6",
+              "skill": "2+",
+              "strength": "8",
+              "ap": "-3",
+              "damage": "3"
+            }
+          ],
+          "abilities": [
+            "Lord of Badab (Aura): While a friendly HERETIC ASTARTES INFANTRY unit (excluding Battle-shocked units and DAMNED units) is within 6\" of this model, add 1 to the Objective Control characteristic of models in that unit.Hamadrya’s Knowledge (Psychic): Once per battle round, when an enemy unit ends a Normal, Advance or Fall Back move within 8\" of this model’s unit, if this model’s unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to D3+3\"."
+          ]
+        },
+        {
+          "name": "Masters of the Maelstrom",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Masters-of-the-Maelstrom/",
+          "flags": {
+            "precision": true,
+            "mortalWounds": true,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Mind Wrench precision psychic",
+              "range": "12\"",
+              "attacks": "1",
+              "skill": "2+",
+              "strength": "6",
+              "ap": "-2",
+              "damage": "D6+1"
+            },
+            {
+              "name": "Axe of Ending anti-character 2+ precision",
+              "range": "Melee",
+              "attacks": "6",
+              "skill": "2+",
+              "strength": "6",
+              "ap": "-2",
+              "damage": "2"
+            }
+          ],
+          "abilities": [
+            "Choice Samples: While this unit’s Garreon the Corpsemaster is on the battlefield, in your Command phase, select one of the following: you can return 1 destroyed model (excluding CHARACTER models) to this unit, or, if one or more HERETIC ASTARTES INFANTRY units from your army are below Starting Strength and within 3\" of this unit, you gain 1CP.Fleet Command: After both players have deployed their armies, if this unit is on the battlefield (or any TRANSPORT it is embarked within is on the battlefield) select up to three HERETIC ASTARTES units from your army and redeploy them. When doing so, you can set those units up in Strategic Reserves, regardless of how many units are already in Strategic Reserves.Plunder: Once per battle, after this unit ends a Normal move, you can select one visible enemy unit within 12\" of it and roll one D6: on a 2+, that enemy unit suffers D3+1 mortal wounds."
+          ]
+        },
+        {
+          "name": "Chosen(⌀32mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Chosen/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Combi-weapon anti-infantry 4+ devastating wounds rapid fire 1",
+              "range": "24\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "4",
+              "ap": "0",
+              "damage": "1"
+            }
+          ],
+          "abilities": [
+            "Chosen Marauders: This unit is eligible to shoot and declare a charge in a turn in which it Advanced or Fell Back."
+          ]
+        },
+        {
+          "name": "Sorcerer(⌀40mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Sorcerer/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": true,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Infernal Gaze – witchfire psychic",
+              "range": "24\"",
+              "attacks": "D6",
+              "skill": "3+",
+              "strength": "5",
+              "ap": "-1",
+              "damage": "D3"
+            },
+            {
+              "name": "Infernal Gaze – focused witchfire devastating wounds hazardous psychic",
+              "range": "24\"",
+              "attacks": "D6",
+              "skill": "3+",
+              "strength": "6",
+              "ap": "-2",
+              "damage": "D3"
+            },
+            {
+              "name": "Force weapon psychic",
+              "range": "Melee",
+              "attacks": "4",
+              "skill": "3+",
+              "strength": "6",
+              "ap": "-1",
+              "damage": "D3"
+            }
+          ],
+          "abilities": [
+            "Prescience (Psychic): While this model is leading a unit, each time an attack targets that unit, subtract 1 from the Hit roll.Gift of Chaos (Psychic): Each time this model is selected to shoot or fight, after resolving its attacks, select one enemy unit hit by one or more of those attacks that had the [PSYCHIC] ability. That unit must take a Leadership test: if that test is failed, that unit suffers D3 mortal wounds.",
+            "Surgical Precision10Helm of All-seeing25Prime Test Subject35Touched by the Warp10Terrorglut Parasite20Raid Leader20Dread Reputation25Voice of the Tyrant25Eager for Bloodshed30Empyric Symbiote15Eyes of the Hunter15Weaponised Hatred35Eye of the Warp15Akshur’s Binding Runes20Infernal Fulgurite20Tzagulla25Cybinfernal Font20Mark of the Soul Forges20Wyredjinn25Mark of Legend10Eye of Abaddon15Eager for Vengeance20Cursed Fang10Shroud of Obfuscation15Soul Link5Despot’s Claim15Dread Reaver15Tyrant’s Lash20Mark of the Hound25Willbreaker10Eater of Dread15Iron Artifice10Ironbound Enmity15Warp Tracer20Soul Harvester15Forge’s Blessing20Tempting Addendum40Swollen with PowerVoice of the Octed"
+          ]
+        },
+        {
+          "name": "Kravek Morne(⌀50mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Kravek-Morne/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": false,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Last Argument and power fist devastating wounds",
+              "range": "Melee",
+              "attacks": "7",
+              "skill": "2+",
+              "strength": "10",
+              "ap": "-2",
+              "damage": "2"
+            },
+            {
+              "name": "Servo-harness extra attacks anti-vehicle 2+",
+              "range": "Melee",
+              "attacks": "3",
+              "skill": "2+",
+              "strength": "6",
+              "ap": "-2",
+              "damage": "2"
+            }
+          ],
+          "abilities": []
+        },
+        {
+          "name": "Mutilators(⌀50mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Mutilators/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": true,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": [
+            "Crushing Charge: You can re-roll charge rolls made for this unit, and each time this unit makes a Charge move, select one enemy unit and roll one D6 for each model in this unit that is within Engagement Range of that unit: for each 4+, that enemy unit suffers D3 mortal wounds."
+          ]
+        },
+        {
+          "name": "Cultist Mob(⌀25mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Cultist-Mob/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": []
+        },
+        {
+          "name": "Chaos Bikers(⌀75 x 42mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Chaos-Bikers/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Combi-weapon anti-infantry 4+ devastating wounds rapid fire 1",
+              "range": "24\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "4",
+              "ap": "0",
+              "damage": "1"
+            },
+            {
+              "name": "Meltagun melta 2",
+              "range": "12\"",
+              "attacks": "1",
+              "skill": "3+",
+              "strength": "9",
+              "ap": "-4",
+              "damage": "D6"
+            }
+          ],
+          "abilities": []
+        },
+        {
+          "name": "Chaos Predator Destructor(⌀Use model)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Chaos-Predator-Destructor/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Combi-weapon anti-infantry 4+ devastating wounds rapid fire 1",
+              "range": "24\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "4",
+              "ap": "0",
+              "damage": "1"
+            },
+            {
+              "name": "Lascannon",
+              "range": "48\"",
+              "attacks": "1",
+              "skill": "3+",
+              "strength": "12",
+              "ap": "-3",
+              "damage": "D6+1"
+            },
+            {
+              "name": "Predator autocannon rapid fire 2",
+              "range": "48\"",
+              "attacks": "4",
+              "skill": "3+",
+              "strength": "9",
+              "ap": "-1",
+              "damage": "3"
+            }
+          ],
+          "abilities": []
+        },
+        {
+          "name": "Defiler(⌀160mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Defiler/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Hades battle cannon blast",
+              "range": "48\"",
+              "attacks": "D6+3",
+              "skill": "3+",
+              "strength": "10",
+              "ap": "-1",
+              "damage": "3"
+            },
+            {
+              "name": "Ectoplasma destructor blast",
+              "range": "36\"",
+              "attacks": "D6",
+              "skill": "3+",
+              "strength": "12",
+              "ap": "-3",
+              "damage": "3"
+            },
+            {
+              "name": "Magma cutters melta 2",
+              "range": "12\"",
+              "attacks": "2",
+              "skill": "3+",
+              "strength": "9",
+              "ap": "-4",
+              "damage": "D6"
+            },
+            {
+              "name": "Hades lascannon",
+              "range": "48\"",
+              "attacks": "2",
+              "skill": "3+",
+              "strength": "12",
+              "ap": "-3",
+              "damage": "D6+1"
+            },
+            {
+              "name": "Heavy reaper autocannon devastating wounds sustained hits 1",
+              "range": "48\"",
+              "attacks": "4",
+              "skill": "3+",
+              "strength": "9",
+              "ap": "-1",
+              "damage": "3"
+            },
+            {
+              "name": "Heavy missile launcher – krak",
+              "range": "48\"",
+              "attacks": "2",
+              "skill": "3+",
+              "strength": "10",
+              "ap": "-2",
+              "damage": "D6+1"
+            },
+            {
+              "name": "Shearing claws – strike",
+              "range": "Melee",
+              "attacks": "5",
+              "skill": "3+",
+              "strength": "16",
+              "ap": "-3",
+              "damage": "D6+1"
+            },
+            {
+              "name": "Electroscourge extra attacks sustained hits 2",
+              "range": "Melee",
+              "attacks": "5",
+              "skill": "3+",
+              "strength": "12",
+              "ap": "-2",
+              "damage": "2"
+            }
+          ],
+          "abilities": []
+        },
+        {
+          "name": "Raptors(⌀32mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Raptors/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Meltagun melta 2",
+              "range": "12\"",
+              "attacks": "1",
+              "skill": "3+",
+              "strength": "9",
+              "ap": "-4",
+              "damage": "D6"
+            }
+          ],
+          "abilities": []
+        },
+        {
+          "name": "Red Corsairs Raiders(⌀32mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Red-Corsairs-Raiders/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Meltagun melta 2",
+              "range": "12\"",
+              "attacks": "1",
+              "skill": "3+",
+              "strength": "9",
+              "ap": "-4",
+              "damage": "D6"
+            }
+          ],
+          "abilities": []
+        }
+      ]
+    },
+    {
+      "listId": "floIrkeJlUzM",
+      "player": "Rob Lebeau",
+      "faction": "Dark Angels",
+      "datasheets": [
+        {
+          "name": "Sammael(⌀60mm flying base)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Sammael/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": []
+        },
+        {
+          "name": "Ravenwing Command Squad(⌀75 x 42mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Ravenwing-Command-Squad/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Astartes grenade launcher – krak",
+              "range": "24\"",
+              "attacks": "1",
+              "skill": "3+",
+              "strength": "9",
+              "ap": "-2",
+              "damage": "D3"
+            },
+            {
+              "name": "Black Knight combat weapon devastating wounds",
+              "range": "Melee",
+              "attacks": "3",
+              "skill": "3+",
+              "strength": "5",
+              "ap": "-2",
+              "damage": "1"
+            }
+          ],
+          "abilities": []
+        },
+        {
+          "name": "Ravenwing Black Knights(⌀75 x 42mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Ravenwing-Black-Knights/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Astartes grenade launcher – krak",
+              "range": "24\"",
+              "attacks": "1",
+              "skill": "3+",
+              "strength": "9",
+              "ap": "-2",
+              "damage": "D3"
+            },
+            {
+              "name": "Black Knight combat weapon devastating wounds",
+              "range": "Melee",
+              "attacks": "3",
+              "skill": "3+",
+              "strength": "5",
+              "ap": "-2",
+              "damage": "1"
+            }
+          ],
+          "abilities": []
+        },
+        {
+          "name": "Lion El’jonson(⌀60mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Lion-El-jonson/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Fealty – strike lethal hits",
+              "range": "Melee",
+              "attacks": "8",
+              "skill": "2+",
+              "strength": "12",
+              "ap": "-4",
+              "damage": "4"
+            }
+          ],
+          "abilities": [
+            "No Hiding From the Watchers (Aura): While a friendly ADEPTUS ASTARTES unit is within 6\" of this model, models in that unit have the Feel No Pain 4+ ability against mortal wounds."
+          ]
+        },
+        {
+          "name": "Techmarine(⌀40mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Techmarine/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Grav-pistol anti-vehicle 2+ pistol",
+              "range": "12\"",
+              "attacks": "1",
+              "skill": "2+",
+              "strength": "4",
+              "ap": "-1",
+              "damage": "2"
+            },
+            {
+              "name": "Servo-arm extra attacks",
+              "range": "Melee",
+              "attacks": "1",
+              "skill": "3+",
+              "strength": "8",
+              "ap": "-2",
+              "damage": "3"
+            }
+          ],
+          "abilities": []
+        },
+        {
+          "name": "Intercessor Squad(⌀32mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Intercessor-Squad/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Astartes grenade launcher – krak",
+              "range": "24\"",
+              "attacks": "1",
+              "skill": "3+",
+              "strength": "9",
+              "ap": "-2",
+              "damage": "D3"
+            },
+            {
+              "name": "Thunder hammer devastating wounds",
+              "range": "Melee",
+              "attacks": "3",
+              "skill": "4+",
+              "strength": "8",
+              "ap": "-2",
+              "damage": "2"
+            }
+          ],
+          "abilities": [
+            "Objective Secured: If you control an objective marker at the end of your Command phase and this unit is within range of that objective marker, that objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn.Hail of Bolts: In your Shooting phase, when this unit is selected to shoot, select up to one visible enemy unit. While making those attacks, this unit’s Bolt Rifle attacks that targeted that enemy unit have +2 A."
+          ]
+        },
+        {
+          "name": "Deathwing Knights(⌀40mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Deathwing-Knights/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": false,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Great weapon of the Unforgiven devastating wounds sustained hits 1",
+              "range": "Melee",
+              "attacks": "5",
+              "skill": "2+",
+              "strength": "6",
+              "ap": "-2",
+              "damage": "2"
+            },
+            {
+              "name": "Mace of absolution ANTI-MONSTER 4+ ANTI-VEHICLE 4+",
+              "range": "Melee",
+              "attacks": "4",
+              "skill": "2+",
+              "strength": "6",
+              "ap": "-2",
+              "damage": "2"
+            }
+          ],
+          "abilities": [
+            "Teleport Homer: At the start of the battle, you can set up one Teleport Homer token for this unit anywhere on the battlefield that is not in your opponent’s deployment zone. If you do, once per battle, you can target this unit with the Rapid Ingress Stratagem for 0CP, but when resolving that Stratagem, you must set this unit up within 3\" horizontally of that token and not within 8\" horizontally of any enemy models. That token is then removed.Inner Circle: Each time an attack is allocated to a model in this unit, subtract 1 from the Damage characteristic of that attack.",
+            "Watcher in the Dark: Once per battle, in any phase, just after a mortal wound is allocated to an ADEPTUS ASTARTES model in this unit, this unit can summon a Watcher in the Dark. When it does, until the end of the phase, models in this unit have the Feel No Pain 4+ ability against mortal wounds.Designer’s Note: Place a Watcher in the Dark token next to the unit, removing it when this ability has been used."
+          ]
+        },
+        {
+          "name": "Incursor Squad(⌀32mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Incursor-Squad/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": true,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": [
+            "Multi-spectrum Array: In your Shooting phase, after this unit has shot, select one enemy unit that was hit by one or more attacks made by this unit this phase. Until the end of the phase, each time a friendly ADEPTUS ASTARTES unit makes an attack that targets that enemy unit, add 1 to the Hit roll.",
+            "Haywire Mine: Once per battle, at the start of any phase, you can select one enemy unit within 3\" of the bearer and roll one D6: on a 2+, that enemy unit suffers D3 mortal wounds, or 2D3 mortal wounds instead if it is a VEHICLE unit."
+          ]
+        },
+        {
+          "name": "Land Speeder(⌀105 x 70mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Multi-melta melta 2",
+              "range": "18\"",
+              "attacks": "2",
+              "skill": "3+",
+              "strength": "9",
+              "ap": "-4",
+              "damage": "D6"
+            },
+            {
+              "name": "Onslaught gatling cannon devastating wounds",
+              "range": "24\"",
+              "attacks": "8",
+              "skill": "3+",
+              "strength": "5",
+              "ap": "0",
+              "damage": "1"
+            },
+            {
+              "name": "Stormfury missile launcher",
+              "range": "48\"",
+              "attacks": "1",
+              "skill": "3+",
+              "strength": "12",
+              "ap": "-3",
+              "damage": "D6+1"
+            }
+          ],
+          "abilities": [
+            "Purgation Run: In your Shooting phase, after this unit has shot, it can make a normal move of up to D6\". If it does, until the end of the turn, this unit is not eligible to declare a charge."
+          ]
+        },
+        {
+          "name": "Land Speeder Vengeance(⌀60mm flying base)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder-Vengeance/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Assault cannon devastating wounds",
+              "range": "24\"",
+              "attacks": "6",
+              "skill": "3+",
+              "strength": "6",
+              "ap": "0",
+              "damage": "1"
+            },
+            {
+              "name": "Plasma storm battery – supercharge blast hazardous twin-linked",
+              "range": "36\"",
+              "attacks": "D6+1",
+              "skill": "3+",
+              "strength": "9",
+              "ap": "-3",
+              "damage": "3"
+            }
+          ],
+          "abilities": [
+            "Storm of Vengeance: Once per turn, in your opponent’s Shooting phase, when a friendly Adeptus Astartes unit within 6\" of this model is destroyed, this model can use this ability (it cannot use this ability when it is itself destroyed). If it does, after the attacking unit has finished making its attacks, this model can shoot as if it were your Shooting phase, but when resolving those attacks it can only target that enemy unit (and only if it is an eligible target)."
+          ]
+        },
+        {
+          "name": "Scout Squad(⌀28.5mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Scout-Squad/",
+          "flags": {
+            "precision": true,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Missile launcher – krak heavy",
+              "range": "48\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "9",
+              "ap": "-2",
+              "damage": "D6"
+            },
+            {
+              "name": "Scout sniper rifle HEAVY PRECISION",
+              "range": "36\"",
+              "attacks": "1",
+              "skill": "3+",
+              "strength": "4",
+              "ap": "-2",
+              "damage": "2"
+            }
+          ],
+          "abilities": []
+        },
+        {
+          "name": "Storm Speeder Thunderstrike(⌀90mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Storm-Speeder-Thunderstrike/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Stormfury missiles",
+              "range": "48\"",
+              "attacks": "1",
+              "skill": "2+",
+              "strength": "12",
+              "ap": "-3",
+              "damage": "D6+1"
+            },
+            {
+              "name": "Thunderstrike las-talon",
+              "range": "36\"",
+              "attacks": "2",
+              "skill": "2+",
+              "strength": "9",
+              "ap": "-3",
+              "damage": "D6+1"
+            }
+          ],
+          "abilities": [
+            "Thunderstrike: Each time this model has shot, select one enemy MONSTER or VEHICLE unit that was hit by one or more attacks made by this model this phase. Until the end of the phase, each time a friendly ADEPTUS ASTARTES unit makes a ranged attack that targets that enemy unit, add 1 to the Wound roll."
+          ]
+        }
+      ]
+    },
+    {
+      "listId": "913iG69WCg2d",
+      "player": "Sam Cordell",
+      "faction": "T'au Empire",
+      "datasheets": [
+        {
+          "name": "Ethereal(⌀40mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Ethereal/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": [
+            "Patient HunterKilling BlowMarkerlight Precision",
+            "Precision of the Patient Hunter15Exemplar of the Kauyon20Solid-image Projection Unit20Through Unity, Devastation30Admired Leader20Strike Swiftly 45Exemplar of the Mont’ka10Strategic Conqueror15Coordinated Exploitation30Duty’s Echo"
+          ]
+        },
+        {
+          "name": "The Twin Lance(⌀60mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/The-Twin-Lance/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Fusion eliminator melta 2",
+              "range": "18\"",
+              "attacks": "2",
+              "skill": "2+",
+              "strength": "10",
+              "ap": "-4",
+              "damage": "D6"
+            },
+            {
+              "name": "Ion scattercannon – overcharge hazardous rapid fire 2",
+              "range": "18\"",
+              "attacks": "4",
+              "skill": "2+",
+              "strength": "8",
+              "ap": "-3",
+              "damage": "3"
+            },
+            {
+              "name": "Fusion eliminator extra attacks",
+              "range": "Melee",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "10",
+              "ap": "-4",
+              "damage": "D6+2"
+            }
+          ],
+          "abilities": [
+            "Exemplars of Mont’ka: Each time a model in this unit makes a ranged attack that targets the closest eligible target, that attack has the [SUSTAINED HITS 1] and [IGNORES COVER] abilities.Neocapacitor Shields: At the start of your opponent’s Charge phase, you can select one visible enemy unit (excluding MONSTER and VEHICLE units) within 12\" of this unit. That unit must take a Battle-shock test and, until the end of the turn, subtract 1 from Charge rolls made for that unit.Retro-thrusters: At the end of the Fight phase, if this unit was eligible to fight this phase, this unit can either make a Normal move of up to 6\" or a Fall Back move."
+          ]
+        },
+        {
+          "name": "Breacher Team(⌀25mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Breacher-Team/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Support turret indirect fire twin-linked",
+              "range": "30\"",
+              "attacks": "2",
+              "skill": "5+",
+              "strength": "5",
+              "ap": "0",
+              "damage": "1"
+            }
+          ],
+          "abilities": [
+            "Patient HunterKilling BlowMarkerlight Precision"
+          ]
+        },
+        {
+          "name": "Devilfish(⌀60mm flying base)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Devilfish/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Seeker missile one shot",
+              "range": "48\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "14",
+              "ap": "-3",
+              "damage": "D6+1"
+            },
+            {
+              "name": "Smart missile system indirect fire",
+              "range": "30\"",
+              "attacks": "3",
+              "skill": "4+",
+              "strength": "5",
+              "ap": "0",
+              "damage": "1"
+            }
+          ],
+          "abilities": [
+            "One Shot: The bearer can only shoot with this weapon once per battle.",
+            "Rapid Deployment: Units can disembark from this TRANSPORT after it has Advanced. Units that do so make a shock disembark move (Core Rules, 18.07) for that disembarkation."
+          ]
+        },
+        {
+          "name": "Ghostkeel Battlesuit(⌀105 x 70mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Ghostkeel-Battlesuit/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Cyclic ion raker – overcharge hazardous",
+              "range": "36\"",
+              "attacks": "6",
+              "skill": "4+",
+              "strength": "8",
+              "ap": "-2",
+              "damage": "3"
+            },
+            {
+              "name": "Fusion collider melta 2",
+              "range": "18\"",
+              "attacks": "2",
+              "skill": "4+",
+              "strength": "12",
+              "ap": "-4",
+              "damage": "D6"
+            },
+            {
+              "name": "Twin fusion blaster melta 2 twin-linked",
+              "range": "12\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "9",
+              "ap": "-4",
+              "damage": "D6"
+            }
+          ],
+          "abilities": [
+            "Stealth Drones: Twice per battle, after an attack has been allocated to this model, you can change the Damage characteristic of that attack to 0. Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one each time this ability has been used.",
+            "Battlesuit Support System: The bearer is eligible to shoot in a turn in which it Fell Back but it loses the SMOKE keyword."
+          ]
+        },
+        {
+          "name": "Hammerhead Gunship(⌀60mm flying base)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Hammerhead-Gunship/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Ion cannon – overcharge blast hazardous",
+              "range": "60\"",
+              "attacks": "D6+3",
+              "skill": "4+",
+              "strength": "8",
+              "ap": "-2",
+              "damage": "3"
+            },
+            {
+              "name": "Railgun heavy devastating wounds",
+              "range": "72\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "20",
+              "ap": "-5",
+              "damage": "D6+6"
+            },
+            {
+              "name": "Seeker missile one shot",
+              "range": "48\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "14",
+              "ap": "-3",
+              "damage": "D6+1"
+            },
+            {
+              "name": "Smart missile system indirect fire",
+              "range": "30\"",
+              "attacks": "3",
+              "skill": "4+",
+              "strength": "5",
+              "ap": "0",
+              "damage": "1"
+            }
+          ],
+          "abilities": [
+            "One Shot: The bearer can only shoot with this weapon once per battle.",
+            "Armour Hunter: Each time this model makes an attack that targets a MONSTER or VEHICLE, add 1 to the Hit roll.Targeting Array: Each time this model is selected to shoot, you can re-roll one Hit roll or you can re-roll one Wound roll when resolving those attacks."
+          ]
+        },
+        {
+          "name": "Kroot Carnivores(⌀28.5mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Kroot-Carnivores/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": []
+        },
+        {
+          "name": "Pathfinder Team(⌀25mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Pathfinder-Team/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Rail rifle devastating wounds heavy",
+              "range": "30\"",
+              "attacks": "1",
+              "skill": "5+",
+              "strength": "10",
+              "ap": "-4",
+              "damage": "3"
+            },
+            {
+              "name": "Semi-automatic grenade launcher – EMP anti-vehicle 4+ devastating wounds",
+              "range": "18\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "3",
+              "ap": "0",
+              "damage": "1"
+            },
+            {
+              "name": "Semi-automatic grenade launcher – fusion",
+              "range": "18\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "6",
+              "ap": "-1",
+              "damage": "3"
+            }
+          ],
+          "abilities": [
+            "Patient HunterKilling BlowMarkerlight PrecisionExpert Fieldcraft"
+          ]
+        },
+        {
+          "name": "Piranhas(⌀60mm flying base)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Piranhas/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Piranha fusion blaster melta 4",
+              "range": "12\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "9",
+              "ap": "-4",
+              "damage": "D6"
+            },
+            {
+              "name": "Seeker missile one shot",
+              "range": "48\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "14",
+              "ap": "-3",
+              "damage": "D6+1"
+            }
+          ],
+          "abilities": [
+            "One Shot: The bearer can only shoot with this weapon once per battle.",
+            "Drone Harassment Tactics: At the end of your Movement phase, select one enemy unit within 12\" of this unit; that enemy unit must take a Battle-shock test."
+          ]
+        },
+        {
+          "name": "Riptide Battlesuit(⌀120 x 92mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Riptide-Battlesuit/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Ion accelerator – standard",
+              "range": "72\"",
+              "attacks": "6",
+              "skill": "4+",
+              "strength": "9",
+              "ap": "-2",
+              "damage": "3"
+            },
+            {
+              "name": "Ion accelerator – supercharge hazardous",
+              "range": "72\"",
+              "attacks": "6",
+              "skill": "4+",
+              "strength": "10",
+              "ap": "-3",
+              "damage": "4"
+            },
+            {
+              "name": "Twin fusion blaster melta 2 twin-linked",
+              "range": "12\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "9",
+              "ap": "-4",
+              "damage": "D6"
+            },
+            {
+              "name": "Twin plasma rifle twin-linked",
+              "range": "18\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "8",
+              "ap": "-3",
+              "damage": "3"
+            },
+            {
+              "name": "Twin smart missile system indirect fire twin-linked",
+              "range": "30\"",
+              "attacks": "3",
+              "skill": "4+",
+              "strength": "5",
+              "ap": "0",
+              "damage": "1"
+            }
+          ],
+          "abilities": [
+            "Battlesuit Support System: The bearer is eligible to shoot in a turn in which it Fell Back.Nova Charge: Once per battle, when this unit is selected to shoot in your Shooting phase, select one ranged weapon equipped by this model. Until the end of the phase, that weapon has the [DEVASTATING WOUNDS] ability.Weapon Support System: Each time the bearer makes a ranged attack, you can ignore any or all modifiers to the Hit roll."
+          ]
+        },
+        {
+          "name": "Stealth Battlesuits(⌀32mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Stealth-Battlesuits/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Fusion blaster melta 2",
+              "range": "12\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "9",
+              "ap": "-4",
+              "damage": "D6"
+            }
+          ],
+          "abilities": [
+            "Patient HunterIntegrated Command StructureKilling BlowBonded HeroesMarkerlight PrecisionExpert Fieldcraft"
+          ]
+        },
+        {
+          "name": "Vespid Stingwings(⌀28.5mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Vespid-Stingwings/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Neutron rail rifle DEVASTATING WOUNDS",
+              "range": "30\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "10",
+              "ap": "-4",
+              "damage": "3"
+            }
+          ],
+          "abilities": [
+            "Oversight Drone: Once per battle, when the bearer’s unit is selected to shoot, until the end of the phase, ranged weapons equipped by models in this unit have the [IGNORES COVER] ability. Designer’s Note: Place an Oversight Drone token next to the bearer, removing it once this ability has been used.",
+            "Patient HunterIntegrated Command StructureKilling BlowMarkerlight Precision"
+          ]
+        }
+      ]
     },
     {
       "listId": "MrTiQfQ6axlj",
@@ -2639,324 +5439,7 @@
       "listId": "BIcvGDyhQRUk",
       "player": "Matt Delves",
       "faction": "Leagues of Votann",
-      "datasheets": [
-        {
-          "name": "Einhyr Champion(⌀40mm)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Einhyr-Champion/",
-          "flags": {
-            "precision": false,
-            "mortalWounds": true,
-            "devastatingWounds": false,
-            "highDamage": true,
-            "antiTank": true
-          },
-          "weapons": [
-            {
-              "name": "Mass hammer",
-              "range": "Melee",
-              "attacks": "3",
-              "skill": "3+",
-              "strength": "12",
-              "ap": "-3",
-              "damage": "D6+1"
-            }
-          ],
-          "abilities": [
-            "Exemplar of the Einhyr: While this model is leading a unit, add 1 to Advance and Charge rolls made for that unit.Mass Driver Accelerators: Each time this model ends a Charge move, you can select one enemy unit within Engagement Range of this model and roll one D6: on a 2-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers D3+3 mortal wounds."
-          ]
-        },
-        {
-          "name": "Einhyr Hearthguard(⌀32mm)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Einhyr-Hearthguard/",
-          "flags": {
-            "precision": false,
-            "mortalWounds": false,
-            "devastatingWounds": true,
-            "highDamage": true,
-            "antiTank": true
-          },
-          "weapons": [
-            {
-              "name": "Volkanite disintegrator devastating wounds",
-              "range": "24\"",
-              "attacks": "3",
-              "skill": "3+",
-              "strength": "5",
-              "ap": "0",
-              "damage": "1"
-            },
-            {
-              "name": "Graviton hammer anti-monster 3+ anti-vehicle 3+",
-              "range": "Melee",
-              "attacks": "3",
-              "skill": "4+",
-              "strength": "9",
-              "ap": "-1",
-              "damage": "3"
-            }
-          ],
-          "abilities": []
-        },
-        {
-          "name": "Ûthar the Destined(⌀40mm)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/%C3%9Bthar-the-Destined/",
-          "flags": {
-            "precision": false,
-            "mortalWounds": false,
-            "devastatingWounds": true,
-            "highDamage": false,
-            "antiTank": false
-          },
-          "weapons": [
-            {
-              "name": "Volkanite disintegrator devastating wounds",
-              "range": "24\"",
-              "attacks": "3",
-              "skill": "2+",
-              "strength": "5",
-              "ap": "0",
-              "damage": "1"
-            },
-            {
-              "name": "Blade of the Ancestors devastating wounds",
-              "range": "Melee",
-              "attacks": "5",
-              "skill": "2+",
-              "strength": "6",
-              "ap": "-3",
-              "damage": "2"
-            }
-          ],
-          "abilities": []
-        },
-        {
-          "name": "Memnyr Strategist(⌀32mm)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Memnyr-Strategist/",
-          "flags": {
-            "precision": false,
-            "mortalWounds": false,
-            "devastatingWounds": false,
-            "highDamage": false,
-            "antiTank": false
-          },
-          "weapons": [],
-          "abilities": []
-        },
-        {
-          "name": "Ironkin Steeljacks with Heavy Volkanite Disintegrators(⌀40mm)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Ironkin-Steeljacks-with-Heavy-Volkanite-Disintegrators/",
-          "flags": {
-            "precision": true,
-            "mortalWounds": false,
-            "devastatingWounds": true,
-            "highDamage": false,
-            "antiTank": false
-          },
-          "weapons": [
-            {
-              "name": "Heavy volkanite disintegrator devastating wounds",
-              "range": "24\"",
-              "attacks": "6",
-              "skill": "4+",
-              "strength": "6",
-              "ap": "-1",
-              "damage": "1"
-            }
-          ],
-          "abilities": [
-            "Preymark Crest: Each time a model in the bearer’s unit makes an attack that targets an enemy unit within range of one or more objective markers, on a Critical Wound, that attack has the [PRECISION] ability."
-          ]
-        },
-        {
-          "name": "Buri Aegnirssen(⌀40mm)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Buri-Aegnirssen/",
-          "flags": {
-            "precision": true,
-            "mortalWounds": false,
-            "devastatingWounds": false,
-            "highDamage": true,
-            "antiTank": true
-          },
-          "weapons": [
-            {
-              "name": "Bane – strike precision",
-              "range": "Melee",
-              "attacks": "5",
-              "skill": "2+",
-              "strength": "12",
-              "ap": "-3",
-              "damage": "3"
-            }
-          ],
-          "abilities": [
-            "Grudge-fuelled Fortitude: The first time this model is destroyed, at the end of the phase, roll one D6: on a 2+, set this model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of one or more enemy units, with its full wounds remaining.Unhinged Vengeance: In your opponent’s Shooting phase, when an enemy unit has shot, if this model lost one or more wounds as a result of those attacks, this unit can make a surge move of up to D6+2\"."
-          ]
-        },
-        {
-          "name": "Hearthkyn Warriors(⌀28.5mm)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Hearthkyn-Warriors/",
-          "flags": {
-            "precision": false,
-            "mortalWounds": false,
-            "devastatingWounds": true,
-            "highDamage": true,
-            "antiTank": true
-          },
-          "weapons": [
-            {
-              "name": "L7 missile launcher – focused",
-              "range": "24\"",
-              "attacks": "1",
-              "skill": "4+",
-              "strength": "9",
-              "ap": "-2",
-              "damage": "D6"
-            },
-            {
-              "name": "Magna-rail rifle devastating wounds heavy",
-              "range": "18\"",
-              "attacks": "1",
-              "skill": "5+",
-              "strength": "12",
-              "ap": "-3",
-              "damage": "D3+3"
-            }
-          ],
-          "abilities": []
-        },
-        {
-          "name": "Brôkhyr Thunderkyn(⌀40mm)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Br%C3%B4khyr-Thunderkyn/",
-          "flags": {
-            "precision": false,
-            "mortalWounds": false,
-            "devastatingWounds": false,
-            "highDamage": true,
-            "antiTank": true
-          },
-          "weapons": [
-            {
-              "name": "Graviton blast cannon anti-monster 3+ anti-vehicle 3+",
-              "range": "24\"",
-              "attacks": "3",
-              "skill": "4+",
-              "strength": "5",
-              "ap": "-2",
-              "damage": "3"
-            },
-            {
-              "name": "SP conversion beamer conversion lethal hits",
-              "range": "24\"",
-              "attacks": "2",
-              "skill": "4+",
-              "strength": "7",
-              "ap": "-2",
-              "damage": "3"
-            }
-          ],
-          "abilities": [
-            "Conversion: Each time an attack made with this weapon targets an enemy unit that is not within 12\", an unmodified Hit roll of 4+ scores a Critical Hit.",
-            "Breaching Fire: In your Shooting phase, after this unit has shot, select one enemy unit hit by one or more of those attacks. Until the start of your next Shooting phase, that enemy unit cannot have the Benefit of Cover."
-          ]
-        },
-        {
-          "name": "Cthonian Earthshakers(⌀80mm)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Cthonian-Earthshakers/",
-          "flags": {
-            "precision": false,
-            "mortalWounds": false,
-            "devastatingWounds": false,
-            "highDamage": false,
-            "antiTank": false
-          },
-          "weapons": [
-            {
-              "name": "Breacher ordnance blast heavy indirect fire",
-              "range": "24\"",
-              "attacks": "D6+1",
-              "skill": "5+",
-              "strength": "10",
-              "ap": "-1",
-              "damage": "2"
-            },
-            {
-              "name": "Tremor shells blast heavy indirect fire",
-              "range": "36\"",
-              "attacks": "D6+4",
-              "skill": "5+",
-              "strength": "6",
-              "ap": "-1",
-              "damage": "1"
-            }
-          ],
-          "abilities": [
-            "Destabilising Quakes: In your Shooting phase, after this unit has shot, select one enemy unit hit by one or more of those attacks made with its tremor shells. That unit must take a Battle-shock test, subtracting 1 from the result.Geomantic Hunters: Up to twice per battle, in your Shooting phase, when this unit is selected to shoot, it can use this ability. If it does, until the end of the phase, each time a model in this unit makes an attack with its breacher ordnance, you can re-roll the Wound roll.Designer’s Note: Place two breacher ordnance tokens next to the unit, removing one each time this unit uses this ability."
-          ]
-        },
-        {
-          "name": "Hekaton Land Fortress(⌀Use model)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Hekaton-Land-Fortress/",
-          "flags": {
-            "precision": false,
-            "mortalWounds": false,
-            "devastatingWounds": true,
-            "highDamage": true,
-            "antiTank": true
-          },
-          "weapons": [
-            {
-              "name": "Heavy magna-rail cannon devastating wounds heavy",
-              "range": "30\"",
-              "attacks": "2",
-              "skill": "4+",
-              "strength": "18",
-              "ap": "-4",
-              "damage": "D6+4"
-            },
-            {
-              "name": "SP heavy conversion beamer conversion lethal hits",
-              "range": "24\"",
-              "attacks": "4",
-              "skill": "4+",
-              "strength": "10",
-              "ap": "-2",
-              "damage": "4"
-            }
-          ],
-          "abilities": [
-            "Conversion: Each time an attack made with this weapon targets an enemy unit that is not within 12\", an unmodified successful Hit roll of 4+ scores a Critical Hit.",
-            "One Shot: The bearer can only shoot with this weapon once per battle."
-          ]
-        },
-        {
-          "name": "Hernkyn Pioneers(⌀90 x 52mm)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Hernkyn-Pioneers/",
-          "flags": {
-            "precision": false,
-            "mortalWounds": false,
-            "devastatingWounds": false,
-            "highDamage": false,
-            "antiTank": false
-          },
-          "weapons": [],
-          "abilities": []
-        },
-        {
-          "name": "Ironkin Steeljacks with Melee Weapons(⌀40mm)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Ironkin-Steeljacks-with-Melee-Weapons/",
-          "flags": {
-            "precision": true,
-            "mortalWounds": false,
-            "devastatingWounds": false,
-            "highDamage": false,
-            "antiTank": false
-          },
-          "weapons": [],
-          "abilities": [
-            "Preymark Crest: Each time a model in the bearer’s unit makes an attack that targets an enemy unit within range of one or more objective markers, on a Critical Wound, that attack has the [PRECISION] ability."
-          ]
-        }
-      ]
+      "datasheets": []
     },
     {
       "listId": "vgclWfLSgu5c",
@@ -3726,7 +6209,7 @@
       ]
     },
     {
-      "listId": "rBYVquBqN9i0",
+      "listId": "OTK8gYfDrnAN",
       "player": "Andrew Mcbride",
       "faction": "World Eaters",
       "datasheets": [
@@ -4000,21 +6483,6 @@
             }
           ],
           "abilities": []
-        },
-        {
-          "name": "Goremongers(⌀32mm)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Goremongers/",
-          "flags": {
-            "precision": false,
-            "mortalWounds": false,
-            "devastatingWounds": false,
-            "highDamage": false,
-            "antiTank": false
-          },
-          "weapons": [],
-          "abilities": [
-            "Loping Speed: In your opponent's Movement phase, if an enemy unit ends a move within 8\" of this unit, if this unit is not within Engagement Range of one or more enemy units, this unit can make a Normal move of up to D6\"."
-          ]
         },
         {
           "name": "Jakhals(⌀28.5mmDishonoured model 40mm)",
@@ -5161,7 +7629,7 @@
       ]
     },
     {
-      "listId": "D9dNkC9eMyi0",
+      "listId": "RCOziWuBu9em",
       "player": "Daniel Latham",
       "faction": "Necrons",
       "datasheets": [
@@ -5204,48 +7672,27 @@
           "abilities": []
         },
         {
-          "name": "Overlord(⌀40mm)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/Overlord/",
+          "name": "Overlord with translocation shroud(⌀40mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/Overlord-with-translocation-shroud/",
           "flags": {
             "precision": false,
             "mortalWounds": false,
             "devastatingWounds": true,
-            "highDamage": true,
-            "antiTank": true
+            "highDamage": false,
+            "antiTank": false
           },
           "weapons": [
             {
-              "name": "Tachyon arrow one shot",
-              "range": "72\"",
-              "attacks": "1",
-              "skill": "2+",
-              "strength": "16",
-              "ap": "-5",
-              "damage": "D6+2"
-            },
-            {
-              "name": "Overlord’s blade devastating wounds",
+              "name": "Overlord's blade devastating wounds",
               "range": "Melee",
               "attacks": "4",
               "skill": "2+",
               "strength": "8",
               "ap": "-3",
               "damage": "2"
-            },
-            {
-              "name": "Voidscythe devastating wounds",
-              "range": "Melee",
-              "attacks": "3",
-              "skill": "3+",
-              "strength": "12",
-              "ap": "-3",
-              "damage": "3"
             }
           ],
-          "abilities": [
-            "One Shot: The bearer can only shoot with this weapon once per battle.",
-            "My Will Be Done: Once per battle round, one unit from your army with this ability can use it when its unit is targeted with a Stratagem. If it does, reduce the CP cost of that use of that Stratagem by 1CP.Implacable Resilience: Each time an attack is allocated to this model, subtract 1 from that attack’s Damage characteristic."
-          ]
+          "abilities": []
         },
         {
           "name": "Lychguard(⌀32mm)",
@@ -5468,7 +7915,7 @@
       ]
     },
     {
-      "listId": "QLbZTVgmcaPG",
+      "listId": "4lEwbHl32csE",
       "player": "Pete Armstrong",
       "faction": "Chaos Knights",
       "datasheets": [
@@ -5567,61 +8014,11 @@
             }
           ],
           "abilities": []
-        },
-        {
-          "name": "War Dog Stalker(⌀100mm)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Stalker/",
-          "flags": {
-            "precision": false,
-            "mortalWounds": false,
-            "devastatingWounds": false,
-            "highDamage": true,
-            "antiTank": true
-          },
-          "weapons": [
-            {
-              "name": "Daemonbreath spear melta 4",
-              "range": "18\"",
-              "attacks": "2",
-              "skill": "3+",
-              "strength": "12",
-              "ap": "-4",
-              "damage": "D6"
-            },
-            {
-              "name": "Havoc multi-launcher blast indirect fire",
-              "range": "48\"",
-              "attacks": "D6",
-              "skill": "3+",
-              "strength": "5",
-              "ap": "0",
-              "damage": "1"
-            },
-            {
-              "name": "Reaper chaintalon – strike",
-              "range": "Melee",
-              "attacks": "4",
-              "skill": "3+",
-              "strength": "10",
-              "ap": "-3",
-              "damage": "3"
-            },
-            {
-              "name": "Slaughterclaw",
-              "range": "Melee",
-              "attacks": "4",
-              "skill": "3+",
-              "strength": "12",
-              "ap": "-3",
-              "damage": "D6+2"
-            }
-          ],
-          "abilities": []
         }
       ]
     },
     {
-      "listId": "vwcKAR0WtG9u",
+      "listId": "cQsqWlraqYQw",
       "player": "Ryan Nichol",
       "faction": "Adeptus Custodes",
       "datasheets": [
@@ -5781,7 +8178,1040 @@
       ]
     },
     {
-      "listId": "gXfEJxZjpKer",
+      "listId": "Z80LrXKIg9tc",
+      "player": "Dan Freeman",
+      "faction": "World Eaters",
+      "datasheets": [
+        {
+          "name": "Slaughterbound(⌀50mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Slaughterbound/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": []
+        },
+        {
+          "name": "Eightbound(⌀40mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Eightbound/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": []
+        },
+        {
+          "name": "Exalted Eightbound(⌀40mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Exalted-Eightbound/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Chainblades anti-monster 3+ anti-vehicle 3+",
+              "range": "Melee",
+              "attacks": "4",
+              "skill": "3+",
+              "strength": "8",
+              "ap": "-3",
+              "damage": "2"
+            }
+          ],
+          "abilities": [
+            "Rend and Tear: Each time a model in this unit makes a melee attack that targets a MONSTER or VEHICLE unit, until the end of the phase, improve the Damage characteristic of that attack by 1."
+          ]
+        },
+        {
+          "name": "Daemon Prince of Khorne(⌀60mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Daemon-Prince-of-Khorne/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": []
+        },
+        {
+          "name": "Defiler(⌀160mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Defiler/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Ectoplasma destructor blast rapid fire 2",
+              "range": "36\"",
+              "attacks": "D6",
+              "skill": "4+",
+              "strength": "12",
+              "ap": "-3",
+              "damage": "3"
+            },
+            {
+              "name": "Hades battle cannon blast rapid fire 3",
+              "range": "48\"",
+              "attacks": "D6+3",
+              "skill": "4+",
+              "strength": "10",
+              "ap": "-1",
+              "damage": "3"
+            },
+            {
+              "name": "Hades lascannon rapid fire 1",
+              "range": "48\"",
+              "attacks": "2",
+              "skill": "4+",
+              "strength": "12",
+              "ap": "-3",
+              "damage": "D6+1"
+            },
+            {
+              "name": "Heavy missile launcher – krak rapid fire 1",
+              "range": "48\"",
+              "attacks": "2",
+              "skill": "4+",
+              "strength": "10",
+              "ap": "-2",
+              "damage": "D6+1"
+            },
+            {
+              "name": "Heavy reaper autocannon devastating wounds rapid fire 2 sustained hits 1",
+              "range": "48\"",
+              "attacks": "4",
+              "skill": "4+",
+              "strength": "9",
+              "ap": "-1",
+              "damage": "3"
+            },
+            {
+              "name": "Magma cutters melta 2 rapid fire 1",
+              "range": "12\"",
+              "attacks": "2",
+              "skill": "4+",
+              "strength": "9",
+              "ap": "-4",
+              "damage": "D6"
+            },
+            {
+              "name": "Electroscourge extra attacks sustained hits 2",
+              "range": "Melee",
+              "attacks": "7",
+              "skill": "3+",
+              "strength": "12",
+              "ap": "-2",
+              "damage": "2"
+            },
+            {
+              "name": "Shearing claws – strike",
+              "range": "Melee",
+              "attacks": "6",
+              "skill": "3+",
+              "strength": "16",
+              "ap": "-3",
+              "damage": "D6+1"
+            }
+          ],
+          "abilities": [
+            "Scuttling Walker: Each time this unit makes a Normal, Advance or Fall Back move, it can move through models (excluding TITANIC models) and terrain features. When doing so, it can move within Engagement Range of enemy models, but cannot end that move within Engagement Range of them, and any Desperate Escape test is automatically passed.Unleash Wrath: At the end of your opponent’s Movement phase, you can select one enemy unit that was set up on the battlefield within 12\" of this model; this model can then either:Shoot at that unit, but only if it is an eligible target.Declare a charge. This unit must end that charge move engaged with the enemy unit you selected (note that even if this charge is successful, this unit does not receive any Charge bonus this turn)."
+          ]
+        },
+        {
+          "name": "Forgefiend(⌀120 x 92mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Forgefiend/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Ectoplasma cannon blast rapid fire 1",
+              "range": "36\"",
+              "attacks": "D3",
+              "skill": "4+",
+              "strength": "10",
+              "ap": "-3",
+              "damage": "3"
+            }
+          ],
+          "abilities": []
+        },
+        {
+          "name": "Helbrute(⌀60mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Helbrute/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Plasma cannon blast hazardous rapid fire D3",
+              "range": "36\"",
+              "attacks": "D3",
+              "skill": "4+",
+              "strength": "8",
+              "ap": "-3",
+              "damage": "3"
+            },
+            {
+              "name": "Missile launcher – krak rapid fire 1",
+              "range": "48\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "9",
+              "ap": "-2",
+              "damage": "D6"
+            },
+            {
+              "name": "Multi-melta melta 2 rapid fire 1",
+              "range": "18\"",
+              "attacks": "2",
+              "skill": "4+",
+              "strength": "9",
+              "ap": "-4",
+              "damage": "D6"
+            },
+            {
+              "name": "Twin autocannon rapid fire 2 twin-linked",
+              "range": "48\"",
+              "attacks": "2",
+              "skill": "4+",
+              "strength": "9",
+              "ap": "-1",
+              "damage": "3"
+            },
+            {
+              "name": "Twin lascannon rapid fire 1 twin-linked",
+              "range": "48\"",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "12",
+              "ap": "-3",
+              "damage": "D6+1"
+            },
+            {
+              "name": "Helbrute fist",
+              "range": "Melee",
+              "attacks": "6",
+              "skill": "3+",
+              "strength": "12",
+              "ap": "-2",
+              "damage": "3"
+            },
+            {
+              "name": "Helbrute hammer",
+              "range": "Melee",
+              "attacks": "6",
+              "skill": "4+",
+              "strength": "14",
+              "ap": "-3",
+              "damage": "D6+1"
+            }
+          ],
+          "abilities": []
+        },
+        {
+          "name": "Jakhals(⌀28.5mmDishonoured model 40mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Jakhals/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": []
+        }
+      ]
+    },
+    {
+      "listId": "HQDb0ymsZ1Nl",
+      "player": "Harley Stevens",
+      "faction": "Chaos Daemons",
+      "datasheets": [
+        {
+          "name": "Skullmaster(⌀60mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Skullmaster/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Blade of blood",
+              "range": "Melee",
+              "attacks": "5",
+              "skill": "2+",
+              "strength": "6",
+              "ap": "-2",
+              "damage": "3"
+            }
+          ],
+          "abilities": []
+        },
+        {
+          "name": "Bloodcrushers(⌀90 x 52mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Bloodcrushers/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": true,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": [
+            "Brass Stampede: Each time this unit ends a Charge move, select one enemy unit within Engagement Range of this unit and roll one D6 for each model in this unit: for each 4+, that enemy unit suffers D3 mortal wounds."
+          ]
+        },
+        {
+          "name": "Sloppity Bilepiper(⌀32mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Sloppity-Bilepiper/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": []
+        },
+        {
+          "name": "Plaguebearers(⌀32mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Plaguebearers/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": []
+        },
+        {
+          "name": "Great Unclean One(⌀130mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Great-Unclean-One/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Bilesword – strike lethal hits",
+              "range": "Melee",
+              "attacks": "6",
+              "skill": "2+",
+              "strength": "10",
+              "ap": "-2",
+              "damage": "D6+1"
+            }
+          ],
+          "abilities": [
+            "Greater Daemon of Nurgle (Aura): While a friendly NURGLE LEGIONES DAEMONICA unit is within 6\" of this model, that unit is within your army’s Shadow of Chaos.Daemon Lord of Nurgle (Aura): While a friendly NURGLE LEGIONES DAEMONICA unit is within 6\" of this model, add 1 to the Toughness characteristic of models in that unit.Nurgle’s Rot (Psychic): At the end of your Movement phase, you can select one enemy unit within 12\" of this model. Until the start of your next Movement phase, subtract 1 from the Toughness characteristic of models in that unit."
+          ]
+        },
+        {
+          "name": "Rotigus(⌀130mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Rotigus/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Streams of brackish filth devastating wounds ignores cover torrent",
+              "range": "12\"",
+              "attacks": "2D6",
+              "skill": "N/A",
+              "strength": "8",
+              "ap": "-2",
+              "damage": "1"
+            },
+            {
+              "name": "Gnarlrod – strike lethal hits psychic",
+              "range": "Melee",
+              "attacks": "7",
+              "skill": "2+",
+              "strength": "10",
+              "ap": "-3",
+              "damage": "3"
+            }
+          ],
+          "abilities": [
+            "Greater Daemon of Nurgle (Aura): While a friendly NURGLE LEGIONES DAEMONICA unit is within 6\" of this model, that unit is within your army’s Shadow of Chaos.Virulent Blessing (Psychic): At the start of the Fight phase, you can select one enemy unit within 24\" and visible to this model. Until the end of the phase, each time an attack made by a NURGLE LEGIONES DAEMONICA model is allocated to a model in that unit, add 1 to the Damage characteristic of that attack.Deluge of Nurgle (Aura): While an enemy unit is within 6\" of this model, subtract 2 from the Move characteristic and subtract 1 from the Objective Control characteristic of models in that unit."
+          ]
+        },
+        {
+          "name": "Nurglings(⌀40mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Nurglings/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": []
+        },
+        {
+          "name": "Beasts Of Nurgle(⌀60mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Beasts-Of-Nurgle/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Putrid appendages devastating wounds",
+              "range": "Melee",
+              "attacks": "6",
+              "skill": "4+",
+              "strength": "6",
+              "ap": "-1",
+              "damage": "2"
+            }
+          ],
+          "abilities": []
+        },
+        {
+          "name": "Flesh Hounds(⌀60 x 35.5mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Flesh-Hounds/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": []
+        },
+        {
+          "name": "Skull Cannon(⌀120 x 92mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Skull-Cannon/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": [
+            "Skulls of the Fallen: In your Shooting phase, after this model has shot, select one enemy unit that was hit by one or more of those attacks. That unit must take a Battle-shock test."
+          ]
+        }
+      ]
+    },
+    {
+      "listId": "qhhQ8u9kq1Yc",
+      "player": "Luke Vincent",
+      "faction": "Orks",
+      "datasheets": [
+        {
+          "name": "Ghazghkull Thraka",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Ghazghkull-Thraka/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Gork’s Klaw - strike",
+              "range": "Melee",
+              "attacks": "6",
+              "skill": "2+",
+              "strength": "14",
+              "ap": "-3",
+              "damage": "4"
+            },
+            {
+              "name": "Makari’s stabba devastating wounds",
+              "range": "Melee",
+              "attacks": "1",
+              "skill": "4+",
+              "strength": "3",
+              "ap": "0",
+              "damage": "1"
+            }
+          ],
+          "abilities": [
+            "Prophet of Da Great Waaagh!: While this unit is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll and add 1 to the Wound roll and if the Waaagh! is active for your army, a Critical Hit is scored on a successful unmodified Hit roll of 5+.Ghazghkull’s Waaagh! Banner (Aura): While a friendly ORKS unit is within 12\" of Makari, if the Waaagh! is active for your army, melee weapons equipped by models in that unit have the [LETHAL HITS] ability."
+          ]
+        },
+        {
+          "name": "Painboy(⌀32mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Painboy/",
+          "flags": {
+            "precision": true,
+            "mortalWounds": true,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "’Urty syringe anti-infantry 4+ extra attacks precision",
+              "range": "Melee",
+              "attacks": "1",
+              "skill": "3+",
+              "strength": "2",
+              "ap": "0",
+              "damage": "1"
+            }
+          ],
+          "abilities": [
+            "Dok’s Toolz: While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability.Hold Still and Say ‘Aargh!’: Each time an attack made by this model with its ’urty syringe scores a Critical Wound against a unit (excluding VEHICLE units), that unit suffers D6 mortal wounds.",
+            "Kunnin’ But Brutal15Supa-Cybork Body15Headwoppa’s Killchoppa20Follow Me Ladz25Mork’s Kunnin’20Da Gobshot Thunderbuss15Dead Shiny Shootas15Bionik Workshop15Git-spotter Squig20Razgit’s Magik Map25Runnin’ Boots10Blitzkaptin25Tuff Git5Speed Makes Right25Fasta Than Yooz35Ferocious Show Off10Bloodthirsty Belligerence15Raucous Warcaller20Brutal But Kunnin’25Living Battering RamScarred Brute"
+          ]
+        },
+        {
+          "name": "Boyz",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Boyz/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Kombi-rokkit",
+              "range": "24\"",
+              "attacks": "1",
+              "skill": "5+",
+              "strength": "10",
+              "ap": "-2",
+              "damage": "3"
+            },
+            {
+              "name": "Kombi-weapon anti-infantry 4+ devastating wounds rapid fire 1",
+              "range": "24\"",
+              "attacks": "1",
+              "skill": "5+",
+              "strength": "4",
+              "ap": "0",
+              "damage": "1"
+            },
+            {
+              "name": "Rokkit launcha blast",
+              "range": "24\"",
+              "attacks": "D3",
+              "skill": "5+",
+              "strength": "9",
+              "ap": "-2",
+              "damage": "3"
+            }
+          ],
+          "abilities": [
+            "Dead Shiny Shootas15"
+          ]
+        },
+        {
+          "name": "Zodgrod Wortsnagga(⌀50mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Zodgrod-Wortsnagga/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Slugga Anti-Monster 4+ pistol",
+              "range": "12\"",
+              "attacks": "1",
+              "skill": "5+",
+              "strength": "4",
+              "ap": "-1",
+              "damage": "1"
+            }
+          ],
+          "abilities": []
+        },
+        {
+          "name": "Gretchin",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Gretchin/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": [
+            "Dead Shiny Shootas15"
+          ]
+        },
+        {
+          "name": "Big Mek With Shokk Attack Gun(⌀40mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Big-Mek-With-Shokk-Attack-Gun/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Shokk attack gun blast heavy",
+              "range": "60\"",
+              "attacks": "D6+1",
+              "skill": "5+",
+              "strength": "9",
+              "ap": "-4",
+              "damage": "D6"
+            }
+          ],
+          "abilities": [
+            "More Dakka: While this model is leading a unit, each time a model in that unit makes a ranged attack, re-roll a Hit roll of 1.Deranged Snotling Assault: In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks; that unit must take a Battle-shock test.",
+            "Kunnin’ But Brutal15Supa-Cybork Body15Headwoppa’s Killchoppa20Follow Me Ladz25Mork’s Kunnin’20Da Gobshot Thunderbuss15Dead Shiny Shootas15Git-spotter Squig20Razgit’s Magik Map25Dakkamek25Runnin’ Boots10Supercharged Squig Oil10Blitzkaptin25Tuff Git5Speed Makes Right25Fasta Than Yooz35Gitfinder Googlez10Smoky Gubbinz15Supa-glowy Fing20Press It Fasta!35Ferocious Show Off10Bloodthirsty Belligerence15Raucous Warcaller20Brutal But Kunnin’25Living Battering RamScarred Brute"
+          ]
+        },
+        {
+          "name": "Lootas(⌀32mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Lootas/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Kustom mega-blasta hazardous",
+              "range": "24\"",
+              "attacks": "3",
+              "skill": "5+",
+              "strength": "9",
+              "ap": "-2",
+              "damage": "D6"
+            },
+            {
+              "name": "Rokkit launcha blast",
+              "range": "24\"",
+              "attacks": "D3",
+              "skill": "5+",
+              "strength": "9",
+              "ap": "-2",
+              "damage": "3"
+            }
+          ],
+          "abilities": [
+            "1-2 Spanners4-8 LootasEvery Spanner is equipped with: big shoota; close combat weapon. Every Loota is equipped with: deffgun; close combat weapon.",
+            "Dead Shiny Shootas15"
+          ]
+        },
+        {
+          "name": "Mozrog Skragbad(⌀80mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Mozrog-Skragbad/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Big Chompa’s jaws devastating wounds extra attacks",
+              "range": "Melee",
+              "attacks": "3",
+              "skill": "3+",
+              "strength": "7",
+              "ap": "-2",
+              "damage": "4"
+            },
+            {
+              "name": "Gutrippa anti-monster 4+ anti-vehicle 4+",
+              "range": "Melee",
+              "attacks": "6",
+              "skill": "2+",
+              "strength": "7",
+              "ap": "-1",
+              "damage": "3"
+            }
+          ],
+          "abilities": [
+            "One Last Kill: While this model is leading a unit, each time a model in that unit is destroyed by a melee attack, if it has not fought this phase, roll one D6: on a 4+, do not remove it from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play.Da Bigger Dey iz...: Each time this model makes a melee attack that targets a MONSTER or VEHICLE unit, add 1 to the Damage characteristic of that attack. Each time this model makes a melee attack that targets a TITANIC unit, add 2 to the Damage characteristic of that attack instead."
+          ]
+        },
+        {
+          "name": "Squighog Boyz",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Squighog-Boyz/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": true,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Stikka assault anti-monster 4+ anti-vehicle 4+",
+              "range": "9\"",
+              "attacks": "1",
+              "skill": "5+",
+              "strength": "5",
+              "ap": "-1",
+              "damage": "2"
+            },
+            {
+              "name": "Big Choppa anti-monster 4+ anti-vehicle 4+",
+              "range": "Melee",
+              "attacks": "4",
+              "skill": "3+",
+              "strength": "6",
+              "ap": "-1",
+              "damage": "2"
+            },
+            {
+              "name": "Stikka anti-monster 4+ anti-vehicle 4+ lance",
+              "range": "Melee",
+              "attacks": "3",
+              "skill": "3+",
+              "strength": "5",
+              "ap": "-1",
+              "damage": "2"
+            }
+          ],
+          "abilities": [
+            "Bomb Squigs: Once per battle, for each bomb squig this unit has, after this unit ends a Normal move, you can use one Bomb Squig. If you do, select one enemy unit within 12\" and visible to this unit and roll one D6: on a 3+, that enemy unit suffers D3 mortal wounds.Designer’s Note: Place the relevant number of Bomb Squig tokens next to the unit, removing one each time this unit uses this ability."
+          ]
+        },
+        {
+          "name": "Wazdakka Gutsmek(⌀120 x 92mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Wazdakka-Gutsmek/",
+          "flags": {
+            "precision": true,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Grabba dragga assault precision",
+              "range": "12\"",
+              "attacks": "1",
+              "skill": "2+",
+              "strength": "10",
+              "ap": "-2",
+              "damage": "3"
+            },
+            {
+              "name": "Grabba dragga lance",
+              "range": "Melee",
+              "attacks": "6",
+              "skill": "2+",
+              "strength": "10",
+              "ap": "-2",
+              "damage": "3"
+            }
+          ],
+          "abilities": []
+        },
+        {
+          "name": "Flash Gitz(⌀40mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Flash-Gitz/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": [
+            "Ammo Runt: Once per battle, when this unit is selected to shoot, it can use this ability. If it does, until the end of the phase, ranged weapons equipped by models in this unit have the [LETHAL HITS] ability.Designer’s Note: Place an Ammo Runt token next to the unit, removing it after this ability has been used.",
+            "Dead Shiny Shootas15"
+          ]
+        }
+      ]
+    },
+    {
+      "listId": "Epj0AlEhHean",
+      "player": "Tim Anderson",
+      "faction": "Death Guard",
+      "datasheets": [
+        {
+          "name": "Lord of Virulence(⌀50mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/death-guard/Lord-of-Virulence/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": [
+            "Virulent Aura: While this model is leading a unit, each time a model in that unit makes a ranged attack, you can re-roll the Wound roll.Blight Bombardment: At the start of your Shooting phase, select one enemy unit within 30\" of and visible to this model. Until the end of the phase, each time a friendly DEATH GUARD model makes a ranged attack that targets that unit, re-roll a Hit roll of 1 (if that attack is made with a Blast weapon, you can re-roll the Hit roll instead)."
+          ]
+        },
+        {
+          "name": "Rotigus(⌀130mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/death-guard/Rotigus/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Streams of brackish filth devastating wounds ignores cover torrent",
+              "range": "12\"",
+              "attacks": "2D6",
+              "skill": "N/A",
+              "strength": "8",
+              "ap": "-2",
+              "damage": "1"
+            },
+            {
+              "name": "Gnarlrod – strike lethal hits psychic",
+              "range": "Melee",
+              "attacks": "7",
+              "skill": "2+",
+              "strength": "10",
+              "ap": "-3",
+              "damage": "3"
+            }
+          ],
+          "abilities": [
+            "Virulent Blessing (Psychic): At the start of the Fight phase, you can select one enemy unit within 24\" and visible to this model. Until the end of the phase, each time an attack made by a PLAGUE LEGIONS model is allocated to a model in that unit, add 1 to the Damage characteristic of that attack.Deluge of Nurgle (Aura): While an enemy unit is within 6\" of this model, subtract 2 from the Move characteristic and subtract 1 from the Objective Control characteristic of models in that unit."
+          ]
+        },
+        {
+          "name": "Plaguebearers(⌀32mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/death-guard/Plaguebearers/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": []
+        },
+        {
+          "name": "Beasts of Nurgle(⌀60mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/death-guard/Beasts-of-Nurgle/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Putrid appendages devastating wounds",
+              "range": "Melee",
+              "attacks": "6",
+              "skill": "4+",
+              "strength": "6",
+              "ap": "-1",
+              "damage": "2"
+            }
+          ],
+          "abilities": []
+        },
+        {
+          "name": "Defiler(⌀160mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/death-guard/Defiler/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Ectoplasma destructor blast lethal hits",
+              "range": "36\"",
+              "attacks": "D6",
+              "skill": "3+",
+              "strength": "12",
+              "ap": "-3",
+              "damage": "3"
+            },
+            {
+              "name": "Hades battle cannon blast lethal hits",
+              "range": "48\"",
+              "attacks": "D6+3",
+              "skill": "3+",
+              "strength": "10",
+              "ap": "-1",
+              "damage": "3"
+            },
+            {
+              "name": "Hades lascannon lethal hits",
+              "range": "48\"",
+              "attacks": "2",
+              "skill": "3+",
+              "strength": "12",
+              "ap": "-3",
+              "damage": "D6+1"
+            },
+            {
+              "name": "Heavy missile launcher – krak lethal hits",
+              "range": "48\"",
+              "attacks": "2",
+              "skill": "3+",
+              "strength": "10",
+              "ap": "-2",
+              "damage": "D6+1"
+            },
+            {
+              "name": "Heavy reaper autocannon devastating wounds lethal hits sustained hits 1",
+              "range": "48\"",
+              "attacks": "4",
+              "skill": "3+",
+              "strength": "9",
+              "ap": "-1",
+              "damage": "3"
+            },
+            {
+              "name": "Magma cutters lethal hits melta 2",
+              "range": "12\"",
+              "attacks": "2",
+              "skill": "3+",
+              "strength": "9",
+              "ap": "-4",
+              "damage": "D6"
+            },
+            {
+              "name": "Electroscourge extra attacks sustained hits 2",
+              "range": "Melee",
+              "attacks": "5",
+              "skill": "3+",
+              "strength": "12",
+              "ap": "-2",
+              "damage": "2"
+            },
+            {
+              "name": "Shearing claws – strike lethal hits",
+              "range": "Melee",
+              "attacks": "5",
+              "skill": "3+",
+              "strength": "16",
+              "ap": "-3",
+              "damage": "D6+1"
+            }
+          ],
+          "abilities": [
+            "Scuttling Walker: Each time this unit makes a Normal, Advance or Fall Back move, it can move through models (excluding TITANIC models) and terrain features. When doing so, it can move within Engagement Range of enemy models, but cannot end that move within Engagement Range of them, and any Desperate Escape test is automatically passed.Barrage of Filth: In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the phase, that unit cannot have the Benefit of Cover."
+          ]
+        },
+        {
+          "name": "Foetid Bloat-drone(⌀60mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/death-guard/Foetid-Bloat-drone/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": [
+            "Hovering Death: This model is eligible to shoot and declare a charge in a turn in which it Fell Back."
+          ]
+        },
+        {
+          "name": "Foetid Bloat-drone with Heavy Blight Launcher(⌀60mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/death-guard/Foetid-Bloat-drone-with-Heavy-Blight-Launcher/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Heavy blight launcher blast lethal hits",
+              "range": "36\"",
+              "attacks": "D6+2",
+              "skill": "3+",
+              "strength": "10",
+              "ap": "-2",
+              "damage": "3"
+            }
+          ],
+          "abilities": [
+            "Explosive Blight: In your Shooting phase, each time this model makes an attack that destroys an enemy unit, before removing the last model in that unit from play, roll a D6, adding 1 to the result if that unit is Afflicted: on a 5+, each enemy unit within 6\" of that model is Afflicted until the start of your next turn."
+          ]
+        },
+        {
+          "name": "Nurglings(⌀40mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/death-guard/Nurglings/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": []
+        }
+      ]
+    },
+    {
+      "listId": "e8Dfhe1tahyE",
       "player": "David Bannister",
       "faction": "T'au Empire",
       "datasheets": [
@@ -5931,22 +9361,6 @@
           "abilities": []
         },
         {
-          "name": "Crisis Starscythe Battlesuits(⌀50mm)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Crisis-Starscythe-Battlesuits/",
-          "flags": {
-            "precision": false,
-            "mortalWounds": false,
-            "devastatingWounds": false,
-            "highDamage": false,
-            "antiTank": false
-          },
-          "weapons": [],
-          "abilities": [
-            "Starscythe: Each time a model in this unit makes a ranged attack (excluding attacks that target MONSTERS and VEHICLES), improve the Armour Penetration characteristic of that attack by 1.Battlesuit Support System: This unit is eligible to shoot in a turn in which it Fell Back.",
-            "Patient HunterKilling BlowBonded HeroesMarkerlight Precision"
-          ]
-        },
-        {
           "name": "Crisis Sunforge Battlesuits(⌀50mm)",
           "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Crisis-Sunforge-Battlesuits/",
           "flags": {
@@ -5984,6 +9398,22 @@
           "weapons": [],
           "abilities": [
             "Patient HunterKilling BlowMarkerlight Precision"
+          ]
+        },
+        {
+          "name": "Kroot Trail Shaper(⌀32mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Kroot-Trail-Shaper/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": [
+            "Trail Finding: In your opponent's Movement phase, if an enemy unit ends a move within 8” of this unit, if this unit is not within Engagement Range of one or more enemy units, this unit can make a Normal move of up to D6”.Kroot Ambush: After both players have deployed their armies, you can redeploy this model’s unit and one other friendly KROOT unit. When doing so, any of those units can be placed into Strategic Reserves, regardless of how many units are already in Strategic Reserves.",
+            "Precision of the Patient Hunter15Solid-image Projection Unit20Student of Kauyon20Strike Swiftly 45Strategic Conqueror15Kroothawk Flock10Nomadic Hunter20Experienced LeaderQuill Marker"
           ]
         },
         {
@@ -6027,6 +9457,22 @@
           ],
           "abilities": [
             "Exemplars of Mont’ka: Each time a model in this unit makes a ranged attack that targets the closest eligible target, that attack has the [SUSTAINED HITS 1] and [IGNORES COVER] abilities.Neocapacitor Shields: At the start of your opponent’s Charge phase, you can select one visible enemy unit (excluding MONSTER and VEHICLE units) within 12\" of this unit. That unit must take a Battle-shock test and, until the end of the turn, subtract 1 from Charge rolls made for that unit.Retro-thrusters: At the end of the Fight phase, if this unit was eligible to fight this phase, this unit can either make a Normal move of up to 6\" or a Fall Back move."
+          ]
+        },
+        {
+          "name": "Crisis Starscythe Battlesuits(⌀50mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Crisis-Starscythe-Battlesuits/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": [
+            "Starscythe: Each time a model in this unit makes a ranged attack (excluding attacks that target MONSTERS and VEHICLES), improve the Armour Penetration characteristic of that attack by 1.Battlesuit Support System: This unit is eligible to shoot in a turn in which it Fell Back.",
+            "Patient HunterKilling BlowBonded HeroesMarkerlight Precision"
           ]
         },
         {
@@ -6080,41 +9526,6 @@
           "abilities": [
             "One Shot: The bearer can only shoot with this weapon once per battle.",
             "Armour Hunter: Each time this model makes an attack that targets a MONSTER or VEHICLE, add 1 to the Hit roll.Targeting Array: Each time this model is selected to shoot, you can re-roll one Hit roll or you can re-roll one Wound roll when resolving those attacks."
-          ]
-        },
-        {
-          "name": "Piranhas(⌀60mm flying base)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Piranhas/",
-          "flags": {
-            "precision": false,
-            "mortalWounds": false,
-            "devastatingWounds": false,
-            "highDamage": true,
-            "antiTank": true
-          },
-          "weapons": [
-            {
-              "name": "Piranha fusion blaster melta 4",
-              "range": "12\"",
-              "attacks": "1",
-              "skill": "4+",
-              "strength": "9",
-              "ap": "-4",
-              "damage": "D6"
-            },
-            {
-              "name": "Seeker missile one shot",
-              "range": "48\"",
-              "attacks": "1",
-              "skill": "4+",
-              "strength": "14",
-              "ap": "-3",
-              "damage": "D6+1"
-            }
-          ],
-          "abilities": [
-            "One Shot: The bearer can only shoot with this weapon once per battle.",
-            "Drone Harassment Tactics: At the end of your Movement phase, select one enemy unit within 12\" of this unit; that enemy unit must take a Battle-shock test."
           ]
         },
         {
@@ -6605,10 +10016,57 @@
       ]
     },
     {
-      "listId": "DcwSiKWvmpP1",
+      "listId": "U8orcy1750Cs",
       "player": "Nicholas Bannister",
       "faction": "Adeptus Custodes",
       "datasheets": [
+        {
+          "name": "Trajann Valoris(⌀40mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Trajann-Valoris/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Eagle's Scream assault",
+              "range": "24\"",
+              "attacks": "2",
+              "skill": "2+",
+              "strength": "5",
+              "ap": "-2",
+              "damage": "3"
+            },
+            {
+              "name": "Watcher’s Axe",
+              "range": "Melee",
+              "attacks": "6",
+              "skill": "2+",
+              "strength": "10",
+              "ap": "-2",
+              "damage": "3"
+            }
+          ],
+          "abilities": []
+        },
+        {
+          "name": "Custodian Guard(⌀40mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": [
+            "Stand Vigil: Each time a model in this unit makes an attack, re-roll a Wound roll of 1. While this unit is within range of an objective marker you control, you can re-roll the Wound roll instead.Sentinel Storm: Once per battle, in your Shooting phase, after this unit has shot, it can shoot again."
+          ]
+        },
         {
           "name": "Blade Champion(⌀40mm)",
           "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Blade-Champion/",
@@ -6715,21 +10173,6 @@
           ]
         },
         {
-          "name": "Custodian Guard(⌀40mm)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard/",
-          "flags": {
-            "precision": false,
-            "mortalWounds": false,
-            "devastatingWounds": false,
-            "highDamage": false,
-            "antiTank": false
-          },
-          "weapons": [],
-          "abilities": [
-            "Stand Vigil: Each time a model in this unit makes an attack, re-roll a Wound roll of 1. While this unit is within range of an objective marker you control, you can re-roll the Wound roll instead.Sentinel Storm: Once per battle, in your Shooting phase, after this unit has shot, it can shoot again."
-          ]
-        },
-        {
           "name": "Allarus Custodians(⌀40mm)",
           "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Allarus-Custodians/",
           "flags": {
@@ -6770,112 +10213,149 @@
       ]
     },
     {
-      "listId": "EY03zmcAyvXG",
+      "listId": "WW98zQtaeMQC",
       "player": "William Samms",
-      "faction": "Blood Angels",
+      "faction": "Dark Angels",
       "datasheets": [
         {
-          "name": "Captain With Jump Pack(⌀40mm)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Captain-With-Jump-Pack/",
+          "name": "Sammael(⌀60mm flying base)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Sammael/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": false,
+            "antiTank": false
+          },
+          "weapons": [],
+          "abilities": []
+        },
+        {
+          "name": "Ravenwing Command Squad(⌀75 x 42mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Ravenwing-Command-Squad/",
           "flags": {
             "precision": false,
             "mortalWounds": false,
             "devastatingWounds": true,
-            "highDamage": false,
+            "highDamage": true,
             "antiTank": false
           },
           "weapons": [
             {
-              "name": "Thunder hammer devastating wounds",
+              "name": "Astartes grenade launcher – krak",
+              "range": "24\"",
+              "attacks": "1",
+              "skill": "3+",
+              "strength": "9",
+              "ap": "-2",
+              "damage": "D3"
+            },
+            {
+              "name": "Black Knight combat weapon devastating wounds",
               "range": "Melee",
-              "attacks": "5",
+              "attacks": "3",
+              "skill": "3+",
+              "strength": "5",
+              "ap": "-2",
+              "damage": "1"
+            }
+          ],
+          "abilities": []
+        },
+        {
+          "name": "Outrider Squad",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Outrider-Squad/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Multi-melta melta 2",
+              "range": "18\"",
+              "attacks": "2",
+              "skill": "3+",
+              "strength": "9",
+              "ap": "-4",
+              "damage": "D6"
+            },
+            {
+              "name": "Onslaught gatling cannon devastating wounds",
+              "range": "24\"",
+              "attacks": "8",
+              "skill": "3+",
+              "strength": "5",
+              "ap": "0",
+              "damage": "1"
+            }
+          ],
+          "abilities": [
+            "Thunderous Impact: Each time a model in this unit makes a melee attack, if this unit made a Charge move this turn, improve the Strength and Damage characteristics of that attack by 1."
+          ]
+        },
+        {
+          "name": "Lion El’jonson(⌀60mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Lion-El-jonson/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Fealty – strike lethal hits",
+              "range": "Melee",
+              "attacks": "8",
+              "skill": "2+",
+              "strength": "12",
+              "ap": "-4",
+              "damage": "4"
+            }
+          ],
+          "abilities": [
+            "No Hiding From the Watchers (Aura): While a friendly ADEPTUS ASTARTES unit is within 6\" of this model, models in that unit have the Feel No Pain 4+ ability against mortal wounds."
+          ]
+        },
+        {
+          "name": "Techmarine(⌀40mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Techmarine/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": false,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Grav-pistol anti-vehicle 2+ pistol",
+              "range": "12\"",
+              "attacks": "1",
+              "skill": "2+",
+              "strength": "4",
+              "ap": "-1",
+              "damage": "2"
+            },
+            {
+              "name": "Servo-arm extra attacks",
+              "range": "Melee",
+              "attacks": "1",
               "skill": "3+",
               "strength": "8",
               "ap": "-2",
-              "damage": "2"
+              "damage": "3"
             }
           ],
           "abilities": []
         },
         {
-          "name": "Sanguinary Guard(⌀40mm)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Sanguinary-Guard/",
-          "flags": {
-            "precision": false,
-            "mortalWounds": false,
-            "devastatingWounds": false,
-            "highDamage": true,
-            "antiTank": false
-          },
-          "weapons": [
-            {
-              "name": "Inferno pistol melta 2 pistol",
-              "range": "6\"",
-              "attacks": "1",
-              "skill": "3+",
-              "strength": "8",
-              "ap": "-4",
-              "damage": "D3"
-            }
-          ],
-          "abilities": []
-        },
-        {
-          "name": "Death Company Captain with jump pack(⌀40mm)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Death-Company-Captain-with-Jump-Pack/",
-          "flags": {
-            "precision": false,
-            "mortalWounds": true,
-            "devastatingWounds": false,
-            "highDamage": false,
-            "antiTank": false
-          },
-          "weapons": [],
-          "abilities": [
-            "Lost to Fury: While this model is leading a unit, melee weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability.Black Rage: Each time a model in this unit makes a melee attack, you can re-roll the Hit roll. While this unit is not within 6\" of one or more friendly BLOOD ANGELS CHARACTER models, or not within 12\" of one or more friendly CHAPLAIN models, it cannot be selected to Fall Back and its Objective Control characteristic is 0.Death Vision of Sanguinius: If this model is destroyed by a melee attack, after the attacking unit has finished making its attacks, you can roll one D6, adding 2 to the result if the attacking unit contains the enemy WARLORD: on a 2-3, that enemy unit suffers D3 mortal wounds; on a 4-5, that enemy unit suffers 3 mortal wounds; on a 6+, that enemy unit suffers D3+3 mortal wounds."
-          ]
-        },
-        {
-          "name": "Death Company Marines With Jump Packs(⌀32mm)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Death-Company-Marines-With-Jump-Packs/",
-          "flags": {
-            "precision": false,
-            "mortalWounds": false,
-            "devastatingWounds": false,
-            "highDamage": true,
-            "antiTank": false
-          },
-          "weapons": [
-            {
-              "name": "Inferno pistol pistol melta 2",
-              "range": "6\"",
-              "attacks": "1",
-              "skill": "3+",
-              "strength": "8",
-              "ap": "-4",
-              "damage": "D3"
-            }
-          ],
-          "abilities": []
-        },
-        {
-          "name": "Chaplain In Terminator Armour(⌀40mm)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Chaplain-In-Terminator-Armour/",
-          "flags": {
-            "precision": false,
-            "mortalWounds": false,
-            "devastatingWounds": false,
-            "highDamage": false,
-            "antiTank": false
-          },
-          "weapons": [],
-          "abilities": [
-            "Litany of Hate: While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Wound roll.Recitation of Faith: While this model is leading a unit, models in that unit have the Feel No Pain 4+ ability against mortal wounds."
-          ]
-        },
-        {
-          "name": "Ancient In Terminator Armour(⌀40mm)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Ancient-In-Terminator-Armour/",
+          "name": "Deathwing Knights(⌀40mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Deathwing-Knights/",
           "flags": {
             "precision": false,
             "mortalWounds": false,
@@ -6885,63 +10365,27 @@
           },
           "weapons": [
             {
-              "name": "Chainfist anti-vehicle 3+",
+              "name": "Great weapon of the Unforgiven devastating wounds sustained hits 1",
               "range": "Melee",
-              "attacks": "4",
-              "skill": "3+",
-              "strength": "8",
+              "attacks": "5",
+              "skill": "2+",
+              "strength": "6",
               "ap": "-2",
               "damage": "2"
             },
             {
-              "name": "Thunder hammer devastating wounds",
+              "name": "Mace of absolution ANTI-MONSTER 4+ ANTI-VEHICLE 4+",
               "range": "Melee",
               "attacks": "4",
-              "skill": "3+",
-              "strength": "8",
+              "skill": "2+",
+              "strength": "6",
               "ap": "-2",
               "damage": "2"
             }
           ],
-          "abilities": []
-        },
-        {
-          "name": "Terminator Assault Squad(⌀40mm)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Terminator-Assault-Squad/",
-          "flags": {
-            "precision": false,
-            "mortalWounds": false,
-            "devastatingWounds": true,
-            "highDamage": false,
-            "antiTank": false
-          },
-          "weapons": [
-            {
-              "name": "Thunder hammer devastating wounds",
-              "range": "Melee",
-              "attacks": "3",
-              "skill": "3+",
-              "strength": "8",
-              "ap": "-2",
-              "damage": "2"
-            }
-          ],
-          "abilities": []
-        },
-        {
-          "name": "Incursor Squad(⌀32mm)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Incursor-Squad/",
-          "flags": {
-            "precision": false,
-            "mortalWounds": true,
-            "devastatingWounds": false,
-            "highDamage": false,
-            "antiTank": false
-          },
-          "weapons": [],
           "abilities": [
-            "Multi-spectrum Array: In your Shooting phase, after this unit has shot, select one enemy unit that was hit by one or more attacks made by this unit this phase. Until the end of the phase, each time a friendly ADEPTUS ASTARTES unit makes an attack that targets that enemy unit, add 1 to the Hit roll.",
-            "Haywire Mine: Once per battle, at the start of any phase, you can select one enemy unit within 3\" of the bearer and roll one D6: on a 2+, that enemy unit suffers D3 mortal wounds, or 2D3 mortal wounds instead if it is a VEHICLE unit."
+            "Teleport Homer: At the start of the battle, you can set up one Teleport Homer token for this unit anywhere on the battlefield that is not in your opponent’s deployment zone. If you do, once per battle, you can target this unit with the Rapid Ingress Stratagem for 0CP, but when resolving that Stratagem, you must set this unit up within 3\" horizontally of that token and not within 8\" horizontally of any enemy models. That token is then removed.Inner Circle: Each time an attack is allocated to a model in this unit, subtract 1 from the Damage characteristic of that attack.",
+            "Watcher in the Dark: Once per battle, in any phase, just after a mortal wound is allocated to an ADEPTUS ASTARTES model in this unit, this unit can summon a Watcher in the Dark. When it does, until the end of the phase, models in this unit have the Feel No Pain 4+ ability against mortal wounds.Designer’s Note: Place a Watcher in the Dark token next to the unit, removing it when this ability has been used."
           ]
         },
         {
@@ -6956,6 +10400,83 @@
           },
           "weapons": [],
           "abilities": []
+        },
+        {
+          "name": "Land Speeder(⌀105 x 70mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": true
+          },
+          "weapons": [
+            {
+              "name": "Multi-melta melta 2",
+              "range": "18\"",
+              "attacks": "2",
+              "skill": "3+",
+              "strength": "9",
+              "ap": "-4",
+              "damage": "D6"
+            },
+            {
+              "name": "Onslaught gatling cannon devastating wounds",
+              "range": "24\"",
+              "attacks": "8",
+              "skill": "3+",
+              "strength": "5",
+              "ap": "0",
+              "damage": "1"
+            },
+            {
+              "name": "Stormfury missile launcher",
+              "range": "48\"",
+              "attacks": "1",
+              "skill": "3+",
+              "strength": "12",
+              "ap": "-3",
+              "damage": "D6+1"
+            }
+          ],
+          "abilities": [
+            "Purgation Run: In your Shooting phase, after this unit has shot, it can make a normal move of up to D6\". If it does, until the end of the turn, this unit is not eligible to declare a charge."
+          ]
+        },
+        {
+          "name": "Land Speeder Vengeance(⌀60mm flying base)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder-Vengeance/",
+          "flags": {
+            "precision": false,
+            "mortalWounds": false,
+            "devastatingWounds": true,
+            "highDamage": true,
+            "antiTank": false
+          },
+          "weapons": [
+            {
+              "name": "Assault cannon devastating wounds",
+              "range": "24\"",
+              "attacks": "6",
+              "skill": "3+",
+              "strength": "6",
+              "ap": "0",
+              "damage": "1"
+            },
+            {
+              "name": "Plasma storm battery – supercharge blast hazardous twin-linked",
+              "range": "36\"",
+              "attacks": "D6+1",
+              "skill": "3+",
+              "strength": "9",
+              "ap": "-3",
+              "damage": "3"
+            }
+          ],
+          "abilities": [
+            "Storm of Vengeance: Once per turn, in your opponent’s Shooting phase, when a friendly Adeptus Astartes unit within 6\" of this model is destroyed, this model can use this ability (it cannot use this ability when it is itself destroyed). If it does, after the attacking unit has finished making its attacks, this model can shoot as if it were your Shooting phase, but when resolving those attacks it can only target that enemy unit (and only if it is an eligible target)."
+          ]
         },
         {
           "name": "Scout Squad(⌀28.5mm)",
@@ -6990,81 +10511,36 @@
           "abilities": []
         },
         {
-          "name": "Storm Speeder Hammerstrike(⌀90mm)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Storm-Speeder-Hammerstrike/",
+          "name": "Callidus Assassin(⌀32mm)",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/imperial-agents/Callidus-Assassin/",
           "flags": {
-            "precision": false,
+            "precision": true,
             "mortalWounds": false,
             "devastatingWounds": false,
-            "highDamage": true,
+            "highDamage": false,
             "antiTank": false
           },
           "weapons": [
             {
-              "name": "Hammerstrike missile launcher",
-              "range": "36\"",
-              "attacks": "2",
-              "skill": "3+",
-              "strength": "9",
-              "ap": "-3",
-              "damage": "D6"
+              "name": "Neural shredder anti-infantry 2+ precision torrent",
+              "range": "12\"",
+              "attacks": "D6",
+              "skill": "N/A",
+              "strength": "5",
+              "ap": "-2",
+              "damage": "1"
             },
             {
-              "name": "Krakstorm grenade launcher",
-              "range": "18\"",
-              "attacks": "1",
-              "skill": "3+",
-              "strength": "9",
-              "ap": "-1",
-              "damage": "D3"
-            },
-            {
-              "name": "Melta destroyer melta 2",
-              "range": "18\"",
-              "attacks": "3",
-              "skill": "3+",
-              "strength": "9",
-              "ap": "-4",
-              "damage": "D6"
-            }
-          ],
-          "abilities": [
-            "Hammerstrike: Each time this model has shot, select one enemy unit that was hit by one or more attacks made by this model this phase. Until the end of the phase, that enemy unit cannot have the Benefit of Cover."
-          ]
-        },
-        {
-          "name": "Vindicator(⌀Use model)",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Vindicator/",
-          "flags": {
-            "precision": false,
-            "mortalWounds": false,
-            "devastatingWounds": false,
-            "highDamage": true,
-            "antiTank": true
-          },
-          "weapons": [
-            {
-              "name": "Demolisher cannon blast",
-              "range": "24\"",
-              "attacks": "D6+3",
-              "skill": "3+",
-              "strength": "14",
-              "ap": "-3",
-              "damage": "D6"
-            },
-            {
-              "name": "Hunter-killer missile one shot",
-              "range": "48\"",
-              "attacks": "1",
+              "name": "Phase sword and poison blades lethal hits precision",
+              "range": "Melee",
+              "attacks": "5",
               "skill": "2+",
-              "strength": "14",
-              "ap": "-3",
-              "damage": "D6"
+              "strength": "5",
+              "ap": "-4",
+              "damage": "2"
             }
           ],
-          "abilities": [
-            "One Shot: The bearer can only shoot with this weapon once per battle."
-          ]
+          "abilities": []
         }
       ]
     }

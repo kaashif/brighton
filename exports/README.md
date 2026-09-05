@@ -2,12 +2,12 @@
 
 All 40 event players are included. Players without a published submission are represented by a file marked “No list submitted”.
 
-## Comp Play
+## The Real Comp Play
 
-- [Dan Freeman](./comp-play--dan-freeman.md) — World Eaters — no list submitted — Unrated
-- [Harley Stevens](./comp-play--harley-stevens.md) — Death Guard — no list submitted — Unrated
-- [Luke Vincent](./comp-play--luke-vincent.md) — Genestealer Cult — no list submitted — Unrated
-- [Tim Anderson](./comp-play--tim-anderson.md) — Space Marines (Astartes) — no list submitted — [Glicko-2 1956 · rank #305 / 12,446 · 3 11th-edition games](https://tabletop-tools.net/new-meta/#/player/TMOwhX28oFlCr6ORQqGGu)
+- [Chris Shaw](./the-real-comp-play--chris-shaw.md) — Orks — Unrated
+- [Christopher  Dyas](./the-real-comp-play--christopher-dyas.md) — T'au Empire — Unrated
+- [Liam Macindoe](./the-real-comp-play--liam-macindoe.md) — Deathwatch — [Glicko-2 1688 · rank #2,844 / 12,446 · 3 11th-edition games](https://tabletop-tools.net/new-meta/#/player/2AGb21LTUKDzGRBBdXJKQ)
+- [Nick Watkins](./the-real-comp-play--nick-watkins.md) — Emperor's Children — [Glicko-2 1449 · rank #8,130 / 12,446 · 3 11th-edition games](https://tabletop-tools.net/new-meta/#/player/_YMgS19xYkS5e6akx34_O)
 
 ## Comp Play Surrey Primarchs
 
@@ -26,9 +26,9 @@ All 40 event players are included. Players without a published submission are re
 ## For King & Comp Play
 
 - [Brando McCready](./for-king-comp-play--brando-mccready.md) — Leagues of Votann — [Glicko-2 1954 · rank #308 / 12,446 · 3 11th-edition games](https://tabletop-tools.net/new-meta/#/player/TVIoO8GoMHLVKo0gXMfu7)
-- [Max Pringle](./for-king-comp-play--max-pringle.md) — Chaos Space Marines — no list submitted — Unrated
-- [Rob Lebeau](./for-king-comp-play--rob-lebeau.md) — Drukhari — no list submitted — [Glicko-2 1636 · rank #3,973 / 12,446 · 3 11th-edition games](https://tabletop-tools.net/new-meta/#/player/1UkH68D0q5tFp1JhV5AAt)
-- [Sam Cordell](./for-king-comp-play--sam-cordell.md) — T'au Empire — no list submitted — [Glicko-2 1701 · rank #2,637 / 12,446 · 3 11th-edition games](https://tabletop-tools.net/new-meta/#/player/xZqBlJbTR-NwPUhi_0HrE)
+- [Max Pringle](./for-king-comp-play--max-pringle.md) — Chaos Space Marines — Unrated
+- [Rob Lebeau](./for-king-comp-play--rob-lebeau.md) — Dark Angels — [Glicko-2 1636 · rank #3,973 / 12,446 · 3 11th-edition games](https://tabletop-tools.net/new-meta/#/player/1UkH68D0q5tFp1JhV5AAt)
+- [Sam Cordell](./for-king-comp-play--sam-cordell.md) — T'au Empire — [Glicko-2 1701 · rank #2,637 / 12,446 · 3 11th-edition games](https://tabletop-tools.net/new-meta/#/player/xZqBlJbTR-NwPUhi_0HrE)
 
 ## Pheromone Maxxing
 
@@ -58,17 +58,17 @@ All 40 event players are included. Players without a published submission are re
 - [Pete Armstrong](./the-boys-go-to-brighton-for-warhammer--pete-armstrong.md) — Chaos Knights — Unrated
 - [Ryan Nichol](./the-boys-go-to-brighton-for-warhammer--ryan-nichol.md) — Adeptus Custodes — Unrated
 
-## The Real Comp Play
+## Comp Play
 
-- [Chris Shaw](./the-real-comp-play--chris-shaw.md) — Orks — no list submitted — Unrated
-- [Christopher  Dyas](./the-real-comp-play--christopher-dyas.md) — T'au Empire — no list submitted — Unrated
-- [Liam Macindoe](./the-real-comp-play--liam-macindoe.md) — Thousand Sons — no list submitted — [Glicko-2 1688 · rank #2,844 / 12,446 · 3 11th-edition games](https://tabletop-tools.net/new-meta/#/player/2AGb21LTUKDzGRBBdXJKQ)
-- [Nick Watkins](./the-real-comp-play--nick-watkins.md) — Space Marines (Astartes) — no list submitted — [Glicko-2 1449 · rank #8,130 / 12,446 · 3 11th-edition games](https://tabletop-tools.net/new-meta/#/player/_YMgS19xYkS5e6akx34_O)
+- [Dan Freeman](./comp-play--dan-freeman.md) — World Eaters — Unrated
+- [Harley Stevens](./comp-play--harley-stevens.md) — Chaos Daemons — Unrated
+- [Luke Vincent](./comp-play--luke-vincent.md) — Orks — Unrated
+- [Tim Anderson](./comp-play--tim-anderson.md) — Death Guard — [Glicko-2 1956 · rank #305 / 12,446 · 3 11th-edition games](https://tabletop-tools.net/new-meta/#/player/TMOwhX28oFlCr6ORQqGGu)
 
 ## Wessex Wyverns
 
 - [David Bannister](./wessex-wyverns--david-bannister.md) — T'au Empire — Unrated
 - [Jonathan Aylett](./wessex-wyverns--jonathan-aylett.md) — Orks — [Glicko-2 1722 · rank #2,255 / 12,446 · 9 11th-edition games](https://tabletop-tools.net/new-meta/#/player/8QY932PNRj0NYgTM4XJlO)
 - [Nicholas Bannister](./wessex-wyverns--nicholas-bannister.md) — Adeptus Custodes — Unrated
-- [William Samms](./wessex-wyverns--william-samms.md) — Blood Angels — [Glicko-2 1555 · rank #5,718 / 12,446 · 5 11th-edition games](https://tabletop-tools.net/new-meta/#/player/lJnLRirPQkgi_r4-LzVJ8)
+- [William Samms](./wessex-wyverns--william-samms.md) — Dark Angels — [Glicko-2 1555 · rank #5,718 / 12,446 · 5 11th-edition games](https://tabletop-tools.net/new-meta/#/player/lJnLRirPQkgi_r4-LzVJ8)
 

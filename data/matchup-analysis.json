@@ -1,91 +1,280 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T15:14:41.629Z",
+  "generatedAt": "2026-09-05T01:02:18.967Z",
   "playerCount": 36,
   "entries": [
     {
-      "playerId": "fUEV9jjYXUPC",
-      "player": "Dan Freeman",
-      "team": "Comp Play",
-      "faction": "World Eaters",
-      "slug": "dan-freeman",
-      "pageUrl": "matchups/dan-freeman/",
+      "playerId": "emXgJOxr91aT",
+      "player": "Chris Shaw",
+      "team": "The Real Comp Play",
+      "faction": "Orks",
+      "slug": "chris-shaw",
+      "pageUrl": "matchups/chris-shaw/",
       "rating": 4,
       "stars": "★★★★☆",
-      "verdict": "Fast melee is a good structural fit, but the missing list makes the exact threat package unknown.",
-      "playerPlan": "Screen Scout/pre-game lanes, offer Wraiths as the first contact and keep Nightbringer, Skorpekhs and Nekrosor together for the counter-charge.",
-      "army": "Very fast melee pressure with pre-game movement, hard character-led units and multiple early-charge threats.",
-      "opponentPlan": "They try to pin the army immediately and kill several units before a coherent counter-charge is possible.",
-      "kaashifPlan": "This is a favourable style if deployment blocks the first wave. Put bodies in Scout lanes, receive with Wraiths and counter-charge with the entire missile rather than individual pieces.",
-      "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/",
-      "confidence": "Low",
-      "evidence": "No list was submitted; this is a faction-level provisional read.",
-      "listId": null,
-      "listUrl": null,
-      "threats": []
+      "verdict": "Ghazghkull, Meganobz, Squighogs and Kommandos bring the kind of direct Ork pressure the Wraith screen wants to receive.",
+      "playerPlan": "Block the forward tricks, keep Technomancers away from Snikrot and let Wraiths pin the first wave while the missile selects Ghaz or the Meganob brick.",
+      "army": "A high-volume pressure army with fast melee, large units, transports and disruptive forward pieces.",
+      "opponentPlan": "It wants to occupy lanes early, pin the army in deployment and deliver several charges at once.",
+      "kaashifPlan": "This is a preferred shape: block Scout moves when needed, let Wraiths absorb the first contact and counter-charge the committed mass with the compact missile.",
+      "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/orks/",
+      "confidence": "High",
+      "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
+      "listId": "UteQl8HRtVLw",
+      "listUrl": "https://www.bestcoastpairings.com/list/UteQl8HRtVLw",
+      "threats": [
+        {
+          "name": "Painboy",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Painboy/",
+          "notes": [
+            "Precision: ’Urty syringe anti-infantry 4+ extra attacks precision (1 damage)",
+            "Mortal wounds: Dok’s Toolz."
+          ]
+        },
+        {
+          "name": "Squighog Boyz",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Squighog-Boyz/",
+          "notes": [
+            "Mortal wounds: Bomb Squigs."
+          ]
+        },
+        {
+          "name": "Kommandos",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Kommandos/",
+          "notes": [
+            "Mortal wounds: Bomb Squigs.",
+            "High damage: Rokkit launcha blast (3)"
+          ]
+        },
+        {
+          "name": "Ghazghkull Thraka",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Ghazghkull-Thraka/",
+          "notes": [
+            "High damage: Gork’s Klaw - strike (4)",
+            "Devastating Wounds: Makari’s stabba devastating wounds"
+          ]
+        },
+        {
+          "name": "Big Mek In Mega Armour",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Big-Mek-In-Mega-Armour/",
+          "notes": [
+            "High damage: Kustom mega-blasta hazardous (D6), Tellyport blasta blast (3)",
+            "Devastating Wounds: Kombi-weapon anti-infantry 4+ devastating wounds rapid fire 1"
+          ]
+        },
+        {
+          "name": "Mozrog Skragbad",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Mozrog-Skragbad/",
+          "notes": [
+            "High damage: Big Chompa’s jaws devastating wounds extra attacks (4), Gutrippa anti-monster 4+ anti-vehicle 4+ (3)",
+            "Devastating Wounds: Big Chompa’s jaws devastating wounds extra attacks"
+          ]
+        }
+      ]
     },
     {
-      "playerId": "ve9Jtj6OI9dq",
-      "player": "Harley Stevens",
-      "team": "Comp Play",
-      "faction": "Death Guard",
-      "slug": "harley-stevens",
-      "pageUrl": "matchups/harley-stevens/",
-      "rating": 4,
-      "stars": "★★★★☆",
-      "verdict": "Death Guard are usually slow enough to catch and often rely on damage profiles that Necrodermis handles efficiently.",
-      "playerPlan": "Choose one flank, avoid being debuffed across the whole army and use the Wraiths to hold the centre while the missile deletes one block at a time.",
-      "army": "Slow, durable close-range units with debuffs, resilient infantry and damaging short-range brawlers.",
-      "opponentPlan": "They normally compress the board, occupy the middle and grind down anything that stays in contagion range.",
-      "kaashifPlan": "The low speed helps. Screen debuff pieces with Wraiths, preserve the Technomancers and choose one flank so the counter-charge overwhelms rather than feeds the grind.",
-      "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/death-guard/",
-      "confidence": "Low",
-      "evidence": "No list was submitted; this is a faction-level provisional read.",
-      "listId": null,
-      "listUrl": null,
-      "threats": []
+      "playerId": "mROtAJW47SFR",
+      "player": "Christopher  Dyas",
+      "team": "The Real Comp Play",
+      "faction": "T'au Empire",
+      "slug": "christopher-dyas",
+      "pageUrl": "matchups/christopher-dyas/",
+      "rating": 1,
+      "stars": "★☆☆☆☆",
+      "verdict": "Sunforge and Fireknife Crisis suits, a Hammerhead and a Ghostkeel create mobile high-damage angles that can avoid the slow Necron melee package.",
+      "playerPlan": "Deploy without visible C’tan or Technomancers, then force the suits and tanks to contest several objectives inside Wraith charge distance.",
+      "army": "Fast, efficient shooting with battlesuits, skimmers, rail weapons and disposable spotting or screening units.",
+      "opponentPlan": "They create firing angles, focus one durable target and reposition so the counter-charge cannot connect.",
+      "kaashifPlan": "This is the worst archetype for Kaashif. Stage completely out of sight, pressure several objectives together and use Wraiths to trap suits or vehicles before revealing C’tan.",
+      "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/",
+      "confidence": "High",
+      "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
+      "listId": "74VbeImojDQH",
+      "listUrl": "https://www.bestcoastpairings.com/list/74VbeImojDQH",
+      "threats": [
+        {
+          "name": "Hammerhead Gunship",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Hammerhead-Gunship/",
+          "notes": [
+            "High damage: Ion cannon – overcharge blast hazardous (3), Railgun heavy devastating wounds (D6+6)",
+            "Devastating Wounds: Railgun heavy devastating wounds"
+          ]
+        },
+        {
+          "name": "Pathfinder Team",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Pathfinder-Team/",
+          "notes": [
+            "High damage: Rail rifle devastating wounds heavy (3), Semi-automatic grenade launcher – fusion (3)",
+            "Devastating Wounds: Rail rifle devastating wounds heavy, Semi-automatic grenade launcher – EMP anti-vehicle 4+ devastating wounds"
+          ]
+        },
+        {
+          "name": "Devilfish",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Devilfish/",
+          "notes": [
+            "High damage: Seeker missile one shot (D6+1)"
+          ]
+        },
+        {
+          "name": "Ghostkeel Battlesuit",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Ghostkeel-Battlesuit/",
+          "notes": [
+            "High damage: Cyclic ion raker – overcharge hazardous (3), Fusion collider melta 2 (D6)"
+          ]
+        },
+        {
+          "name": "Piranhas",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Piranhas/",
+          "notes": [
+            "High damage: Piranha fusion blaster melta 4 (D6), Seeker missile one shot (D6+1)"
+          ]
+        },
+        {
+          "name": "Vespid Stingwings",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Vespid-Stingwings/",
+          "notes": [
+            "High damage: Neutron rail rifle DEVASTATING WOUNDS (3)",
+            "Devastating Wounds: Neutron rail rifle DEVASTATING WOUNDS"
+          ]
+        }
+      ]
     },
     {
-      "playerId": "A2YnULLCXvNK",
-      "player": "Luke Vincent",
-      "team": "Comp Play",
-      "faction": "Genestealer Cult",
-      "slug": "luke-vincent",
-      "pageUrl": "matchups/luke-vincent/",
-      "rating": 2,
-      "stars": "★★☆☆☆",
-      "verdict": "GSC mobility, reserve play and short-range shooting can pull the slow Necron package apart.",
-      "playerPlan": "Screen the backfield, deny easy landing zones near Technomancers and force the ambush units to appear within a reliable Wraith counter-charge.",
-      "army": "A mobile ambush army with deep strike, redeployment, short-range shooting and disposable units that can return.",
-      "opponentPlan": "They attack from reserves, overload a weak edge and score while avoiding a straight durability fight.",
-      "kaashifPlan": "Screen deeply, keep the missile compact and do not let the army be pulled apart. The main danger is mobile shooting and repeated scoring rather than a fair brawl.",
-      "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/",
-      "confidence": "Low",
-      "evidence": "No list was submitted; this is a faction-level provisional read.",
-      "listId": null,
-      "listUrl": null,
-      "threats": []
+      "playerId": "u9p9775Nzq8s",
+      "player": "Liam Macindoe",
+      "team": "The Real Comp Play",
+      "faction": "Deathwatch",
+      "slug": "liam-macindoe",
+      "pageUrl": "matchups/liam-macindoe/",
+      "rating": 1,
+      "stars": "★☆☆☆☆",
+      "verdict": "Deathwatch kill teams combine flexible shooting, elite infantry and a Thunderstrike with enough mobility to target the Necron support package.",
+      "playerPlan": "Inventory the kill-team weapon profiles, protect Technomancers and use both Wraith units to close shooting lanes before committing isolated C’tan.",
+      "army": "A flexible Space Marine force with specialist kill teams, elite infantry and access to broad weapon mixes.",
+      "opponentPlan": "They combine layered shooting with durable infantry, then use mission tools and focused attacks to remove a chosen target.",
+      "kaashifPlan": "Inventory their high-damage and Precision weapons before deploying, protect the Technomancers and use Wraiths to pin the shooting elements before committing C’tan.",
+      "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/",
+      "confidence": "High",
+      "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
+      "listId": "w4U68Cw6cMwP",
+      "listUrl": "https://www.bestcoastpairings.com/list/w4U68Cw6cMwP",
+      "threats": [
+        {
+          "name": "Deathwatch Veterans",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Deathwatch-Veterans/",
+          "notes": [
+            "Precision: Stalker-pattern boltgun heavy precision (2 damage)",
+            "High damage: Deathwatch thunder hammer devastating wounds (3)",
+            "Devastating Wounds: Combi-weapon anti-infantry 4+ devastating wounds rapid fire 1, Deathwatch thunder hammer devastating wounds"
+          ]
+        },
+        {
+          "name": "Deathwatch Terminator Squad",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Deathwatch-Terminator-Squad/",
+          "notes": [
+            "High damage: Cyclone missile launcher – krak (D6)",
+            "Devastating Wounds: Assault cannon devastating wounds, Thunder hammer devastating wounds"
+          ]
+        },
+        {
+          "name": "Storm Speeder Thunderstrike",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Storm-Speeder-Thunderstrike/",
+          "notes": [
+            "High damage: Stormfury missiles (D6+1), Thunderstrike las-talon (D6+1)"
+          ]
+        },
+        {
+          "name": "Intercessor Squad",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Intercessor-Squad/",
+          "notes": [
+            "High damage: Astartes grenade launcher – krak (D3)",
+            "Devastating Wounds: Thunder hammer devastating wounds"
+          ]
+        },
+        {
+          "name": "Captain In Gravis Armour",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Captain-In-Gravis-Armour/",
+          "notes": [
+            "High damage: Master-crafted heavy bolt rifle assault heavy (3)"
+          ]
+        },
+        {
+          "name": "Indomitor Kill Team",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Indomitor-Kill-Team/",
+          "notes": [
+            "High damage: Deathwatch heavy bolter assault heavy lethal hits sustained hits 1 (3), Melta rifle heavy melta 2 (D6)"
+          ]
+        }
+      ]
     },
     {
-      "playerId": "us56yYVKKzis",
-      "player": "Tim Anderson",
-      "team": "Comp Play",
-      "faction": "Space Marines (Astartes)",
-      "slug": "tim-anderson",
-      "pageUrl": "matchups/tim-anderson/",
+      "playerId": "HylIlKMx6e7T",
+      "player": "Nick Watkins",
+      "team": "The Real Comp Play",
+      "faction": "Emperor's Children",
+      "slug": "nick-watkins",
+      "pageUrl": "matchups/nick-watkins/",
       "rating": 3,
       "stars": "★★★☆☆",
-      "verdict": "Unknown Space Marines are neutral until their mix of mobile shooting, melta and Precision is known.",
-      "playerPlan": "At the table, inventory D3+ guns and sniper effects before deployment; only then decide whether the Wraiths can stage aggressively.",
-      "army": "A flexible Space Marine force that may combine mobile shooting, durable infantry, transports and melee.",
-      "opponentPlan": "Without the submitted list, it could play either a mid-board combined-arms game or a more mobile shooting game.",
-      "kaashifPlan": "Keep the read provisional. Check for Scout snipers, melta, D6+ damage and shoot-and-move units before exposing Technomancers or C’tan.",
-      "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/",
-      "confidence": "Low",
-      "evidence": "No list was submitted; this is a faction-level provisional read.",
-      "listId": null,
-      "listUrl": null,
-      "threats": []
+      "verdict": "The Emperor’s Children list mixes fast daemon pressure, several monsters and a Defiler, making it catchable but dangerous to unsupported pieces.",
+      "playerPlan": "Screen Shalaxi and the winged threats with Wraiths, hide the Technomancers from character attacks and counter one monster at a time with the full missile.",
+      "army": "Fast elite melee pressure with numerous character-led units, Precision access and powerful monsters.",
+      "opponentPlan": "They want to dictate combats, isolate leaders and use Fulgrim or another hammer to break the durable centre.",
+      "kaashifPlan": "Receive the charge through Wraiths, never offer a clean Precision line to a Technomancer and counter-charge the committed hammer with several threats together.",
+      "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/",
+      "confidence": "High",
+      "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
+      "listId": "3bHF7kowOiVP",
+      "listUrl": "https://www.bestcoastpairings.com/list/3bHF7kowOiVP",
+      "threats": [
+        {
+          "name": "Shalaxi Helbane",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Shalaxi-Helbane/",
+          "notes": [
+            "Precision: Soulpiercer precision (D6+2 damage)",
+            "High damage: Pavane of Slaanesh – witchfire devastating wounds psychic (D3), Pavane of Slaanesh – focused witchfire hazardous devastating wounds psychic sustained hits 3 (D3)",
+            "Devastating Wounds: Pavane of Slaanesh – witchfire devastating wounds psychic, Pavane of Slaanesh – focused witchfire hazardous devastating wounds psychic sustained hits 3"
+          ]
+        },
+        {
+          "name": "Defiler",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Defiler/",
+          "notes": [
+            "Precision: Shearing claws – strike precision (D6+1 damage)",
+            "High damage: Hades battle cannon blast (3), Ectoplasma destructor blast (3)",
+            "Devastating Wounds: Heavy reaper autocannon devastating wounds sustained hits 1"
+          ]
+        },
+        {
+          "name": "Tormentors",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Tormentors/",
+          "notes": [
+            "Precision: Bolt pistol pistol precision (1 damage), Boltgun precision (1 damage)",
+            "High damage: Meltagun melta 2 precision (D6)"
+          ]
+        },
+        {
+          "name": "Daemon Prince of Slaanesh with Wings",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Daemon-Prince-of-Slaanesh-with-Wings/",
+          "notes": [
+            "Mortal wounds: Daemonic Destruction."
+          ]
+        },
+        {
+          "name": "Maulerfiend",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Maulerfiend/",
+          "notes": [
+            "High damage: Magma cutters melta 2 (D6), Maulerfiend fists (D6+1)"
+          ]
+        },
+        {
+          "name": "Lord Exultant",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Lord-Exultant/",
+          "notes": [
+            "Precision: Master-crafted power sword precision (2 damage)"
+          ]
+        }
+      ]
     },
     {
       "playerId": "BuiJpJWVybKf",
@@ -104,8 +293,8 @@
       "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/",
       "confidence": "High",
       "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
-      "listId": "m3WkBIscvIfD",
-      "listUrl": "https://www.bestcoastpairings.com/list/m3WkBIscvIfD",
+      "listId": "fl6dywK1fELx",
+      "listUrl": "https://www.bestcoastpairings.com/list/fl6dywK1fELx",
       "threats": [
         {
           "name": "Terminator Squad",
@@ -174,16 +363,15 @@
       "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/",
       "confidence": "High",
       "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
-      "listId": "NdL1eiju0V7K",
-      "listUrl": "https://www.bestcoastpairings.com/list/NdL1eiju0V7K",
+      "listId": "MQlR1KawpKFV",
+      "listUrl": "https://www.bestcoastpairings.com/list/MQlR1KawpKFV",
       "threats": [
         {
-          "name": "Blade Champion",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Blade-Champion/",
+          "name": "Vertus Praetors",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Vertus-Praetors/",
           "notes": [
-            "Precision: Vaultswords – Behemor precision (2 damage)",
-            "High damage: Vaultswords – Victus devastating wounds (3)",
-            "Devastating Wounds: Vaultswords – Victus devastating wounds"
+            "Mortal wounds: Turbo-boost.",
+            "High damage: Salvo launcher twin-linked (D6+1)"
           ]
         },
         {
@@ -436,8 +624,8 @@
       "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/",
       "confidence": "High",
       "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
-      "listId": "nJX30tKBYWDG",
-      "listUrl": "https://www.bestcoastpairings.com/list/nJX30tKBYWDG",
+      "listId": "IZ3tB6zywOUZ",
+      "listUrl": "https://www.bestcoastpairings.com/list/IZ3tB6zywOUZ",
       "threats": [
         {
           "name": "Fulgrim",
@@ -605,16 +793,16 @@
       "pageUrl": "matchups/brando-mccready/",
       "rating": 2,
       "stars": "★★☆☆☆",
-      "verdict": "The submitted text contains no usable army list, so this is only a Votann faction-level warning about efficient high-damage shooting.",
-      "playerPlan": "Treat the rating as provisional; inspect the actual roster for Hekatons, rail weapons, Thunderkyn and Precision before choosing C’tan lanes.",
+      "verdict": "The Votann list combines two large Hearthguard bricks with Thunderkyn, fast Pioneers and numerous Yaegir screens.",
+      "playerPlan": "Protect C’tan from grav fire, do not let the Yaegirs pull the army apart and use Wraiths to pin the mobile elements before committing into Hearthguard.",
       "army": "Tough mid-range infantry and vehicles with efficient high-damage shooting and strong objective control.",
       "opponentPlan": "They usually establish a shooting castle, mark priority targets and move durable units onto the midfield once trades begin.",
       "kaashifPlan": "Avoid long lanes and expose only when Wraiths can connect. Their D3+ and rail-style weapons are much worse for C’tan than ordinary D2 volume.",
       "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/",
-      "confidence": "Low",
-      "evidence": "The submitted entry contains no usable roster; this is a faction-level provisional read.",
-      "listId": null,
-      "listUrl": null,
+      "confidence": "High",
+      "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
+      "listId": "1WsdUJAerW1n",
+      "listUrl": "https://www.bestcoastpairings.com/list/1WsdUJAerW1n",
       "threats": []
     },
     {
@@ -626,38 +814,132 @@
       "pageUrl": "matchups/max-pringle/",
       "rating": 3,
       "stars": "★★★☆☆",
-      "verdict": "CSM can be a favourable melee brawl or a difficult mobile shooting list; no submission exists to distinguish them.",
-      "playerPlan": "Identify the real hammers and Precision at the table, then keep the missile compact and force the opponent to commit through Wraiths.",
+      "verdict": "The Red Corsairs list combines fast infantry and bikes with Mutilators, a Predator and a Defiler, giving it both catchable pressure and dangerous guns.",
+      "playerPlan": "Identify the high-damage lanes, receive the mobile wave with Wraiths and counter only when the Predator and Defiler can also be tagged or hidden from.",
       "army": "A flexible combined-arms faction that can mix durable infantry, fast melee, transports and dangerous shooting.",
-      "opponentPlan": "Without the submitted list, the exact plan is unknown; expect layered trading pieces and powerful character-led units.",
-      "kaashifPlan": "Keep the rating provisional. Identify Precision, mortal-wound and D3+ weapons at the table, then decide whether to receive melee or stage for a shooting army.",
+      "opponentPlan": "They use layered trading pieces and powerful character-led units while vehicles establish damaging firing lanes.",
+      "kaashifPlan": "Identify Precision, mortal-wound and D3+ weapons before exposing support pieces, then decide whether to receive the melee elements or stage for the guns.",
       "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/",
-      "confidence": "Low",
-      "evidence": "No list was submitted; this is a faction-level provisional read.",
-      "listId": null,
-      "listUrl": null,
-      "threats": []
+      "confidence": "High",
+      "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
+      "listId": "DCRQd624qk8j",
+      "listUrl": "https://www.bestcoastpairings.com/list/DCRQd624qk8j",
+      "threats": [
+        {
+          "name": "Masters of the Maelstrom",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Masters-of-the-Maelstrom/",
+          "notes": [
+            "Precision: Mind Wrench precision psychic (D6+1 damage), Axe of Ending anti-character 2+ precision (2 damage)",
+            "Mortal wounds: Choice Samples.",
+            "High damage: Mind Wrench precision psychic (D6+1)"
+          ]
+        },
+        {
+          "name": "Sorcerer",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Sorcerer/",
+          "notes": [
+            "Mortal wounds: Prescience (Psychic).",
+            "High damage: Infernal Gaze – witchfire psychic (D3), Infernal Gaze – focused witchfire devastating wounds hazardous psychic (D3)",
+            "Devastating Wounds: Infernal Gaze – focused witchfire devastating wounds hazardous psychic"
+          ]
+        },
+        {
+          "name": "Chaos Predator Destructor",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Chaos-Predator-Destructor/",
+          "notes": [
+            "High damage: Lascannon (D6+1), Predator autocannon rapid fire 2 (3)",
+            "Devastating Wounds: Combi-weapon anti-infantry 4+ devastating wounds rapid fire 1"
+          ]
+        },
+        {
+          "name": "Defiler",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Defiler/",
+          "notes": [
+            "High damage: Hades battle cannon blast (3), Ectoplasma destructor blast (3)",
+            "Devastating Wounds: Heavy reaper autocannon devastating wounds sustained hits 1"
+          ]
+        },
+        {
+          "name": "Mutilators",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Mutilators/",
+          "notes": [
+            "Mortal wounds: Crushing Charge."
+          ]
+        },
+        {
+          "name": "Kravek Morne",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Kravek-Morne/",
+          "notes": [
+            "Devastating Wounds: Last Argument and power fist devastating wounds"
+          ]
+        }
+      ]
     },
     {
       "playerId": "05EtaDqVOpyt",
       "player": "Rob Lebeau",
       "team": "For King & Comp Play",
-      "faction": "Drukhari",
+      "faction": "Dark Angels",
       "slug": "rob-lebeau",
       "pageUrl": "matchups/rob-lebeau/",
       "rating": 2,
       "stars": "★★☆☆☆",
-      "verdict": "Drukhari speed and trading can evade the slow counter-charge and open unexpected angles onto Technomancers.",
-      "playerPlan": "Castle the support pieces, cover both flanks with Wraith threat and make the objectives force transports into charge range before exposing the missile.",
-      "army": "Very fast, fragile units in transports with strong trading, mobile shooting and precise melee threats.",
-      "opponentPlan": "They try to stay uncatchable, expose only the unit needed for a trade and attack support pieces from unexpected angles.",
-      "kaashifPlan": "This is structurally awkward. Protect Technomancers from angles, reserve a counterpunch and use objectives to force fragile boats and infantry into Wraith charge range.",
-      "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/drukhari/",
-      "confidence": "Low",
-      "evidence": "No list was submitted; this is a faction-level provisional read.",
-      "listId": null,
-      "listUrl": null,
-      "threats": []
+      "verdict": "Ravenwing speed, mobile plasma and speeder fire can evade the slow counter-charge while the Lion and Deathwing Knights anchor the centre.",
+      "playerPlan": "Refuse the opening bike and speeder lanes, keep Technomancers screened and force the Ravenwing onto objectives where Wraiths can trap them.",
+      "army": "Space Marines with access to durable elite infantry and highly mobile Ravenwing shooting.",
+      "opponentPlan": "A mobile build can create cross-board angles, shoot and reposition while a hard melee unit controls the centre.",
+      "kaashifPlan": "Do not chase skirmishers across open lanes. Hide the support package, force the bikes toward objectives and launch only when the Wraiths can trap them.",
+      "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/",
+      "confidence": "High",
+      "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
+      "listId": "floIrkeJlUzM",
+      "listUrl": "https://www.bestcoastpairings.com/list/floIrkeJlUzM",
+      "threats": [
+        {
+          "name": "Land Speeder",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder/",
+          "notes": [
+            "High damage: Multi-melta melta 2 (D6), Stormfury missile launcher (D6+1)",
+            "Devastating Wounds: Onslaught gatling cannon devastating wounds"
+          ]
+        },
+        {
+          "name": "Scout Squad",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Scout-Squad/",
+          "notes": [
+            "Precision: Scout sniper rifle HEAVY PRECISION (2 damage)",
+            "High damage: Missile launcher – krak heavy (D6)"
+          ]
+        },
+        {
+          "name": "Lion El’jonson",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Lion-El-jonson/",
+          "notes": [
+            "High damage: Fealty – strike lethal hits (4)"
+          ]
+        },
+        {
+          "name": "Techmarine",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Techmarine/",
+          "notes": [
+            "High damage: Servo-arm extra attacks (3)"
+          ]
+        },
+        {
+          "name": "Incursor Squad",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Incursor-Squad/",
+          "notes": [
+            "Mortal wounds: Haywire Mine."
+          ]
+        },
+        {
+          "name": "Storm Speeder Thunderstrike",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Storm-Speeder-Thunderstrike/",
+          "notes": [
+            "High damage: Stormfury missiles (D6+1), Thunderstrike las-talon (D6+1)"
+          ]
+        }
+      ]
     },
     {
       "playerId": "xvRnMLgEwfn8",
@@ -668,17 +950,63 @@
       "pageUrl": "matchups/sam-cordell/",
       "rating": 1,
       "stars": "★☆☆☆☆",
-      "verdict": "Even without a list, T’au are exactly the fast shooting archetype Kaashif dislikes.",
-      "playerPlan": "Deploy for zero early lines, preserve both Wraith bricks and accept scoring pressure until a multi-tag charge can trap the shooting assets.",
+      "verdict": "The submitted T’au list has the exact mobile-shooting profile Kaashif dislikes: a Hammerhead, Riptide, Ghostkeel, Piranhas and layered spotters.",
+      "playerPlan": "Deploy for zero early lines, preserve both Wraith bricks and accept scoring pressure until a multi-tag charge can trap the main shooting assets.",
       "army": "Fast, efficient shooting with battlesuits, skimmers, rail weapons and disposable spotting or screening units.",
       "opponentPlan": "They create firing angles, focus one durable target and reposition so the counter-charge cannot connect.",
       "kaashifPlan": "This is the worst archetype for Kaashif. Stage completely out of sight, pressure several objectives together and use Wraiths to trap suits or vehicles before revealing C’tan.",
       "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/",
-      "confidence": "Low",
-      "evidence": "No list was submitted; this is a faction-level provisional read.",
-      "listId": null,
-      "listUrl": null,
-      "threats": []
+      "confidence": "High",
+      "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
+      "listId": "913iG69WCg2d",
+      "listUrl": "https://www.bestcoastpairings.com/list/913iG69WCg2d",
+      "threats": [
+        {
+          "name": "Hammerhead Gunship",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Hammerhead-Gunship/",
+          "notes": [
+            "High damage: Ion cannon – overcharge blast hazardous (3), Railgun heavy devastating wounds (D6+6)",
+            "Devastating Wounds: Railgun heavy devastating wounds"
+          ]
+        },
+        {
+          "name": "Pathfinder Team",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Pathfinder-Team/",
+          "notes": [
+            "High damage: Rail rifle devastating wounds heavy (3), Semi-automatic grenade launcher – fusion (3)",
+            "Devastating Wounds: Rail rifle devastating wounds heavy, Semi-automatic grenade launcher – EMP anti-vehicle 4+ devastating wounds"
+          ]
+        },
+        {
+          "name": "Devilfish",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Devilfish/",
+          "notes": [
+            "High damage: Seeker missile one shot (D6+1)"
+          ]
+        },
+        {
+          "name": "Ghostkeel Battlesuit",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Ghostkeel-Battlesuit/",
+          "notes": [
+            "High damage: Cyclic ion raker – overcharge hazardous (3), Fusion collider melta 2 (D6)"
+          ]
+        },
+        {
+          "name": "Piranhas",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Piranhas/",
+          "notes": [
+            "High damage: Piranha fusion blaster melta 4 (D6), Seeker missile one shot (D6+1)"
+          ]
+        },
+        {
+          "name": "Vespid Stingwings",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Vespid-Stingwings/",
+          "notes": [
+            "High damage: Neutron rail rifle DEVASTATING WOUNDS (3)",
+            "Devastating Wounds: Neutron rail rifle DEVASTATING WOUNDS"
+          ]
+        }
+      ]
     },
     {
       "playerId": "vI3V935pWkTB",
@@ -825,56 +1153,7 @@
       "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
       "listId": "BIcvGDyhQRUk",
       "listUrl": "https://www.bestcoastpairings.com/list/BIcvGDyhQRUk",
-      "threats": [
-        {
-          "name": "Einhyr Champion",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Einhyr-Champion/",
-          "notes": [
-            "Mortal wounds: Exemplar of the Einhyr.",
-            "High damage: Mass hammer (D6+1)"
-          ]
-        },
-        {
-          "name": "Buri Aegnirssen",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Buri-Aegnirssen/",
-          "notes": [
-            "Precision: Bane – strike precision (3 damage)",
-            "High damage: Bane – strike precision (3)"
-          ]
-        },
-        {
-          "name": "Einhyr Hearthguard",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Einhyr-Hearthguard/",
-          "notes": [
-            "High damage: Graviton hammer anti-monster 3+ anti-vehicle 3+ (3)",
-            "Devastating Wounds: Volkanite disintegrator devastating wounds"
-          ]
-        },
-        {
-          "name": "Hearthkyn Warriors",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Hearthkyn-Warriors/",
-          "notes": [
-            "High damage: L7 missile launcher – focused (D6), Magna-rail rifle devastating wounds heavy (D3+3)",
-            "Devastating Wounds: Magna-rail rifle devastating wounds heavy"
-          ]
-        },
-        {
-          "name": "Hekaton Land Fortress",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Hekaton-Land-Fortress/",
-          "notes": [
-            "High damage: Heavy magna-rail cannon devastating wounds heavy (D6+4), SP heavy conversion beamer conversion lethal hits (4)",
-            "Devastating Wounds: Heavy magna-rail cannon devastating wounds heavy"
-          ]
-        },
-        {
-          "name": "Ironkin Steeljacks with Heavy Volkanite Disintegrators",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Ironkin-Steeljacks-with-Heavy-Volkanite-Disintegrators/",
-          "notes": [
-            "A conditional Precision ability is present; check its target restrictions.",
-            "Devastating Wounds: Heavy volkanite disintegrator devastating wounds"
-          ]
-        }
-      ]
+      "threats": []
     },
     {
       "playerId": "A788NNoLqnoA",
@@ -1029,8 +1308,8 @@
       "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/",
       "confidence": "High",
       "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
-      "listId": "rBYVquBqN9i0",
-      "listUrl": "https://www.bestcoastpairings.com/list/rBYVquBqN9i0",
+      "listId": "OTK8gYfDrnAN",
+      "listUrl": "https://www.bestcoastpairings.com/list/OTK8gYfDrnAN",
       "threats": [
         {
           "name": "Lord Invocatus",
@@ -1301,8 +1580,8 @@
       "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/necrons/",
       "confidence": "High",
       "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
-      "listId": "D9dNkC9eMyi0",
-      "listUrl": "https://www.bestcoastpairings.com/list/D9dNkC9eMyi0",
+      "listId": "RCOziWuBu9em",
+      "listUrl": "https://www.bestcoastpairings.com/list/RCOziWuBu9em",
       "threats": [
         {
           "name": "C’tan Shard of the Void Dragon",
@@ -1318,14 +1597,6 @@
           "notes": [
             "Mortal wounds: United In Destruction.",
             "High damage: Hyperphase harvester (3)"
-          ]
-        },
-        {
-          "name": "Overlord",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/Overlord/",
-          "notes": [
-            "High damage: Tachyon arrow one shot (D6+2), Voidscythe devastating wounds (3)",
-            "Devastating Wounds: Overlord’s blade devastating wounds, Voidscythe devastating wounds"
           ]
         },
         {
@@ -1349,6 +1620,13 @@
           "notes": [
             "High damage: Unmaker Gauntlet (3)"
           ]
+        },
+        {
+          "name": "Lokhust Lord",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/Lokhust-Lord/",
+          "notes": [
+            "Devastating Wounds: Lord’s blade devastating wounds"
+          ]
         }
       ]
     },
@@ -1369,8 +1647,8 @@
       "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/",
       "confidence": "High",
       "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
-      "listId": "QLbZTVgmcaPG",
-      "listUrl": "https://www.bestcoastpairings.com/list/QLbZTVgmcaPG",
+      "listId": "4lEwbHl32csE",
+      "listUrl": "https://www.bestcoastpairings.com/list/4lEwbHl32csE",
       "threats": [
         {
           "name": "War Dog Brigand",
@@ -1384,13 +1662,6 @@
           "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Karnivore/",
           "notes": [
             "High damage: Slaughterclaw sustained hits 1 (D6+2)"
-          ]
-        },
-        {
-          "name": "War Dog Stalker",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Stalker/",
-          "notes": [
-            "High damage: Daemonbreath spear melta 4 (D6), Reaper chaintalon – strike (3)"
           ]
         },
         {
@@ -1419,8 +1690,8 @@
       "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/",
       "confidence": "High",
       "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
-      "listId": "vwcKAR0WtG9u",
-      "listUrl": "https://www.bestcoastpairings.com/list/vwcKAR0WtG9u",
+      "listId": "cQsqWlraqYQw",
+      "listUrl": "https://www.bestcoastpairings.com/list/cQsqWlraqYQw",
       "threats": [
         {
           "name": "Blade Champion",
@@ -1462,88 +1733,227 @@
       ]
     },
     {
-      "playerId": "emXgJOxr91aT",
-      "player": "Chris Shaw",
-      "team": "The Real Comp Play",
-      "faction": "Orks",
-      "slug": "chris-shaw",
-      "pageUrl": "matchups/chris-shaw/",
+      "playerId": "fUEV9jjYXUPC",
+      "player": "Dan Freeman",
+      "team": "Comp Play",
+      "faction": "World Eaters",
+      "slug": "dan-freeman",
+      "pageUrl": "matchups/dan-freeman/",
       "rating": 4,
       "stars": "★★★★☆",
-      "verdict": "Unknown Orks are still likely to bring pressure into the counter-charge zone, but the absence of a list lowers confidence.",
-      "playerPlan": "Check for Scout, transports and character Precision, then screen the first wave and keep the missile together behind the Wraiths.",
+      "verdict": "The World Eaters pressure still has to enter the counter-charge zone, though the daemon engines add meaningful high-damage shooting and melee.",
+      "playerPlan": "Make Eightbound hit Wraiths first, keep C’tan out of Forgefiend and Defiler lanes, then collapse the missile onto the committed wave.",
+      "army": "Very fast melee pressure with pre-game movement, hard character-led units and multiple early-charge threats.",
+      "opponentPlan": "They try to pin the army immediately and kill several units before a coherent counter-charge is possible.",
+      "kaashifPlan": "This is a favourable style if deployment blocks the first wave. Put bodies in Scout lanes, receive with Wraiths and counter-charge with the entire missile rather than individual pieces.",
+      "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/",
+      "confidence": "High",
+      "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
+      "listId": "Z80LrXKIg9tc",
+      "listUrl": "https://www.bestcoastpairings.com/list/Z80LrXKIg9tc",
+      "threats": [
+        {
+          "name": "Defiler",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Defiler/",
+          "notes": [
+            "High damage: Ectoplasma destructor blast rapid fire 2 (3), Hades battle cannon blast rapid fire 3 (3)",
+            "Devastating Wounds: Heavy reaper autocannon devastating wounds rapid fire 2 sustained hits 1"
+          ]
+        },
+        {
+          "name": "Helbrute",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Helbrute/",
+          "notes": [
+            "High damage: Plasma cannon blast hazardous rapid fire D3 (3), Missile launcher – krak rapid fire 1 (D6)"
+          ]
+        },
+        {
+          "name": "Forgefiend",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Forgefiend/",
+          "notes": [
+            "High damage: Ectoplasma cannon blast rapid fire 1 (3)"
+          ]
+        }
+      ]
+    },
+    {
+      "playerId": "ve9Jtj6OI9dq",
+      "player": "Harley Stevens",
+      "team": "Comp Play",
+      "faction": "Chaos Daemons",
+      "slug": "harley-stevens",
+      "pageUrl": "matchups/harley-stevens/",
+      "rating": 4,
+      "stars": "★★★★☆",
+      "verdict": "The Daemon list is a catchable durability brawl built around Rotigus, a Great Unclean One and several Nurgle objective pieces.",
+      "playerPlan": "Screen the Khorne speed and reserve arrivals, hold the middle with Wraiths and focus one greater daemon before the next can join the combat.",
+      "army": "A mixed monster-and-infantry army with deep-strike pressure, invulnerable saves and disruptive melee threats.",
+      "opponentPlan": "They use reserve arrivals and fast monsters to overload a flank, contest the centre and force several awkward combats at once.",
+      "kaashifPlan": "Screen the Technomancers from deep strike, make the Daemons hit Wraiths first and concentrate the counter-charge into one greater threat at a time.",
+      "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/",
+      "confidence": "High",
+      "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
+      "listId": "HQDb0ymsZ1Nl",
+      "listUrl": "https://www.bestcoastpairings.com/list/HQDb0ymsZ1Nl",
+      "threats": [
+        {
+          "name": "Bloodcrushers",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Bloodcrushers/",
+          "notes": [
+            "Mortal wounds: Brass Stampede."
+          ]
+        },
+        {
+          "name": "Rotigus",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Rotigus/",
+          "notes": [
+            "High damage: Gnarlrod – strike lethal hits psychic (3)",
+            "Devastating Wounds: Streams of brackish filth devastating wounds ignores cover torrent"
+          ]
+        },
+        {
+          "name": "Skullmaster",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Skullmaster/",
+          "notes": [
+            "High damage: Blade of blood (3)"
+          ]
+        },
+        {
+          "name": "Great Unclean One",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Great-Unclean-One/",
+          "notes": [
+            "High damage: Bilesword – strike lethal hits (D6+1)"
+          ]
+        },
+        {
+          "name": "Beasts Of Nurgle",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Beasts-Of-Nurgle/",
+          "notes": [
+            "Devastating Wounds: Putrid appendages devastating wounds"
+          ]
+        }
+      ]
+    },
+    {
+      "playerId": "A2YnULLCXvNK",
+      "player": "Luke Vincent",
+      "team": "Comp Play",
+      "faction": "Orks",
+      "slug": "luke-vincent",
+      "pageUrl": "matchups/luke-vincent/",
+      "rating": 2,
+      "stars": "★★☆☆☆",
+      "verdict": "This Ork list mixes durable melee pieces with substantial Lootas, Flash Gitz and mobile shooting, so it can pressure without offering a clean brawl.",
+      "playerPlan": "Block the early board-control pieces, hide the Technomancers from shooting angles and send Wraiths to pin Lootas or Flash Gitz before exposing the missile.",
       "army": "A high-volume pressure army with fast melee, large units, transports and disruptive forward pieces.",
       "opponentPlan": "It wants to occupy lanes early, pin the army in deployment and deliver several charges at once.",
       "kaashifPlan": "This is a preferred shape: block Scout moves when needed, let Wraiths absorb the first contact and counter-charge the committed mass with the compact missile.",
       "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/orks/",
-      "confidence": "Low",
-      "evidence": "No list was submitted; this is a faction-level provisional read.",
-      "listId": null,
-      "listUrl": null,
-      "threats": []
+      "confidence": "High",
+      "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
+      "listId": "qhhQ8u9kq1Yc",
+      "listUrl": "https://www.bestcoastpairings.com/list/qhhQ8u9kq1Yc",
+      "threats": [
+        {
+          "name": "Painboy",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Painboy/",
+          "notes": [
+            "Precision: ’Urty syringe anti-infantry 4+ extra attacks precision (1 damage)",
+            "Mortal wounds: Dok’s Toolz."
+          ]
+        },
+        {
+          "name": "Squighog Boyz",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Squighog-Boyz/",
+          "notes": [
+            "Mortal wounds: Bomb Squigs."
+          ]
+        },
+        {
+          "name": "Ghazghkull Thraka",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Ghazghkull-Thraka/",
+          "notes": [
+            "High damage: Gork’s Klaw - strike (4)",
+            "Devastating Wounds: Makari’s stabba devastating wounds"
+          ]
+        },
+        {
+          "name": "Mozrog Skragbad",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Mozrog-Skragbad/",
+          "notes": [
+            "High damage: Big Chompa’s jaws devastating wounds extra attacks (4), Gutrippa anti-monster 4+ anti-vehicle 4+ (3)",
+            "Devastating Wounds: Big Chompa’s jaws devastating wounds extra attacks"
+          ]
+        },
+        {
+          "name": "Wazdakka Gutsmek",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Wazdakka-Gutsmek/",
+          "notes": [
+            "Precision: Grabba dragga assault precision (3 damage)",
+            "High damage: Grabba dragga assault precision (3), Grabba dragga lance (3)"
+          ]
+        },
+        {
+          "name": "Boyz",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Boyz/",
+          "notes": [
+            "High damage: Kombi-rokkit (3), Rokkit launcha blast (3)",
+            "Devastating Wounds: Kombi-weapon anti-infantry 4+ devastating wounds rapid fire 1"
+          ]
+        }
+      ]
     },
     {
-      "playerId": "mROtAJW47SFR",
-      "player": "Christopher  Dyas",
-      "team": "The Real Comp Play",
-      "faction": "T'au Empire",
-      "slug": "christopher-dyas",
-      "pageUrl": "matchups/christopher-dyas/",
-      "rating": 1,
-      "stars": "★☆☆☆☆",
-      "verdict": "Unknown T’au remain a bad structural matchup because mobile guns can avoid the slow melee package.",
-      "playerPlan": "Deploy without visible C’tan or Technomancers, then force the actual list to contest several objectives inside Wraith charge distance.",
-      "army": "Fast, efficient shooting with battlesuits, skimmers, rail weapons and disposable spotting or screening units.",
-      "opponentPlan": "They create firing angles, focus one durable target and reposition so the counter-charge cannot connect.",
-      "kaashifPlan": "This is the worst archetype for Kaashif. Stage completely out of sight, pressure several objectives together and use Wraiths to trap suits or vehicles before revealing C’tan.",
-      "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/",
-      "confidence": "Low",
-      "evidence": "No list was submitted; this is a faction-level provisional read.",
-      "listId": null,
-      "listUrl": null,
-      "threats": []
-    },
-    {
-      "playerId": "u9p9775Nzq8s",
-      "player": "Liam Macindoe",
-      "team": "The Real Comp Play",
-      "faction": "Thousand Sons",
-      "slug": "liam-macindoe",
-      "pageUrl": "matchups/liam-macindoe/",
-      "rating": 1,
-      "stars": "★☆☆☆☆",
-      "verdict": "Unknown Thousand Sons still imply dangerous mortal wounds, psychic Devastating Wounds and teleport play.",
-      "playerPlan": "Confirm the actual cabal package, screen landing zones and never rely on Necrodermis alone against direct mortal or Devastating Wound output.",
-      "army": "Elite psychic shooting with teleport tools, Devastating Wounds and direct mortal-wound effects.",
-      "opponentPlan": "They isolate a valuable unit, amplify psychic damage and use movement tricks to avoid the counter-charge.",
-      "kaashifPlan": "Respect Doombolt and psychic Devastating Wounds even when normal line-of-sight maths looks safe. Spread threat pressure, deny teleport landing zones and do not expose Technomancers.",
-      "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/",
-      "confidence": "Low",
-      "evidence": "No list was submitted; this is a faction-level provisional read.",
-      "listId": null,
-      "listUrl": null,
-      "threats": []
-    },
-    {
-      "playerId": "HylIlKMx6e7T",
-      "player": "Nick Watkins",
-      "team": "The Real Comp Play",
-      "faction": "Space Marines (Astartes)",
-      "slug": "nick-watkins",
-      "pageUrl": "matchups/nick-watkins/",
+      "playerId": "us56yYVKKzis",
+      "player": "Tim Anderson",
+      "team": "Comp Play",
+      "faction": "Death Guard",
+      "slug": "tim-anderson",
+      "pageUrl": "matchups/tim-anderson/",
       "rating": 3,
       "stars": "★★★☆☆",
-      "verdict": "Unknown Space Marines could be manageable melee or difficult mobile shooting, so a neutral rating is the honest call.",
-      "playerPlan": "Inventory Precision and D3+ shooting before deployment; hide support pieces and make the first Wraith move respond to the actual threat mix.",
-      "army": "A flexible Space Marine force that may combine mobile shooting, durable infantry, transports and melee.",
-      "opponentPlan": "Without the submitted list, it could play either a mid-board combined-arms game or a more mobile shooting game.",
-      "kaashifPlan": "Keep the read provisional. Check for Scout snipers, melta, D6+ damage and shoot-and-move units before exposing Technomancers or C’tan.",
-      "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/",
-      "confidence": "Low",
-      "evidence": "No list was submitted; this is a faction-level provisional read.",
-      "listId": null,
-      "listUrl": null,
-      "threats": []
+      "verdict": "The Death Guard core is slow and catchable, but Rotigus, Defilers and Bloat-drones add durable pressure plus high-damage attacks.",
+      "playerPlan": "Choose one flank, keep C’tan out of the daemon-engine lanes and use Wraiths to separate the first pressure piece from the slower Nurgle centre.",
+      "army": "Slow, durable close-range units with debuffs, resilient infantry and damaging short-range brawlers.",
+      "opponentPlan": "They normally compress the board, occupy the middle and grind down anything that stays in contagion range.",
+      "kaashifPlan": "The low speed helps. Screen debuff pieces with Wraiths, preserve the Technomancers and choose one flank so the counter-charge overwhelms rather than feeds the grind.",
+      "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/death-guard/",
+      "confidence": "High",
+      "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
+      "listId": "Epj0AlEhHean",
+      "listUrl": "https://www.bestcoastpairings.com/list/Epj0AlEhHean",
+      "threats": [
+        {
+          "name": "Defiler",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/death-guard/Defiler/",
+          "notes": [
+            "High damage: Ectoplasma destructor blast lethal hits (3), Hades battle cannon blast lethal hits (3)",
+            "Devastating Wounds: Heavy reaper autocannon devastating wounds lethal hits sustained hits 1"
+          ]
+        },
+        {
+          "name": "Rotigus",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/death-guard/Rotigus/",
+          "notes": [
+            "High damage: Gnarlrod – strike lethal hits psychic (3)",
+            "Devastating Wounds: Streams of brackish filth devastating wounds ignores cover torrent"
+          ]
+        },
+        {
+          "name": "Foetid Bloat-drone with Heavy Blight Launcher",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/death-guard/Foetid-Bloat-drone-with-Heavy-Blight-Launcher/",
+          "notes": [
+            "High damage: Heavy blight launcher blast lethal hits (3)"
+          ]
+        },
+        {
+          "name": "Beasts of Nurgle",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/death-guard/Beasts-of-Nurgle/",
+          "notes": [
+            "Devastating Wounds: Putrid appendages devastating wounds"
+          ]
+        }
+      ]
     },
     {
       "playerId": "JmqO98hulLMS",
@@ -1562,8 +1972,8 @@
       "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/",
       "confidence": "High",
       "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
-      "listId": "gXfEJxZjpKer",
-      "listUrl": "https://www.bestcoastpairings.com/list/gXfEJxZjpKer",
+      "listId": "e8Dfhe1tahyE",
+      "listUrl": "https://www.bestcoastpairings.com/list/e8Dfhe1tahyE",
       "threats": [
         {
           "name": "Hammerhead Gunship",
@@ -1571,13 +1981,6 @@
           "notes": [
             "High damage: Ion cannon – overcharge blast hazardous (3), Railgun heavy devastating wounds (D6+6)",
             "Devastating Wounds: Railgun heavy devastating wounds"
-          ]
-        },
-        {
-          "name": "Piranhas",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Piranhas/",
-          "notes": [
-            "High damage: Piranha fusion blaster melta 4 (D6), Seeker missile one shot (D6+1)"
           ]
         },
         {
@@ -1606,6 +2009,13 @@
           "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Commander-In-Enforcer-Battlesuit/",
           "notes": [
             "High damage: Fusion blaster melta 2 (D6), Plasma rifle (3)"
+          ]
+        },
+        {
+          "name": "Commander Farsight",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Commander-Farsight/",
+          "notes": [
+            "High damage: High-intensity plasma rifle (3), Dawn Blade – strike (3)"
           ]
         }
       ]
@@ -1697,8 +2107,8 @@
       "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/",
       "confidence": "High",
       "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
-      "listId": "DcwSiKWvmpP1",
-      "listUrl": "https://www.bestcoastpairings.com/list/DcwSiKWvmpP1",
+      "listId": "U8orcy1750Cs",
+      "listUrl": "https://www.bestcoastpairings.com/list/U8orcy1750Cs",
       "threats": [
         {
           "name": "Blade Champion",
@@ -1715,6 +2125,13 @@
           "notes": [
             "Mortal wounds: Turbo-boost.",
             "High damage: Salvo launcher twin-linked (D6+1)"
+          ]
+        },
+        {
+          "name": "Trajann Valoris",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Trajann-Valoris/",
+          "notes": [
+            "High damage: Eagle's Scream assault (3), Watcher’s Axe (3)"
           ]
         },
         {
@@ -1744,22 +2161,30 @@
       "playerId": "F2YzCXRGZBGt",
       "player": "William Samms",
       "team": "Wessex Wyverns",
-      "faction": "Blood Angels",
+      "faction": "Dark Angels",
       "slug": "william-samms",
       "pageUrl": "matchups/william-samms/",
-      "rating": 3,
-      "stars": "★★★☆☆",
-      "verdict": "The Blood Angels melee is welcome, but two Vindicators, speeders and haywire add serious high-damage shooting and mortal wounds.",
-      "playerPlan": "Hide C’tan from Vindicator lanes, protect Technomancers from the Scout sniper and counter-charge jump units only after the shooting pieces are pinned or screened.",
-      "army": "Fast Space Marine melee pressure backed by jump units, transports and a smaller shooting package.",
-      "opponentPlan": "They threaten an early multi-charge, use speed to choose a flank and try to kill support characters during the scrum.",
-      "kaashifPlan": "This is broadly the kind of matchup Kaashif wants: receive the first wave with Wraiths, protect the Technomancers, then counter-charge with the missile.",
+      "rating": 2,
+      "stars": "★★☆☆☆",
+      "verdict": "The Dark Angels list combines three Vengeance speeders and mobile Ravenwing pressure with the Lion and two Deathwing Knight units.",
+      "playerPlan": "Hide C’tan from the plasma and melta lanes, force the speeders onto objectives and make Wraiths absorb the elite infantry before the counter-charge.",
+      "army": "Space Marines with access to durable elite infantry and highly mobile Ravenwing shooting.",
+      "opponentPlan": "A mobile build can create cross-board angles, shoot and reposition while a hard melee unit controls the centre.",
+      "kaashifPlan": "Do not chase skirmishers across open lanes. Hide the support package, force the bikes toward objectives and launch only when the Wraiths can trap them.",
       "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/",
       "confidence": "High",
       "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
-      "listId": "EY03zmcAyvXG",
-      "listUrl": "https://www.bestcoastpairings.com/list/EY03zmcAyvXG",
+      "listId": "WW98zQtaeMQC",
+      "listUrl": "https://www.bestcoastpairings.com/list/WW98zQtaeMQC",
       "threats": [
+        {
+          "name": "Land Speeder",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder/",
+          "notes": [
+            "High damage: Multi-melta melta 2 (D6), Stormfury missile launcher (D6+1)",
+            "Devastating Wounds: Onslaught gatling cannon devastating wounds"
+          ]
+        },
         {
           "name": "Scout Squad",
           "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Scout-Squad/",
@@ -1769,38 +2194,31 @@
           ]
         },
         {
-          "name": "Death Company Captain with jump pack",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Death-Company-Captain-with-Jump-Pack/",
+          "name": "Lion El’jonson",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Lion-El-jonson/",
           "notes": [
-            "Mortal wounds: Lost to Fury."
+            "High damage: Fealty – strike lethal hits (4)"
           ]
         },
         {
-          "name": "Incursor Squad",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Incursor-Squad/",
+          "name": "Techmarine",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Techmarine/",
           "notes": [
-            "Mortal wounds: Haywire Mine."
+            "High damage: Servo-arm extra attacks (3)"
           ]
         },
         {
-          "name": "Vindicator",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Vindicator/",
+          "name": "Deathwing Knights",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Deathwing-Knights/",
           "notes": [
-            "High damage: Demolisher cannon blast (D6), Hunter-killer missile one shot (D6)"
+            "Devastating Wounds: Great weapon of the Unforgiven devastating wounds sustained hits 1"
           ]
         },
         {
-          "name": "Ancient In Terminator Armour",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Ancient-In-Terminator-Armour/",
+          "name": "Callidus Assassin",
+          "url": "https://wahapedia.ru/wh40k11ed/factions/imperial-agents/Callidus-Assassin/",
           "notes": [
-            "Devastating Wounds: Thunder hammer devastating wounds"
-          ]
-        },
-        {
-          "name": "Sanguinary Guard",
-          "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Sanguinary-Guard/",
-          "notes": [
-            "High damage: Inferno pistol melta 2 pistol (D3)"
+            "Precision: Neural shredder anti-infantry 2+ precision torrent (1 damage), Phase sword and poison blades lethal hits precision (2 damage)"
           ]
         }
       ]

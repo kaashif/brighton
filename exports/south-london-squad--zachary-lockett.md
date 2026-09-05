@@ -3,8 +3,8 @@
 - Team: South London Squad
 - Faction: Leagues of Votann
 - [Glicko-2 rating: 1416; rank #8,866 of 12,446; 5 11th-edition games](https://tabletop-tools.net/new-meta/#/player/zUcY247Y1z3CPb-aSZzRZ)
-- [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/LJRHYhOWHq7b)
-- [Web version](https://kaashif.github.io/brighton/lists/LJRHYhOWHq7b/)
+- [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/bwEpVeYRNLNR)
+- [Web version](https://kaashif.github.io/brighton/lists/bwEpVeYRNLNR/)
 
 ## Army list
 
@@ -18,13 +18,13 @@ Strike Force (2000 points)
 Attached Units
 Attached Unit 1
 
-<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Berehk-Stornbr%C3%B6w/" target="_blank" rel="noreferrer">Berehk Stornbröw (85 points)</a>
+Berehk Stornbröw (85 points)
 • Attached as: Leader (Character)
 • Warlord
 • 1x Kromlôk’s Revenge
 1x Warforge Gauntlets
 
-<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Cthonian-Beserks/" target="_blank" rel="noreferrer">Cthonian Beserks (95 points)</a>
+Cthonian Beserks (95 points)
 • Attached as: Bodyguard
 • 5x Cthonian Beserk
 • 4x Concussion maul
@@ -33,49 +33,8 @@ Attached Unit 1
 
 Attached Unit 2
 
-<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/K-hl/" target="_blank" rel="noreferrer">Kâhl (80 points)</a>
+Brôkhyr Iron-master (100 points)
 • Attached as: Leader (Character)
-• 1x Mass gauntlet
-1x Teleport Crest
-1x Volkanite disintegrator
-• Enhancement: <a class="roster-link roster-link--meta" href="https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/#Enhancements-1" target="_blank" rel="noreferrer">Ancestral Crest</a>
-
-<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Einhyr-Hearthguard/" target="_blank" rel="noreferrer">Einhyr Hearthguard (270 points)</a>
-• Attached as: Bodyguard
-• 1x Hesyr
-• 1x EtaCarn plasma gun
-1x Exoarmour grenade launcher
-1x Graviton hammer
-1x Weavefield crest
-• 9x Einhyr Hearthguard
-• 9x Concussion gauntlet
-9x EtaCarn plasma gun
-9x Exoarmour grenade launcher
-
-Attached Unit 3
-
-<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/%C3%9Bthar-the-Destined/" target="_blank" rel="noreferrer">Ûthar the Destined (90 points)</a>
-• Attached as: Leader (Character)
-• 1x Blade of the Ancestors
-1x Rampart Crest
-1x Volkanite disintegrator
-
-<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Einhyr-Hearthguard/" target="_blank" rel="noreferrer">Einhyr Hearthguard (130 points)</a>
-• Attached as: Bodyguard
-• 1x Hesyr
-• 1x EtaCarn plasma gun
-1x Exoarmour grenade launcher
-1x Graviton hammer
-1x Teleport Crest
-• 4x Einhyr Hearthguard
-• 4x Concussion gauntlet
-4x EtaCarn plasma gun
-4x Exoarmour grenade launcher
-
-
-CHARACTERS
-
-<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Br%C3%B4khyr-Iron-master/" target="_blank" rel="noreferrer">Brôkhyr Iron-master (100 points)</a>
 • 1x Brôkhyr Iron-master
 • 1x Graviton hammer
 1x Graviton rifle
@@ -91,11 +50,61 @@ CHARACTERS
 • 1x Autoch-pattern bolt pistol
 1x Close combat weapon
 
-<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Buri-Aegnirssen/" target="_blank" rel="noreferrer">Buri Aegnirssen (85 points)</a>
+Brôkhyr Thunderkyn (170 points)
+• Attached as: Bodyguard
+• 6x Brôkhyr Thunderkyn
+• 6x Close combat weapon
+6x SP conversion beamer
+
+Attached Unit 3
+
+Kâhl (80 points)
+• Attached as: Leader (Character)
+• 1x Mass gauntlet
+1x Teleport Crest
+1x Volkanite disintegrator
+• Enhancement: <a class="roster-link roster-link--meta" href="https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/#Enhancements-1" target="_blank" rel="noreferrer">Ancestral Crest</a>
+
+Einhyr Hearthguard (270 points)
+• Attached as: Bodyguard
+• 1x Hesyr
+• 1x EtaCarn plasma gun
+1x Exoarmour grenade launcher
+1x Graviton hammer
+1x Weavefield crest
+• 9x Einhyr Hearthguard
+• 9x Concussion gauntlet
+9x EtaCarn plasma gun
+9x Exoarmour grenade launcher
+
+Attached Unit 4
+
+Ûthar the Destined (90 points)
+• Attached as: Leader (Character)
+• 1x Blade of the Ancestors
+1x Rampart Crest
+1x Volkanite disintegrator
+
+Einhyr Hearthguard (130 points)
+• Attached as: Bodyguard
+• 1x Hesyr
+• 1x EtaCarn plasma gun
+1x Exoarmour grenade launcher
+1x Graviton hammer
+1x Teleport Crest
+• 4x Einhyr Hearthguard
+• 4x Concussion gauntlet
+4x EtaCarn plasma gun
+4x Exoarmour grenade launcher
+
+
+CHARACTERS
+
+Buri Aegnirssen (85 points)
 • 1x Autoch‑pattern bolt pistol
 1x Bane
 
-<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Memnyr-Strategist/" target="_blank" rel="noreferrer">Memnyr Strategist (55 points)</a>
+Memnyr Strategist (55 points)
 • 1x Autoch-pattern bolt pistol
 1x Close combat weapon
 • Enhancement: <a class="roster-link roster-link--meta" href="https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/#Enhancements-1" target="_blank" rel="noreferrer">Dead Reckoning</a>
@@ -103,7 +112,7 @@ CHARACTERS
 
 DEDICATED TRANSPORTS
 
-<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Kapricus-Carrier/" target="_blank" rel="noreferrer">Kapricus Carrier (70 points)</a>
+Kapricus Carrier (70 points)
 • 1x Armoured hull
 1x Magna-coil autocannon
 1x Smoke Launcher
@@ -112,26 +121,21 @@ DEDICATED TRANSPORTS
 
 OTHER DATASHEETS
 
-<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Br%C3%B4khyr-Thunderkyn/" target="_blank" rel="noreferrer">Brôkhyr Thunderkyn (170 points)</a>
-• 6x Brôkhyr Thunderkyn
-• 6x Close combat weapon
-6x SP conversion beamer
-
-<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Hekaton-Land-Fortress/" target="_blank" rel="noreferrer">Hekaton Land Fortress (250 points)</a>
+Hekaton Land Fortress (250 points)
 • 1x Armoured wheels
 1x Heavy magna-rail cannon
 1x MATR autocannon
 1x Panspectral Scanner
 2x Twin bolt cannon
 
-<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Hekaton-Land-Fortress/" target="_blank" rel="noreferrer">Hekaton Land Fortress (265 points)</a>
+Hekaton Land Fortress (265 points)
 • 1x Armoured wheels
 1x Heavy magna-rail cannon
 1x MATR autocannon
 1x Panspectral Scanner
 2x Twin bolt cannon
 
-<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Hernkyn-Pioneers/" target="_blank" rel="noreferrer">Hernkyn Pioneers (80 points)</a>
+Hernkyn Pioneers (80 points)
 • 3x Hernkyn Pioneer
 • 3x Bolt revolver
 3x Bolt shotgun
@@ -141,7 +145,7 @@ OTHER DATASHEETS
 3x Plasma knife
 1x Rollbar Searchlight
 
-<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Hernkyn-Yaegirs/" target="_blank" rel="noreferrer">Hernkyn Yaegirs (90 points)</a>
+Hernkyn Yaegirs (90 points)
 • 1x Yaegir Theyn
 • 1x Bolt shotgun
 1x Close combat weapon
@@ -151,7 +155,7 @@ OTHER DATASHEETS
 9x Close combat weapon
 1x Magna-coil rifle
 
-<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Ironkin-Steeljacks-with-Melee-Weapons/" target="_blank" rel="noreferrer">Ironkin Steeljacks with Melee Weapons (75 points)</a>
+Ironkin Steeljacks with Melee Weapons (75 points)
 • 1x Steeljack Theyn
 • 1x Autoch-pattern bolter
 1x Plasma sword

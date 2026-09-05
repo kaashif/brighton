@@ -3,8 +3,8 @@
 - Team: Defenders of Outpost 47
 - Faction: Emperor's Children
 - Glicko-2 rating: Unrated
-- [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/nJX30tKBYWDG)
-- [Web version](https://kaashif.github.io/brighton/lists/nJX30tKBYWDG/)
+- [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/IZ3tB6zywOUZ)
+- [Web version](https://kaashif.github.io/brighton/lists/IZ3tB6zywOUZ/)
 
 ## Army list
 
@@ -134,4 +134,6 @@ OTHER DATASHEETS
 • 5x Noise Marine
 ◦ 2x Blastmaster
 ◦ 5x Close combat weapon
-◦ 3x Sonic blaster</pre>
+◦ 3x Sonic blaster
+
+Exported with App Version: v2.6.0 (3), Data Version: v946</pre>

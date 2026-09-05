@@ -3,8 +3,8 @@
 - Team: South London Squad
 - Faction: World Eaters
 - [Glicko-2 rating: 1424; rank #8,683 of 12,446; 5 11th-edition games](https://tabletop-tools.net/new-meta/#/player/6v5VdTBwcwBopcZYcM7cg)
-- [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/etRv0t6dYvgk)
-- [Web version](https://kaashif.github.io/brighton/lists/etRv0t6dYvgk/)
+- [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/4WJw09MFaTQp)
+- [Web version](https://kaashif.github.io/brighton/lists/4WJw09MFaTQp/)
 
 ## Army list
 

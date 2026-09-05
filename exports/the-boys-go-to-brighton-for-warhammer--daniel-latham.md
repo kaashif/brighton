@@ -3,8 +3,8 @@
 - Team: The boys go to Brighton for “Warhammer”
 - Faction: Necrons
 - [Glicko-2 rating: 1740; rank #2,032 of 12,446; 10 11th-edition games](https://tabletop-tools.net/new-meta/#/player/wWBpaxTNrWWBh2TefIPln)
-- [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/D9dNkC9eMyi0)
-- [Web version](https://kaashif.github.io/brighton/lists/D9dNkC9eMyi0/)
+- [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/RCOziWuBu9em)
+- [Web version](https://kaashif.github.io/brighton/lists/RCOziWuBu9em/)
 
 ## Army list
 
@@ -45,10 +45,10 @@ Attached Unit 2
 
 Attached Unit 3
 
-<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/necrons/Overlord/" target="_blank" rel="noreferrer">Overlord (110 points)</a>
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/necrons/Overlord-with-translocation-shroud/" target="_blank" rel="noreferrer">Overlord with Translocation Shroud (110 points)</a>
 • Attached as: Leader (Character)
-• 1x Resurrection Orb
-1x Voidscythe
+• 1x Overlord’s blade
+1x Resurrection Orb
 • Enhancement: <a class="roster-link roster-link--meta" href="https://wahapedia.ru/wh40k11ed/factions/necrons/#Enhancements-3" target="_blank" rel="noreferrer">Destroyer Ankh</a>
 
 <a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/necrons/Lychguard/" target="_blank" rel="noreferrer">Lychguard (160 points)</a>
@@ -110,4 +110,4 @@ OTHER DATASHEETS
 • 3x Ophydian hyperphase weapons
 1x Plasmacyte
 
-Exported with App Version: v2.5.0 (140), Data Version: v931</pre>
+Exported with App Version: v2.6.0 (144), Data Version: v946</pre>

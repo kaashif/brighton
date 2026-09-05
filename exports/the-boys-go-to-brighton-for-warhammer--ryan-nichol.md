@@ -3,12 +3,12 @@
 - Team: The boys go to Brighton for “Warhammer”
 - Faction: Adeptus Custodes
 - Glicko-2 rating: Unrated
-- [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/vwcKAR0WtG9u)
-- [Web version](https://kaashif.github.io/brighton/lists/vwcKAR0WtG9u/)
+- [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/cQsqWlraqYQw)
+- [Web version](https://kaashif.github.io/brighton/lists/cQsqWlraqYQw/)
 
 ## Army list
 
-<pre>Dan said I can't bring my plane
+<pre>Dan said I can't bring my big plane
 :(
 (2000 points)
 
@@ -30,6 +30,7 @@ Attached Unit 1
 • Attached as: Bodyguard
 • 4x Custodian Warden
 • 4x Guardian spear
+1x Vexilla
 
 Attached Unit 2
 
@@ -57,15 +58,17 @@ Attached Unit 3
 • Attached as: Bodyguard
 • 4x Custodian Warden
 • 4x Guardian spear
+1x Vexilla
 
 
 BATTLELINE
 
 <a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard/" target="_blank" rel="noreferrer">Custodian Guard (170 points)</a>
 • 4x Custodian Guard
-• 1x Misericordia
-4x Praesidium Shield
-3x Sentinel blade
+• 2x Guardian spear
+1x Misericordia
+2x Praesidium Shield
+1x Sentinel blade
 1x Vexilla
 
 

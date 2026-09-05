@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-31T15:14:42.077Z",
+  "checkedAt": "2026-09-05T01:02:19.405Z",
   "checks": [
     {
       "name": "desktop player count",
@@ -10,8 +10,8 @@
     {
       "name": "desktop missing-list count",
       "passed": true,
-      "value": 11,
-      "expected": 11
+      "value": 0,
+      "expected": 0
     },
     {
       "name": "desktop team count",
@@ -142,26 +142,26 @@
     {
       "name": "every published dropdown has objectives",
       "passed": true,
-      "value": 29,
-      "expected": 29
+      "value": 40,
+      "expected": 40
     },
     {
       "name": "all objective cards are present",
       "passed": true,
-      "value": 58,
-      "expected": 58
+      "value": 80,
+      "expected": 80
     },
     {
       "name": "every published dropdown has layouts",
       "passed": true,
-      "value": 29,
-      "expected": 29
+      "value": 40,
+      "expected": 40
     },
     {
       "name": "all layout thumbnails are present",
       "passed": true,
-      "value": 87,
-      "expected": 87
+      "value": 120,
+      "expected": 120
     },
     {
       "name": "all force-disposition layouts are available",
@@ -266,13 +266,37 @@
       "expected": true
     },
     {
-      "name": "route m3WkBIscvIfD",
+      "name": "route UteQl8HRtVLw",
       "passed": true,
       "value": true,
       "expected": true
     },
     {
-      "name": "route NdL1eiju0V7K",
+      "name": "route 74VbeImojDQH",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route w4U68Cw6cMwP",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route 3bHF7kowOiVP",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route fl6dywK1fELx",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route MQlR1KawpKFV",
       "passed": true,
       "value": true,
       "expected": true
@@ -296,7 +320,7 @@
       "expected": true
     },
     {
-      "name": "route nJX30tKBYWDG",
+      "name": "route IZ3tB6zywOUZ",
       "passed": true,
       "value": true,
       "expected": true
@@ -314,7 +338,25 @@
       "expected": true
     },
     {
-      "name": "route GnQfCBUNhIZR",
+      "name": "route 1WsdUJAerW1n",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route DCRQd624qk8j",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route floIrkeJlUzM",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route 913iG69WCg2d",
       "passed": true,
       "value": true,
       "expected": true
@@ -344,7 +386,7 @@
       "expected": true
     },
     {
-      "name": "route etRv0t6dYvgk",
+      "name": "route 4WJw09MFaTQp",
       "passed": true,
       "value": true,
       "expected": true
@@ -356,13 +398,13 @@
       "expected": true
     },
     {
-      "name": "route 90uVfSpDZZUw",
+      "name": "route NCr1t40BFouY",
       "passed": true,
       "value": true,
       "expected": true
     },
     {
-      "name": "route LJRHYhOWHq7b",
+      "name": "route bwEpVeYRNLNR",
       "passed": true,
       "value": true,
       "expected": true
@@ -374,7 +416,7 @@
       "expected": true
     },
     {
-      "name": "route rBYVquBqN9i0",
+      "name": "route OTK8gYfDrnAN",
       "passed": true,
       "value": true,
       "expected": true
@@ -398,25 +440,49 @@
       "expected": true
     },
     {
-      "name": "route D9dNkC9eMyi0",
+      "name": "route RCOziWuBu9em",
       "passed": true,
       "value": true,
       "expected": true
     },
     {
-      "name": "route QLbZTVgmcaPG",
+      "name": "route 4lEwbHl32csE",
       "passed": true,
       "value": true,
       "expected": true
     },
     {
-      "name": "route vwcKAR0WtG9u",
+      "name": "route cQsqWlraqYQw",
       "passed": true,
       "value": true,
       "expected": true
     },
     {
-      "name": "route gXfEJxZjpKer",
+      "name": "route Z80LrXKIg9tc",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route HQDb0ymsZ1Nl",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route qhhQ8u9kq1Yc",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route Epj0AlEhHean",
+      "passed": true,
+      "value": true,
+      "expected": true
+    },
+    {
+      "name": "route e8Dfhe1tahyE",
       "passed": true,
       "value": true,
       "expected": true
@@ -428,13 +494,13 @@
       "expected": true
     },
     {
-      "name": "route DcwSiKWvmpP1",
+      "name": "route U8orcy1750Cs",
       "passed": true,
       "value": true,
       "expected": true
     },
     {
-      "name": "route EY03zmcAyvXG",
+      "name": "route WW98zQtaeMQC",
       "passed": true,
       "value": true,
       "expected": true
@@ -448,14 +514,14 @@
     {
       "name": "matchup pages with exact-list confidence",
       "passed": true,
-      "value": 24,
-      "expected": 24
+      "value": 36,
+      "expected": 36
     },
     {
       "name": "provisional matchup pages",
       "passed": true,
-      "value": 12,
-      "expected": 12
+      "value": 0,
+      "expected": 0
     },
     {
       "name": "matchup stars are all valid",
@@ -464,25 +530,25 @@
       "expected": true
     },
     {
-      "name": "matchup route fUEV9jjYXUPC",
+      "name": "matchup route emXgJOxr91aT",
       "passed": true,
       "value": true,
       "expected": true
     },
     {
-      "name": "matchup route ve9Jtj6OI9dq",
+      "name": "matchup route mROtAJW47SFR",
       "passed": true,
       "value": true,
       "expected": true
     },
     {
-      "name": "matchup route A2YnULLCXvNK",
+      "name": "matchup route u9p9775Nzq8s",
       "passed": true,
       "value": true,
       "expected": true
     },
     {
-      "name": "matchup route us56yYVKKzis",
+      "name": "matchup route HylIlKMx6e7T",
       "passed": true,
       "value": true,
       "expected": true
@@ -632,25 +698,25 @@
       "expected": true
     },
     {
-      "name": "matchup route emXgJOxr91aT",
+      "name": "matchup route fUEV9jjYXUPC",
       "passed": true,
       "value": true,
       "expected": true
     },
     {
-      "name": "matchup route mROtAJW47SFR",
+      "name": "matchup route ve9Jtj6OI9dq",
       "passed": true,
       "value": true,
       "expected": true
     },
     {
-      "name": "matchup route u9p9775Nzq8s",
+      "name": "matchup route A2YnULLCXvNK",
       "passed": true,
       "value": true,
       "expected": true
     },
     {
-      "name": "matchup route HylIlKMx6e7T",
+      "name": "matchup route us56yYVKKzis",
       "passed": true,
       "value": true,
       "expected": true
@@ -698,16 +764,16 @@
       "expected": true
     },
     {
-      "name": "missing-list matchup is explicit",
+      "name": "newly submitted matchup is list-specific",
       "passed": true,
-      "value": "Low confidence.",
-      "expected": "Low confidence."
+      "value": "High confidence.",
+      "expected": "High confidence."
     },
     {
-      "name": "missing-list matchup has no invented exact threats",
+      "name": "newly submitted matchup has exact threats",
       "passed": true,
-      "value": 0,
-      "expected": 0
+      "value": true,
+      "expected": true
     },
     {
       "name": "mobile player count",
@@ -718,8 +784,8 @@
     {
       "name": "mobile missing-list count",
       "passed": true,
-      "value": 11,
-      "expected": 11
+      "value": 0,
+      "expected": 0
     },
     {
       "name": "mobile matchup links remain available",
@@ -748,8 +814,8 @@
     {
       "name": "mobile layouts switch with identity",
       "passed": true,
-      "value": "Priority Assets vs Reconnaissance",
-      "expected": "Priority Assets vs Reconnaissance"
+      "value": "Priority Assets vs Disruption",
+      "expected": "Priority Assets vs Disruption"
     },
     {
       "name": "mobile dropdown has unit links",

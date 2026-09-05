@@ -3,7 +3,162 @@
 - Team: The Real Comp Play
 - Faction: Orks
 - Glicko-2 rating: Unrated
+- [Original submission on Best Coast Pairings](https://www.bestcoastpairings.com/list/UteQl8HRtVLw)
+- [Web version](https://kaashif.github.io/brighton/lists/UteQl8HRtVLw/)
 
 ## Army list
 
-No list submitted.
+<pre>Please Pete…. Don’t hurt me. (1,995 Points)
+
+Orks
+Bully Boyz and Equatorial Hordes (3 Detachment Points)
+Disruption
+Strike Force (2,000 Points)
+
+ATTACHED UNITS
+
+Attached unit 1
+
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/orks/Ghazghkull-Thraka/" target="_blank" rel="noreferrer">Ghazghkull Thraka (235 Points)</a>
+• Attached as: Leader (Character)
+• 1x Ghazghkull Thraka
+• Warlord
+◦ 1x Gork’s Klaw
+◦ 1x Mork’s Roar
+• 1x Makari
+◦ 1x Makari’s stabba
+
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/orks/Painboy/" target="_blank" rel="noreferrer">Painboy (90 Points)</a>
+• Attached as: Support (Character)
+• 1x Power klaw
+• 1x ’Urty syringe
+
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/orks/Boyz/" target="_blank" rel="noreferrer">Boyz (160 Points)</a>
+• Attached as: Bodyguard (Battleline)
+• 19x Boy
+◦ 19x Choppa
+◦ 19x Shoota
+◦ 19x Slugga
+• 1x Boss Nob
+◦ 1x Power klaw
+◦ 1x Slugga
+
+Attached unit 2
+
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/orks/Warboss-In-Mega-Armour/" target="_blank" rel="noreferrer">Warboss in Mega Armour (105 Points)</a>
+• Attached as: Leader (Character)
+• 1x Big shoota
+• 1x ’Uge choppa
+• Enhancements: <a class="roster-link roster-link--meta" href="https://wahapedia.ru/wh40k11ed/factions/orks/#Enhancements-11" target="_blank" rel="noreferrer">Tellyporta</a>
+
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/orks/Meganobz/" target="_blank" rel="noreferrer">Meganobz (180 Points)</a>
+• Attached as: Bodyguard
+• 6x Meganob
+◦ 6x Twin killsaws
+
+Attached unit 3
+
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/orks/Big-Mek-In-Mega-Armour/" target="_blank" rel="noreferrer">Big Mek in Mega Armour (80 Points)</a>
+• Attached as: Leader (Character)
+• 1x Kustom mega-blasta
+• 1x Power klaw
+
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/orks/Meganobz/" target="_blank" rel="noreferrer">Meganobz (150 Points)</a>
+• Attached as: Bodyguard
+• 5x Meganob
+◦ 5x Twin killsaws
+
+Attached unit 4
+
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/orks/Mozrog-Skragbad/" target="_blank" rel="noreferrer">Mozrog Skragbad (125 Points)</a>
+• Attached as: Leader (Character)
+• 1x Big Chompa’s jaws
+• 1x Gutrippa
+• 1x Thump gun
+
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/orks/Squighog-Boyz/" target="_blank" rel="noreferrer">Squighog Boyz (270 Points)</a>
+• Attached as: Bodyguard
+• 2x Bomb Squig
+• 6x Squighog Boy
+◦ 6x Saddlegit weapons
+◦ 6x Squig jaws
+◦ 6x Stikka
+• 2x Nob on Smasha Squig
+◦ 2x Big choppa
+◦ 2x Slugga
+◦ 2x Squig jaws
+
+CHARACTERS
+
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/orks/Boss-Snikrot/" target="_blank" rel="noreferrer">Boss Snikrot (75 Points)</a>
+• 1x Mork’s Teeth
+• 1x Slugga
+
+BATTLELINE
+
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/orks/Boyz/" target="_blank" rel="noreferrer">Boyz (75 Points)</a>
+• 9x Boy
+◦ 9x Choppa
+◦ 9x Shoota
+◦ 9x Slugga
+• 1x Boss Nob
+◦ 1x Power klaw
+◦ 1x Slugga
+
+OTHER DATASHEETS
+
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/orks/Gretchin/" target="_blank" rel="noreferrer">Gretchin (45 Points)</a>
+• 10x Gretchin
+◦ 10x Close combat weapon
+◦ 10x Grot blasta
+• 1x Runtherd
+◦ 1x Runtherd tools
+◦ 1x Slugga
+
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/orks/Gretchin/" target="_blank" rel="noreferrer">Gretchin (45 Points)</a>
+• 10x Gretchin
+◦ 10x Close combat weapon
+◦ 10x Grot blasta
+• 1x Runtherd
+◦ 1x Runtherd tools
+◦ 1x Slugga
+
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/orks/Gretchin/" target="_blank" rel="noreferrer">Gretchin (45 Points)</a>
+• 10x Gretchin
+◦ 10x Close combat weapon
+◦ 10x Grot blasta
+• 1x Runtherd
+◦ 1x Runtherd tools
+◦ 1x Slugga
+
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/orks/Kommandos/" target="_blank" rel="noreferrer">Kommandos (120 Points)</a>
+• 9x Kommando
+◦ 9x Choppa
+◦ 9x Slugga
+• 1x Boss Nob
+◦ 1x Power klaw
+◦ 1x Slugga
+
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/orks/Stormboyz/" target="_blank" rel="noreferrer">Stormboyz (65 Points)</a>
+• 4x Stormboy
+◦ 4x Choppa
+◦ 4x Slugga
+• 1x Boss Nob
+◦ 1x Power klaw
+◦ 1x Slugga
+
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/orks/Stormboyz/" target="_blank" rel="noreferrer">Stormboyz (65 Points)</a>
+• 4x Stormboy
+◦ 4x Choppa
+◦ 4x Slugga
+• 1x Boss Nob
+◦ 1x Power klaw
+◦ 1x Slugga
+
+<a class="roster-link roster-link--unit" href="https://wahapedia.ru/wh40k11ed/factions/orks/Stormboyz/" target="_blank" rel="noreferrer">Stormboyz (65 Points)</a>
+• 4x Stormboy
+◦ 4x Choppa
+◦ 4x Slugga
+• 1x Boss Nob
+◦ 1x Power
+◦ 1x Slugga</pre>

@@ -2,18 +2,30 @@ import { chromium } from 'playwright';
 import { readFile, writeFile } from 'node:fs/promises';
 
 const CDP_URL = process.env.CDP_URL || 'http://127.0.0.1:9223';
+const STORAGE_STATE = process.env.BCP_STORAGE_STATE;
 const EVENT_ID = 'oBgVBdXRqUIy';
+const EVENT_URL = `https://www.bestcoastpairings.com/event/${EVENT_ID}`;
 const OUTPUT = new URL('../data/raw-lists.json', import.meta.url);
 const ratings = JSON.parse(await readFile(new URL('../data/player-ratings.json', import.meta.url), 'utf8'));
 const normalize = (value = '') => value.normalize('NFKD').replace(/\p{Diacritic}/gu, '').replace(/\s+/g, ' ').trim().toLowerCase();
 const dispositions = ['Take and Hold', 'Disruption', 'Purge the Foe', 'Reconnaissance', 'Priority Assets'];
 
-const browser = await chromium.connectOverCDP(CDP_URL);
-const context = browser.contexts()[0];
-const eventPage = context.pages().find((page) => page.url().includes(`/event/${EVENT_ID}`));
-if (!eventPage) throw new Error(`Open event ${EVENT_ID} in the connected, authenticated browser first.`);
+const browser = STORAGE_STATE ? await chromium.launch({ headless: true }) : await chromium.connectOverCDP(CDP_URL);
+const context = STORAGE_STATE ? await browser.newContext({ storageState: STORAGE_STATE }) : browser.contexts()[0];
+let eventPage = context.pages().find((page) => page.url().includes(`/event/${EVENT_ID}`));
 
-await eventPage.waitForLoadState('domcontentloaded');
+if (!eventPage && STORAGE_STATE) {
+  eventPage = await context.newPage();
+  await eventPage.goto(EVENT_URL, { waitUntil: 'domcontentloaded', timeout: 60_000 });
+  const essentialCookies = eventPage.getByRole('button', { name: 'Essential Only' });
+  if (await essentialCookies.count()) await essentialCookies.click();
+  const rosterTab = eventPage.getByText('Roster', { exact: true });
+  await rosterTab.waitFor({ state: 'visible', timeout: 20_000 });
+  await rosterTab.click();
+}
+
+if (!eventPage) throw new Error(`Open event ${EVENT_ID} in the connected, authenticated browser first.`);
+await eventPage.locator('svg[data-icon="clipboard-list"]').first().waitFor({ state: 'visible', timeout: 20_000 });
 
 const extractedRoster = await eventPage.locator('svg[data-icon="clipboard-list"]').evaluateAll((icons) =>
   icons.map((icon) => {

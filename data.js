@@ -2,59 +2,59 @@ window.BCP_DATA = {
   "event": "Brighton 40k Teams II",
   "eventId": "oBgVBdXRqUIy",
   "eventUrl": "https://www.bestcoastpairings.com/event/oBgVBdXRqUIy?active_tab=roster",
-  "extractedAt": "2026-08-31T14:31:08.043Z",
+  "extractedAt": "2026-09-04T20:33:05.824Z",
   "rosterCount": 40,
-  "count": 29,
-  "missingListCount": 11,
+  "count": 40,
+  "missingListCount": 0,
   "roster": [
     {
-      "player": "Dan Freeman",
-      "team": "Comp Play",
-      "faction": "World Eaters",
+      "player": "Chris Shaw",
+      "team": "The Real Comp Play",
+      "faction": "Orks",
       "checkedIn": true,
-      "listId": null,
-      "hasPublishedList": false,
-      "sourceUrl": null,
-      "playerId": "fUEV9jjYXUPC"
+      "listId": "UteQl8HRtVLw",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/UteQl8HRtVLw",
+      "playerId": "emXgJOxr91aT"
     },
     {
-      "player": "Harley Stevens",
-      "team": "Comp Play",
-      "faction": "Death Guard",
+      "player": "Christopher  Dyas",
+      "team": "The Real Comp Play",
+      "faction": "T'au Empire",
       "checkedIn": true,
-      "listId": null,
-      "hasPublishedList": false,
-      "sourceUrl": null,
-      "playerId": "ve9Jtj6OI9dq"
+      "listId": "74VbeImojDQH",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/74VbeImojDQH",
+      "playerId": "mROtAJW47SFR"
     },
     {
-      "player": "Luke Vincent",
-      "team": "Comp Play",
-      "faction": "Genestealer Cult",
+      "player": "Liam Macindoe",
+      "team": "The Real Comp Play",
+      "faction": "Deathwatch",
       "checkedIn": true,
-      "listId": null,
-      "hasPublishedList": false,
-      "sourceUrl": null,
-      "playerId": "A2YnULLCXvNK"
+      "listId": "w4U68Cw6cMwP",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/w4U68Cw6cMwP",
+      "playerId": "u9p9775Nzq8s"
     },
     {
-      "player": "Tim Anderson",
-      "team": "Comp Play",
-      "faction": "Space Marines (Astartes)",
+      "player": "Nick Watkins",
+      "team": "The Real Comp Play",
+      "faction": "Emperor's Children",
       "checkedIn": true,
-      "listId": null,
-      "hasPublishedList": false,
-      "sourceUrl": null,
-      "playerId": "us56yYVKKzis"
+      "listId": "3bHF7kowOiVP",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/3bHF7kowOiVP",
+      "playerId": "HylIlKMx6e7T"
     },
     {
       "player": "Alexander England",
       "team": "Comp Play Surrey Primarchs",
       "faction": "Space Marines (Astartes)",
       "checkedIn": true,
-      "listId": "m3WkBIscvIfD",
+      "listId": "fl6dywK1fELx",
       "hasPublishedList": true,
-      "sourceUrl": "https://www.bestcoastpairings.com/list/m3WkBIscvIfD",
+      "sourceUrl": "https://www.bestcoastpairings.com/list/fl6dywK1fELx",
       "playerId": "BuiJpJWVybKf"
     },
     {
@@ -62,9 +62,9 @@ window.BCP_DATA = {
       "team": "Comp Play Surrey Primarchs",
       "faction": "Adeptus Custodes",
       "checkedIn": true,
-      "listId": "NdL1eiju0V7K",
+      "listId": "MQlR1KawpKFV",
       "hasPublishedList": true,
-      "sourceUrl": "https://www.bestcoastpairings.com/list/NdL1eiju0V7K",
+      "sourceUrl": "https://www.bestcoastpairings.com/list/MQlR1KawpKFV",
       "playerId": "Ybq7tFb88pv2"
     },
     {
@@ -102,9 +102,9 @@ window.BCP_DATA = {
       "team": "Defenders of Outpost 47",
       "faction": "Emperor's Children",
       "checkedIn": true,
-      "listId": "nJX30tKBYWDG",
+      "listId": "IZ3tB6zywOUZ",
       "hasPublishedList": true,
-      "sourceUrl": "https://www.bestcoastpairings.com/list/nJX30tKBYWDG",
+      "sourceUrl": "https://www.bestcoastpairings.com/list/IZ3tB6zywOUZ",
       "playerId": "uR5seyGkjDxB"
     },
     {
@@ -132,9 +132,9 @@ window.BCP_DATA = {
       "team": "For King & Comp Play",
       "faction": "Leagues of Votann",
       "checkedIn": true,
-      "listId": "GnQfCBUNhIZR",
+      "listId": "1WsdUJAerW1n",
       "hasPublishedList": true,
-      "sourceUrl": "https://www.bestcoastpairings.com/list/GnQfCBUNhIZR",
+      "sourceUrl": "https://www.bestcoastpairings.com/list/1WsdUJAerW1n",
       "playerId": "svEcgUyRuxeu"
     },
     {
@@ -142,19 +142,19 @@ window.BCP_DATA = {
       "team": "For King & Comp Play",
       "faction": "Chaos Space Marines",
       "checkedIn": true,
-      "listId": null,
-      "hasPublishedList": false,
-      "sourceUrl": null,
+      "listId": "DCRQd624qk8j",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/DCRQd624qk8j",
       "playerId": "rA97GI9XUbqP"
     },
     {
       "player": "Rob Lebeau",
       "team": "For King & Comp Play",
-      "faction": "Drukhari",
+      "faction": "Dark Angels",
       "checkedIn": true,
-      "listId": null,
-      "hasPublishedList": false,
-      "sourceUrl": null,
+      "listId": "floIrkeJlUzM",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/floIrkeJlUzM",
       "playerId": "05EtaDqVOpyt"
     },
     {
@@ -162,9 +162,9 @@ window.BCP_DATA = {
       "team": "For King & Comp Play",
       "faction": "T'au Empire",
       "checkedIn": true,
-      "listId": null,
-      "hasPublishedList": false,
-      "sourceUrl": null,
+      "listId": "913iG69WCg2d",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/913iG69WCg2d",
       "playerId": "xvRnMLgEwfn8"
     },
     {
@@ -212,9 +212,9 @@ window.BCP_DATA = {
       "team": "South London Squad",
       "faction": "World Eaters",
       "checkedIn": true,
-      "listId": "etRv0t6dYvgk",
+      "listId": "4WJw09MFaTQp",
       "hasPublishedList": true,
-      "sourceUrl": "https://www.bestcoastpairings.com/list/etRv0t6dYvgk",
+      "sourceUrl": "https://www.bestcoastpairings.com/list/4WJw09MFaTQp",
       "playerId": "tLKxjlKF1ivt"
     },
     {
@@ -232,9 +232,9 @@ window.BCP_DATA = {
       "team": "South London Squad",
       "faction": "Dark Angels",
       "checkedIn": true,
-      "listId": "90uVfSpDZZUw",
+      "listId": "NCr1t40BFouY",
       "hasPublishedList": true,
-      "sourceUrl": "https://www.bestcoastpairings.com/list/90uVfSpDZZUw",
+      "sourceUrl": "https://www.bestcoastpairings.com/list/NCr1t40BFouY",
       "playerId": "0VF0E1vewCY7"
     },
     {
@@ -242,9 +242,9 @@ window.BCP_DATA = {
       "team": "South London Squad",
       "faction": "Leagues of Votann",
       "checkedIn": true,
-      "listId": "LJRHYhOWHq7b",
+      "listId": "bwEpVeYRNLNR",
       "hasPublishedList": true,
-      "sourceUrl": "https://www.bestcoastpairings.com/list/LJRHYhOWHq7b",
+      "sourceUrl": "https://www.bestcoastpairings.com/list/bwEpVeYRNLNR",
       "playerId": "SlnqyU8XcuVu"
     },
     {
@@ -262,9 +262,9 @@ window.BCP_DATA = {
       "team": "Surrey Primarchs B",
       "faction": "World Eaters",
       "checkedIn": true,
-      "listId": "rBYVquBqN9i0",
+      "listId": "OTK8gYfDrnAN",
       "hasPublishedList": true,
-      "sourceUrl": "https://www.bestcoastpairings.com/list/rBYVquBqN9i0",
+      "sourceUrl": "https://www.bestcoastpairings.com/list/OTK8gYfDrnAN",
       "playerId": "kUHsdazGk8sL"
     },
     {
@@ -302,9 +302,9 @@ window.BCP_DATA = {
       "team": "The boys go to Brighton for “Warhammer”",
       "faction": "Necrons",
       "checkedIn": true,
-      "listId": "D9dNkC9eMyi0",
+      "listId": "RCOziWuBu9em",
       "hasPublishedList": true,
-      "sourceUrl": "https://www.bestcoastpairings.com/list/D9dNkC9eMyi0",
+      "sourceUrl": "https://www.bestcoastpairings.com/list/RCOziWuBu9em",
       "playerId": "F3ZBcZlDGToH"
     },
     {
@@ -312,9 +312,9 @@ window.BCP_DATA = {
       "team": "The boys go to Brighton for “Warhammer”",
       "faction": "Chaos Knights",
       "checkedIn": true,
-      "listId": "QLbZTVgmcaPG",
+      "listId": "4lEwbHl32csE",
       "hasPublishedList": true,
-      "sourceUrl": "https://www.bestcoastpairings.com/list/QLbZTVgmcaPG",
+      "sourceUrl": "https://www.bestcoastpairings.com/list/4lEwbHl32csE",
       "playerId": "JghtoUiZIWZu"
     },
     {
@@ -322,59 +322,59 @@ window.BCP_DATA = {
       "team": "The boys go to Brighton for “Warhammer”",
       "faction": "Adeptus Custodes",
       "checkedIn": true,
-      "listId": "vwcKAR0WtG9u",
+      "listId": "cQsqWlraqYQw",
       "hasPublishedList": true,
-      "sourceUrl": "https://www.bestcoastpairings.com/list/vwcKAR0WtG9u",
+      "sourceUrl": "https://www.bestcoastpairings.com/list/cQsqWlraqYQw",
       "playerId": "oXogJH2T3JAj"
     },
     {
-      "player": "Chris Shaw",
-      "team": "The Real Comp Play",
+      "player": "Dan Freeman",
+      "team": "Comp Play",
+      "faction": "World Eaters",
+      "checkedIn": true,
+      "listId": "Z80LrXKIg9tc",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/Z80LrXKIg9tc",
+      "playerId": "fUEV9jjYXUPC"
+    },
+    {
+      "player": "Harley Stevens",
+      "team": "Comp Play",
+      "faction": "Chaos Daemons",
+      "checkedIn": true,
+      "listId": "HQDb0ymsZ1Nl",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/HQDb0ymsZ1Nl",
+      "playerId": "ve9Jtj6OI9dq"
+    },
+    {
+      "player": "Luke Vincent",
+      "team": "Comp Play",
       "faction": "Orks",
       "checkedIn": true,
-      "listId": null,
-      "hasPublishedList": false,
-      "sourceUrl": null,
-      "playerId": "emXgJOxr91aT"
+      "listId": "qhhQ8u9kq1Yc",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/qhhQ8u9kq1Yc",
+      "playerId": "A2YnULLCXvNK"
     },
     {
-      "player": "Christopher  Dyas",
-      "team": "The Real Comp Play",
-      "faction": "T'au Empire",
+      "player": "Tim Anderson",
+      "team": "Comp Play",
+      "faction": "Death Guard",
       "checkedIn": true,
-      "listId": null,
-      "hasPublishedList": false,
-      "sourceUrl": null,
-      "playerId": "mROtAJW47SFR"
-    },
-    {
-      "player": "Liam Macindoe",
-      "team": "The Real Comp Play",
-      "faction": "Thousand Sons",
-      "checkedIn": true,
-      "listId": null,
-      "hasPublishedList": false,
-      "sourceUrl": null,
-      "playerId": "u9p9775Nzq8s"
-    },
-    {
-      "player": "Nick Watkins",
-      "team": "The Real Comp Play",
-      "faction": "Space Marines (Astartes)",
-      "checkedIn": true,
-      "listId": null,
-      "hasPublishedList": false,
-      "sourceUrl": null,
-      "playerId": "HylIlKMx6e7T"
+      "listId": "Epj0AlEhHean",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/Epj0AlEhHean",
+      "playerId": "us56yYVKKzis"
     },
     {
       "player": "David Bannister",
       "team": "Wessex Wyverns",
       "faction": "T'au Empire",
       "checkedIn": true,
-      "listId": "gXfEJxZjpKer",
+      "listId": "e8Dfhe1tahyE",
       "hasPublishedList": true,
-      "sourceUrl": "https://www.bestcoastpairings.com/list/gXfEJxZjpKer",
+      "sourceUrl": "https://www.bestcoastpairings.com/list/e8Dfhe1tahyE",
       "playerId": "JmqO98hulLMS"
     },
     {
@@ -392,52 +392,112 @@ window.BCP_DATA = {
       "team": "Wessex Wyverns",
       "faction": "Adeptus Custodes",
       "checkedIn": true,
-      "listId": "DcwSiKWvmpP1",
+      "listId": "U8orcy1750Cs",
       "hasPublishedList": true,
-      "sourceUrl": "https://www.bestcoastpairings.com/list/DcwSiKWvmpP1",
+      "sourceUrl": "https://www.bestcoastpairings.com/list/U8orcy1750Cs",
       "playerId": "CDysAE4Q7MHe"
     },
     {
       "player": "William Samms",
       "team": "Wessex Wyverns",
-      "faction": "Blood Angels",
+      "faction": "Dark Angels",
       "checkedIn": true,
-      "listId": "EY03zmcAyvXG",
+      "listId": "WW98zQtaeMQC",
       "hasPublishedList": true,
-      "sourceUrl": "https://www.bestcoastpairings.com/list/EY03zmcAyvXG",
+      "sourceUrl": "https://www.bestcoastpairings.com/list/WW98zQtaeMQC",
       "playerId": "F2YzCXRGZBGt"
     }
   ],
   "lists": [
     {
+      "player": "Chris Shaw",
+      "team": "The Real Comp Play",
+      "faction": "Orks - Disruption",
+      "checkedIn": true,
+      "listId": "UteQl8HRtVLw",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/UteQl8HRtVLw",
+      "playerId": "emXgJOxr91aT",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Chris Shaw",
+      "content": "Please Pete…. Don’t hurt me. (1,995 Points)\n\nOrks\nBully Boyz and Equatorial Hordes (3 Detachment Points)\nDisruption\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nGhazghkull Thraka (235 Points)\n• Attached as: Leader (Character)\n• 1x Ghazghkull Thraka\n• Warlord\n◦ 1x Gork’s Klaw\n◦ 1x Mork’s Roar\n• 1x Makari\n◦ 1x Makari’s stabba\n\nPainboy (90 Points)\n• Attached as: Support (Character)\n• 1x Power klaw\n• 1x ’Urty syringe\n\nBoyz (160 Points)\n• Attached as: Bodyguard (Battleline)\n• 19x Boy\n◦ 19x Choppa\n◦ 19x Shoota\n◦ 19x Slugga\n• 1x Boss Nob\n◦ 1x Power klaw\n◦ 1x Slugga\n\nAttached unit 2\n\nWarboss in Mega Armour (105 Points)\n• Attached as: Leader (Character)\n• 1x Big shoota\n• 1x ’Uge choppa\n• Enhancements: Tellyporta\n\nMeganobz (180 Points)\n• Attached as: Bodyguard\n• 6x Meganob\n◦ 6x Twin killsaws\n\nAttached unit 3\n\nBig Mek in Mega Armour (80 Points)\n• Attached as: Leader (Character)\n• 1x Kustom mega-blasta\n• 1x Power klaw\n\nMeganobz (150 Points)\n• Attached as: Bodyguard\n• 5x Meganob\n◦ 5x Twin killsaws\n\nAttached unit 4\n\nMozrog Skragbad (125 Points)\n• Attached as: Leader (Character)\n• 1x Big Chompa’s jaws\n• 1x Gutrippa\n• 1x Thump gun\n\nSquighog Boyz (270 Points)\n• Attached as: Bodyguard\n• 2x Bomb Squig\n• 6x Squighog Boy\n◦ 6x Saddlegit weapons\n◦ 6x Squig jaws\n◦ 6x Stikka\n• 2x Nob on Smasha Squig\n◦ 2x Big choppa\n◦ 2x Slugga\n◦ 2x Squig jaws\n\nCHARACTERS\n\nBoss Snikrot (75 Points)\n• 1x Mork’s Teeth\n• 1x Slugga\n\nBATTLELINE\n\nBoyz (75 Points)\n• 9x Boy\n◦ 9x Choppa\n◦ 9x Shoota\n◦ 9x Slugga\n• 1x Boss Nob\n◦ 1x Power klaw\n◦ 1x Slugga\n\nOTHER DATASHEETS\n\nGretchin (45 Points)\n• 10x Gretchin\n◦ 10x Close combat weapon\n◦ 10x Grot blasta\n• 1x Runtherd\n◦ 1x Runtherd tools\n◦ 1x Slugga\n\nGretchin (45 Points)\n• 10x Gretchin\n◦ 10x Close combat weapon\n◦ 10x Grot blasta\n• 1x Runtherd\n◦ 1x Runtherd tools\n◦ 1x Slugga\n\nGretchin (45 Points)\n• 10x Gretchin\n◦ 10x Close combat weapon\n◦ 10x Grot blasta\n• 1x Runtherd\n◦ 1x Runtherd tools\n◦ 1x Slugga\n\nKommandos (120 Points)\n• 9x Kommando\n◦ 9x Choppa\n◦ 9x Slugga\n• 1x Boss Nob\n◦ 1x Power klaw\n◦ 1x Slugga\n\nStormboyz (65 Points)\n• 4x Stormboy\n◦ 4x Choppa\n◦ 4x Slugga\n• 1x Boss Nob\n◦ 1x Power klaw\n◦ 1x Slugga\n\nStormboyz (65 Points)\n• 4x Stormboy\n◦ 4x Choppa\n◦ 4x Slugga\n• 1x Boss Nob\n◦ 1x Power klaw\n◦ 1x Slugga\n\nStormboyz (65 Points)\n• 4x Stormboy\n◦ 4x Choppa\n◦ 4x Slugga\n• 1x Boss Nob\n◦ 1x Power\n◦ 1x Slugga",
+      "pageUrl": "lists/UteQl8HRtVLw/",
+      "linkedContent": "Please Pete…. Don’t hurt me. (1,995 Points)\n\nOrks\nBully Boyz and Equatorial Hordes (3 Detachment Points)\nDisruption\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Ghazghkull-Thraka/\" target=\"_blank\" rel=\"noreferrer\">Ghazghkull Thraka (235 Points)</a>\n• Attached as: Leader (Character)\n• 1x Ghazghkull Thraka\n• Warlord\n◦ 1x Gork’s Klaw\n◦ 1x Mork’s Roar\n• 1x Makari\n◦ 1x Makari’s stabba\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Painboy/\" target=\"_blank\" rel=\"noreferrer\">Painboy (90 Points)</a>\n• Attached as: Support (Character)\n• 1x Power klaw\n• 1x ’Urty syringe\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Boyz/\" target=\"_blank\" rel=\"noreferrer\">Boyz (160 Points)</a>\n• Attached as: Bodyguard (Battleline)\n• 19x Boy\n◦ 19x Choppa\n◦ 19x Shoota\n◦ 19x Slugga\n• 1x Boss Nob\n◦ 1x Power klaw\n◦ 1x Slugga\n\nAttached unit 2\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Warboss-In-Mega-Armour/\" target=\"_blank\" rel=\"noreferrer\">Warboss in Mega Armour (105 Points)</a>\n• Attached as: Leader (Character)\n• 1x Big shoota\n• 1x ’Uge choppa\n• Enhancements: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/#Enhancements-11\" target=\"_blank\" rel=\"noreferrer\">Tellyporta</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Meganobz/\" target=\"_blank\" rel=\"noreferrer\">Meganobz (180 Points)</a>\n• Attached as: Bodyguard\n• 6x Meganob\n◦ 6x Twin killsaws\n\nAttached unit 3\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Big-Mek-In-Mega-Armour/\" target=\"_blank\" rel=\"noreferrer\">Big Mek in Mega Armour (80 Points)</a>\n• Attached as: Leader (Character)\n• 1x Kustom mega-blasta\n• 1x Power klaw\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Meganobz/\" target=\"_blank\" rel=\"noreferrer\">Meganobz (150 Points)</a>\n• Attached as: Bodyguard\n• 5x Meganob\n◦ 5x Twin killsaws\n\nAttached unit 4\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Mozrog-Skragbad/\" target=\"_blank\" rel=\"noreferrer\">Mozrog Skragbad (125 Points)</a>\n• Attached as: Leader (Character)\n• 1x Big Chompa’s jaws\n• 1x Gutrippa\n• 1x Thump gun\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Squighog-Boyz/\" target=\"_blank\" rel=\"noreferrer\">Squighog Boyz (270 Points)</a>\n• Attached as: Bodyguard\n• 2x Bomb Squig\n• 6x Squighog Boy\n◦ 6x Saddlegit weapons\n◦ 6x Squig jaws\n◦ 6x Stikka\n• 2x Nob on Smasha Squig\n◦ 2x Big choppa\n◦ 2x Slugga\n◦ 2x Squig jaws\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Boss-Snikrot/\" target=\"_blank\" rel=\"noreferrer\">Boss Snikrot (75 Points)</a>\n• 1x Mork’s Teeth\n• 1x Slugga\n\nBATTLELINE\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Boyz/\" target=\"_blank\" rel=\"noreferrer\">Boyz (75 Points)</a>\n• 9x Boy\n◦ 9x Choppa\n◦ 9x Shoota\n◦ 9x Slugga\n• 1x Boss Nob\n◦ 1x Power klaw\n◦ 1x Slugga\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Gretchin/\" target=\"_blank\" rel=\"noreferrer\">Gretchin (45 Points)</a>\n• 10x Gretchin\n◦ 10x Close combat weapon\n◦ 10x Grot blasta\n• 1x Runtherd\n◦ 1x Runtherd tools\n◦ 1x Slugga\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Gretchin/\" target=\"_blank\" rel=\"noreferrer\">Gretchin (45 Points)</a>\n• 10x Gretchin\n◦ 10x Close combat weapon\n◦ 10x Grot blasta\n• 1x Runtherd\n◦ 1x Runtherd tools\n◦ 1x Slugga\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Gretchin/\" target=\"_blank\" rel=\"noreferrer\">Gretchin (45 Points)</a>\n• 10x Gretchin\n◦ 10x Close combat weapon\n◦ 10x Grot blasta\n• 1x Runtherd\n◦ 1x Runtherd tools\n◦ 1x Slugga\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Kommandos/\" target=\"_blank\" rel=\"noreferrer\">Kommandos (120 Points)</a>\n• 9x Kommando\n◦ 9x Choppa\n◦ 9x Slugga\n• 1x Boss Nob\n◦ 1x Power klaw\n◦ 1x Slugga\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Stormboyz/\" target=\"_blank\" rel=\"noreferrer\">Stormboyz (65 Points)</a>\n• 4x Stormboy\n◦ 4x Choppa\n◦ 4x Slugga\n• 1x Boss Nob\n◦ 1x Power klaw\n◦ 1x Slugga\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Stormboyz/\" target=\"_blank\" rel=\"noreferrer\">Stormboyz (65 Points)</a>\n• 4x Stormboy\n◦ 4x Choppa\n◦ 4x Slugga\n• 1x Boss Nob\n◦ 1x Power klaw\n◦ 1x Slugga\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Stormboyz/\" target=\"_blank\" rel=\"noreferrer\">Stormboyz (65 Points)</a>\n• 4x Stormboy\n◦ 4x Choppa\n◦ 4x Slugga\n• 1x Boss Nob\n◦ 1x Power\n◦ 1x Slugga"
+    },
+    {
+      "player": "Christopher  Dyas",
+      "team": "The Real Comp Play",
+      "faction": "T'au Empire - Priority Assets",
+      "checkedIn": true,
+      "listId": "74VbeImojDQH",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/74VbeImojDQH",
+      "playerId": "mROtAJW47SFR",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Christopher Dyas",
+      "content": "military inferiority complex (1990 points)\n\nT’au Empire\nMont’ka (3 Detachment Points)\nPriority Assets\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nCommander in Coldstar Battlesuit (95 points)\n• Attached as: Leader (Character)\n• 1x Battlesuit fists\n1x Cyclic ion blaster\n3x Fusion blaster\n2x Shield Drone\n\nCrisis Sunforge Battlesuits (125 points)\n• Attached as: Bodyguard\n• 1x Crisis Sunforge Shas’vre\n• 1x Battlesuit fists\n2x Fusion blaster\n1x Marker Drone\n1x Shield Drone\n• 2x Crisis Sunforge Shas’ui\n• 2x Battlesuit fists\n4x Fusion blaster\n2x Gun Drone\n2x Shield Drone\n\n\nCHARACTERS\n\nEthereal (65 points)\n• Warlord\n• 1x Honour stave\n1x Hover Drone\n1x Marker Drone\n1x Shield Drone\n• Enhancement: Strategic Conqueror\n\nThe Twin Lance (230 points)\n• 1x Ri’Lantar\n• 1x Fusion eliminator\n1x MV15 Gun Drone\n1x Shardstorm burst system\n1x XV pulse pistol\n• 1x Ri’Locai\n• 1x Ion scattercannon\n1x MV15 Gun Drone\n1x Shardstorm burst system\n1x XV pulse pistol\n\n\nBATTLELINE\n\nBreacher Team (90 points)\n• 1x Support turret\n• 1x Breacher Fire Warrior Shas’ui\n• 1x Close combat weapon\n1x Guardian Drone\n1x Marker Drone\n1x Pulse blaster\n1x Pulse pistol\n• 9x Breacher Fire Warrior\n• 9x Close combat weapon\n9x Pulse blaster\n9x Pulse pistol\n\nBreacher Team (90 points)\n• 1x Support turret\n• 1x Breacher Fire Warrior Shas’ui\n• 1x Close combat weapon\n1x Guardian Drone\n1x Marker Drone\n1x Pulse blaster\n1x Pulse pistol\n• 9x Breacher Fire Warrior\n• 9x Close combat weapon\n9x Pulse blaster\n9x Pulse pistol\n\n\nDEDICATED TRANSPORTS\n\nDevilfish (75 points)\n• 1x Accelerator burst cannon\n1x Armoured hull\n2x Seeker missile\n2x Smart missile system\n\n\nOTHER DATASHEETS\n\nCrisis Fireknife Battlesuits (130 points)\n• 1x Crisis Fireknife Shas’vre\n• 1x Battlesuit fists\n1x Marker Drone\n2x Missile pod\n1x Shield Drone\n• 2x Crisis Fireknife Shas’ui\n• 2x Battlesuit fists\n2x Gun Drone\n4x Missile pod\n2x Shield Drone\n\nCrisis Sunforge Battlesuits (125 points)\n• 1x Crisis Sunforge Shas’vre\n• 1x Battlesuit fists\n2x Fusion blaster\n1x Marker Drone\n1x Shield Drone\n• 2x Crisis Sunforge Shas’ui\n• 2x Battlesuit fists\n4x Fusion blaster\n2x Gun Drone\n2x Shield Drone\n\nGhostkeel Battlesuit (165 points)\n• 1x Battlesuit Support System\n1x Cyclic ion raker\n1x Ghostkeel fists\n1x Twin T’au flamer\n\nGhostkeel Battlesuit (165 points)\n• 1x Battlesuit Support System\n1x Cyclic ion raker\n1x Ghostkeel fists\n1x Twin T’au flamer\n\nHammerhead Gunship (150 points)\n• 2x Accelerator burst cannon\n1x Armoured hull\n1x Ion cannon\n2x Seeker missile\n\nKroot Carnivores (65 points)\n• 1x Long-quill\n• 1x Close combat weapon\n1x Kroot pistol\n1x Kroot rifle\n• 9x Kroot Carnivore\n• 9x Close combat weapon\n8x Kroot rifle\n1x Tanglebomb launcher\n\nPathfinder Team (85 points)\n• 1x Pathfinder Shas’ui\n• 1x Close combat weapon\n1x Grav-inhibitor Drone\n1x Pulse carbine\n1x Pulse pistol\n2x Shield Drone\n• 9x Pathfinder\n• 9x Close combat weapon\n6x Pulse carbine\n9x Pulse pistol\n3x Rail rifle\n\nPiranhas (65 points)\n• 1x Armoured hull\n1x Piranha fusion blaster\n2x Seeker missile\n2x Twin pulse carbine\n\nStealth Battlesuits (100 points)\n• 1x Stealth Shas’vre\n• 1x Battlesuit fists\n1x Fusion blaster\n1x Gun Drone\n1x Marker Drone\n1x Pulse pistol\n• 4x Stealth Shas’ui\n• 4x Battlesuit fists\n4x Burst cannon\n1x Homing Beacon\n\nStealth Battlesuits (100 points)\n• 1x Stealth Shas’vre\n• 1x Battlesuit fists\n1x Fusion blaster\n1x Gun Drone\n1x Marker Drone\n1x Pulse pistol\n• 4x Stealth Shas’ui\n• 4x Battlesuit fists\n3x Burst cannon\n1x Fusion blaster\n1x Homing Beacon\n\nVespid Stingwings (70 points)\n• 1x Vespid Strain Leader\n• 1x Neutron blaster\n1x Stingwing claws\n• 4x Vespid Stingwing\n• 4x Neutron blaster\n4x Stingwing claws\n\nExported with App Version: v2.6.0 (144), Data Version: v946",
+      "pageUrl": "lists/74VbeImojDQH/",
+      "linkedContent": "military inferiority complex (1990 points)\n\nT’au Empire\nMont’ka (3 Detachment Points)\nPriority Assets\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Commander-In-Coldstar-Battlesuit/\" target=\"_blank\" rel=\"noreferrer\">Commander in Coldstar Battlesuit (95 points)</a>\n• Attached as: Leader (Character)\n• 1x Battlesuit fists\n1x Cyclic ion blaster\n3x Fusion blaster\n2x Shield Drone\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Crisis-Sunforge-Battlesuits/\" target=\"_blank\" rel=\"noreferrer\">Crisis Sunforge Battlesuits (125 points)</a>\n• Attached as: Bodyguard\n• 1x Crisis Sunforge Shas’vre\n• 1x Battlesuit fists\n2x Fusion blaster\n1x Marker Drone\n1x Shield Drone\n• 2x Crisis Sunforge Shas’ui\n• 2x Battlesuit fists\n4x Fusion blaster\n2x Gun Drone\n2x Shield Drone\n\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Ethereal/\" target=\"_blank\" rel=\"noreferrer\">Ethereal (65 points)</a>\n• Warlord\n• 1x Honour stave\n1x Hover Drone\n1x Marker Drone\n1x Shield Drone\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/#Enhancements-3\" target=\"_blank\" rel=\"noreferrer\">Strategic Conqueror</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/The-Twin-Lance/\" target=\"_blank\" rel=\"noreferrer\">The Twin Lance (230 points)</a>\n• 1x Ri’Lantar\n• 1x Fusion eliminator\n1x MV15 Gun Drone\n1x Shardstorm burst system\n1x XV pulse pistol\n• 1x Ri’Locai\n• 1x Ion scattercannon\n1x MV15 Gun Drone\n1x Shardstorm burst system\n1x XV pulse pistol\n\n\nBATTLELINE\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Breacher-Team/\" target=\"_blank\" rel=\"noreferrer\">Breacher Team (90 points)</a>\n• 1x Support turret\n• 1x Breacher Fire Warrior Shas’ui\n• 1x Close combat weapon\n1x Guardian Drone\n1x Marker Drone\n1x Pulse blaster\n1x Pulse pistol\n• 9x Breacher Fire Warrior\n• 9x Close combat weapon\n9x Pulse blaster\n9x Pulse pistol\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Breacher-Team/\" target=\"_blank\" rel=\"noreferrer\">Breacher Team (90 points)</a>\n• 1x Support turret\n• 1x Breacher Fire Warrior Shas’ui\n• 1x Close combat weapon\n1x Guardian Drone\n1x Marker Drone\n1x Pulse blaster\n1x Pulse pistol\n• 9x Breacher Fire Warrior\n• 9x Close combat weapon\n9x Pulse blaster\n9x Pulse pistol\n\n\nDEDICATED TRANSPORTS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Devilfish/\" target=\"_blank\" rel=\"noreferrer\">Devilfish (75 points)</a>\n• 1x Accelerator burst cannon\n1x Armoured hull\n2x Seeker missile\n2x Smart missile system\n\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Crisis-Fireknife-Battlesuits/\" target=\"_blank\" rel=\"noreferrer\">Crisis Fireknife Battlesuits (130 points)</a>\n• 1x Crisis Fireknife Shas’vre\n• 1x Battlesuit fists\n1x Marker Drone\n2x Missile pod\n1x Shield Drone\n• 2x Crisis Fireknife Shas’ui\n• 2x Battlesuit fists\n2x Gun Drone\n4x Missile pod\n2x Shield Drone\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Crisis-Sunforge-Battlesuits/\" target=\"_blank\" rel=\"noreferrer\">Crisis Sunforge Battlesuits (125 points)</a>\n• 1x Crisis Sunforge Shas’vre\n• 1x Battlesuit fists\n2x Fusion blaster\n1x Marker Drone\n1x Shield Drone\n• 2x Crisis Sunforge Shas’ui\n• 2x Battlesuit fists\n4x Fusion blaster\n2x Gun Drone\n2x Shield Drone\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Ghostkeel-Battlesuit/\" target=\"_blank\" rel=\"noreferrer\">Ghostkeel Battlesuit (165 points)</a>\n• 1x Battlesuit Support System\n1x Cyclic ion raker\n1x Ghostkeel fists\n1x Twin T’au flamer\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Ghostkeel-Battlesuit/\" target=\"_blank\" rel=\"noreferrer\">Ghostkeel Battlesuit (165 points)</a>\n• 1x Battlesuit Support System\n1x Cyclic ion raker\n1x Ghostkeel fists\n1x Twin T’au flamer\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Hammerhead-Gunship/\" target=\"_blank\" rel=\"noreferrer\">Hammerhead Gunship (150 points)</a>\n• 2x Accelerator burst cannon\n1x Armoured hull\n1x Ion cannon\n2x Seeker missile\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Kroot-Carnivores/\" target=\"_blank\" rel=\"noreferrer\">Kroot Carnivores (65 points)</a>\n• 1x Long-quill\n• 1x Close combat weapon\n1x Kroot pistol\n1x Kroot rifle\n• 9x Kroot Carnivore\n• 9x Close combat weapon\n8x Kroot rifle\n1x Tanglebomb launcher\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Pathfinder-Team/\" target=\"_blank\" rel=\"noreferrer\">Pathfinder Team (85 points)</a>\n• 1x Pathfinder Shas’ui\n• 1x Close combat weapon\n1x Grav-inhibitor Drone\n1x Pulse carbine\n1x Pulse pistol\n2x Shield Drone\n• 9x Pathfinder\n• 9x Close combat weapon\n6x Pulse carbine\n9x Pulse pistol\n3x Rail rifle\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Piranhas/\" target=\"_blank\" rel=\"noreferrer\">Piranhas (65 points)</a>\n• 1x Armoured hull\n1x Piranha fusion blaster\n2x Seeker missile\n2x Twin pulse carbine\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Stealth-Battlesuits/\" target=\"_blank\" rel=\"noreferrer\">Stealth Battlesuits (100 points)</a>\n• 1x Stealth Shas’vre\n• 1x Battlesuit fists\n1x Fusion blaster\n1x Gun Drone\n1x Marker Drone\n1x Pulse pistol\n• 4x Stealth Shas’ui\n• 4x Battlesuit fists\n4x Burst cannon\n1x Homing Beacon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Stealth-Battlesuits/\" target=\"_blank\" rel=\"noreferrer\">Stealth Battlesuits (100 points)</a>\n• 1x Stealth Shas’vre\n• 1x Battlesuit fists\n1x Fusion blaster\n1x Gun Drone\n1x Marker Drone\n1x Pulse pistol\n• 4x Stealth Shas’ui\n• 4x Battlesuit fists\n3x Burst cannon\n1x Fusion blaster\n1x Homing Beacon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Vespid-Stingwings/\" target=\"_blank\" rel=\"noreferrer\">Vespid Stingwings (70 points)</a>\n• 1x Vespid Strain Leader\n• 1x Neutron blaster\n1x Stingwing claws\n• 4x Vespid Stingwing\n• 4x Neutron blaster\n4x Stingwing claws\n\nExported with App Version: v2.6.0 (144), Data Version: v946"
+    },
+    {
+      "player": "Liam Macindoe",
+      "team": "The Real Comp Play",
+      "faction": "Deathwatch - Purge the Foe",
+      "checkedIn": true,
+      "listId": "w4U68Cw6cMwP",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/w4U68Cw6cMwP",
+      "playerId": "u9p9775Nzq8s",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Liam Macindoe",
+      "content": "Gimmie them stat checks (2000 points)\n\nSpace Marines\nDeathwatch\nBlack Spear Task Force (3 Detachment Points)\nPurge the Foe\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nCaptain in Gravis Armour (105 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Boltstorm gauntlet\n1x Power fist\n1x Relic fist\n• Enhancement: Thief of Secrets\n\nIndomitor Kill Team (275 points)\n• Attached as: Bodyguard\n• 4x Kill Team Heavy Intercessors\n• 4x Bolt pistol\n4x Close combat weapon\n2x Deathwatch heavy bolt rifle\n2x Deathwatch heavy bolter\n• 3x Kill Team Heavy Intercessor with power fists\n• 3x Flamestorm gauntlets\n3x Twin power fists\n• 3x Kill Team Heavy Intercessor with melta rifle\n• 3x Bolt pistol\n3x Close combat weapon\n2x Melta rifle\n1x Multi-melta\n\nAttached Unit 2\n\nWatch Master (125 points)\n• Attached as: Leader (Character)\n• 1x Vigil spear\n• Enhancement: The Tome of Ectoclades\n\nDeathwatch Veterans (190 points)\n• Attached as: Bodyguard (Battleline)\n• 1x Watch Sergeant\n• 1x Astartes shield\n1x Xenophase blade\n• 9x Deathwatch Veterans\n• 3x Astartes shield\n2x Close combat weapon\n4x Deathwatch thunder hammer\n2x Frag cannon\n3x Power weapon\n\n\nCHARACTERS\n\nLieutenant with Combi-weapon (95 points)\n• 1x Combi-weapon\n1x Paired combat blades\n\n\nBATTLELINE\n\nIntercessor Squad (80 points)\n• 1x Intercessor Sergeant\n• 1x Astartes grenade launcher\n1x Bolt pistol\n1x Bolt rifle\n1x Power fist\n• 4x Intercessor\n• 4x Bolt pistol\n4x Bolt rifle\n4x Close combat weapon\n\n\nOTHER DATASHEETS\n\nDeathwatch Terminator Squad (190 points)\n• 1x Deathwatch Terminator Sergeant\n• 1x Storm Shield\n1x Thunder hammer\n• 4x Deathwatch Terminator\n• 3x Cyclone missile launcher\n3x Power fist\n1x Storm Shield\n3x Storm bolter\n1x Thunder hammer\n\nIndomitor Kill Team (275 points)\n• 4x Kill Team Heavy Intercessors\n• 4x Bolt pistol\n4x Close combat weapon\n2x Deathwatch heavy bolt rifle\n2x Deathwatch heavy bolter\n• 3x Kill Team Heavy Intercessor with power fists\n• 3x Flamestorm gauntlets\n3x Twin power fists\n• 3x Kill Team Heavy Intercessor with melta rifle\n• 3x Bolt pistol\n3x Close combat weapon\n2x Melta rifle\n1x Multi-melta\n\nStorm Speeder Thunderstrike (135 points)\n• 1x Close combat weapon\n1x Stormfury missiles\n1x Thunderstrike las-talon\n1x Twin Icarus rocket pod\n\nTalonstrike Kill Team (265 points)\n• 1x Kill Team Sergeant with Jump Pack\n• 1x Plasma pistol\n1x Power fist\n• 4x Kill Team Intercessor with Jump Pack\n• 4x Astartes chainsword\n3x Heavy bolt pistol\n1x Plasma pistol\n• 5x Kill Team Heavy Intercessor with Jump Pack\n• 5x Assault bolters\n5x Close combat weapon\n\nTalonstrike Kill Team (265 points)\n• 1x Kill Team Sergeant with Jump Pack\n• 1x Plasma pistol\n1x Power fist\n• 4x Kill Team Intercessor with Jump Pack\n• 4x Astartes chainsword\n3x Heavy bolt pistol\n1x Plasma pistol\n• 5x Kill Team Heavy Intercessor with Jump Pack\n• 5x Close combat weapon\n5x Plasma exterminators\n\nExported with App Version: v2.5.0 (140), Data Version: v931",
+      "pageUrl": "lists/w4U68Cw6cMwP/",
+      "linkedContent": "Gimmie them stat checks (2000 points)\n\nSpace Marines\nDeathwatch\nBlack Spear Task Force (3 Detachment Points)\nPurge the Foe\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Captain-In-Gravis-Armour/\" target=\"_blank\" rel=\"noreferrer\">Captain in Gravis Armour (105 points)</a>\n• Attached as: Leader (Character)\n• Warlord\n• 1x Boltstorm gauntlet\n1x Power fist\n1x Relic fist\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/#Enhancements-8\" target=\"_blank\" rel=\"noreferrer\">Thief of Secrets</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Indomitor-Kill-Team/\" target=\"_blank\" rel=\"noreferrer\">Indomitor Kill Team (275 points)</a>\n• Attached as: Bodyguard\n• 4x Kill Team Heavy Intercessors\n• 4x Bolt pistol\n4x Close combat weapon\n2x Deathwatch heavy bolt rifle\n2x Deathwatch heavy bolter\n• 3x Kill Team Heavy Intercessor with power fists\n• 3x Flamestorm gauntlets\n3x Twin power fists\n• 3x Kill Team Heavy Intercessor with melta rifle\n• 3x Bolt pistol\n3x Close combat weapon\n2x Melta rifle\n1x Multi-melta\n\nAttached Unit 2\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Watch-Master/\" target=\"_blank\" rel=\"noreferrer\">Watch Master (125 points)</a>\n• Attached as: Leader (Character)\n• 1x Vigil spear\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/#Enhancements-8\" target=\"_blank\" rel=\"noreferrer\">The Tome of Ectoclades</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Deathwatch-Veterans/\" target=\"_blank\" rel=\"noreferrer\">Deathwatch Veterans (190 points)</a>\n• Attached as: Bodyguard (Battleline)\n• 1x Watch Sergeant\n• 1x Astartes shield\n1x Xenophase blade\n• 9x Deathwatch Veterans\n• 3x Astartes shield\n2x Close combat weapon\n4x Deathwatch thunder hammer\n2x Frag cannon\n3x Power weapon\n\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Lieutenant-with-Combi-weapon/\" target=\"_blank\" rel=\"noreferrer\">Lieutenant with Combi-weapon (95 points)</a>\n• 1x Combi-weapon\n1x Paired combat blades\n\n\nBATTLELINE\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Intercessor-Squad/\" target=\"_blank\" rel=\"noreferrer\">Intercessor Squad (80 points)</a>\n• 1x Intercessor Sergeant\n• 1x Astartes grenade launcher\n1x Bolt pistol\n1x Bolt rifle\n1x Power fist\n• 4x Intercessor\n• 4x Bolt pistol\n4x Bolt rifle\n4x Close combat weapon\n\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Deathwatch-Terminator-Squad/\" target=\"_blank\" rel=\"noreferrer\">Deathwatch Terminator Squad (190 points)</a>\n• 1x Deathwatch Terminator Sergeant\n• 1x Storm Shield\n1x Thunder hammer\n• 4x Deathwatch Terminator\n• 3x Cyclone missile launcher\n3x Power fist\n1x Storm Shield\n3x Storm bolter\n1x Thunder hammer\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Indomitor-Kill-Team/\" target=\"_blank\" rel=\"noreferrer\">Indomitor Kill Team (275 points)</a>\n• 4x Kill Team Heavy Intercessors\n• 4x Bolt pistol\n4x Close combat weapon\n2x Deathwatch heavy bolt rifle\n2x Deathwatch heavy bolter\n• 3x Kill Team Heavy Intercessor with power fists\n• 3x Flamestorm gauntlets\n3x Twin power fists\n• 3x Kill Team Heavy Intercessor with melta rifle\n• 3x Bolt pistol\n3x Close combat weapon\n2x Melta rifle\n1x Multi-melta\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Storm-Speeder-Thunderstrike/\" target=\"_blank\" rel=\"noreferrer\">Storm Speeder Thunderstrike (135 points)</a>\n• 1x Close combat weapon\n1x Stormfury missiles\n1x Thunderstrike las-talon\n1x Twin Icarus rocket pod\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Talonstrike-Kill-Team/\" target=\"_blank\" rel=\"noreferrer\">Talonstrike Kill Team (265 points)</a>\n• 1x Kill Team Sergeant with Jump Pack\n• 1x Plasma pistol\n1x Power fist\n• 4x Kill Team Intercessor with Jump Pack\n• 4x Astartes chainsword\n3x Heavy bolt pistol\n1x Plasma pistol\n• 5x Kill Team Heavy Intercessor with Jump Pack\n• 5x Assault bolters\n5x Close combat weapon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Talonstrike-Kill-Team/\" target=\"_blank\" rel=\"noreferrer\">Talonstrike Kill Team (265 points)</a>\n• 1x Kill Team Sergeant with Jump Pack\n• 1x Plasma pistol\n1x Power fist\n• 4x Kill Team Intercessor with Jump Pack\n• 4x Astartes chainsword\n3x Heavy bolt pistol\n1x Plasma pistol\n• 5x Kill Team Heavy Intercessor with Jump Pack\n• 5x Close combat weapon\n5x Plasma exterminators\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+    },
+    {
+      "player": "Nick Watkins",
+      "team": "The Real Comp Play",
+      "faction": "Emperor's Children - Take and Hold",
+      "checkedIn": true,
+      "listId": "3bHF7kowOiVP",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/3bHF7kowOiVP",
+      "playerId": "HylIlKMx6e7T",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Nick Watkins",
+      "content": "Take and hold deez purple nuts 2k (2,000 Points)\n\nEmperor’s Children\nCarnival of Excess and Elegant Brutes (3 Detachment Points)\nTake and Hold\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nLord Exultant (125 Points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Bolt Pistol\n• 1x Close combat weapon\n• 1x Phoenix power spear\n• 1x Rapture lash\n• Enhancements: Possessed Blade\n\nInfractors (85 Points)\n• Attached as: Bodyguard (Battleline)\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Rapture lash\n• 4x Infractor\n◦ 4x Bolt pistol\n◦ 4x Duelling sabre\n◦ 1x Icon of Excess\n\nCHARACTERS\n\nDaemon Prince of Slaanesh with Wings (220 Points)\n• 1x Hellforged weapons\n• 1x Infernal cannon\n• Enhancements: Empyric Suffusion\n\nKeeper of Secrets (265 Points)\n• 1x Living whip\n• 1x Phantasmagoria\n• 1x Snapping claws\n• 1x Witstealer sword\n\nShalaxi Helbane (315 Points)\n• 1x Lash of Slaanesh\n• 1x Pavane of Slaanesh\n• 1x Snapping claws\n• 1x Soulpiercer\n\nBATTLELINE\n\nDaemonettes (100 Points)\n• 1x Alluress\n◦ 1x Slashing claws\n• 9x Daemonette\n◦ 1x Daemonic Icon\n◦ 1x Instrument of Chaos\n◦ 9x Slashing claws\n\nDaemonettes (100 Points)\n• 1x Alluress\n◦ 1x Slashing claws\n• 9x Daemonette\n◦ 1x Daemonic Icon\n◦ 1x Instrument of Chaos\n◦ 9x Slashing claws\n\nTormentors (80 Points)\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Power sword\n• 4x Tormentor\n◦ 2x Boltgun\n◦ 4x Close combat weapon\n◦ 1x Icon of Excess\n◦ 1x Meltagun\n◦ 1x Plasma gun\n\nOTHER DATASHEETS\n\nChaos Spawn (70 Points)\n• 2x Chaos Spawn\n◦ 2x Hideous mutations\n\nDefiler (330 Points)\n• 1x Ectoplasma destructor\n• 2x Excruciator cannon\n• 1x Heavy reaper autocannon\n• 1x Heavy reaper autocannon\n• 1x Shearing Claws\n\nFiends (190 Points)\n• 1x Blissbringer\n◦ 1x Barbed tail and dissecting claws\n• 5x Fiend\n◦ 5x Barbed tail and dissecting claws\n\nMaulerfiend (120 Points)\n• 2x Magma cutters\n• 1x Maulerfiend fists\n\nExported with App Version: v2.5.0 (1), Data Version: v931",
+      "pageUrl": "lists/3bHF7kowOiVP/",
+      "linkedContent": "Take and hold deez purple nuts 2k (2,000 Points)\n\nEmperor’s Children\nCarnival of Excess and Elegant Brutes (3 Detachment Points)\nTake and Hold\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Lord-Exultant/\" target=\"_blank\" rel=\"noreferrer\">Lord Exultant (125 Points)</a>\n• Attached as: Leader (Character)\n• Warlord\n• 1x Bolt Pistol\n• 1x Close combat weapon\n• 1x Phoenix power spear\n• 1x Rapture lash\n• Enhancements: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/#Enhancements-3\" target=\"_blank\" rel=\"noreferrer\">Possessed Blade</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Infractors/\" target=\"_blank\" rel=\"noreferrer\">Infractors (85 Points)</a>\n• Attached as: Bodyguard (Battleline)\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Rapture lash\n• 4x Infractor\n◦ 4x Bolt pistol\n◦ 4x Duelling sabre\n◦ 1x Icon of Excess\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Daemon-Prince-of-Slaanesh-with-Wings/\" target=\"_blank\" rel=\"noreferrer\">Daemon Prince of Slaanesh with Wings (220 Points)</a>\n• 1x Hellforged weapons\n• 1x Infernal cannon\n• Enhancements: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/#Enhancements-3\" target=\"_blank\" rel=\"noreferrer\">Empyric Suffusion</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Keeper-of-Secrets/\" target=\"_blank\" rel=\"noreferrer\">Keeper of Secrets (265 Points)</a>\n• 1x Living whip\n• 1x Phantasmagoria\n• 1x Snapping claws\n• 1x Witstealer sword\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Shalaxi-Helbane/\" target=\"_blank\" rel=\"noreferrer\">Shalaxi Helbane (315 Points)</a>\n• 1x Lash of Slaanesh\n• 1x Pavane of Slaanesh\n• 1x Snapping claws\n• 1x Soulpiercer\n\nBATTLELINE\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Daemonettes/\" target=\"_blank\" rel=\"noreferrer\">Daemonettes (100 Points)</a>\n• 1x Alluress\n◦ 1x Slashing claws\n• 9x Daemonette\n◦ 1x Daemonic Icon\n◦ 1x Instrument of Chaos\n◦ 9x Slashing claws\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Daemonettes/\" target=\"_blank\" rel=\"noreferrer\">Daemonettes (100 Points)</a>\n• 1x Alluress\n◦ 1x Slashing claws\n• 9x Daemonette\n◦ 1x Daemonic Icon\n◦ 1x Instrument of Chaos\n◦ 9x Slashing claws\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Tormentors/\" target=\"_blank\" rel=\"noreferrer\">Tormentors (80 Points)</a>\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Power sword\n• 4x Tormentor\n◦ 2x Boltgun\n◦ 4x Close combat weapon\n◦ 1x Icon of Excess\n◦ 1x Meltagun\n◦ 1x Plasma gun\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Chaos-Spawn/\" target=\"_blank\" rel=\"noreferrer\">Chaos Spawn (70 Points)</a>\n• 2x Chaos Spawn\n◦ 2x Hideous mutations\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Defiler/\" target=\"_blank\" rel=\"noreferrer\">Defiler (330 Points)</a>\n• 1x Ectoplasma destructor\n• 2x Excruciator cannon\n• 1x Heavy reaper autocannon\n• 1x Heavy reaper autocannon\n• 1x Shearing Claws\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Fiends/\" target=\"_blank\" rel=\"noreferrer\">Fiends (190 Points)</a>\n• 1x Blissbringer\n◦ 1x Barbed tail and dissecting claws\n• 5x Fiend\n◦ 5x Barbed tail and dissecting claws\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Maulerfiend/\" target=\"_blank\" rel=\"noreferrer\">Maulerfiend (120 Points)</a>\n• 2x Magma cutters\n• 1x Maulerfiend fists\n\nExported with App Version: v2.5.0 (1), Data Version: v931"
+    },
+    {
       "player": "Alexander England",
       "team": "Comp Play Surrey Primarchs",
       "faction": "Space Marines (Astartes) - Reconnaissance",
       "checkedIn": true,
-      "listId": "m3WkBIscvIfD",
+      "listId": "fl6dywK1fELx",
       "hasPublishedList": true,
-      "sourceUrl": "https://www.bestcoastpairings.com/list/m3WkBIscvIfD",
+      "sourceUrl": "https://www.bestcoastpairings.com/list/fl6dywK1fELx",
       "playerId": "BuiJpJWVybKf",
       "event": "Brighton 40k Teams II",
       "pagePlayer": "Alexander England",
-      "content": "+++++++++++++++++++++++++++++++++++++++++++++++\n+ FACTION KEYWORD: Imperium - Adeptus Astartes - Salamanders\n+ DETACHMENT: Forgefather's Seekers, Librarius Conclave (Vulkan's Quest)\n+ FORCE DISPOSITION: Reconnaissance\n+ TOTAL ARMY POINTS: 2000pts\n+\n+ WARLORD: Char1: Vulkan He'stan\n+ ENHANCEMENT: Immolator (on Char2: Captain in Gravis Armour)\n& Temporal Corridor (on Char3: Librarian)\n& Celerity (on Char4: Librarian in Terminator Armour)\n+ NUMBER OF UNITS: 16\n+ SECONDARY: - Bring It Down: (2x2) + (1x4) - Assassination: 4 Characters\n+++++++++++++++++++++++++++++++++++++++++++++++\n\nAttached Units\nAttached Unit 1\n\nCaptain in Gravis Armour (90 pts)\n• Attached as: Leader (Character)\n• 1x Boltstorm gauntlet\n• 1x Power fist\n• 1x Relic Blade\n• Immolator (+10 pts)\n\nAggressor Squad (165 pts)\n• Attached as: Bodyguard\n• 1x Aggressor Sergeant\n• 1x Twin power fist\n• 1x Flamestorm Gauntlets\n• 5x Aggressors\n• 5x Twin power fist\n• 5x Flamestorm Gauntlets\n\nAttached Unit 2\n\nLibrarian (95 pts)\n• Attached as: Leader (Character)\n• 1x Bolt pistol\n• 1x Force weapon\n• 1x Smite\n• Temporal Corridor (+25 pts)\n\nInfernus Squad (180 pts)\n• Attached as: Bodyguard\n• 9x Infernus Marines\n• 9x Bolt pistol\n• 9x Close combat weapon\n• 9x Pyreblaster\n• 1x Infernus Sergeant\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Pyreblaster\n\nAttached Unit 3\n\nLibrarian in Terminator Armour (120 pts)\n• Attached as: Leader (Character)\n• 1x Force weapon\n• 1x Smite\n• 1x Storm bolter\n• Celerity (+35 pts)\n\nTerminator Squad (320 pts)\n• Attached as: Bodyguard\n• 1x Terminator Sergeant\n• 1x Storm bolter\n• 1x Power fist\n• 9x Terminator\n• 9x Power fist\n• 2x Cyclone missile launcher\n• 9x Storm bolter\n\nCHARACTER\n\nVulkan He'stan (95 pts)\n• 1x Bolt pistol\n• 1x Gauntlet of the Forge\n• 1x Spear of Vulkan\n• Warlord\n\nOTHER DATASHEETS\n\nEradicator Squad (90 pts)\n• 1x Eradicator\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Melta rifle\n• 1x Eradicator Sergeant\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Melta rifle\n• 1x Eradicator with Multi-melta\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Multi-melta\n\nEradicator Squad (90 pts)\n• 1x Eradicator\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Melta rifle\n• 1x Eradicator Sergeant\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Melta rifle\n• 1x Eradicator with Multi-melta\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Multi-melta\n\nEradicator Squad with Heavy Bolters (80 pts)\n• 2x Eradicator\n• 2x Bolt pistol\n• 2x Close combat weapon\n• 2x Heavy Bolter\n• 1x Eradicator Sergeant\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Heavy Bolter\n\nEradicator Squad with Heavy Bolters (80 pts)\n• 2x Eradicator\n• 2x Bolt pistol\n• 2x Close combat weapon\n• 2x Heavy Bolter\n• 1x Eradicator Sergeant\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Heavy Bolter\n\nInvader ATV (60 pts)\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Twin bolt rifle\n• 1x Multi-melta\n\nLand Raider Redeemer (260 pts)\n• 1x Armoured Tracks\n• 2x Flamestorm Cannon\n• 1x Hunter-killer missile\n• 1x Multi-melta\n• 1x Storm bolter\n• 1x Twin assault cannon\n\nLand Speeder (105 pts)\n• 1x Close combat weapon\n• 1x Multi-melta\n• 1x Stormfury Missile Launcher\n• 1x Onslaught gatling cannon\n\nLand Speeder (105 pts)\n• 1x Close combat weapon\n• 1x Multi-melta\n• 1x Stormfury Missile Launcher\n• 1x Onslaught gatling cannon\n\nScout Squad (65 pts)\n• 1x Scout Sergeant\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Astartes Chainsword\n• 4x Scouts\n• 4x Bolt pistol\n• 4x Close combat weapon\n• 4x Combat Knife\n\nCreated with newrecruit.eu v35.70",
-      "pageUrl": "lists/m3WkBIscvIfD/",
-      "linkedContent": "+++++++++++++++++++++++++++++++++++++++++++++++\n<a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/\" target=\"_blank\" rel=\"noreferrer\">+ FACTION KEYWORD: Imperium - Adeptus Astartes - Salamanders</a>\n+ DETACHMENT: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/#Forgefather-s-Seekers\" target=\"_blank\" rel=\"noreferrer\">Forgefather's Seekers</a>, <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/#Librarius-Conclave\" target=\"_blank\" rel=\"noreferrer\">Librarius Conclave</a> (<a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/#Vulkan-s-Quest\" target=\"_blank\" rel=\"noreferrer\">Vulkan's Quest</a>)\n+ FORCE DISPOSITION: Reconnaissance\n+ TOTAL ARMY POINTS: 2000pts\n+\n+ WARLORD: Char1: Vulkan He'stan\n+ ENHANCEMENT: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/#Enhancements-18\" target=\"_blank\" rel=\"noreferrer\">Immolator</a> (on Char2: Captain in Gravis Armour)\n&amp; <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/#Enhancements-10\" target=\"_blank\" rel=\"noreferrer\">Temporal Corridor</a> (on Char3: Librarian)\n&amp; <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/#Enhancements-10\" target=\"_blank\" rel=\"noreferrer\">Celerity</a> (on Char4: Librarian in Terminator Armour)\n+ NUMBER OF UNITS: 16\n+ SECONDARY: - Bring It Down: (2x2) + (1x4) - Assassination: 4 Characters\n+++++++++++++++++++++++++++++++++++++++++++++++\n\nAttached Units\nAttached Unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Captain-In-Gravis-Armour/\" target=\"_blank\" rel=\"noreferrer\">Captain in Gravis Armour (90 pts)</a>\n• Attached as: Leader (Character)\n• 1x Boltstorm gauntlet\n• 1x Power fist\n• 1x Relic Blade\n• <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/#Enhancements-18\" target=\"_blank\" rel=\"noreferrer\">Immolator</a> (+10 pts)\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Aggressor-Squad/\" target=\"_blank\" rel=\"noreferrer\">Aggressor Squad (165 pts)</a>\n• Attached as: Bodyguard\n• 1x Aggressor Sergeant\n• 1x Twin power fist\n• 1x Flamestorm Gauntlets\n• 5x Aggressors\n• 5x Twin power fist\n• 5x Flamestorm Gauntlets\n\nAttached Unit 2\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Librarian/\" target=\"_blank\" rel=\"noreferrer\">Librarian (95 pts)</a>\n• Attached as: Leader (Character)\n• 1x Bolt pistol\n• 1x Force weapon\n• 1x Smite\n• <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/#Enhancements-10\" target=\"_blank\" rel=\"noreferrer\">Temporal Corridor</a> (+25 pts)\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Infernus-Squad/\" target=\"_blank\" rel=\"noreferrer\">Infernus Squad (180 pts)</a>\n• Attached as: Bodyguard\n• 9x Infernus Marines\n• 9x Bolt pistol\n• 9x Close combat weapon\n• 9x Pyreblaster\n• 1x Infernus Sergeant\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Pyreblaster\n\nAttached Unit 3\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Librarian-In-Terminator-Armour/\" target=\"_blank\" rel=\"noreferrer\">Librarian in Terminator Armour (120 pts)</a>\n• Attached as: Leader (Character)\n• 1x Force weapon\n• 1x Smite\n• 1x Storm bolter\n• <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/#Enhancements-10\" target=\"_blank\" rel=\"noreferrer\">Celerity</a> (+35 pts)\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Terminator-Squad-1/\" target=\"_blank\" rel=\"noreferrer\">Terminator Squad (320 pts)</a>\n• Attached as: Bodyguard\n• 1x Terminator Sergeant\n• 1x Storm bolter\n• 1x Power fist\n• 9x Terminator\n• 9x Power fist\n• 2x Cyclone missile launcher\n• 9x Storm bolter\n\nCHARACTER\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Vulkan-He-stan/\" target=\"_blank\" rel=\"noreferrer\">Vulkan He'stan (95 pts)</a>\n• 1x Bolt pistol\n• 1x Gauntlet of the Forge\n• 1x Spear of Vulkan\n• Warlord\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Eradicator-Squad/\" target=\"_blank\" rel=\"noreferrer\">Eradicator Squad (90 pts)</a>\n• 1x Eradicator\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Melta rifle\n• 1x Eradicator Sergeant\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Melta rifle\n• 1x Eradicator with Multi-melta\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Multi-melta\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Eradicator-Squad/\" target=\"_blank\" rel=\"noreferrer\">Eradicator Squad (90 pts)</a>\n• 1x Eradicator\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Melta rifle\n• 1x Eradicator Sergeant\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Melta rifle\n• 1x Eradicator with Multi-melta\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Multi-melta\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Eradicator-Squad-with-Heavy-Bolters/\" target=\"_blank\" rel=\"noreferrer\">Eradicator Squad with Heavy Bolters (80 pts)</a>\n• 2x Eradicator\n• 2x Bolt pistol\n• 2x Close combat weapon\n• 2x Heavy Bolter\n• 1x Eradicator Sergeant\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Heavy Bolter\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Eradicator-Squad-with-Heavy-Bolters/\" target=\"_blank\" rel=\"noreferrer\">Eradicator Squad with Heavy Bolters (80 pts)</a>\n• 2x Eradicator\n• 2x Bolt pistol\n• 2x Close combat weapon\n• 2x Heavy Bolter\n• 1x Eradicator Sergeant\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Heavy Bolter\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Invader-ATV/\" target=\"_blank\" rel=\"noreferrer\">Invader ATV (60 pts)</a>\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Twin bolt rifle\n• 1x Multi-melta\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Raider-Redeemer/\" target=\"_blank\" rel=\"noreferrer\">Land Raider Redeemer (260 pts)</a>\n• 1x Armoured Tracks\n• 2x Flamestorm Cannon\n• 1x Hunter-killer missile\n• 1x Multi-melta\n• 1x Storm bolter\n• 1x Twin assault cannon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder/\" target=\"_blank\" rel=\"noreferrer\">Land Speeder (105 pts)</a>\n• 1x Close combat weapon\n• 1x Multi-melta\n• 1x Stormfury Missile Launcher\n• 1x Onslaught gatling cannon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder/\" target=\"_blank\" rel=\"noreferrer\">Land Speeder (105 pts)</a>\n• 1x Close combat weapon\n• 1x Multi-melta\n• 1x Stormfury Missile Launcher\n• 1x Onslaught gatling cannon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Scout-Squad/\" target=\"_blank\" rel=\"noreferrer\">Scout Squad (65 pts)</a>\n• 1x Scout Sergeant\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Astartes Chainsword\n• 4x Scouts\n• 4x Bolt pistol\n• 4x Close combat weapon\n• 4x Combat Knife\n\nCreated with newrecruit.eu v35.70"
+      "content": "Sally goes to the club (2,000 Points)\n\nSpace Marines\nSalamanders\nForgefather’s Seekers and Librarius Conclave (3 Detachment Points)\nReconnaissance\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nCaptain in Gravis Armour (90 Points)\n• Attached as: Leader (Character)\n• 1x Boltstorm gauntlet\n• 1x Power fist\n• 1x Relic blade\n• Enhancements: Immolator\n\nAggressor Squad (165 Points)\n• Attached as: Bodyguard\n• 1x Aggressor Sergeant\n◦ 1x Flamestorm gauntlets\n◦ 1x Twin power fists\n• 5x Aggressor\n◦ 5x Flamestorm gauntlets\n◦ 5x Twin power fists\n\nAttached unit 2\n\nLibrarian (95 Points)\n• Attached as: Leader (Character)\n• 1x Bolt pistol\n• 1x Force weapon\n• 1x Smite\n• Enhancements: Temporal Corridor\n\nInfernus Squad (180 Points)\n• Attached as: Bodyguard\n• 1x Infernus Sergeant\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n◦ 1x Pyreblaster\n• 9x Infernus Marine\n◦ 9x Bolt pistol\n◦ 9x Close combat weapon\n◦ 9x Pyreblaster\n\nAttached unit 3\n\nLibrarian in Terminator Armour (120 Points)\n• Attached as: Leader (Character)\n• 1x Force weapon\n• 1x Smite\n• 1x Storm bolter\n• Enhancements: Celerity\n\nTerminator Squad (320 Points)\n• Attached as: Bodyguard\n• 1x Terminator Sergeant\n◦ 1x Power fist\n◦ 1x Storm bolter\n• 9x Terminator\n◦ 2x Cyclone missile launcher\n◦ 9x Power fist\n◦ 9x Storm bolter\n\nCHARACTERS\n\nVulkan He’stan (95 Points)\n• Warlord\n• 1x Bolt Pistol\n• 1x Gauntlet of the Forge\n• 1x Spear of Vulkan\n\nOTHER DATASHEETS\n\nEradicator Squad (90 Points)\n• 1x Eradicator Sergeant\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n◦ 1x Melta rifle\n• 2x Eradicator\n◦ 2x Bolt pistol\n◦ 2x Close combat weapon\n◦ 1x Melta rifle\n◦ 1x Multi-melta\n\nEradicator Squad (90 Points)\n• 1x Eradicator Sergeant\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n◦ 1x Melta rifle\n• 2x Eradicator\n◦ 2x Bolt pistol\n◦ 2x Close combat weapon\n◦ 1x Melta rifle\n◦ 1x Multi-melta\n\nEradicator Squad with Heavy Bolters (80 Points)\n• 1x Eradicator Sergeant\n◦ 1x Bolt pistol\n◦ 1x Close-combat weapon\n◦ 1x Heavy Bolter\n• 2x Eradicator\n◦ 2x Bolt pistol\n◦ 2x Close-combat weapon\n◦ 2x Heavy Bolter\n\nEradicator Squad with Heavy Bolters (80 Points)\n• 1x Eradicator Sergeant\n◦ 1x Bolt pistol\n◦ 1x Close-combat weapon\n◦ 1x Heavy Bolter\n• 2x Eradicator\n◦ 2x Bolt pistol\n◦ 2x Close-combat weapon\n◦ 2x Heavy Bolter\n\nInvader ATV (60 Points)\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Multi-melta\n• 1x Twin bolt rifle\n\nLand Raider Redeemer (260 Points)\n• 1x Armoured tracks\n• 2x Flamestorm cannon\n• 1x Hunter-killer missile\n• 1x Multi-melta\n• 1x Storm bolter\n• 1x Twin assault cannon\n\nLand Speeder (105 Points)\n• 1x Close-combat weapon\n• 1x Multi-melta\n• 1x Onslaught gatling cannon\n• 1x Stormfury missile launcher\n\nLand Speeder (105 Points)\n• 1x Close-combat weapon\n• 1x Multi-melta\n• 1x Onslaught gatling cannon\n• 1x Stormfury missile launcher\n\nScout Squad (65 Points)\n• 1x Scout Sergeant\n◦ 1x Astartes chainsword\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n• 4x Scout\n◦ 4x Bolt pistol\n◦ 4x Close combat weapon\n◦ 4x Combat knife\n\nExported with App Version: v2.6.0 (3), Data Version: v946",
+      "pageUrl": "lists/fl6dywK1fELx/",
+      "linkedContent": "Sally goes to the club (2,000 Points)\n\nSpace Marines\nSalamanders\nForgefather’s Seekers and Librarius Conclave (3 Detachment Points)\nReconnaissance\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Captain-In-Gravis-Armour/\" target=\"_blank\" rel=\"noreferrer\">Captain in Gravis Armour (90 Points)</a>\n• Attached as: Leader (Character)\n• 1x Boltstorm gauntlet\n• 1x Power fist\n• 1x Relic blade\n• Enhancements: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/#Enhancements-18\" target=\"_blank\" rel=\"noreferrer\">Immolator</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Aggressor-Squad/\" target=\"_blank\" rel=\"noreferrer\">Aggressor Squad (165 Points)</a>\n• Attached as: Bodyguard\n• 1x Aggressor Sergeant\n◦ 1x Flamestorm gauntlets\n◦ 1x Twin power fists\n• 5x Aggressor\n◦ 5x Flamestorm gauntlets\n◦ 5x Twin power fists\n\nAttached unit 2\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Librarian/\" target=\"_blank\" rel=\"noreferrer\">Librarian (95 Points)</a>\n• Attached as: Leader (Character)\n• 1x Bolt pistol\n• 1x Force weapon\n• 1x Smite\n• Enhancements: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/#Enhancements-10\" target=\"_blank\" rel=\"noreferrer\">Temporal Corridor</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Infernus-Squad/\" target=\"_blank\" rel=\"noreferrer\">Infernus Squad (180 Points)</a>\n• Attached as: Bodyguard\n• 1x Infernus Sergeant\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n◦ 1x Pyreblaster\n• 9x Infernus Marine\n◦ 9x Bolt pistol\n◦ 9x Close combat weapon\n◦ 9x Pyreblaster\n\nAttached unit 3\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Librarian-In-Terminator-Armour/\" target=\"_blank\" rel=\"noreferrer\">Librarian in Terminator Armour (120 Points)</a>\n• Attached as: Leader (Character)\n• 1x Force weapon\n• 1x Smite\n• 1x Storm bolter\n• Enhancements: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/#Enhancements-10\" target=\"_blank\" rel=\"noreferrer\">Celerity</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Terminator-Squad-1/\" target=\"_blank\" rel=\"noreferrer\">Terminator Squad (320 Points)</a>\n• Attached as: Bodyguard\n• 1x Terminator Sergeant\n◦ 1x Power fist\n◦ 1x Storm bolter\n• 9x Terminator\n◦ 2x Cyclone missile launcher\n◦ 9x Power fist\n◦ 9x Storm bolter\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Vulkan-He-stan/\" target=\"_blank\" rel=\"noreferrer\">Vulkan He’stan (95 Points)</a>\n• Warlord\n• 1x Bolt Pistol\n• 1x Gauntlet of the Forge\n• 1x Spear of Vulkan\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Eradicator-Squad/\" target=\"_blank\" rel=\"noreferrer\">Eradicator Squad (90 Points)</a>\n• 1x Eradicator Sergeant\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n◦ 1x Melta rifle\n• 2x Eradicator\n◦ 2x Bolt pistol\n◦ 2x Close combat weapon\n◦ 1x Melta rifle\n◦ 1x Multi-melta\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Eradicator-Squad/\" target=\"_blank\" rel=\"noreferrer\">Eradicator Squad (90 Points)</a>\n• 1x Eradicator Sergeant\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n◦ 1x Melta rifle\n• 2x Eradicator\n◦ 2x Bolt pistol\n◦ 2x Close combat weapon\n◦ 1x Melta rifle\n◦ 1x Multi-melta\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Eradicator-Squad-with-Heavy-Bolters/\" target=\"_blank\" rel=\"noreferrer\">Eradicator Squad with Heavy Bolters (80 Points)</a>\n• 1x Eradicator Sergeant\n◦ 1x Bolt pistol\n◦ 1x Close-combat weapon\n◦ 1x Heavy Bolter\n• 2x Eradicator\n◦ 2x Bolt pistol\n◦ 2x Close-combat weapon\n◦ 2x Heavy Bolter\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Eradicator-Squad-with-Heavy-Bolters/\" target=\"_blank\" rel=\"noreferrer\">Eradicator Squad with Heavy Bolters (80 Points)</a>\n• 1x Eradicator Sergeant\n◦ 1x Bolt pistol\n◦ 1x Close-combat weapon\n◦ 1x Heavy Bolter\n• 2x Eradicator\n◦ 2x Bolt pistol\n◦ 2x Close-combat weapon\n◦ 2x Heavy Bolter\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Invader-ATV/\" target=\"_blank\" rel=\"noreferrer\">Invader ATV (60 Points)</a>\n• 1x Bolt pistol\n• 1x Close combat weapon\n• 1x Multi-melta\n• 1x Twin bolt rifle\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Raider-Redeemer/\" target=\"_blank\" rel=\"noreferrer\">Land Raider Redeemer (260 Points)</a>\n• 1x Armoured tracks\n• 2x Flamestorm cannon\n• 1x Hunter-killer missile\n• 1x Multi-melta\n• 1x Storm bolter\n• 1x Twin assault cannon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder/\" target=\"_blank\" rel=\"noreferrer\">Land Speeder (105 Points)</a>\n• 1x Close-combat weapon\n• 1x Multi-melta\n• 1x Onslaught gatling cannon\n• 1x Stormfury missile launcher\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder/\" target=\"_blank\" rel=\"noreferrer\">Land Speeder (105 Points)</a>\n• 1x Close-combat weapon\n• 1x Multi-melta\n• 1x Onslaught gatling cannon\n• 1x Stormfury missile launcher\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Scout-Squad/\" target=\"_blank\" rel=\"noreferrer\">Scout Squad (65 Points)</a>\n• 1x Scout Sergeant\n◦ 1x Astartes chainsword\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n• 4x Scout\n◦ 4x Bolt pistol\n◦ 4x Close combat weapon\n◦ 4x Combat knife\n\nExported with App Version: v2.6.0 (3), Data Version: v946"
     },
     {
       "player": "Geoff Legg",
       "team": "Comp Play Surrey Primarchs",
       "faction": "Adeptus Custodes - Purge the Foe",
       "checkedIn": true,
-      "listId": "NdL1eiju0V7K",
+      "listId": "MQlR1KawpKFV",
       "hasPublishedList": true,
-      "sourceUrl": "https://www.bestcoastpairings.com/list/NdL1eiju0V7K",
+      "sourceUrl": "https://www.bestcoastpairings.com/list/MQlR1KawpKFV",
       "playerId": "Ybq7tFb88pv2",
       "event": "Brighton 40k Teams II",
       "pagePlayer": "Geoff Legg",
-      "content": "Custodes purge (2,000 Points)\n\nAdeptus Custodes\nShield Host and Tharanatoi Hammerblow (3 Detachment Points)\nPurge the Foe\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nBlade Champion (125 Points)\n• Attached as: Leader (Character)\n• 1x Vaultswords\n• Enhancements: Auric Mantle\n\nCustodian Guard (170 Points)\n• Attached as: Bodyguard (Battleline)\n• 4x Custodian Guard\n◦ 4x Guardian spear\n\nCHARACTERS\n\nShield-Captain on Dawneagle Jetbike (160 Points)\n• Warlord\n• 1x Interceptor lance\n• 1x Salvo launcher\n• Enhancements: Castellan’s Mark\n\nBATTLELINE\n\nCustodian Guard (170 Points)\n• 4x Custodian Guard\n◦ 4x Guardian spear\n\nCustodian Guard (170 Points)\n• 4x Custodian Guard\n◦ 4x Guardian spear\n\nOTHER DATASHEETS\n\nAllarus Custodians (280 Points)\n• 5x Allarus Custodian\n◦ 5x Balistus grenade launcher\n◦ 5x Guardian spear\n\nAllarus Custodians (280 Points)\n• 5x Allarus Custodian\n◦ 5x Balistus grenade launcher\n◦ 5x Guardian spear\n\nProsecutors (45 Points)\n• 1x Prosecutor Sister Superior\n◦ 1x Boltgun\n◦ 1x Close combat weapon\n• 3x Prosecutor\n◦ 3x Boltgun\n◦ 3x Close combat weapon\n\nProsecutors (45 Points)\n• 1x Prosecutor Sister Superior\n◦ 1x Boltgun\n◦ 1x Close combat weapon\n• 3x Prosecutor\n◦ 3x Boltgun\n◦ 3x Close combat weapon\n\nVenatari Custodians (165 Points)\n• 3x Venatari Custodian\n◦ 3x Venatari lance\n\nVenatari Custodians (165 Points)\n• 3x Venatari Custodian\n◦ 3x Venatari lance\n\nVenatari Custodians (175 Points)\n• 3x Venatari Custodian\n◦ 3x Venatari lance\n\nWitchseekers (50 Points)\n• 1x Witchseeker Sister Superior\n◦ 1x Close combat weapon\n◦ 1x Witchseeker flamer\n• 3x Witchseeker\n◦ 3x Close combat weapon\n◦ 3x Witchseeker flamer\n\nExported with App Version: v2.5.0 (1), Data Version: v931",
-      "pageUrl": "lists/NdL1eiju0V7K/",
-      "linkedContent": "Custodes purge (2,000 Points)\n\nAdeptus Custodes\nShield Host and Tharanatoi Hammerblow (3 Detachment Points)\nPurge the Foe\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Blade-Champion/\" target=\"_blank\" rel=\"noreferrer\">Blade Champion (125 Points)</a>\n• Attached as: Leader (Character)\n• 1x Vaultswords\n• Enhancements: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements\" target=\"_blank\" rel=\"noreferrer\">Auric Mantle</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard/\" target=\"_blank\" rel=\"noreferrer\">Custodian Guard (170 Points)</a>\n• Attached as: Bodyguard (Battleline)\n• 4x Custodian Guard\n◦ 4x Guardian spear\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Shield-captain-On-Dawneagle-Jetbike/\" target=\"_blank\" rel=\"noreferrer\">Shield-Captain on Dawneagle Jetbike (160 Points)</a>\n• Warlord\n• 1x Interceptor lance\n• 1x Salvo launcher\n• Enhancements: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements\" target=\"_blank\" rel=\"noreferrer\">Castellan’s Mark</a>\n\nBATTLELINE\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard/\" target=\"_blank\" rel=\"noreferrer\">Custodian Guard (170 Points)</a>\n• 4x Custodian Guard\n◦ 4x Guardian spear\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard/\" target=\"_blank\" rel=\"noreferrer\">Custodian Guard (170 Points)</a>\n• 4x Custodian Guard\n◦ 4x Guardian spear\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Allarus-Custodians/\" target=\"_blank\" rel=\"noreferrer\">Allarus Custodians (280 Points)</a>\n• 5x Allarus Custodian\n◦ 5x Balistus grenade launcher\n◦ 5x Guardian spear\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Allarus-Custodians/\" target=\"_blank\" rel=\"noreferrer\">Allarus Custodians (280 Points)</a>\n• 5x Allarus Custodian\n◦ 5x Balistus grenade launcher\n◦ 5x Guardian spear\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Prosecutors/\" target=\"_blank\" rel=\"noreferrer\">Prosecutors (45 Points)</a>\n• 1x Prosecutor Sister Superior\n◦ 1x Boltgun\n◦ 1x Close combat weapon\n• 3x Prosecutor\n◦ 3x Boltgun\n◦ 3x Close combat weapon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Prosecutors/\" target=\"_blank\" rel=\"noreferrer\">Prosecutors (45 Points)</a>\n• 1x Prosecutor Sister Superior\n◦ 1x Boltgun\n◦ 1x Close combat weapon\n• 3x Prosecutor\n◦ 3x Boltgun\n◦ 3x Close combat weapon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Venatari-Custodians/\" target=\"_blank\" rel=\"noreferrer\">Venatari Custodians (165 Points)</a>\n• 3x Venatari Custodian\n◦ 3x Venatari lance\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Venatari-Custodians/\" target=\"_blank\" rel=\"noreferrer\">Venatari Custodians (165 Points)</a>\n• 3x Venatari Custodian\n◦ 3x Venatari lance\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Venatari-Custodians/\" target=\"_blank\" rel=\"noreferrer\">Venatari Custodians (175 Points)</a>\n• 3x Venatari Custodian\n◦ 3x Venatari lance\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Witchseekers/\" target=\"_blank\" rel=\"noreferrer\">Witchseekers (50 Points)</a>\n• 1x Witchseeker Sister Superior\n◦ 1x Close combat weapon\n◦ 1x Witchseeker flamer\n• 3x Witchseeker\n◦ 3x Close combat weapon\n◦ 3x Witchseeker flamer\n\nExported with App Version: v2.5.0 (1), Data Version: v931"
+      "content": "Dear pairing gods -\n\nPls pair me into Brandon. He beat me with Votaan at that prestigious event in Horley.\n\nI need redemption. Brandon CANNOT be better than me at 40k.\n\nIf you dont pair me into him - i will start playing AoS or some other shit game\n\nLove\nDad\n\nShield host (2,000 Points)\n\nAdeptus Custodes\nMight of the Moritoi and Shield Host (3 Detachment Points)\nPurge the Foe\nStrike Force (2,000 Points)\n\nCHARACTERS\n\nShield-Captain on Dawneagle Jetbike (160 Points)\n• Warlord\n• 1x Interceptor lance\n• 1x Vertus hurricane bolter\n• Enhancements: Castellan’s Mark\n\nBATTLELINE\n\nCustodian Guard (170 Points)\n• 4x Custodian Guard\n◦ 4x Guardian spear\n\nOTHER DATASHEETS\n\nAllarus Custodians (280 Points)\n• 5x Allarus Custodian\n◦ 5x Balistus grenade launcher\n◦ 5x Guardian spear\n\nAllarus Custodians (280 Points)\n• 5x Allarus Custodian\n◦ 5x Balistus grenade launcher\n◦ 5x Guardian spear\n\nAllarus Custodians (310 Points)\n• 5x Allarus Custodian\n◦ 5x Balistus grenade launcher\n◦ 5x Guardian spear\n\nProsecutors (50 Points)\n• 1x Prosecutor Sister Superior\n◦ 1x Boltgun\n◦ 1x Close combat weapon\n• 4x Prosecutor\n◦ 4x Boltgun\n◦ 4x Close combat weapon\n\nProsecutors (50 Points)\n• 1x Prosecutor Sister Superior\n◦ 1x Boltgun\n◦ 1x Close combat weapon\n• 4x Prosecutor\n◦ 4x Boltgun\n◦ 4x Close combat weapon\n\nVenatari Custodians (165 Points)\n• 3x Venatari Custodian\n◦ 3x Venatari lance\n\nVenatari Custodians (165 Points)\n• 3x Venatari Custodian\n◦ 3x Venatari lance\n\nVenatari Custodians (175 Points)\n• 3x Venatari Custodian\n◦ 3x Venatari lance\n\nVertus Praetors (145 Points)\n• 2x Vertus Praetor\n◦ 2x Interceptor lance\n◦ 2x Vertus hurricane bolter\n\nWitchseekers (50 Points)\n• 1x Witchseeker Sister Superior\n◦ 1x Close combat weapon\n◦ 1x Witchseeker flamer\n• 3x Witchseeker\n◦ 3x Close combat weapon\n◦ 3x Witchseeker flamer\n\nExported with App Version: v2.5.0 (1), Data Version: v931",
+      "pageUrl": "lists/MQlR1KawpKFV/",
+      "linkedContent": "Dear pairing gods -\n\nPls pair me into Brandon. He beat me with Votaan at that prestigious event in Horley.\n\nI need redemption. Brandon CANNOT be better than me at 40k.\n\nIf you dont pair me into him - i will start playing AoS or some other shit game\n\nLove\nDad\n\nShield host (2,000 Points)\n\nAdeptus Custodes\nMight of the Moritoi and Shield Host (3 Detachment Points)\nPurge the Foe\nStrike Force (2,000 Points)\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Shield-captain-On-Dawneagle-Jetbike/\" target=\"_blank\" rel=\"noreferrer\">Shield-Captain on Dawneagle Jetbike (160 Points)</a>\n• Warlord\n• 1x Interceptor lance\n• 1x Vertus hurricane bolter\n• Enhancements: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements\" target=\"_blank\" rel=\"noreferrer\">Castellan’s Mark</a>\n\nBATTLELINE\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard/\" target=\"_blank\" rel=\"noreferrer\">Custodian Guard (170 Points)</a>\n• 4x Custodian Guard\n◦ 4x Guardian spear\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Allarus-Custodians/\" target=\"_blank\" rel=\"noreferrer\">Allarus Custodians (280 Points)</a>\n• 5x Allarus Custodian\n◦ 5x Balistus grenade launcher\n◦ 5x Guardian spear\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Allarus-Custodians/\" target=\"_blank\" rel=\"noreferrer\">Allarus Custodians (280 Points)</a>\n• 5x Allarus Custodian\n◦ 5x Balistus grenade launcher\n◦ 5x Guardian spear\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Allarus-Custodians/\" target=\"_blank\" rel=\"noreferrer\">Allarus Custodians (310 Points)</a>\n• 5x Allarus Custodian\n◦ 5x Balistus grenade launcher\n◦ 5x Guardian spear\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Prosecutors/\" target=\"_blank\" rel=\"noreferrer\">Prosecutors (50 Points)</a>\n• 1x Prosecutor Sister Superior\n◦ 1x Boltgun\n◦ 1x Close combat weapon\n• 4x Prosecutor\n◦ 4x Boltgun\n◦ 4x Close combat weapon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Prosecutors/\" target=\"_blank\" rel=\"noreferrer\">Prosecutors (50 Points)</a>\n• 1x Prosecutor Sister Superior\n◦ 1x Boltgun\n◦ 1x Close combat weapon\n• 4x Prosecutor\n◦ 4x Boltgun\n◦ 4x Close combat weapon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Venatari-Custodians/\" target=\"_blank\" rel=\"noreferrer\">Venatari Custodians (165 Points)</a>\n• 3x Venatari Custodian\n◦ 3x Venatari lance\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Venatari-Custodians/\" target=\"_blank\" rel=\"noreferrer\">Venatari Custodians (165 Points)</a>\n• 3x Venatari Custodian\n◦ 3x Venatari lance\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Venatari-Custodians/\" target=\"_blank\" rel=\"noreferrer\">Venatari Custodians (175 Points)</a>\n• 3x Venatari Custodian\n◦ 3x Venatari lance\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Vertus-Praetors/\" target=\"_blank\" rel=\"noreferrer\">Vertus Praetors (145 Points)</a>\n• 2x Vertus Praetor\n◦ 2x Interceptor lance\n◦ 2x Vertus hurricane bolter\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Witchseekers/\" target=\"_blank\" rel=\"noreferrer\">Witchseekers (50 Points)</a>\n• 1x Witchseeker Sister Superior\n◦ 1x Close combat weapon\n◦ 1x Witchseeker flamer\n• 3x Witchseeker\n◦ 3x Close combat weapon\n◦ 3x Witchseeker flamer\n\nExported with App Version: v2.5.0 (1), Data Version: v931"
     },
     {
       "player": "Grzegorz Bondaruk",
@@ -489,15 +549,15 @@ window.BCP_DATA = {
       "team": "Defenders of Outpost 47",
       "faction": "Emperor's Children - Purge the Foe",
       "checkedIn": true,
-      "listId": "nJX30tKBYWDG",
+      "listId": "IZ3tB6zywOUZ",
       "hasPublishedList": true,
-      "sourceUrl": "https://www.bestcoastpairings.com/list/nJX30tKBYWDG",
+      "sourceUrl": "https://www.bestcoastpairings.com/list/IZ3tB6zywOUZ",
       "playerId": "uR5seyGkjDxB",
       "event": "Brighton 40k Teams II",
       "pagePlayer": "Daniel Fuller",
-      "content": "Fulgrim’s Blade Carnival (1,995 Points)\n\nEmperor’s Children\nCourt of the Phoenician and Spectacle of Slaughter (3 Detachment Points)\nPurge the Foe\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nLord Exultant (90 Points)\n• Attached as: Leader (Character)\n• 1x Bolt Pistol\n• 1x Close combat weapon\n• 1x Phoenix power spear\n• 1x Rapture lash\n\nInfractors (160 Points)\n• Attached as: Bodyguard (Battleline)\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Rapture lash\n• 9x Infractor\n◦ 9x Bolt pistol\n◦ 9x Duelling sabre\n◦ 1x Icon of Excess\n\nAttached unit 2\n\nLord Exultant (90 Points)\n• Attached as: Leader (Character)\n• 1x Bolt Pistol\n• 1x Close combat weapon\n• 1x Phoenix power spear\n• 1x Rapture lash\n\nInfractors (160 Points)\n• Attached as: Bodyguard (Battleline)\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Rapture lash\n• 9x Infractor\n◦ 9x Bolt pistol\n◦ 9x Duelling sabre\n◦ 1x Icon of Excess\n\nAttached unit 3\n\nSorcerer (55 Points)\n• Attached as: Leader (Character)\n• 1x Agonising Energies\n• 1x Bolt pistol\n• 1x Force weapon\n\nNoise Marines (145 Points)\n• Attached as: Bodyguard\n• 1x Disharmonist\n◦ 1x Close combat weapon\n◦ 1x Sonic blaster\n• 5x Noise Marine\n◦ 2x Blastmaster\n◦ 5x Close combat weapon\n◦ 3x Sonic blaster\n\nCHARACTERS\n\nFulgrim (340 Points)\n• Warlord\n• 1x Daemonic blades\n• 1x Malefic lash\n• 1x Serpentine tail\n\nLucius the Eternal (120 Points)\n• 1x Blade of the Laer\n• 1x Lash of Torment\n\nBATTLELINE\n\nTormentors (80 Points)\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Power sword\n• 4x Tormentor\n◦ 2x Boltgun\n◦ 4x Close combat weapon\n◦ 1x Icon of Excess\n◦ 1x Meltagun\n◦ 1x Plasma gun\n\nTormentors (80 Points)\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Power sword\n• 4x Tormentor\n◦ 2x Boltgun\n◦ 4x Close combat weapon\n◦ 1x Icon of Excess\n◦ 1x Meltagun\n◦ 1x Plasma gun\n\nOTHER DATASHEETS\n\nFlawless Blades (205 Points)\n• Enhancements: Beguiling Grotesquerie (Upgrade)\n• 6x Flawless Blade\n◦ 6x Blissblade\n◦ 6x Bolt pistol\n\nFlawless Blades (205 Points)\n• Enhancements: Beguiling Grotesquerie (Upgrade)\n• 6x Flawless Blade\n◦ 6x Blissblade\n◦ 6x Bolt pistol\n\nMaulerfiend (120 Points)\n• 1x Lasher tendrils\n• 1x Maulerfiend fists\n\nNoise Marines (145 Points)\n• 1x Disharmonist\n◦ 1x Close combat weapon\n◦ 1x Sonic blaster\n• 5x Noise Marine\n◦ 2x Blastmaster\n◦ 5x Close combat weapon\n◦ 3x Sonic blaster",
-      "pageUrl": "lists/nJX30tKBYWDG/",
-      "linkedContent": "Fulgrim’s Blade Carnival (1,995 Points)\n\nEmperor’s Children\nCourt of the Phoenician and Spectacle of Slaughter (3 Detachment Points)\nPurge the Foe\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Lord-Exultant/\" target=\"_blank\" rel=\"noreferrer\">Lord Exultant (90 Points)</a>\n• Attached as: Leader (Character)\n• 1x Bolt Pistol\n• 1x Close combat weapon\n• 1x Phoenix power spear\n• 1x Rapture lash\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Infractors/\" target=\"_blank\" rel=\"noreferrer\">Infractors (160 Points)</a>\n• Attached as: Bodyguard (Battleline)\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Rapture lash\n• 9x Infractor\n◦ 9x Bolt pistol\n◦ 9x Duelling sabre\n◦ 1x Icon of Excess\n\nAttached unit 2\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Lord-Exultant/\" target=\"_blank\" rel=\"noreferrer\">Lord Exultant (90 Points)</a>\n• Attached as: Leader (Character)\n• 1x Bolt Pistol\n• 1x Close combat weapon\n• 1x Phoenix power spear\n• 1x Rapture lash\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Infractors/\" target=\"_blank\" rel=\"noreferrer\">Infractors (160 Points)</a>\n• Attached as: Bodyguard (Battleline)\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Rapture lash\n• 9x Infractor\n◦ 9x Bolt pistol\n◦ 9x Duelling sabre\n◦ 1x Icon of Excess\n\nAttached unit 3\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Sorcerer/\" target=\"_blank\" rel=\"noreferrer\">Sorcerer (55 Points)</a>\n• Attached as: Leader (Character)\n• 1x Agonising Energies\n• 1x Bolt pistol\n• 1x Force weapon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Noise-Marines/\" target=\"_blank\" rel=\"noreferrer\">Noise Marines (145 Points)</a>\n• Attached as: Bodyguard\n• 1x Disharmonist\n◦ 1x Close combat weapon\n◦ 1x Sonic blaster\n• 5x Noise Marine\n◦ 2x Blastmaster\n◦ 5x Close combat weapon\n◦ 3x Sonic blaster\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Fulgrim/\" target=\"_blank\" rel=\"noreferrer\">Fulgrim (340 Points)</a>\n• Warlord\n• 1x Daemonic blades\n• 1x Malefic lash\n• 1x Serpentine tail\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Lucius-the-Eternal/\" target=\"_blank\" rel=\"noreferrer\">Lucius the Eternal (120 Points)</a>\n• 1x Blade of the Laer\n• 1x Lash of Torment\n\nBATTLELINE\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Tormentors/\" target=\"_blank\" rel=\"noreferrer\">Tormentors (80 Points)</a>\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Power sword\n• 4x Tormentor\n◦ 2x Boltgun\n◦ 4x Close combat weapon\n◦ 1x Icon of Excess\n◦ 1x Meltagun\n◦ 1x Plasma gun\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Tormentors/\" target=\"_blank\" rel=\"noreferrer\">Tormentors (80 Points)</a>\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Power sword\n• 4x Tormentor\n◦ 2x Boltgun\n◦ 4x Close combat weapon\n◦ 1x Icon of Excess\n◦ 1x Meltagun\n◦ 1x Plasma gun\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Flawless-Blades/\" target=\"_blank\" rel=\"noreferrer\">Flawless Blades (205 Points)</a>\n• Enhancements: Beguiling Grotesquerie (Upgrade)\n• 6x Flawless Blade\n◦ 6x Blissblade\n◦ 6x Bolt pistol\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Flawless-Blades/\" target=\"_blank\" rel=\"noreferrer\">Flawless Blades (205 Points)</a>\n• Enhancements: Beguiling Grotesquerie (Upgrade)\n• 6x Flawless Blade\n◦ 6x Blissblade\n◦ 6x Bolt pistol\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Maulerfiend/\" target=\"_blank\" rel=\"noreferrer\">Maulerfiend (120 Points)</a>\n• 1x Lasher tendrils\n• 1x Maulerfiend fists\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Noise-Marines/\" target=\"_blank\" rel=\"noreferrer\">Noise Marines (145 Points)</a>\n• 1x Disharmonist\n◦ 1x Close combat weapon\n◦ 1x Sonic blaster\n• 5x Noise Marine\n◦ 2x Blastmaster\n◦ 5x Close combat weapon\n◦ 3x Sonic blaster"
+      "content": "Fulgrim’s Blade Carnival (1,995 Points)\n\nEmperor’s Children\nCourt of the Phoenician and Spectacle of Slaughter (3 Detachment Points)\nPurge the Foe\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nLord Exultant (90 Points)\n• Attached as: Leader (Character)\n• 1x Bolt Pistol\n• 1x Close combat weapon\n• 1x Phoenix power spear\n• 1x Rapture lash\n\nInfractors (160 Points)\n• Attached as: Bodyguard (Battleline)\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Rapture lash\n• 9x Infractor\n◦ 9x Bolt pistol\n◦ 9x Duelling sabre\n◦ 1x Icon of Excess\n\nAttached unit 2\n\nLord Exultant (90 Points)\n• Attached as: Leader (Character)\n• 1x Bolt Pistol\n• 1x Close combat weapon\n• 1x Phoenix power spear\n• 1x Rapture lash\n\nInfractors (160 Points)\n• Attached as: Bodyguard (Battleline)\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Rapture lash\n• 9x Infractor\n◦ 9x Bolt pistol\n◦ 9x Duelling sabre\n◦ 1x Icon of Excess\n\nAttached unit 3\n\nSorcerer (55 Points)\n• Attached as: Leader (Character)\n• 1x Agonising Energies\n• 1x Bolt pistol\n• 1x Force weapon\n\nNoise Marines (145 Points)\n• Attached as: Bodyguard\n• 1x Disharmonist\n◦ 1x Close combat weapon\n◦ 1x Sonic blaster\n• 5x Noise Marine\n◦ 2x Blastmaster\n◦ 5x Close combat weapon\n◦ 3x Sonic blaster\n\nCHARACTERS\n\nFulgrim (340 Points)\n• Warlord\n• 1x Daemonic blades\n• 1x Malefic lash\n• 1x Serpentine tail\n\nLucius the Eternal (120 Points)\n• 1x Blade of the Laer\n• 1x Lash of Torment\n\nBATTLELINE\n\nTormentors (80 Points)\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Power sword\n• 4x Tormentor\n◦ 2x Boltgun\n◦ 4x Close combat weapon\n◦ 1x Icon of Excess\n◦ 1x Meltagun\n◦ 1x Plasma gun\n\nTormentors (80 Points)\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Power sword\n• 4x Tormentor\n◦ 2x Boltgun\n◦ 4x Close combat weapon\n◦ 1x Icon of Excess\n◦ 1x Meltagun\n◦ 1x Plasma gun\n\nOTHER DATASHEETS\n\nFlawless Blades (205 Points)\n• Enhancements: Beguiling Grotesquerie (Upgrade)\n• 6x Flawless Blade\n◦ 6x Blissblade\n◦ 6x Bolt pistol\n\nFlawless Blades (205 Points)\n• Enhancements: Beguiling Grotesquerie (Upgrade)\n• 6x Flawless Blade\n◦ 6x Blissblade\n◦ 6x Bolt pistol\n\nMaulerfiend (120 Points)\n• 1x Lasher tendrils\n• 1x Maulerfiend fists\n\nNoise Marines (145 Points)\n• 1x Disharmonist\n◦ 1x Close combat weapon\n◦ 1x Sonic blaster\n• 5x Noise Marine\n◦ 2x Blastmaster\n◦ 5x Close combat weapon\n◦ 3x Sonic blaster\n\nExported with App Version: v2.6.0 (3), Data Version: v946",
+      "pageUrl": "lists/IZ3tB6zywOUZ/",
+      "linkedContent": "Fulgrim’s Blade Carnival (1,995 Points)\n\nEmperor’s Children\nCourt of the Phoenician and Spectacle of Slaughter (3 Detachment Points)\nPurge the Foe\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Lord-Exultant/\" target=\"_blank\" rel=\"noreferrer\">Lord Exultant (90 Points)</a>\n• Attached as: Leader (Character)\n• 1x Bolt Pistol\n• 1x Close combat weapon\n• 1x Phoenix power spear\n• 1x Rapture lash\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Infractors/\" target=\"_blank\" rel=\"noreferrer\">Infractors (160 Points)</a>\n• Attached as: Bodyguard (Battleline)\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Rapture lash\n• 9x Infractor\n◦ 9x Bolt pistol\n◦ 9x Duelling sabre\n◦ 1x Icon of Excess\n\nAttached unit 2\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Lord-Exultant/\" target=\"_blank\" rel=\"noreferrer\">Lord Exultant (90 Points)</a>\n• Attached as: Leader (Character)\n• 1x Bolt Pistol\n• 1x Close combat weapon\n• 1x Phoenix power spear\n• 1x Rapture lash\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Infractors/\" target=\"_blank\" rel=\"noreferrer\">Infractors (160 Points)</a>\n• Attached as: Bodyguard (Battleline)\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Rapture lash\n• 9x Infractor\n◦ 9x Bolt pistol\n◦ 9x Duelling sabre\n◦ 1x Icon of Excess\n\nAttached unit 3\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Sorcerer/\" target=\"_blank\" rel=\"noreferrer\">Sorcerer (55 Points)</a>\n• Attached as: Leader (Character)\n• 1x Agonising Energies\n• 1x Bolt pistol\n• 1x Force weapon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Noise-Marines/\" target=\"_blank\" rel=\"noreferrer\">Noise Marines (145 Points)</a>\n• Attached as: Bodyguard\n• 1x Disharmonist\n◦ 1x Close combat weapon\n◦ 1x Sonic blaster\n• 5x Noise Marine\n◦ 2x Blastmaster\n◦ 5x Close combat weapon\n◦ 3x Sonic blaster\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Fulgrim/\" target=\"_blank\" rel=\"noreferrer\">Fulgrim (340 Points)</a>\n• Warlord\n• 1x Daemonic blades\n• 1x Malefic lash\n• 1x Serpentine tail\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Lucius-the-Eternal/\" target=\"_blank\" rel=\"noreferrer\">Lucius the Eternal (120 Points)</a>\n• 1x Blade of the Laer\n• 1x Lash of Torment\n\nBATTLELINE\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Tormentors/\" target=\"_blank\" rel=\"noreferrer\">Tormentors (80 Points)</a>\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Power sword\n• 4x Tormentor\n◦ 2x Boltgun\n◦ 4x Close combat weapon\n◦ 1x Icon of Excess\n◦ 1x Meltagun\n◦ 1x Plasma gun\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Tormentors/\" target=\"_blank\" rel=\"noreferrer\">Tormentors (80 Points)</a>\n• 1x Obsessionist\n◦ 1x Plasma pistol\n◦ 1x Power sword\n• 4x Tormentor\n◦ 2x Boltgun\n◦ 4x Close combat weapon\n◦ 1x Icon of Excess\n◦ 1x Meltagun\n◦ 1x Plasma gun\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Flawless-Blades/\" target=\"_blank\" rel=\"noreferrer\">Flawless Blades (205 Points)</a>\n• Enhancements: Beguiling Grotesquerie (Upgrade)\n• 6x Flawless Blade\n◦ 6x Blissblade\n◦ 6x Bolt pistol\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Flawless-Blades/\" target=\"_blank\" rel=\"noreferrer\">Flawless Blades (205 Points)</a>\n• Enhancements: Beguiling Grotesquerie (Upgrade)\n• 6x Flawless Blade\n◦ 6x Blissblade\n◦ 6x Bolt pistol\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Maulerfiend/\" target=\"_blank\" rel=\"noreferrer\">Maulerfiend (120 Points)</a>\n• 1x Lasher tendrils\n• 1x Maulerfiend fists\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Noise-Marines/\" target=\"_blank\" rel=\"noreferrer\">Noise Marines (145 Points)</a>\n• 1x Disharmonist\n◦ 1x Close combat weapon\n◦ 1x Sonic blaster\n• 5x Noise Marine\n◦ 2x Blastmaster\n◦ 5x Close combat weapon\n◦ 3x Sonic blaster\n\nExported with App Version: v2.6.0 (3), Data Version: v946"
     },
     {
       "player": "Jack Holliday",
@@ -532,17 +592,62 @@ window.BCP_DATA = {
     {
       "player": "Brando McCready",
       "team": "For King & Comp Play",
-      "faction": "Leagues of Votann - Priority Assets",
+      "faction": "Leagues of Votann - Reconnaissance",
       "checkedIn": true,
-      "listId": "GnQfCBUNhIZR",
+      "listId": "1WsdUJAerW1n",
       "hasPublishedList": true,
-      "sourceUrl": "https://www.bestcoastpairings.com/list/GnQfCBUNhIZR",
+      "sourceUrl": "https://www.bestcoastpairings.com/list/1WsdUJAerW1n",
       "playerId": "svEcgUyRuxeu",
       "event": "Brighton 40k Teams II",
       "pagePlayer": "Brando McCready",
-      "content": "Suck your mum",
-      "pageUrl": "lists/GnQfCBUNhIZR/",
-      "linkedContent": "Suck your mum"
+      "content": "🪨 For Kahl And Comp Play (2000 points)\n\nLeagues of Votann\nFarseekers and Needgaârd Oathband (3 Detachment Points)\nReconnaissance\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nKâhl (95 points)\n• Attached as: Leader (Character)\n• 1x Autoch-pattern combi-bolter\n1x Mass gauntlet\n1x Rampart Crest\n• Enhancement: Oathbound Speculator\n\nEinhyr Hearthguard (270 points)\n• Attached as: Bodyguard\n• 1x Hesyr\n• 1x Concussion gauntlet\n1x EtaCarn plasma gun\n1x Exoarmour grenade launcher\n1x Teleport Crest\n• 9x Einhyr Hearthguard\n• 9x Concussion gauntlet\n9x EtaCarn plasma gun\n9x Exoarmour grenade launcher\n\nAttached Unit 2\n\nKâhl (65 points)\n• Attached as: Leader (Character)\n• 1x Autoch-pattern combi-bolter\n1x Mass gauntlet\n1x Rampart Crest\n\nEinhyr Hearthguard (270 points)\n• Attached as: Bodyguard\n• 1x Hesyr\n• 1x Concussion gauntlet\n1x EtaCarn plasma gun\n1x Exoarmour grenade launcher\n1x Teleport Crest\n• 9x Einhyr Hearthguard\n• 9x Concussion gauntlet\n9x EtaCarn plasma gun\n9x Exoarmour grenade launcher\n\n\nCHARACTERS\n\nArkanyst Evaluator (70 points)\n• 1x Close combat weapon\n1x Transmatter inverter\n\nArkanyst Evaluator (70 points)\n• 1x Close combat weapon\n1x Transmatter inverter\n\nMemnyr Strategist (55 points)\n• 1x Autoch-pattern bolt pistol\n1x Close combat weapon\n• Enhancement: Dead Reckoning\n\nÛthar the Destined (90 points)\n• Warlord\n• 1x Blade of the Ancestors\n1x Rampart Crest\n1x Volkanite disintegrator\n\n\nDEDICATED TRANSPORTS\n\nKapricus Carrier (70 points)\n• 1x Armoured hull\n1x Magna-coil autocannon\n1x Smoke Launcher\n1x Twin magna‑coil autocannon\n\nKapricus Carrier (70 points)\n• 1x Armoured hull\n1x Magna-coil autocannon\n1x Smoke Launcher\n1x Twin magna‑coil autocannon\n\nKapricus Carrier (70 points)\n• 1x Armoured hull\n1x Magna-coil autocannon\n1x Smoke Launcher\n1x Twin magna‑coil autocannon\n\n\nOTHER DATASHEETS\n\nBrôkhyr Thunderkyn (80 points)\n• 3x Brôkhyr Thunderkyn\n• 3x Close combat weapon\n3x Graviton blast cannon\n\nBrôkhyr Thunderkyn (80 points)\n• 3x Brôkhyr Thunderkyn\n• 3x Close combat weapon\n3x Graviton blast cannon\n\nHernkyn Pioneers (160 points)\n• 6x Hernkyn Pioneer\n• 6x Bolt revolver\n6x Bolt shotgun\n2x HYLas rotary cannon\n6x Magna-coil autocannon\n1x Multiwave Comms Array\n1x Panspectral Scanner\n6x Plasma knife\n1x Rollbar Searchlight\n\nHernkyn Pioneers (80 points)\n• 3x Hernkyn Pioneer\n• 3x Bolt revolver\n3x Bolt shotgun\n1x HYLas rotary cannon\n3x Magna-coil autocannon\n1x Panspectral Scanner\n3x Plasma knife\n1x Rollbar Searchlight\n\nHernkyn Pioneers (90 points)\n• 3x Hernkyn Pioneer\n• 3x Bolt revolver\n3x Bolt shotgun\n1x HYLas rotary cannon\n3x Magna-coil autocannon\n1x Panspectral Scanner\n3x Plasma knife\n1x Rollbar Searchlight\n\nHernkyn Yaegirs (105 points)\n• Enhancement: Shroudwërke Talismans (Upgrade)\n• 1x Yaegir Theyn\n• 1x Bolt revolver\n1x Close combat weapon\n1x Plasma knife\n• 9x Hernkyn Yaegir\n• 1x APM launcher\n7x Bolt revolver\n9x Close combat weapon\n1x Magna-coil rifle\n7x Plasma knife\n\nHernkyn Yaegirs (105 points)\n• Enhancement: Shroudwërke Talismans (Upgrade)\n• 1x Yaegir Theyn\n• 1x Bolt revolver\n1x Close combat weapon\n1x Plasma knife\n• 9x Hernkyn Yaegir\n• 1x APM launcher\n7x Bolt revolver\n9x Close combat weapon\n1x Magna-coil rifle\n7x Plasma knife\n\nHernkyn Yaegirs (105 points)\n• Enhancement: Shroudwërke Talismans (Upgrade)\n• 1x Yaegir Theyn\n• 1x Bolt revolver\n1x Close combat weapon\n1x Plasma knife\n• 9x Hernkyn Yaegir\n• 1x APM launcher\n7x Bolt revolver\n9x Close combat weapon\n1x Magna-coil rifle\n7x Plasma knife\n\nExported with App Version: v2.5.0 (140), Data Version: v931",
+      "pageUrl": "lists/1WsdUJAerW1n/",
+      "linkedContent": "🪨 For Kahl And Comp Play (2000 points)\n\nLeagues of Votann\nFarseekers and Needgaârd Oathband (3 Detachment Points)\nReconnaissance\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nKâhl (95 points)\n• Attached as: Leader (Character)\n• 1x Autoch-pattern combi-bolter\n1x Mass gauntlet\n1x Rampart Crest\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/#Enhancements-1\" target=\"_blank\" rel=\"noreferrer\">Oathbound Speculator</a>\n\nEinhyr Hearthguard (270 points)\n• Attached as: Bodyguard\n• 1x Hesyr\n• 1x Concussion gauntlet\n1x EtaCarn plasma gun\n1x Exoarmour grenade launcher\n1x Teleport Crest\n• 9x Einhyr Hearthguard\n• 9x Concussion gauntlet\n9x EtaCarn plasma gun\n9x Exoarmour grenade launcher\n\nAttached Unit 2\n\nKâhl (65 points)\n• Attached as: Leader (Character)\n• 1x Autoch-pattern combi-bolter\n1x Mass gauntlet\n1x Rampart Crest\n\nEinhyr Hearthguard (270 points)\n• Attached as: Bodyguard\n• 1x Hesyr\n• 1x Concussion gauntlet\n1x EtaCarn plasma gun\n1x Exoarmour grenade launcher\n1x Teleport Crest\n• 9x Einhyr Hearthguard\n• 9x Concussion gauntlet\n9x EtaCarn plasma gun\n9x Exoarmour grenade launcher\n\n\nCHARACTERS\n\nArkanyst Evaluator (70 points)\n• 1x Close combat weapon\n1x Transmatter inverter\n\nArkanyst Evaluator (70 points)\n• 1x Close combat weapon\n1x Transmatter inverter\n\nMemnyr Strategist (55 points)\n• 1x Autoch-pattern bolt pistol\n1x Close combat weapon\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/#Enhancements-1\" target=\"_blank\" rel=\"noreferrer\">Dead Reckoning</a>\n\nÛthar the Destined (90 points)\n• Warlord\n• 1x Blade of the Ancestors\n1x Rampart Crest\n1x Volkanite disintegrator\n\n\nDEDICATED TRANSPORTS\n\nKapricus Carrier (70 points)\n• 1x Armoured hull\n1x Magna-coil autocannon\n1x Smoke Launcher\n1x Twin magna‑coil autocannon\n\nKapricus Carrier (70 points)\n• 1x Armoured hull\n1x Magna-coil autocannon\n1x Smoke Launcher\n1x Twin magna‑coil autocannon\n\nKapricus Carrier (70 points)\n• 1x Armoured hull\n1x Magna-coil autocannon\n1x Smoke Launcher\n1x Twin magna‑coil autocannon\n\n\nOTHER DATASHEETS\n\nBrôkhyr Thunderkyn (80 points)\n• 3x Brôkhyr Thunderkyn\n• 3x Close combat weapon\n3x Graviton blast cannon\n\nBrôkhyr Thunderkyn (80 points)\n• 3x Brôkhyr Thunderkyn\n• 3x Close combat weapon\n3x Graviton blast cannon\n\nHernkyn Pioneers (160 points)\n• 6x Hernkyn Pioneer\n• 6x Bolt revolver\n6x Bolt shotgun\n2x HYLas rotary cannon\n6x Magna-coil autocannon\n1x Multiwave Comms Array\n1x Panspectral Scanner\n6x Plasma knife\n1x Rollbar Searchlight\n\nHernkyn Pioneers (80 points)\n• 3x Hernkyn Pioneer\n• 3x Bolt revolver\n3x Bolt shotgun\n1x HYLas rotary cannon\n3x Magna-coil autocannon\n1x Panspectral Scanner\n3x Plasma knife\n1x Rollbar Searchlight\n\nHernkyn Pioneers (90 points)\n• 3x Hernkyn Pioneer\n• 3x Bolt revolver\n3x Bolt shotgun\n1x HYLas rotary cannon\n3x Magna-coil autocannon\n1x Panspectral Scanner\n3x Plasma knife\n1x Rollbar Searchlight\n\nHernkyn Yaegirs (105 points)\n• Enhancement: Shroudwërke Talismans (Upgrade)\n• 1x Yaegir Theyn\n• 1x Bolt revolver\n1x Close combat weapon\n1x Plasma knife\n• 9x Hernkyn Yaegir\n• 1x APM launcher\n7x Bolt revolver\n9x Close combat weapon\n1x Magna-coil rifle\n7x Plasma knife\n\nHernkyn Yaegirs (105 points)\n• Enhancement: Shroudwërke Talismans (Upgrade)\n• 1x Yaegir Theyn\n• 1x Bolt revolver\n1x Close combat weapon\n1x Plasma knife\n• 9x Hernkyn Yaegir\n• 1x APM launcher\n7x Bolt revolver\n9x Close combat weapon\n1x Magna-coil rifle\n7x Plasma knife\n\nHernkyn Yaegirs (105 points)\n• Enhancement: Shroudwërke Talismans (Upgrade)\n• 1x Yaegir Theyn\n• 1x Bolt revolver\n1x Close combat weapon\n1x Plasma knife\n• 9x Hernkyn Yaegir\n• 1x APM launcher\n7x Bolt revolver\n9x Close combat weapon\n1x Magna-coil rifle\n7x Plasma knife\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+    },
+    {
+      "player": "Max Pringle",
+      "team": "For King & Comp Play",
+      "faction": "Chaos Space Marines - Take and Hold",
+      "checkedIn": true,
+      "listId": "DCRQd624qk8j",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/DCRQd624qk8j",
+      "playerId": "rA97GI9XUbqP",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Max Pringle",
+      "content": "For Kravek And Comp Play (1,995 Points)\n\nChaos Space Marines\nCabal of Chaos and Fellhammer Siege-host (3 Detachment Points)\nTake and Hold\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nHuron Blackheart (130 Points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Tyrant’s Claw and exalted power weapon\n• 1x Tyrant’s Claw heavy flamer\n\nMasters of the Maelstrom (145 Points)\n• Attached as: Support\n• 1x Garreon the Corpsemaster\n◦ 1x Absolvor bolt pistol\n◦ 1x Reductor array\n• 1x Garlon Souleater\n◦ 1x Force stave\n◦ 1x Mind Wrench\n• 1x Katar Garrix\n◦ 1x Axe of Ending\n◦ 1x Bolt pistol\n• 1x Captain Sargotta\n◦ 1x Laspistol\n◦ 1x Power sabre\n• 1x The Enforcer\n◦ 1x Bionic gauntlet\n◦ 1x Londaxi maimer\n\nChosen (135 Points)\n• Attached as: Bodyguard\n• 1x Chosen Champion\n◦ 1x Boltgun\n◦ 1x Chaos Icon\n◦ 1x Plasma pistol\n◦ 1x Power fist\n• 4x Chosen\n◦ 3x Accursed weapon\n◦ 4x Bolt pistol\n◦ 2x Boltgun\n◦ 1x Combi-weapon\n◦ 1x Paired accursed weapons\n\nAttached unit 2\n\nSorcerer (60 Points)\n• Attached as: Leader (Character)\n• 1x Bolt pistol\n• 1x Force weapon\n• 1x Infernal Gaze\n\nChosen (270 Points)\n• Attached as: Bodyguard\n• 1x Chosen Champion\n◦ 1x Boltgun\n◦ 1x Chaos Icon\n◦ 1x Plasma pistol\n◦ 1x Power fist\n• 9x Chosen\n◦ 6x Accursed weapon\n◦ 6x Bolt pistol\n◦ 3x Boltgun\n◦ 4x Combi-weapon\n◦ 2x Paired accursed weapons\n◦ 3x Plasma pistol\n◦ 1x Power fist\n\nAttached unit 3\n\nKravek Morne (120 Points)\n• Attached as: Leader (Character)\n• 1x Baleflamer\n• 1x Combi-bolter\n• 1x Last Argument and power fist\n• 1x Servo-harness\n\nMutilators (165 Points)\n• Attached as: Bodyguard\n• 3x Mutilator\n◦ 3x Fleshmetal weapons\n\nBATTLELINE\n\nCultist Mob (50 Points)\n• 1x Cultist Champion\n◦ 1x Autopistol\n◦ 1x Brutal assault weapon\n• 9x Chaos Cultist\n◦ 9x Autopistol\n◦ 9x Brutal assault weapon\n\nOTHER DATASHEETS\n\nChaos Bikers (70 Points)\n• 1x Biker Champion\n◦ 1x Chaos Icon\n◦ 1x Close combat weapon\n◦ 1x Combi-bolter\n◦ 1x Power fist\n• 2x Chaos Biker\n◦ 2x Astartes chainsword\n◦ 2x Close combat weapon\n◦ 2x Combi-bolter\n◦ 2x Meltagun\n\nChaos Predator Destructor (150 Points)\n• 1x Armoured tracks\n• 1x Combi-bolter\n• 1x Havoc launcher\n• 2x Lascannon\n• 1x Predator autocannon\n\nChaos Predator Destructor (150 Points)\n• 1x Armoured tracks\n• 1x Combi-bolter\n• 1x Havoc launcher\n• 2x Lascannon\n• 1x Predator autocannon\n\nDefiler (330 Points)\n• 1x Ectoplasma destructor\n• 2x Excruciator cannon\n• 1x Heavy reaper autocannon\n• 1x Heavy reaper autocannon\n• 1x Shearing claws\n\nRaptors (110 Points)\n• 1x Raptor Champion\n◦ 1x Heavy melee weapon\n◦ 1x Plasma pistol\n• 4x Raptor\n◦ 4x Bolt pistol\n◦ 1x Close combat weapon\n◦ 2x Heavy melee weapon\n◦ 1x Meltagun\n◦ 1x Mutations\n\nRed Corsairs Raiders (110 Points)\n• 1x Red Corsairs Raider Champion\n◦ 1x Boltgun\n◦ 1x Hand flamer\n◦ 1x Reaver’s blade\n• 4x Red Corsairs Raider\n◦ 4x Bolt pistol\n◦ 3x Boltgun\n◦ 1x Meltagun\n◦ 1x Power fist\n◦ 3x Reaver’s blade\n\nExported with App Version: v2.5.0 (1), Data Version: v931",
+      "pageUrl": "lists/DCRQd624qk8j/",
+      "linkedContent": "For Kravek And Comp Play (1,995 Points)\n\nChaos Space Marines\nCabal of Chaos and Fellhammer Siege-host (3 Detachment Points)\nTake and Hold\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Huron-Blackheart/\" target=\"_blank\" rel=\"noreferrer\">Huron Blackheart (130 Points)</a>\n• Attached as: Leader (Character)\n• Warlord\n• 1x Tyrant’s Claw and exalted power weapon\n• 1x Tyrant’s Claw heavy flamer\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Masters-of-the-Maelstrom/\" target=\"_blank\" rel=\"noreferrer\">Masters of the Maelstrom (145 Points)</a>\n• Attached as: Support\n• 1x Garreon the Corpsemaster\n◦ 1x Absolvor bolt pistol\n◦ 1x Reductor array\n• 1x Garlon Souleater\n◦ 1x Force stave\n◦ 1x Mind Wrench\n• 1x Katar Garrix\n◦ 1x Axe of Ending\n◦ 1x Bolt pistol\n• 1x Captain Sargotta\n◦ 1x Laspistol\n◦ 1x Power sabre\n• 1x The Enforcer\n◦ 1x Bionic gauntlet\n◦ 1x Londaxi maimer\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Chosen/\" target=\"_blank\" rel=\"noreferrer\">Chosen (135 Points)</a>\n• Attached as: Bodyguard\n• 1x Chosen Champion\n◦ 1x Boltgun\n◦ 1x Chaos Icon\n◦ 1x Plasma pistol\n◦ 1x Power fist\n• 4x Chosen\n◦ 3x Accursed weapon\n◦ 4x Bolt pistol\n◦ 2x Boltgun\n◦ 1x Combi-weapon\n◦ 1x Paired accursed weapons\n\nAttached unit 2\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Sorcerer/\" target=\"_blank\" rel=\"noreferrer\">Sorcerer (60 Points)</a>\n• Attached as: Leader (Character)\n• 1x Bolt pistol\n• 1x Force weapon\n• 1x Infernal Gaze\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Chosen/\" target=\"_blank\" rel=\"noreferrer\">Chosen (270 Points)</a>\n• Attached as: Bodyguard\n• 1x Chosen Champion\n◦ 1x Boltgun\n◦ 1x Chaos Icon\n◦ 1x Plasma pistol\n◦ 1x Power fist\n• 9x Chosen\n◦ 6x Accursed weapon\n◦ 6x Bolt pistol\n◦ 3x Boltgun\n◦ 4x Combi-weapon\n◦ 2x Paired accursed weapons\n◦ 3x Plasma pistol\n◦ 1x Power fist\n\nAttached unit 3\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Kravek-Morne/\" target=\"_blank\" rel=\"noreferrer\">Kravek Morne (120 Points)</a>\n• Attached as: Leader (Character)\n• 1x Baleflamer\n• 1x Combi-bolter\n• 1x Last Argument and power fist\n• 1x Servo-harness\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Mutilators/\" target=\"_blank\" rel=\"noreferrer\">Mutilators (165 Points)</a>\n• Attached as: Bodyguard\n• 3x Mutilator\n◦ 3x Fleshmetal weapons\n\nBATTLELINE\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Cultist-Mob/\" target=\"_blank\" rel=\"noreferrer\">Cultist Mob (50 Points)</a>\n• 1x Cultist Champion\n◦ 1x Autopistol\n◦ 1x Brutal assault weapon\n• 9x Chaos Cultist\n◦ 9x Autopistol\n◦ 9x Brutal assault weapon\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Chaos-Bikers/\" target=\"_blank\" rel=\"noreferrer\">Chaos Bikers (70 Points)</a>\n• 1x Biker Champion\n◦ 1x Chaos Icon\n◦ 1x Close combat weapon\n◦ 1x Combi-bolter\n◦ 1x Power fist\n• 2x Chaos Biker\n◦ 2x Astartes chainsword\n◦ 2x Close combat weapon\n◦ 2x Combi-bolter\n◦ 2x Meltagun\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Chaos-Predator-Destructor/\" target=\"_blank\" rel=\"noreferrer\">Chaos Predator Destructor (150 Points)</a>\n• 1x Armoured tracks\n• 1x Combi-bolter\n• 1x Havoc launcher\n• 2x Lascannon\n• 1x Predator autocannon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Chaos-Predator-Destructor/\" target=\"_blank\" rel=\"noreferrer\">Chaos Predator Destructor (150 Points)</a>\n• 1x Armoured tracks\n• 1x Combi-bolter\n• 1x Havoc launcher\n• 2x Lascannon\n• 1x Predator autocannon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Defiler/\" target=\"_blank\" rel=\"noreferrer\">Defiler (330 Points)</a>\n• 1x Ectoplasma destructor\n• 2x Excruciator cannon\n• 1x Heavy reaper autocannon\n• 1x Heavy reaper autocannon\n• 1x Shearing claws\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Raptors/\" target=\"_blank\" rel=\"noreferrer\">Raptors (110 Points)</a>\n• 1x Raptor Champion\n◦ 1x Heavy melee weapon\n◦ 1x Plasma pistol\n• 4x Raptor\n◦ 4x Bolt pistol\n◦ 1x Close combat weapon\n◦ 2x Heavy melee weapon\n◦ 1x Meltagun\n◦ 1x Mutations\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Red-Corsairs-Raiders/\" target=\"_blank\" rel=\"noreferrer\">Red Corsairs Raiders (110 Points)</a>\n• 1x Red Corsairs Raider Champion\n◦ 1x Boltgun\n◦ 1x Hand flamer\n◦ 1x Reaver’s blade\n• 4x Red Corsairs Raider\n◦ 4x Bolt pistol\n◦ 3x Boltgun\n◦ 1x Meltagun\n◦ 1x Power fist\n◦ 3x Reaver’s blade\n\nExported with App Version: v2.5.0 (1), Data Version: v931"
+    },
+    {
+      "player": "Rob Lebeau",
+      "team": "For King & Comp Play",
+      "faction": "Dark Angels - Disruption",
+      "checkedIn": true,
+      "listId": "floIrkeJlUzM",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/floIrkeJlUzM",
+      "playerId": "05EtaDqVOpyt",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Rob Lebeau",
+      "content": "The ravenking and Comp Play (2000 points)\n\nSpace Marines\nDark Angels\nCompany of Hunters and Darkflight Pursuit (3 Detachment Points)\nDisruption\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nSammael (105 points)\n• Attached as: Leader (Character)\n• 1x Bolt Pistol\n1x Master-crafted plasma cannon\n1x The Raven Sword\n1x Twin storm bolter\n\nRavenwing Command Squad (135 points)\n• Attached as: Support (Character)\n• 1x Ravenwing Champion\n• 1x Bolt pistol\n1x Master-crafted power weapon\n1x Plasma talon\n• Enhancement: Recon Hunter\n• 1x Ravenwing Apothecary\n• 1x Black Knight combat weapon\n1x Bolt pistol\n1x Plasma talon\n• 1x Ravenwing Ancient\n• 1x Black Knight combat weapon\n1x Bolt pistol\n1x Plasma talon\n\nRavenwing Black Knights (75 points)\n• Attached as: Bodyguard\n• 1x Ravenwing Huntmaster\n• 1x Black Knight combat weapon\n1x Bolt pistol\n1x Plasma talon\n• 2x Ravenwing Black Knight\n• 2x Black Knight combat weapon\n2x Bolt pistol\n2x Plasma talon\n\n\nCHARACTERS\n\nLion El’Jonson (265 points)\n• Warlord\n• 1x Arma Luminis\n1x Fealty\n\nTechmarine (55 points)\n• 1x Forge bolter\n1x Grav-pistol\n1x Omnissian power axe\n1x Servo-arm\n\n\nBATTLELINE\n\nIntercessor Squad (80 points)\n• 1x Intercessor Sergeant\n• 1x Astartes grenade launcher\n1x Bolt pistol\n1x Bolt rifle\n1x Power fist\n• 4x Intercessor\n• 4x Bolt pistol\n4x Bolt rifle\n4x Close combat weapon\n\n\nOTHER DATASHEETS\n\nDeathwing Knights (240 points)\n• 1x Watcher in the Dark\n• 1x Knight Master\n• 1x Great weapon of the Unforgiven\n• 4x Deathwing Knight\n• 4x Power weapon\n\nIncursor Squad (85 points)\n• 1x Incursor Sergeant\n• 1x Bolt pistol\n1x Occulus bolt carbine\n1x Paired combat blades\n• 4x Incursor\n• 4x Bolt pistol\n1x Haywire Mine\n4x Occulus bolt carbine\n4x Paired combat blades\n\nLand Speeder (105 points)\n• 1x Close-combat weapon\n1x Multi-melta\n1x Onslaught gatling cannon\n1x Stormfury missile launcher\n\nLand Speeder (105 points)\n• 1x Close-combat weapon\n1x Multi-melta\n1x Onslaught gatling cannon\n1x Stormfury missile launcher\n\nLand Speeder (105 points)\n• 1x Close-combat weapon\n1x Multi-melta\n1x Onslaught gatling cannon\n1x Stormfury missile launcher\n\nLand Speeder Vengeance (145 points)\n• 1x Assault cannon\n1x Close combat weapon\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\nLand Speeder Vengeance (145 points)\n• 1x Assault cannon\n1x Close combat weapon\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\nLand Speeder Vengeance (155 points)\n• 1x Assault cannon\n1x Close combat weapon\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\nScout Squad (65 points)\n• 1x Scout Sergeant\n• 1x Bolt pistol\n1x Boltgun\n1x Close combat weapon\n• 4x Scout\n• 4x Bolt pistol\n2x Boltgun\n4x Close combat weapon\n1x Heavy bolter\n1x Scout sniper rifle\n\nStorm Speeder Thunderstrike (135 points)\n• 1x Close combat weapon\n1x Stormfury missiles\n1x Thunderstrike las-talon\n1x Twin Icarus rocket pod\n\nExported with App Version: v2.5.0 (140), Data Version: v931",
+      "pageUrl": "lists/floIrkeJlUzM/",
+      "linkedContent": "The ravenking and Comp Play (2000 points)\n\nSpace Marines\nDark Angels\nCompany of Hunters and Darkflight Pursuit (3 Detachment Points)\nDisruption\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Sammael/\" target=\"_blank\" rel=\"noreferrer\">Sammael (105 points)</a>\n• Attached as: Leader (Character)\n• 1x Bolt Pistol\n1x Master-crafted plasma cannon\n1x The Raven Sword\n1x Twin storm bolter\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Ravenwing-Command-Squad/\" target=\"_blank\" rel=\"noreferrer\">Ravenwing Command Squad (135 points)</a>\n• Attached as: Support (Character)\n• 1x Ravenwing Champion\n• 1x Bolt pistol\n1x Master-crafted power weapon\n1x Plasma talon\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/#Enhancements-51\" target=\"_blank\" rel=\"noreferrer\">Recon Hunter</a>\n• 1x Ravenwing Apothecary\n• 1x Black Knight combat weapon\n1x Bolt pistol\n1x Plasma talon\n• 1x Ravenwing Ancient\n• 1x Black Knight combat weapon\n1x Bolt pistol\n1x Plasma talon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Ravenwing-Black-Knights/\" target=\"_blank\" rel=\"noreferrer\">Ravenwing Black Knights (75 points)</a>\n• Attached as: Bodyguard\n• 1x Ravenwing Huntmaster\n• 1x Black Knight combat weapon\n1x Bolt pistol\n1x Plasma talon\n• 2x Ravenwing Black Knight\n• 2x Black Knight combat weapon\n2x Bolt pistol\n2x Plasma talon\n\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Lion-El-jonson/\" target=\"_blank\" rel=\"noreferrer\">Lion El’Jonson (265 points)</a>\n• Warlord\n• 1x Arma Luminis\n1x Fealty\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Techmarine/\" target=\"_blank\" rel=\"noreferrer\">Techmarine (55 points)</a>\n• 1x Forge bolter\n1x Grav-pistol\n1x Omnissian power axe\n1x Servo-arm\n\n\nBATTLELINE\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Intercessor-Squad/\" target=\"_blank\" rel=\"noreferrer\">Intercessor Squad (80 points)</a>\n• 1x Intercessor Sergeant\n• 1x Astartes grenade launcher\n1x Bolt pistol\n1x Bolt rifle\n1x Power fist\n• 4x Intercessor\n• 4x Bolt pistol\n4x Bolt rifle\n4x Close combat weapon\n\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Deathwing-Knights/\" target=\"_blank\" rel=\"noreferrer\">Deathwing Knights (240 points)</a>\n• 1x Watcher in the Dark\n• 1x Knight Master\n• 1x Great weapon of the Unforgiven\n• 4x Deathwing Knight\n• 4x Power weapon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Incursor-Squad/\" target=\"_blank\" rel=\"noreferrer\">Incursor Squad (85 points)</a>\n• 1x Incursor Sergeant\n• 1x Bolt pistol\n1x Occulus bolt carbine\n1x Paired combat blades\n• 4x Incursor\n• 4x Bolt pistol\n1x Haywire Mine\n4x Occulus bolt carbine\n4x Paired combat blades\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder/\" target=\"_blank\" rel=\"noreferrer\">Land Speeder (105 points)</a>\n• 1x Close-combat weapon\n1x Multi-melta\n1x Onslaught gatling cannon\n1x Stormfury missile launcher\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder/\" target=\"_blank\" rel=\"noreferrer\">Land Speeder (105 points)</a>\n• 1x Close-combat weapon\n1x Multi-melta\n1x Onslaught gatling cannon\n1x Stormfury missile launcher\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder/\" target=\"_blank\" rel=\"noreferrer\">Land Speeder (105 points)</a>\n• 1x Close-combat weapon\n1x Multi-melta\n1x Onslaught gatling cannon\n1x Stormfury missile launcher\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder-Vengeance/\" target=\"_blank\" rel=\"noreferrer\">Land Speeder Vengeance (145 points)</a>\n• 1x Assault cannon\n1x Close combat weapon\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder-Vengeance/\" target=\"_blank\" rel=\"noreferrer\">Land Speeder Vengeance (145 points)</a>\n• 1x Assault cannon\n1x Close combat weapon\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder-Vengeance/\" target=\"_blank\" rel=\"noreferrer\">Land Speeder Vengeance (155 points)</a>\n• 1x Assault cannon\n1x Close combat weapon\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Scout-Squad/\" target=\"_blank\" rel=\"noreferrer\">Scout Squad (65 points)</a>\n• 1x Scout Sergeant\n• 1x Bolt pistol\n1x Boltgun\n1x Close combat weapon\n• 4x Scout\n• 4x Bolt pistol\n2x Boltgun\n4x Close combat weapon\n1x Heavy bolter\n1x Scout sniper rifle\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Storm-Speeder-Thunderstrike/\" target=\"_blank\" rel=\"noreferrer\">Storm Speeder Thunderstrike (135 points)</a>\n• 1x Close combat weapon\n1x Stormfury missiles\n1x Thunderstrike las-talon\n1x Twin Icarus rocket pod\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+    },
+    {
+      "player": "Sam Cordell",
+      "team": "For King & Comp Play",
+      "faction": "T'au Empire - Priority Assets",
+      "checkedIn": true,
+      "listId": "913iG69WCg2d",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/913iG69WCg2d",
+      "playerId": "xvRnMLgEwfn8",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Sam Cordell",
+      "content": "For ‘Aun and Comp Play (2,000 Points)\n\nT’au Empire\nMont’ka (3 Detachment Points)\nPriority Assets\nStrike Force (2,000 Points)\n\nCHARACTERS\n\nEthereal (65 Points)\n• Warlord\n• 1x Honour stave\n• 1x Hover Drone\n• 1x Marker Drone\n• 1x Shield Drone\n• Enhancements: Strategic Conqueror\n\nThe Twin Lance (230 Points)\n• 1x Ri’Lantar\n◦ 1x Fusion eliminator\n◦ 1x MV15 Gun Drone\n◦ 1x Shardstorm burst system\n◦ 1x XV pulse pistol\n• 1x Ri’Locai\n◦ 1x Ion scattercannon\n◦ 1x MV15 Gun Drone\n◦ 1x Shardstorm burst system\n◦ 1x XV pulse pistol\n\nBATTLELINE\n\nBreacher Team (90 Points)\n• 1x Support turret\n• 1x Breacher Fire Warrior Shas’ui\n◦ 1x Close combat weapon\n◦ 1x Guardian Drone\n◦ 1x Pulse blaster\n◦ 1x Pulse pistol\n◦ 1x Shield Drone\n• 9x Breacher Fire Warrior\n◦ 9x Close combat weapon\n◦ 9x Pulse blaster\n◦ 9x Pulse pistol\n\nDEDICATED TRANSPORTS\n\nDevilfish (75 Points)\n• 1x Accelerator burst cannon\n• 1x Armoured hull\n• 2x Seeker missile\n• 2x Smart missile system\n\nOTHER DATASHEETS\n\nGhostkeel Battlesuit (165 Points)\n• 1x Battlesuit Support System\n• 1x Cyclic ion raker\n• 1x Ghostkeel fists\n• 1x Twin fusion blaster\n\nHammerhead Gunship (150 Points)\n• 2x Accelerator burst cannon\n• 1x Armoured hull\n• 1x Ion cannon\n• 2x Seeker missile\n\nHammerhead Gunship (150 Points)\n• 2x Accelerator burst cannon\n• 1x Armoured hull\n• 1x Ion cannon\n• 2x Seeker missile\n\nKroot Carnivores (65 Points)\n• 1x Long-quill\n◦ 1x Close combat weapon\n◦ 1x Kroot pistol\n◦ 1x Kroot rifle\n• 9x Kroot Carnivore\n◦ 9x Close combat weapon\n◦ 8x Kroot rifle\n◦ 1x Tanglebomb launcher\n\nPathfinder Team (95 Points)\n• 1x Pathfinder Shas’ui\n◦ 1x Close combat weapon\n◦ 1x Grav-inhibitor Drone\n◦ 2x Gun Drone\n◦ 1x Pulse carbine\n◦ 1x Pulse pistol\n◦ 1x Semi-automatic grenade launcher\n• 9x Pathfinder\n◦ 9x Close combat weapon\n◦ 2x Ion rifle\n◦ 6x Pulse carbine\n◦ 9x Pulse pistol\n◦ 1x Rail rifle\n\nPathfinder Team (85 Points)\n• 1x Pathfinder Shas’ui\n◦ 1x Close combat weapon\n◦ 2x Gun Drone\n◦ 1x Pulse carbine\n◦ 1x Pulse pistol\n◦ 1x Recon Drone\n◦ 1x Semi-automatic grenade launcher\n• 9x Pathfinder\n◦ 9x Close combat weapon\n◦ 6x Pulse carbine\n◦ 9x Pulse pistol\n◦ 3x Rail rifle\n\nPiranhas (65 Points)\n• 1x Armoured hull\n• 1x Piranha fusion blaster\n• 2x Seeker missile\n• 2x Twin pulse carbine\n\nPiranhas (65 Points)\n• 1x Armoured hull\n• 1x Piranha fusion blaster\n• 2x Seeker missile\n• 2x Twin pulse carbine\n\nRiptide Battlesuit (215 Points)\n• 1x Ion accelerator\n• 2x Missile Drone\n• 1x Riptide fists\n• 1x Twin fusion blaster\n\nRiptide Battlesuit (215 Points)\n• 1x Ion accelerator\n• 2x Missile Drone\n• 1x Riptide fists\n• 1x Twin fusion blaster\n\nStealth Battlesuits (100 Points)\n• 1x Stealth Shas’vre\n◦ 1x Battlesuit fists\n◦ 1x Fusion blaster\n◦ 1x Gun Drone\n◦ 1x Marker Drone\n◦ 1x Pulse pistol\n• 4x Stealth Shas’ui\n◦ 4x Battlesuit fists\n◦ 3x Burst cannon\n◦ 1x Fusion blaster\n◦ 1x Homing Beacon\n\nStealth Battlesuits (100 Points)\n• 1x Stealth Shas’vre\n◦ 1x Battlesuit fists\n◦ 1x Fusion blaster\n◦ 1x Gun Drone\n◦ 1x Marker Drone\n◦ 1x Pulse pistol\n• 4x Stealth Shas’ui\n◦ 4x Battlesuit fists\n◦ 3x Burst cannon\n◦ 1x Fusion blaster\n◦ 1x Homing Beacon\n\nVespid Stingwings (70 Points)\n• 1x Vespid Strain Leader\n◦ 1x Neutron blaster\n◦ 1x Stingwing claws\n• 4x Vespid Stingwing\n◦ 4x Neutron blaster\n◦ 4x Stingwing claws\n\nExported with App Version: v2.5.0 (1), Data Version: v931",
+      "pageUrl": "lists/913iG69WCg2d/",
+      "linkedContent": "For ‘Aun and Comp Play (2,000 Points)\n\nT’au Empire\nMont’ka (3 Detachment Points)\nPriority Assets\nStrike Force (2,000 Points)\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Ethereal/\" target=\"_blank\" rel=\"noreferrer\">Ethereal (65 Points)</a>\n• Warlord\n• 1x Honour stave\n• 1x Hover Drone\n• 1x Marker Drone\n• 1x Shield Drone\n• Enhancements: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/#Enhancements-3\" target=\"_blank\" rel=\"noreferrer\">Strategic Conqueror</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/The-Twin-Lance/\" target=\"_blank\" rel=\"noreferrer\">The Twin Lance (230 Points)</a>\n• 1x Ri’Lantar\n◦ 1x Fusion eliminator\n◦ 1x MV15 Gun Drone\n◦ 1x Shardstorm burst system\n◦ 1x XV pulse pistol\n• 1x Ri’Locai\n◦ 1x Ion scattercannon\n◦ 1x MV15 Gun Drone\n◦ 1x Shardstorm burst system\n◦ 1x XV pulse pistol\n\nBATTLELINE\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Breacher-Team/\" target=\"_blank\" rel=\"noreferrer\">Breacher Team (90 Points)</a>\n• 1x Support turret\n• 1x Breacher Fire Warrior Shas’ui\n◦ 1x Close combat weapon\n◦ 1x Guardian Drone\n◦ 1x Pulse blaster\n◦ 1x Pulse pistol\n◦ 1x Shield Drone\n• 9x Breacher Fire Warrior\n◦ 9x Close combat weapon\n◦ 9x Pulse blaster\n◦ 9x Pulse pistol\n\nDEDICATED TRANSPORTS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Devilfish/\" target=\"_blank\" rel=\"noreferrer\">Devilfish (75 Points)</a>\n• 1x Accelerator burst cannon\n• 1x Armoured hull\n• 2x Seeker missile\n• 2x Smart missile system\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Ghostkeel-Battlesuit/\" target=\"_blank\" rel=\"noreferrer\">Ghostkeel Battlesuit (165 Points)</a>\n• 1x Battlesuit Support System\n• 1x Cyclic ion raker\n• 1x Ghostkeel fists\n• 1x Twin fusion blaster\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Hammerhead-Gunship/\" target=\"_blank\" rel=\"noreferrer\">Hammerhead Gunship (150 Points)</a>\n• 2x Accelerator burst cannon\n• 1x Armoured hull\n• 1x Ion cannon\n• 2x Seeker missile\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Hammerhead-Gunship/\" target=\"_blank\" rel=\"noreferrer\">Hammerhead Gunship (150 Points)</a>\n• 2x Accelerator burst cannon\n• 1x Armoured hull\n• 1x Ion cannon\n• 2x Seeker missile\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Kroot-Carnivores/\" target=\"_blank\" rel=\"noreferrer\">Kroot Carnivores (65 Points)</a>\n• 1x Long-quill\n◦ 1x Close combat weapon\n◦ 1x Kroot pistol\n◦ 1x Kroot rifle\n• 9x Kroot Carnivore\n◦ 9x Close combat weapon\n◦ 8x Kroot rifle\n◦ 1x Tanglebomb launcher\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Pathfinder-Team/\" target=\"_blank\" rel=\"noreferrer\">Pathfinder Team (95 Points)</a>\n• 1x Pathfinder Shas’ui\n◦ 1x Close combat weapon\n◦ 1x Grav-inhibitor Drone\n◦ 2x Gun Drone\n◦ 1x Pulse carbine\n◦ 1x Pulse pistol\n◦ 1x Semi-automatic grenade launcher\n• 9x Pathfinder\n◦ 9x Close combat weapon\n◦ 2x Ion rifle\n◦ 6x Pulse carbine\n◦ 9x Pulse pistol\n◦ 1x Rail rifle\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Pathfinder-Team/\" target=\"_blank\" rel=\"noreferrer\">Pathfinder Team (85 Points)</a>\n• 1x Pathfinder Shas’ui\n◦ 1x Close combat weapon\n◦ 2x Gun Drone\n◦ 1x Pulse carbine\n◦ 1x Pulse pistol\n◦ 1x Recon Drone\n◦ 1x Semi-automatic grenade launcher\n• 9x Pathfinder\n◦ 9x Close combat weapon\n◦ 6x Pulse carbine\n◦ 9x Pulse pistol\n◦ 3x Rail rifle\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Piranhas/\" target=\"_blank\" rel=\"noreferrer\">Piranhas (65 Points)</a>\n• 1x Armoured hull\n• 1x Piranha fusion blaster\n• 2x Seeker missile\n• 2x Twin pulse carbine\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Piranhas/\" target=\"_blank\" rel=\"noreferrer\">Piranhas (65 Points)</a>\n• 1x Armoured hull\n• 1x Piranha fusion blaster\n• 2x Seeker missile\n• 2x Twin pulse carbine\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Riptide-Battlesuit/\" target=\"_blank\" rel=\"noreferrer\">Riptide Battlesuit (215 Points)</a>\n• 1x Ion accelerator\n• 2x Missile Drone\n• 1x Riptide fists\n• 1x Twin fusion blaster\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Riptide-Battlesuit/\" target=\"_blank\" rel=\"noreferrer\">Riptide Battlesuit (215 Points)</a>\n• 1x Ion accelerator\n• 2x Missile Drone\n• 1x Riptide fists\n• 1x Twin fusion blaster\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Stealth-Battlesuits/\" target=\"_blank\" rel=\"noreferrer\">Stealth Battlesuits (100 Points)</a>\n• 1x Stealth Shas’vre\n◦ 1x Battlesuit fists\n◦ 1x Fusion blaster\n◦ 1x Gun Drone\n◦ 1x Marker Drone\n◦ 1x Pulse pistol\n• 4x Stealth Shas’ui\n◦ 4x Battlesuit fists\n◦ 3x Burst cannon\n◦ 1x Fusion blaster\n◦ 1x Homing Beacon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Stealth-Battlesuits/\" target=\"_blank\" rel=\"noreferrer\">Stealth Battlesuits (100 Points)</a>\n• 1x Stealth Shas’vre\n◦ 1x Battlesuit fists\n◦ 1x Fusion blaster\n◦ 1x Gun Drone\n◦ 1x Marker Drone\n◦ 1x Pulse pistol\n• 4x Stealth Shas’ui\n◦ 4x Battlesuit fists\n◦ 3x Burst cannon\n◦ 1x Fusion blaster\n◦ 1x Homing Beacon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Vespid-Stingwings/\" target=\"_blank\" rel=\"noreferrer\">Vespid Stingwings (70 Points)</a>\n• 1x Vespid Strain Leader\n◦ 1x Neutron blaster\n◦ 1x Stingwing claws\n• 4x Vespid Stingwing\n◦ 4x Neutron blaster\n◦ 4x Stingwing claws\n\nExported with App Version: v2.5.0 (1), Data Version: v931"
     },
     {
       "player": "Bradley Stuart-James",
@@ -587,7 +692,7 @@ window.BCP_DATA = {
       "pagePlayer": "Matt Delves",
       "content": "Wincells (1995 points)\n\nLeagues of Votann\nHearthguard Covenant and Needgaârd Oathband (3 Detachment Points)\nPriority Assets\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nEinhyr Champion (80 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Autoch-pattern combi-bolter\n1x Mass hammer\n1x Weavefield Crest\n• Enhancement: Ancestral Crest\n\nEinhyr Hearthguard (130 points)\n• Attached as: Bodyguard\n• 1x Hesyr\n• 1x Concussion gauntlet\n1x EtaCarn plasma gun\n1x Exoarmour grenade launcher\n1x Weavefield crest\n• 4x Einhyr Hearthguard\n• 4x Concussion gauntlet\n4x EtaCarn plasma gun\n4x Exoarmour grenade launcher\n\nAttached Unit 2\n\nÛthar the Destined (90 points)\n• Attached as: Leader (Character)\n• 1x Blade of the Ancestors\n1x Rampart Crest\n1x Volkanite disintegrator\n\nEinhyr Hearthguard (130 points)\n• Attached as: Bodyguard\n• 1x Hesyr\n• 1x Concussion gauntlet\n1x EtaCarn plasma gun\n1x Exoarmour grenade launcher\n1x Weavefield crest\n• 4x Einhyr Hearthguard\n• 4x Concussion gauntlet\n4x EtaCarn plasma gun\n4x Exoarmour grenade launcher\n\nAttached Unit 3\n\nMemnyr Strategist (45 points)\n• Attached as: Leader (Character)\n• 1x Autoch-pattern bolt pistol\n1x Close combat weapon\n\nIronkin Steeljacks with Heavy Volkanite Disintegrators (170 points)\n• Attached as: Bodyguard\n• 1x Steeljack Theyn\n• 1x Heavy volkanite disintegrator\n1x Plasma knife\n1x Preymark Crest\n• 5x Ironkin Steeljack\n• 5x Heavy volkanite disintegrator\n5x Plasma knife\n\n\nCHARACTERS\n\nBuri Aegnirssen (85 points)\n• 1x Autoch‑pattern bolt pistol\n1x Bane\n\n\nBATTLELINE\n\nHearthkyn Warriors (90 points)\n• 1x Theyn\n• 1x Autoch-pattern bolt pistol\n1x Autoch-pattern bolter\n1x Close combat weapon\n1x Weavefield crest\n• 9x Hearthkyn Warrior\n• 9x Autoch-pattern bolt pistol\n9x Autoch-pattern bolter\n9x Close combat weapon\n\n\nOTHER DATASHEETS\n\nBrôkhyr Thunderkyn (80 points)\n• 3x Brôkhyr Thunderkyn\n• 3x Close combat weapon\n3x SP conversion beamer\n\nBrôkhyr Thunderkyn (80 points)\n• 3x Brôkhyr Thunderkyn\n• 3x Close combat weapon\n3x SP conversion beamer\n\nBrôkhyr Thunderkyn (90 points)\n• 3x Brôkhyr Thunderkyn\n• 3x Close combat weapon\n3x SP conversion beamer\n\nCthonian Earthshakers (100 points)\n• 2x Cthonian Earthshakers\n• 4x Autoch-pattern bolt pistol\n2x Plasma picks\n2x Tremor shells\n\nHekaton Land Fortress (250 points)\n• 1x Armoured wheels\n1x Heavy magna-rail cannon\n1x MATR autocannon\n1x Panspectral Scanner\n2x Twin ion beamer\n\nHekaton Land Fortress (265 points)\n• 1x Armoured wheels\n1x MATR autocannon\n1x Panspectral Scanner\n1x SP heavy conversion beamer\n2x Twin ion beamer\n\nHernkyn Pioneers (80 points)\n• 3x Hernkyn Pioneer\n• 3x Bolt revolver\n3x Bolt shotgun\n3x Magna-coil autocannon\n1x Panspectral Scanner\n3x Plasma knife\n1x Rollbar Searchlight\n\nHernkyn Pioneers (80 points)\n• 3x Hernkyn Pioneer\n• 3x Bolt revolver\n3x Bolt shotgun\n3x Magna-coil autocannon\n1x Panspectral Scanner\n3x Plasma knife\n1x Rollbar Searchlight\n\nIronkin Steeljacks with Melee Weapons (150 points)\n• 1x Steeljack Theyn\n• 1x Autoch-pattern bolter\n1x Plasma sword\n1x Preymark Crest\n• 5x Ironkin Steeljack\n• 5x Autoch-pattern bolter\n3x Concussion gauntlet\n2x Plasma sword\n\nExported with App Version: v2.5.0 (140), Data Version: v931",
       "pageUrl": "lists/BIcvGDyhQRUk/",
-      "linkedContent": "Wincells (1995 points)\n\nLeagues of Votann\nHearthguard Covenant and Needgaârd Oathband (3 Detachment Points)\nPriority Assets\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Einhyr-Champion/\" target=\"_blank\" rel=\"noreferrer\">Einhyr Champion (80 points)</a>\n• Attached as: Leader (Character)\n• Warlord\n• 1x Autoch-pattern combi-bolter\n1x Mass hammer\n1x Weavefield Crest\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/#Enhancements-1\" target=\"_blank\" rel=\"noreferrer\">Ancestral Crest</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Einhyr-Hearthguard/\" target=\"_blank\" rel=\"noreferrer\">Einhyr Hearthguard (130 points)</a>\n• Attached as: Bodyguard\n• 1x Hesyr\n• 1x Concussion gauntlet\n1x EtaCarn plasma gun\n1x Exoarmour grenade launcher\n1x Weavefield crest\n• 4x Einhyr Hearthguard\n• 4x Concussion gauntlet\n4x EtaCarn plasma gun\n4x Exoarmour grenade launcher\n\nAttached Unit 2\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/%C3%9Bthar-the-Destined/\" target=\"_blank\" rel=\"noreferrer\">Ûthar the Destined (90 points)</a>\n• Attached as: Leader (Character)\n• 1x Blade of the Ancestors\n1x Rampart Crest\n1x Volkanite disintegrator\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Einhyr-Hearthguard/\" target=\"_blank\" rel=\"noreferrer\">Einhyr Hearthguard (130 points)</a>\n• Attached as: Bodyguard\n• 1x Hesyr\n• 1x Concussion gauntlet\n1x EtaCarn plasma gun\n1x Exoarmour grenade launcher\n1x Weavefield crest\n• 4x Einhyr Hearthguard\n• 4x Concussion gauntlet\n4x EtaCarn plasma gun\n4x Exoarmour grenade launcher\n\nAttached Unit 3\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Memnyr-Strategist/\" target=\"_blank\" rel=\"noreferrer\">Memnyr Strategist (45 points)</a>\n• Attached as: Leader (Character)\n• 1x Autoch-pattern bolt pistol\n1x Close combat weapon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Ironkin-Steeljacks-with-Heavy-Volkanite-Disintegrators/\" target=\"_blank\" rel=\"noreferrer\">Ironkin Steeljacks with Heavy Volkanite Disintegrators (170 points)</a>\n• Attached as: Bodyguard\n• 1x Steeljack Theyn\n• 1x Heavy volkanite disintegrator\n1x Plasma knife\n1x Preymark Crest\n• 5x Ironkin Steeljack\n• 5x Heavy volkanite disintegrator\n5x Plasma knife\n\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Buri-Aegnirssen/\" target=\"_blank\" rel=\"noreferrer\">Buri Aegnirssen (85 points)</a>\n• 1x Autoch‑pattern bolt pistol\n1x Bane\n\n\nBATTLELINE\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Hearthkyn-Warriors/\" target=\"_blank\" rel=\"noreferrer\">Hearthkyn Warriors (90 points)</a>\n• 1x Theyn\n• 1x Autoch-pattern bolt pistol\n1x Autoch-pattern bolter\n1x Close combat weapon\n1x Weavefield crest\n• 9x Hearthkyn Warrior\n• 9x Autoch-pattern bolt pistol\n9x Autoch-pattern bolter\n9x Close combat weapon\n\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Br%C3%B4khyr-Thunderkyn/\" target=\"_blank\" rel=\"noreferrer\">Brôkhyr Thunderkyn (80 points)</a>\n• 3x Brôkhyr Thunderkyn\n• 3x Close combat weapon\n3x SP conversion beamer\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Br%C3%B4khyr-Thunderkyn/\" target=\"_blank\" rel=\"noreferrer\">Brôkhyr Thunderkyn (80 points)</a>\n• 3x Brôkhyr Thunderkyn\n• 3x Close combat weapon\n3x SP conversion beamer\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Br%C3%B4khyr-Thunderkyn/\" target=\"_blank\" rel=\"noreferrer\">Brôkhyr Thunderkyn (90 points)</a>\n• 3x Brôkhyr Thunderkyn\n• 3x Close combat weapon\n3x SP conversion beamer\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Cthonian-Earthshakers/\" target=\"_blank\" rel=\"noreferrer\">Cthonian Earthshakers (100 points)</a>\n• 2x Cthonian Earthshakers\n• 4x Autoch-pattern bolt pistol\n2x Plasma picks\n2x Tremor shells\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Hekaton-Land-Fortress/\" target=\"_blank\" rel=\"noreferrer\">Hekaton Land Fortress (250 points)</a>\n• 1x Armoured wheels\n1x Heavy magna-rail cannon\n1x MATR autocannon\n1x Panspectral Scanner\n2x Twin ion beamer\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Hekaton-Land-Fortress/\" target=\"_blank\" rel=\"noreferrer\">Hekaton Land Fortress (265 points)</a>\n• 1x Armoured wheels\n1x MATR autocannon\n1x Panspectral Scanner\n1x SP heavy conversion beamer\n2x Twin ion beamer\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Hernkyn-Pioneers/\" target=\"_blank\" rel=\"noreferrer\">Hernkyn Pioneers (80 points)</a>\n• 3x Hernkyn Pioneer\n• 3x Bolt revolver\n3x Bolt shotgun\n3x Magna-coil autocannon\n1x Panspectral Scanner\n3x Plasma knife\n1x Rollbar Searchlight\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Hernkyn-Pioneers/\" target=\"_blank\" rel=\"noreferrer\">Hernkyn Pioneers (80 points)</a>\n• 3x Hernkyn Pioneer\n• 3x Bolt revolver\n3x Bolt shotgun\n3x Magna-coil autocannon\n1x Panspectral Scanner\n3x Plasma knife\n1x Rollbar Searchlight\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Ironkin-Steeljacks-with-Melee-Weapons/\" target=\"_blank\" rel=\"noreferrer\">Ironkin Steeljacks with Melee Weapons (150 points)</a>\n• 1x Steeljack Theyn\n• 1x Autoch-pattern bolter\n1x Plasma sword\n1x Preymark Crest\n• 5x Ironkin Steeljack\n• 5x Autoch-pattern bolter\n3x Concussion gauntlet\n2x Plasma sword\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+      "linkedContent": "Wincells (1995 points)\n\nLeagues of Votann\nHearthguard Covenant and Needgaârd Oathband (3 Detachment Points)\nPriority Assets\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nEinhyr Champion (80 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Autoch-pattern combi-bolter\n1x Mass hammer\n1x Weavefield Crest\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/#Enhancements-1\" target=\"_blank\" rel=\"noreferrer\">Ancestral Crest</a>\n\nEinhyr Hearthguard (130 points)\n• Attached as: Bodyguard\n• 1x Hesyr\n• 1x Concussion gauntlet\n1x EtaCarn plasma gun\n1x Exoarmour grenade launcher\n1x Weavefield crest\n• 4x Einhyr Hearthguard\n• 4x Concussion gauntlet\n4x EtaCarn plasma gun\n4x Exoarmour grenade launcher\n\nAttached Unit 2\n\nÛthar the Destined (90 points)\n• Attached as: Leader (Character)\n• 1x Blade of the Ancestors\n1x Rampart Crest\n1x Volkanite disintegrator\n\nEinhyr Hearthguard (130 points)\n• Attached as: Bodyguard\n• 1x Hesyr\n• 1x Concussion gauntlet\n1x EtaCarn plasma gun\n1x Exoarmour grenade launcher\n1x Weavefield crest\n• 4x Einhyr Hearthguard\n• 4x Concussion gauntlet\n4x EtaCarn plasma gun\n4x Exoarmour grenade launcher\n\nAttached Unit 3\n\nMemnyr Strategist (45 points)\n• Attached as: Leader (Character)\n• 1x Autoch-pattern bolt pistol\n1x Close combat weapon\n\nIronkin Steeljacks with Heavy Volkanite Disintegrators (170 points)\n• Attached as: Bodyguard\n• 1x Steeljack Theyn\n• 1x Heavy volkanite disintegrator\n1x Plasma knife\n1x Preymark Crest\n• 5x Ironkin Steeljack\n• 5x Heavy volkanite disintegrator\n5x Plasma knife\n\n\nCHARACTERS\n\nBuri Aegnirssen (85 points)\n• 1x Autoch‑pattern bolt pistol\n1x Bane\n\n\nBATTLELINE\n\nHearthkyn Warriors (90 points)\n• 1x Theyn\n• 1x Autoch-pattern bolt pistol\n1x Autoch-pattern bolter\n1x Close combat weapon\n1x Weavefield crest\n• 9x Hearthkyn Warrior\n• 9x Autoch-pattern bolt pistol\n9x Autoch-pattern bolter\n9x Close combat weapon\n\n\nOTHER DATASHEETS\n\nBrôkhyr Thunderkyn (80 points)\n• 3x Brôkhyr Thunderkyn\n• 3x Close combat weapon\n3x SP conversion beamer\n\nBrôkhyr Thunderkyn (80 points)\n• 3x Brôkhyr Thunderkyn\n• 3x Close combat weapon\n3x SP conversion beamer\n\nBrôkhyr Thunderkyn (90 points)\n• 3x Brôkhyr Thunderkyn\n• 3x Close combat weapon\n3x SP conversion beamer\n\nCthonian Earthshakers (100 points)\n• 2x Cthonian Earthshakers\n• 4x Autoch-pattern bolt pistol\n2x Plasma picks\n2x Tremor shells\n\nHekaton Land Fortress (250 points)\n• 1x Armoured wheels\n1x Heavy magna-rail cannon\n1x MATR autocannon\n1x Panspectral Scanner\n2x Twin ion beamer\n\nHekaton Land Fortress (265 points)\n• 1x Armoured wheels\n1x MATR autocannon\n1x Panspectral Scanner\n1x SP heavy conversion beamer\n2x Twin ion beamer\n\nHernkyn Pioneers (80 points)\n• 3x Hernkyn Pioneer\n• 3x Bolt revolver\n3x Bolt shotgun\n3x Magna-coil autocannon\n1x Panspectral Scanner\n3x Plasma knife\n1x Rollbar Searchlight\n\nHernkyn Pioneers (80 points)\n• 3x Hernkyn Pioneer\n• 3x Bolt revolver\n3x Bolt shotgun\n3x Magna-coil autocannon\n1x Panspectral Scanner\n3x Plasma knife\n1x Rollbar Searchlight\n\nIronkin Steeljacks with Melee Weapons (150 points)\n• 1x Steeljack Theyn\n• 1x Autoch-pattern bolter\n1x Plasma sword\n1x Preymark Crest\n• 5x Ironkin Steeljack\n• 5x Autoch-pattern bolter\n3x Concussion gauntlet\n2x Plasma sword\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
     },
     {
       "player": "Max Dennis",
@@ -609,14 +714,14 @@ window.BCP_DATA = {
       "team": "South London Squad",
       "faction": "World Eaters - Purge the Foe",
       "checkedIn": true,
-      "listId": "etRv0t6dYvgk",
+      "listId": "4WJw09MFaTQp",
       "hasPublishedList": true,
-      "sourceUrl": "https://www.bestcoastpairings.com/list/etRv0t6dYvgk",
+      "sourceUrl": "https://www.bestcoastpairings.com/list/4WJw09MFaTQp",
       "playerId": "tLKxjlKF1ivt",
       "event": "Brighton 40k Teams II",
       "pagePlayer": "Joseph Whitmarsh",
       "content": "Competitive list #7362 (2,000 Points)\n\nWorld Eaters\nBerzerker Warband (3 Detachment Points)\nPurge the Foe\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nSlaughterbound (120 Points)\n• Attached as: Leader (Character)\n• 1x Lacerator and daemonic claw\n• Enhancements: Battle-lust\n\nExalted Eightbound (130 Points)\n• Attached as: Bodyguard\n• 1x Exalted Eightbound Champion\n◦ 1x Chainblades\n• 2x Exalted Eightbound\n◦ 2x Chainblades\n\nAttached unit 2\n\nKhârn the Betrayer (115 Points)\n• Attached as: Leader (Character)\n• 1x Gorechild\n• 1x Plasma pistol\n\nKhorne Berzerkers (160 Points)\n• Attached as: Bodyguard (Battleline)\n• 1x Khorne Berzerker Champion\n◦ 1x Chainblade\n◦ 1x Plasma pistol\n• 9x Khorne Berzerker\n◦ 7x Bolt pistol\n◦ 7x Chainblade\n◦ 1x Icon of Khorne\n◦ 2x Khornate eviscerator\n◦ 2x Plasma pistol\n\nCHARACTERS\n\nDaemon Prince of Khorne (230 Points)\n• Warlord\n• 1x Hellforged weapons\n• 1x Infernal cannon\n• Enhancements: Helm of Brazen Ire\n\nDEDICATED TRANSPORTS\n\nChaos Rhino (75 Points)\n• 1x Armoured tracks\n• 1x Combi-bolter\n• 1x Combi-weapon\n• 1x Havoc launcher\n\nOTHER DATASHEETS\n\nChaos Spawn (95 Points)\n• 2x Chaos Spawn\n◦ 2x Hideous mutations\n\nChaos Spawn (95 Points)\n• 2x Chaos Spawn\n◦ 2x Hideous mutations\n\nChaos Spawn (95 Points)\n• 2x Chaos Spawn\n◦ 2x Hideous mutations\n\nEightbound (125 Points)\n• 1x Eightbound Champion\n◦ 1x Chainblades\n• 2x Eightbound\n◦ 2x Chainblades\n\nEightbound (125 Points)\n• 1x Eightbound Champion\n◦ 1x Chainblades\n• 2x Eightbound\n◦ 2x Chainblades\n\nExalted Eightbound (130 Points)\n• 1x Exalted Eightbound Champion\n◦ 1x Chainblades\n• 2x Exalted Eightbound\n◦ 2x Chainblades\n\nForgefiend (155 Points)\n• 1x Ectoplasma cannon\n• 2x Ectoplasma cannon\n• 1x Forgefiend claws\n\nForgefiend (145 Points)\n• 1x Ectoplasma cannon\n• 1x Forgefiend claws\n• 2x Hades autocannon\n\nGoremongers (75 Points)\n• 1x Blood Herald\n◦ 1x Autopistol\n◦ 1x Chainblade\n◦ 1x Close combat weapon\n• 7x Goremongers\n◦ 7x Autopistol\n◦ 1x Blood harpoon\n◦ 6x Chainblade\n◦ 7x Close combat weapon\n\nJakhals (65 Points)\n• 1x Jakhal Pack Leader\n◦ 1x Autopistol\n◦ 1x Chainblades\n• 1x Dishonoured\n◦ 1x Skullsmasher and mangler\n• 8x Jakhal\n◦ 8x Autopistol\n◦ 7x Chainblades\n◦ 1x Icon of Khorne\n◦ 1x Mauler chainblade\n\nJakhals (65 Points)\n• 1x Jakhal Pack Leader\n◦ 1x Autopistol\n◦ 1x Chainblades\n• 1x Dishonoured\n◦ 1x Skullsmasher and mangler\n• 8x Jakhal\n◦ 8x Autopistol\n◦ 7x Chainblades\n◦ 1x Icon of Khorne\n◦ 1x Mauler chainblade\n\nExported with App Version: v2.5.0 (1), Data Version: v931",
-      "pageUrl": "lists/etRv0t6dYvgk/",
+      "pageUrl": "lists/4WJw09MFaTQp/",
       "linkedContent": "Competitive list #7362 (2,000 Points)\n\nWorld Eaters\nBerzerker Warband (3 Detachment Points)\nPurge the Foe\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Slaughterbound/\" target=\"_blank\" rel=\"noreferrer\">Slaughterbound (120 Points)</a>\n• Attached as: Leader (Character)\n• 1x Lacerator and daemonic claw\n• Enhancements: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/#Enhancements\" target=\"_blank\" rel=\"noreferrer\">Battle-lust</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Exalted-Eightbound/\" target=\"_blank\" rel=\"noreferrer\">Exalted Eightbound (130 Points)</a>\n• Attached as: Bodyguard\n• 1x Exalted Eightbound Champion\n◦ 1x Chainblades\n• 2x Exalted Eightbound\n◦ 2x Chainblades\n\nAttached unit 2\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Kh-rn-The-Betrayer/\" target=\"_blank\" rel=\"noreferrer\">Khârn the Betrayer (115 Points)</a>\n• Attached as: Leader (Character)\n• 1x Gorechild\n• 1x Plasma pistol\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Khorne-Berzerkers/\" target=\"_blank\" rel=\"noreferrer\">Khorne Berzerkers (160 Points)</a>\n• Attached as: Bodyguard (Battleline)\n• 1x Khorne Berzerker Champion\n◦ 1x Chainblade\n◦ 1x Plasma pistol\n• 9x Khorne Berzerker\n◦ 7x Bolt pistol\n◦ 7x Chainblade\n◦ 1x Icon of Khorne\n◦ 2x Khornate eviscerator\n◦ 2x Plasma pistol\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Daemon-Prince-of-Khorne/\" target=\"_blank\" rel=\"noreferrer\">Daemon Prince of Khorne (230 Points)</a>\n• Warlord\n• 1x Hellforged weapons\n• 1x Infernal cannon\n• Enhancements: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/#Enhancements\" target=\"_blank\" rel=\"noreferrer\">Helm of Brazen Ire</a>\n\nDEDICATED TRANSPORTS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Chaos-Rhino/\" target=\"_blank\" rel=\"noreferrer\">Chaos Rhino (75 Points)</a>\n• 1x Armoured tracks\n• 1x Combi-bolter\n• 1x Combi-weapon\n• 1x Havoc launcher\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Chaos-Spawn/\" target=\"_blank\" rel=\"noreferrer\">Chaos Spawn (95 Points)</a>\n• 2x Chaos Spawn\n◦ 2x Hideous mutations\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Chaos-Spawn/\" target=\"_blank\" rel=\"noreferrer\">Chaos Spawn (95 Points)</a>\n• 2x Chaos Spawn\n◦ 2x Hideous mutations\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Chaos-Spawn/\" target=\"_blank\" rel=\"noreferrer\">Chaos Spawn (95 Points)</a>\n• 2x Chaos Spawn\n◦ 2x Hideous mutations\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Eightbound/\" target=\"_blank\" rel=\"noreferrer\">Eightbound (125 Points)</a>\n• 1x Eightbound Champion\n◦ 1x Chainblades\n• 2x Eightbound\n◦ 2x Chainblades\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Eightbound/\" target=\"_blank\" rel=\"noreferrer\">Eightbound (125 Points)</a>\n• 1x Eightbound Champion\n◦ 1x Chainblades\n• 2x Eightbound\n◦ 2x Chainblades\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Exalted-Eightbound/\" target=\"_blank\" rel=\"noreferrer\">Exalted Eightbound (130 Points)</a>\n• 1x Exalted Eightbound Champion\n◦ 1x Chainblades\n• 2x Exalted Eightbound\n◦ 2x Chainblades\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Forgefiend/\" target=\"_blank\" rel=\"noreferrer\">Forgefiend (155 Points)</a>\n• 1x Ectoplasma cannon\n• 2x Ectoplasma cannon\n• 1x Forgefiend claws\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Forgefiend/\" target=\"_blank\" rel=\"noreferrer\">Forgefiend (145 Points)</a>\n• 1x Ectoplasma cannon\n• 1x Forgefiend claws\n• 2x Hades autocannon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Goremongers/\" target=\"_blank\" rel=\"noreferrer\">Goremongers (75 Points)</a>\n• 1x Blood Herald\n◦ 1x Autopistol\n◦ 1x Chainblade\n◦ 1x Close combat weapon\n• 7x Goremongers\n◦ 7x Autopistol\n◦ 1x Blood harpoon\n◦ 6x Chainblade\n◦ 7x Close combat weapon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Jakhals/\" target=\"_blank\" rel=\"noreferrer\">Jakhals (65 Points)</a>\n• 1x Jakhal Pack Leader\n◦ 1x Autopistol\n◦ 1x Chainblades\n• 1x Dishonoured\n◦ 1x Skullsmasher and mangler\n• 8x Jakhal\n◦ 8x Autopistol\n◦ 7x Chainblades\n◦ 1x Icon of Khorne\n◦ 1x Mauler chainblade\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Jakhals/\" target=\"_blank\" rel=\"noreferrer\">Jakhals (65 Points)</a>\n• 1x Jakhal Pack Leader\n◦ 1x Autopistol\n◦ 1x Chainblades\n• 1x Dishonoured\n◦ 1x Skullsmasher and mangler\n• 8x Jakhal\n◦ 8x Autopistol\n◦ 7x Chainblades\n◦ 1x Icon of Khorne\n◦ 1x Mauler chainblade\n\nExported with App Version: v2.5.0 (1), Data Version: v931"
     },
     {
@@ -639,30 +744,30 @@ window.BCP_DATA = {
       "team": "South London Squad",
       "faction": "Dark Angels - Reconnaissance",
       "checkedIn": true,
-      "listId": "90uVfSpDZZUw",
+      "listId": "NCr1t40BFouY",
       "hasPublishedList": true,
-      "sourceUrl": "https://www.bestcoastpairings.com/list/90uVfSpDZZUw",
+      "sourceUrl": "https://www.bestcoastpairings.com/list/NCr1t40BFouY",
       "playerId": "0VF0E1vewCY7",
       "event": "Brighton 40k Teams II",
       "pagePlayer": "Sascha Sajjad",
-      "content": "Gotta go fast (2000 points)\n\nSpace Marines\nDark Angels\nCompany of Hunters and Darkflight Pursuit (3 Detachment Points)\nReconnaissance\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nAzrael (140 points)\n• Attached as: Leader (Character)\n• 1x Lion’s Wrath\n1x The Lion Helm\n1x The Sword of Secrets\n\nInner Circle Companions (160 points)\n• Attached as: Bodyguard\n• 6x Inner Circle Companion\n• 6x Calibanite greatsword\n6x Heavy bolt pistol\n\n\nCHARACTERS\n\nLion El’Jonson (265 points)\n• Warlord\n• 1x Arma Luminis\n1x Fealty\n\n\nOTHER DATASHEETS\n\nDeathwing Knights (240 points)\n• 1x Knight Master\n• 1x Great weapon of the Unforgiven\n• 4x Deathwing Knight\n• 4x Mace of absolution\n\nIncursor Squad (85 points)\n• 1x Incursor Sergeant\n• 1x Bolt pistol\n1x Occulus bolt carbine\n1x Paired combat blades\n• 4x Incursor\n• 4x Bolt pistol\n1x Haywire Mine\n4x Occulus bolt carbine\n4x Paired combat blades\n\nLand Speeder (105 points)\n• 1x Close-combat weapon\n1x Multi-melta\n1x Onslaught gatling cannon\n1x Stormfury missile launcher\n\nLand Speeder (105 points)\n• 1x Close-combat weapon\n1x Multi-melta\n1x Onslaught gatling cannon\n1x Stormfury missile launcher\n\nLand Speeder (120 points)\n• 1x Close-combat weapon\n1x Multi-melta\n1x Onslaught gatling cannon\n1x Stormfury missile launcher\n• Enhancement: Thundercowl Turbines (Upgrade)\n\nLand Speeder Vengeance (145 points)\n• 1x Assault cannon\n1x Close combat weapon\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\nLand Speeder Vengeance (145 points)\n• 1x Assault cannon\n1x Close combat weapon\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\nLand Speeder Vengeance (155 points)\n• 1x Assault cannon\n1x Close combat weapon\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\nScout Squad (65 points)\n• 1x Scout Sergeant\n• 1x Bolt pistol\n1x Boltgun\n1x Close combat weapon\n• 4x Scout\n• 4x Bolt pistol\n2x Boltgun\n4x Close combat weapon\n1x Missile launcher\n1x Scout sniper rifle\n\nStorm Speeder Thunderstrike (135 points)\n• 1x Close combat weapon\n1x Stormfury missiles\n1x Thunderstrike las-talon\n1x Twin Icarus rocket pod\n\nStorm Speeder Thunderstrike (135 points)\n• 1x Close combat weapon\n1x Stormfury missiles\n1x Thunderstrike las-talon\n1x Twin Icarus rocket pod\n\nExported with App Version: v2.5.0 (140), Data Version: v931",
-      "pageUrl": "lists/90uVfSpDZZUw/",
-      "linkedContent": "Gotta go fast (2000 points)\n\nSpace Marines\nDark Angels\nCompany of Hunters and Darkflight Pursuit (3 Detachment Points)\nReconnaissance\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Azrael/\" target=\"_blank\" rel=\"noreferrer\">Azrael (140 points)</a>\n• Attached as: Leader (Character)\n• 1x Lion’s Wrath\n1x The Lion Helm\n1x The Sword of Secrets\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Inner-Circle-Companions/\" target=\"_blank\" rel=\"noreferrer\">Inner Circle Companions (160 points)</a>\n• Attached as: Bodyguard\n• 6x Inner Circle Companion\n• 6x Calibanite greatsword\n6x Heavy bolt pistol\n\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Lion-El-jonson/\" target=\"_blank\" rel=\"noreferrer\">Lion El’Jonson (265 points)</a>\n• Warlord\n• 1x Arma Luminis\n1x Fealty\n\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Deathwing-Knights/\" target=\"_blank\" rel=\"noreferrer\">Deathwing Knights (240 points)</a>\n• 1x Knight Master\n• 1x Great weapon of the Unforgiven\n• 4x Deathwing Knight\n• 4x Mace of absolution\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Incursor-Squad/\" target=\"_blank\" rel=\"noreferrer\">Incursor Squad (85 points)</a>\n• 1x Incursor Sergeant\n• 1x Bolt pistol\n1x Occulus bolt carbine\n1x Paired combat blades\n• 4x Incursor\n• 4x Bolt pistol\n1x Haywire Mine\n4x Occulus bolt carbine\n4x Paired combat blades\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder/\" target=\"_blank\" rel=\"noreferrer\">Land Speeder (105 points)</a>\n• 1x Close-combat weapon\n1x Multi-melta\n1x Onslaught gatling cannon\n1x Stormfury missile launcher\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder/\" target=\"_blank\" rel=\"noreferrer\">Land Speeder (105 points)</a>\n• 1x Close-combat weapon\n1x Multi-melta\n1x Onslaught gatling cannon\n1x Stormfury missile launcher\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder/\" target=\"_blank\" rel=\"noreferrer\">Land Speeder (120 points)</a>\n• 1x Close-combat weapon\n1x Multi-melta\n1x Onslaught gatling cannon\n1x Stormfury missile launcher\n• Enhancement: Thundercowl Turbines (Upgrade)\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder-Vengeance/\" target=\"_blank\" rel=\"noreferrer\">Land Speeder Vengeance (145 points)</a>\n• 1x Assault cannon\n1x Close combat weapon\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder-Vengeance/\" target=\"_blank\" rel=\"noreferrer\">Land Speeder Vengeance (145 points)</a>\n• 1x Assault cannon\n1x Close combat weapon\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder-Vengeance/\" target=\"_blank\" rel=\"noreferrer\">Land Speeder Vengeance (155 points)</a>\n• 1x Assault cannon\n1x Close combat weapon\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Scout-Squad/\" target=\"_blank\" rel=\"noreferrer\">Scout Squad (65 points)</a>\n• 1x Scout Sergeant\n• 1x Bolt pistol\n1x Boltgun\n1x Close combat weapon\n• 4x Scout\n• 4x Bolt pistol\n2x Boltgun\n4x Close combat weapon\n1x Missile launcher\n1x Scout sniper rifle\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Storm-Speeder-Thunderstrike/\" target=\"_blank\" rel=\"noreferrer\">Storm Speeder Thunderstrike (135 points)</a>\n• 1x Close combat weapon\n1x Stormfury missiles\n1x Thunderstrike las-talon\n1x Twin Icarus rocket pod\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Storm-Speeder-Thunderstrike/\" target=\"_blank\" rel=\"noreferrer\">Storm Speeder Thunderstrike (135 points)</a>\n• 1x Close combat weapon\n1x Stormfury missiles\n1x Thunderstrike las-talon\n1x Twin Icarus rocket pod\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+      "content": "1. Gotta go fast (2000 points)\n\nSpace Marines\nDark Angels\nCompany of Hunters and Darkflight Pursuit (3 Detachment Points)\nReconnaissance\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nAzrael (140 points)\n• Attached as: Leader (Character)\n• 1x Lion’s Wrath\n1x The Lion Helm\n1x The Sword of Secrets\n\nInner Circle Companions (160 points)\n• Attached as: Bodyguard\n• 6x Inner Circle Companion\n• 6x Calibanite greatsword\n6x Heavy bolt pistol\n\n\nCHARACTERS\n\nLion El’Jonson (265 points)\n• Warlord\n• 1x Arma Luminis\n1x Fealty\n\n\nOTHER DATASHEETS\n\nDeathwing Knights (240 points)\n• 1x Knight Master\n• 1x Great weapon of the Unforgiven\n• 4x Deathwing Knight\n• 4x Mace of absolution\n\nIncursor Squad (85 points)\n• 1x Incursor Sergeant\n• 1x Bolt pistol\n1x Occulus bolt carbine\n1x Paired combat blades\n• 4x Incursor\n• 4x Bolt pistol\n1x Haywire Mine\n4x Occulus bolt carbine\n4x Paired combat blades\n\nLand Speeder (105 points)\n• 1x Close-combat weapon\n1x Multi-melta\n1x Onslaught gatling cannon\n1x Stormfury missile launcher\n\nLand Speeder (105 points)\n• 1x Close-combat weapon\n1x Multi-melta\n1x Onslaught gatling cannon\n1x Stormfury missile launcher\n\nLand Speeder (120 points)\n• 1x Close-combat weapon\n1x Multi-melta\n1x Onslaught gatling cannon\n1x Stormfury missile launcher\n• Enhancement: Thundercowl Turbines (Upgrade)\n\nLand Speeder Vengeance (145 points)\n• 1x Assault cannon\n1x Close combat weapon\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\nLand Speeder Vengeance (145 points)\n• 1x Assault cannon\n1x Close combat weapon\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\nLand Speeder Vengeance (155 points)\n• 1x Assault cannon\n1x Close combat weapon\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\nScout Squad (65 points)\n• 1x Scout Sergeant\n• 1x Bolt pistol\n1x Boltgun\n1x Close combat weapon\n• 4x Scout\n• 4x Bolt pistol\n2x Boltgun\n4x Close combat weapon\n1x Missile launcher\n1x Scout sniper rifle\n\nStorm Speeder Thunderstrike (135 points)\n• 1x Close combat weapon\n1x Stormfury missiles\n1x Thunderstrike las-talon\n1x Twin Icarus rocket pod\n\nStorm Speeder Thunderstrike (135 points)\n• 1x Close combat weapon\n1x Stormfury missiles\n1x Thunderstrike las-talon\n1x Twin Icarus rocket pod\n\nExported with App Version: v2.5.0 (140), Data Version: v931",
+      "pageUrl": "lists/NCr1t40BFouY/",
+      "linkedContent": "1. Gotta go fast (2000 points)\n\nSpace Marines\nDark Angels\nCompany of Hunters and Darkflight Pursuit (3 Detachment Points)\nReconnaissance\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Azrael/\" target=\"_blank\" rel=\"noreferrer\">Azrael (140 points)</a>\n• Attached as: Leader (Character)\n• 1x Lion’s Wrath\n1x The Lion Helm\n1x The Sword of Secrets\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Inner-Circle-Companions/\" target=\"_blank\" rel=\"noreferrer\">Inner Circle Companions (160 points)</a>\n• Attached as: Bodyguard\n• 6x Inner Circle Companion\n• 6x Calibanite greatsword\n6x Heavy bolt pistol\n\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Lion-El-jonson/\" target=\"_blank\" rel=\"noreferrer\">Lion El’Jonson (265 points)</a>\n• Warlord\n• 1x Arma Luminis\n1x Fealty\n\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Deathwing-Knights/\" target=\"_blank\" rel=\"noreferrer\">Deathwing Knights (240 points)</a>\n• 1x Knight Master\n• 1x Great weapon of the Unforgiven\n• 4x Deathwing Knight\n• 4x Mace of absolution\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Incursor-Squad/\" target=\"_blank\" rel=\"noreferrer\">Incursor Squad (85 points)</a>\n• 1x Incursor Sergeant\n• 1x Bolt pistol\n1x Occulus bolt carbine\n1x Paired combat blades\n• 4x Incursor\n• 4x Bolt pistol\n1x Haywire Mine\n4x Occulus bolt carbine\n4x Paired combat blades\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder/\" target=\"_blank\" rel=\"noreferrer\">Land Speeder (105 points)</a>\n• 1x Close-combat weapon\n1x Multi-melta\n1x Onslaught gatling cannon\n1x Stormfury missile launcher\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder/\" target=\"_blank\" rel=\"noreferrer\">Land Speeder (105 points)</a>\n• 1x Close-combat weapon\n1x Multi-melta\n1x Onslaught gatling cannon\n1x Stormfury missile launcher\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder/\" target=\"_blank\" rel=\"noreferrer\">Land Speeder (120 points)</a>\n• 1x Close-combat weapon\n1x Multi-melta\n1x Onslaught gatling cannon\n1x Stormfury missile launcher\n• Enhancement: Thundercowl Turbines (Upgrade)\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder-Vengeance/\" target=\"_blank\" rel=\"noreferrer\">Land Speeder Vengeance (145 points)</a>\n• 1x Assault cannon\n1x Close combat weapon\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder-Vengeance/\" target=\"_blank\" rel=\"noreferrer\">Land Speeder Vengeance (145 points)</a>\n• 1x Assault cannon\n1x Close combat weapon\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder-Vengeance/\" target=\"_blank\" rel=\"noreferrer\">Land Speeder Vengeance (155 points)</a>\n• 1x Assault cannon\n1x Close combat weapon\n1x Plasma storm battery\n• Enhancement: Nightforged Battery (Upgrade)\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Scout-Squad/\" target=\"_blank\" rel=\"noreferrer\">Scout Squad (65 points)</a>\n• 1x Scout Sergeant\n• 1x Bolt pistol\n1x Boltgun\n1x Close combat weapon\n• 4x Scout\n• 4x Bolt pistol\n2x Boltgun\n4x Close combat weapon\n1x Missile launcher\n1x Scout sniper rifle\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Storm-Speeder-Thunderstrike/\" target=\"_blank\" rel=\"noreferrer\">Storm Speeder Thunderstrike (135 points)</a>\n• 1x Close combat weapon\n1x Stormfury missiles\n1x Thunderstrike las-talon\n1x Twin Icarus rocket pod\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Storm-Speeder-Thunderstrike/\" target=\"_blank\" rel=\"noreferrer\">Storm Speeder Thunderstrike (135 points)</a>\n• 1x Close combat weapon\n1x Stormfury missiles\n1x Thunderstrike las-talon\n1x Twin Icarus rocket pod\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
     },
     {
       "player": "Zachary Lockett",
       "team": "South London Squad",
       "faction": "Leagues of Votann - Priority Assets",
       "checkedIn": true,
-      "listId": "LJRHYhOWHq7b",
+      "listId": "bwEpVeYRNLNR",
       "hasPublishedList": true,
-      "sourceUrl": "https://www.bestcoastpairings.com/list/LJRHYhOWHq7b",
+      "sourceUrl": "https://www.bestcoastpairings.com/list/bwEpVeYRNLNR",
       "playerId": "SlnqyU8XcuVu",
       "event": "Brighton 40k Teams II",
       "pagePlayer": "Zachary Lockett",
-      "content": "Uthar! Berehk! Buri! Team Votann is blasting off again! (1990 points)\n\nLeagues of Votann\nHearthguard Covenant and Needgaârd Oathband (3 Detachment Points)\nPriority Assets\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nBerehk Stornbröw (85 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Kromlôk’s Revenge\n1x Warforge Gauntlets\n\nCthonian Beserks (95 points)\n• Attached as: Bodyguard\n• 5x Cthonian Beserk\n• 4x Concussion maul\n1x Mole grenade launcher\n1x Twin concussion gauntlet\n\nAttached Unit 2\n\nKâhl (80 points)\n• Attached as: Leader (Character)\n• 1x Mass gauntlet\n1x Teleport Crest\n1x Volkanite disintegrator\n• Enhancement: Ancestral Crest\n\nEinhyr Hearthguard (270 points)\n• Attached as: Bodyguard\n• 1x Hesyr\n• 1x EtaCarn plasma gun\n1x Exoarmour grenade launcher\n1x Graviton hammer\n1x Weavefield crest\n• 9x Einhyr Hearthguard\n• 9x Concussion gauntlet\n9x EtaCarn plasma gun\n9x Exoarmour grenade launcher\n\nAttached Unit 3\n\nÛthar the Destined (90 points)\n• Attached as: Leader (Character)\n• 1x Blade of the Ancestors\n1x Rampart Crest\n1x Volkanite disintegrator\n\nEinhyr Hearthguard (130 points)\n• Attached as: Bodyguard\n• 1x Hesyr\n• 1x EtaCarn plasma gun\n1x Exoarmour grenade launcher\n1x Graviton hammer\n1x Teleport Crest\n• 4x Einhyr Hearthguard\n• 4x Concussion gauntlet\n4x EtaCarn plasma gun\n4x Exoarmour grenade launcher\n\n\nCHARACTERS\n\nBrôkhyr Iron-master (100 points)\n• 1x Brôkhyr Iron-master\n• 1x Graviton hammer\n1x Graviton rifle\n• Enhancement: Oathbound Speculator\n• 1x Ironkin Assistant\n• 1x Close combat weapon\n1x Las-beam cutter\n• 1x E-COG\n• 1x Plasma torch\n• 1x E-COG\n• 1x Manipulator arms\n• 1x E-COG\n• 1x Autoch-pattern bolt pistol\n1x Close combat weapon\n\nBuri Aegnirssen (85 points)\n• 1x Autoch‑pattern bolt pistol\n1x Bane\n\nMemnyr Strategist (55 points)\n• 1x Autoch-pattern bolt pistol\n1x Close combat weapon\n• Enhancement: Dead Reckoning\n\n\nDEDICATED TRANSPORTS\n\nKapricus Carrier (70 points)\n• 1x Armoured hull\n1x Magna-coil autocannon\n1x Smoke Launcher\n1x Twin magna‑coil autocannon\n\n\nOTHER DATASHEETS\n\nBrôkhyr Thunderkyn (170 points)\n• 6x Brôkhyr Thunderkyn\n• 6x Close combat weapon\n6x SP conversion beamer\n\nHekaton Land Fortress (250 points)\n• 1x Armoured wheels\n1x Heavy magna-rail cannon\n1x MATR autocannon\n1x Panspectral Scanner\n2x Twin bolt cannon\n\nHekaton Land Fortress (265 points)\n• 1x Armoured wheels\n1x Heavy magna-rail cannon\n1x MATR autocannon\n1x Panspectral Scanner\n2x Twin bolt cannon\n\nHernkyn Pioneers (80 points)\n• 3x Hernkyn Pioneer\n• 3x Bolt revolver\n3x Bolt shotgun\n1x HYLas rotary cannon\n3x Magna-coil autocannon\n1x Panspectral Scanner\n3x Plasma knife\n1x Rollbar Searchlight\n\nHernkyn Yaegirs (90 points)\n• 1x Yaegir Theyn\n• 1x Bolt shotgun\n1x Close combat weapon\n• 9x Hernkyn Yaegir\n• 1x APM launcher\n7x Bolt shotgun\n9x Close combat weapon\n1x Magna-coil rifle\n\nIronkin Steeljacks with Melee Weapons (75 points)\n• 1x Steeljack Theyn\n• 1x Autoch-pattern bolter\n1x Plasma sword\n1x Preymark Crest\n• 2x Ironkin Steeljack\n• 2x Autoch-pattern bolter\n2x Plasma sword\n\nExported with App Version: v2.5.0 (140), Data Version: v931",
-      "pageUrl": "lists/LJRHYhOWHq7b/",
-      "linkedContent": "Uthar! Berehk! Buri! Team Votann is blasting off again! (1990 points)\n\nLeagues of Votann\nHearthguard Covenant and Needgaârd Oathband (3 Detachment Points)\nPriority Assets\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Berehk-Stornbr%C3%B6w/\" target=\"_blank\" rel=\"noreferrer\">Berehk Stornbröw (85 points)</a>\n• Attached as: Leader (Character)\n• Warlord\n• 1x Kromlôk’s Revenge\n1x Warforge Gauntlets\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Cthonian-Beserks/\" target=\"_blank\" rel=\"noreferrer\">Cthonian Beserks (95 points)</a>\n• Attached as: Bodyguard\n• 5x Cthonian Beserk\n• 4x Concussion maul\n1x Mole grenade launcher\n1x Twin concussion gauntlet\n\nAttached Unit 2\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/K-hl/\" target=\"_blank\" rel=\"noreferrer\">Kâhl (80 points)</a>\n• Attached as: Leader (Character)\n• 1x Mass gauntlet\n1x Teleport Crest\n1x Volkanite disintegrator\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/#Enhancements-1\" target=\"_blank\" rel=\"noreferrer\">Ancestral Crest</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Einhyr-Hearthguard/\" target=\"_blank\" rel=\"noreferrer\">Einhyr Hearthguard (270 points)</a>\n• Attached as: Bodyguard\n• 1x Hesyr\n• 1x EtaCarn plasma gun\n1x Exoarmour grenade launcher\n1x Graviton hammer\n1x Weavefield crest\n• 9x Einhyr Hearthguard\n• 9x Concussion gauntlet\n9x EtaCarn plasma gun\n9x Exoarmour grenade launcher\n\nAttached Unit 3\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/%C3%9Bthar-the-Destined/\" target=\"_blank\" rel=\"noreferrer\">Ûthar the Destined (90 points)</a>\n• Attached as: Leader (Character)\n• 1x Blade of the Ancestors\n1x Rampart Crest\n1x Volkanite disintegrator\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Einhyr-Hearthguard/\" target=\"_blank\" rel=\"noreferrer\">Einhyr Hearthguard (130 points)</a>\n• Attached as: Bodyguard\n• 1x Hesyr\n• 1x EtaCarn plasma gun\n1x Exoarmour grenade launcher\n1x Graviton hammer\n1x Teleport Crest\n• 4x Einhyr Hearthguard\n• 4x Concussion gauntlet\n4x EtaCarn plasma gun\n4x Exoarmour grenade launcher\n\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Br%C3%B4khyr-Iron-master/\" target=\"_blank\" rel=\"noreferrer\">Brôkhyr Iron-master (100 points)</a>\n• 1x Brôkhyr Iron-master\n• 1x Graviton hammer\n1x Graviton rifle\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/#Enhancements-1\" target=\"_blank\" rel=\"noreferrer\">Oathbound Speculator</a>\n• 1x Ironkin Assistant\n• 1x Close combat weapon\n1x Las-beam cutter\n• 1x E-COG\n• 1x Plasma torch\n• 1x E-COG\n• 1x Manipulator arms\n• 1x E-COG\n• 1x Autoch-pattern bolt pistol\n1x Close combat weapon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Buri-Aegnirssen/\" target=\"_blank\" rel=\"noreferrer\">Buri Aegnirssen (85 points)</a>\n• 1x Autoch‑pattern bolt pistol\n1x Bane\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Memnyr-Strategist/\" target=\"_blank\" rel=\"noreferrer\">Memnyr Strategist (55 points)</a>\n• 1x Autoch-pattern bolt pistol\n1x Close combat weapon\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/#Enhancements-1\" target=\"_blank\" rel=\"noreferrer\">Dead Reckoning</a>\n\n\nDEDICATED TRANSPORTS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Kapricus-Carrier/\" target=\"_blank\" rel=\"noreferrer\">Kapricus Carrier (70 points)</a>\n• 1x Armoured hull\n1x Magna-coil autocannon\n1x Smoke Launcher\n1x Twin magna‑coil autocannon\n\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Br%C3%B4khyr-Thunderkyn/\" target=\"_blank\" rel=\"noreferrer\">Brôkhyr Thunderkyn (170 points)</a>\n• 6x Brôkhyr Thunderkyn\n• 6x Close combat weapon\n6x SP conversion beamer\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Hekaton-Land-Fortress/\" target=\"_blank\" rel=\"noreferrer\">Hekaton Land Fortress (250 points)</a>\n• 1x Armoured wheels\n1x Heavy magna-rail cannon\n1x MATR autocannon\n1x Panspectral Scanner\n2x Twin bolt cannon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Hekaton-Land-Fortress/\" target=\"_blank\" rel=\"noreferrer\">Hekaton Land Fortress (265 points)</a>\n• 1x Armoured wheels\n1x Heavy magna-rail cannon\n1x MATR autocannon\n1x Panspectral Scanner\n2x Twin bolt cannon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Hernkyn-Pioneers/\" target=\"_blank\" rel=\"noreferrer\">Hernkyn Pioneers (80 points)</a>\n• 3x Hernkyn Pioneer\n• 3x Bolt revolver\n3x Bolt shotgun\n1x HYLas rotary cannon\n3x Magna-coil autocannon\n1x Panspectral Scanner\n3x Plasma knife\n1x Rollbar Searchlight\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Hernkyn-Yaegirs/\" target=\"_blank\" rel=\"noreferrer\">Hernkyn Yaegirs (90 points)</a>\n• 1x Yaegir Theyn\n• 1x Bolt shotgun\n1x Close combat weapon\n• 9x Hernkyn Yaegir\n• 1x APM launcher\n7x Bolt shotgun\n9x Close combat weapon\n1x Magna-coil rifle\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Ironkin-Steeljacks-with-Melee-Weapons/\" target=\"_blank\" rel=\"noreferrer\">Ironkin Steeljacks with Melee Weapons (75 points)</a>\n• 1x Steeljack Theyn\n• 1x Autoch-pattern bolter\n1x Plasma sword\n1x Preymark Crest\n• 2x Ironkin Steeljack\n• 2x Autoch-pattern bolter\n2x Plasma sword\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+      "content": "Uthar! Berehk! Buri! Team Votann is blasting off again! (1990 points)\n\nLeagues of Votann\nHearthguard Covenant and Needgaârd Oathband (3 Detachment Points)\nPriority Assets\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nBerehk Stornbröw (85 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Kromlôk’s Revenge\n1x Warforge Gauntlets\n\nCthonian Beserks (95 points)\n• Attached as: Bodyguard\n• 5x Cthonian Beserk\n• 4x Concussion maul\n1x Mole grenade launcher\n1x Twin concussion gauntlet\n\nAttached Unit 2\n\nBrôkhyr Iron-master (100 points)\n• Attached as: Leader (Character)\n• 1x Brôkhyr Iron-master\n• 1x Graviton hammer\n1x Graviton rifle\n• Enhancement: Oathbound Speculator\n• 1x Ironkin Assistant\n• 1x Close combat weapon\n1x Las-beam cutter\n• 1x E-COG\n• 1x Plasma torch\n• 1x E-COG\n• 1x Manipulator arms\n• 1x E-COG\n• 1x Autoch-pattern bolt pistol\n1x Close combat weapon\n\nBrôkhyr Thunderkyn (170 points)\n• Attached as: Bodyguard\n• 6x Brôkhyr Thunderkyn\n• 6x Close combat weapon\n6x SP conversion beamer\n\nAttached Unit 3\n\nKâhl (80 points)\n• Attached as: Leader (Character)\n• 1x Mass gauntlet\n1x Teleport Crest\n1x Volkanite disintegrator\n• Enhancement: Ancestral Crest\n\nEinhyr Hearthguard (270 points)\n• Attached as: Bodyguard\n• 1x Hesyr\n• 1x EtaCarn plasma gun\n1x Exoarmour grenade launcher\n1x Graviton hammer\n1x Weavefield crest\n• 9x Einhyr Hearthguard\n• 9x Concussion gauntlet\n9x EtaCarn plasma gun\n9x Exoarmour grenade launcher\n\nAttached Unit 4\n\nÛthar the Destined (90 points)\n• Attached as: Leader (Character)\n• 1x Blade of the Ancestors\n1x Rampart Crest\n1x Volkanite disintegrator\n\nEinhyr Hearthguard (130 points)\n• Attached as: Bodyguard\n• 1x Hesyr\n• 1x EtaCarn plasma gun\n1x Exoarmour grenade launcher\n1x Graviton hammer\n1x Teleport Crest\n• 4x Einhyr Hearthguard\n• 4x Concussion gauntlet\n4x EtaCarn plasma gun\n4x Exoarmour grenade launcher\n\n\nCHARACTERS\n\nBuri Aegnirssen (85 points)\n• 1x Autoch‑pattern bolt pistol\n1x Bane\n\nMemnyr Strategist (55 points)\n• 1x Autoch-pattern bolt pistol\n1x Close combat weapon\n• Enhancement: Dead Reckoning\n\n\nDEDICATED TRANSPORTS\n\nKapricus Carrier (70 points)\n• 1x Armoured hull\n1x Magna-coil autocannon\n1x Smoke Launcher\n1x Twin magna‑coil autocannon\n\n\nOTHER DATASHEETS\n\nHekaton Land Fortress (250 points)\n• 1x Armoured wheels\n1x Heavy magna-rail cannon\n1x MATR autocannon\n1x Panspectral Scanner\n2x Twin bolt cannon\n\nHekaton Land Fortress (265 points)\n• 1x Armoured wheels\n1x Heavy magna-rail cannon\n1x MATR autocannon\n1x Panspectral Scanner\n2x Twin bolt cannon\n\nHernkyn Pioneers (80 points)\n• 3x Hernkyn Pioneer\n• 3x Bolt revolver\n3x Bolt shotgun\n1x HYLas rotary cannon\n3x Magna-coil autocannon\n1x Panspectral Scanner\n3x Plasma knife\n1x Rollbar Searchlight\n\nHernkyn Yaegirs (90 points)\n• 1x Yaegir Theyn\n• 1x Bolt shotgun\n1x Close combat weapon\n• 9x Hernkyn Yaegir\n• 1x APM launcher\n7x Bolt shotgun\n9x Close combat weapon\n1x Magna-coil rifle\n\nIronkin Steeljacks with Melee Weapons (75 points)\n• 1x Steeljack Theyn\n• 1x Autoch-pattern bolter\n1x Plasma sword\n1x Preymark Crest\n• 2x Ironkin Steeljack\n• 2x Autoch-pattern bolter\n2x Plasma sword\n\nExported with App Version: v2.5.0 (140), Data Version: v931",
+      "pageUrl": "lists/bwEpVeYRNLNR/",
+      "linkedContent": "Uthar! Berehk! Buri! Team Votann is blasting off again! (1990 points)\n\nLeagues of Votann\nHearthguard Covenant and Needgaârd Oathband (3 Detachment Points)\nPriority Assets\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nBerehk Stornbröw (85 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Kromlôk’s Revenge\n1x Warforge Gauntlets\n\nCthonian Beserks (95 points)\n• Attached as: Bodyguard\n• 5x Cthonian Beserk\n• 4x Concussion maul\n1x Mole grenade launcher\n1x Twin concussion gauntlet\n\nAttached Unit 2\n\nBrôkhyr Iron-master (100 points)\n• Attached as: Leader (Character)\n• 1x Brôkhyr Iron-master\n• 1x Graviton hammer\n1x Graviton rifle\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/#Enhancements-1\" target=\"_blank\" rel=\"noreferrer\">Oathbound Speculator</a>\n• 1x Ironkin Assistant\n• 1x Close combat weapon\n1x Las-beam cutter\n• 1x E-COG\n• 1x Plasma torch\n• 1x E-COG\n• 1x Manipulator arms\n• 1x E-COG\n• 1x Autoch-pattern bolt pistol\n1x Close combat weapon\n\nBrôkhyr Thunderkyn (170 points)\n• Attached as: Bodyguard\n• 6x Brôkhyr Thunderkyn\n• 6x Close combat weapon\n6x SP conversion beamer\n\nAttached Unit 3\n\nKâhl (80 points)\n• Attached as: Leader (Character)\n• 1x Mass gauntlet\n1x Teleport Crest\n1x Volkanite disintegrator\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/#Enhancements-1\" target=\"_blank\" rel=\"noreferrer\">Ancestral Crest</a>\n\nEinhyr Hearthguard (270 points)\n• Attached as: Bodyguard\n• 1x Hesyr\n• 1x EtaCarn plasma gun\n1x Exoarmour grenade launcher\n1x Graviton hammer\n1x Weavefield crest\n• 9x Einhyr Hearthguard\n• 9x Concussion gauntlet\n9x EtaCarn plasma gun\n9x Exoarmour grenade launcher\n\nAttached Unit 4\n\nÛthar the Destined (90 points)\n• Attached as: Leader (Character)\n• 1x Blade of the Ancestors\n1x Rampart Crest\n1x Volkanite disintegrator\n\nEinhyr Hearthguard (130 points)\n• Attached as: Bodyguard\n• 1x Hesyr\n• 1x EtaCarn plasma gun\n1x Exoarmour grenade launcher\n1x Graviton hammer\n1x Teleport Crest\n• 4x Einhyr Hearthguard\n• 4x Concussion gauntlet\n4x EtaCarn plasma gun\n4x Exoarmour grenade launcher\n\n\nCHARACTERS\n\nBuri Aegnirssen (85 points)\n• 1x Autoch‑pattern bolt pistol\n1x Bane\n\nMemnyr Strategist (55 points)\n• 1x Autoch-pattern bolt pistol\n1x Close combat weapon\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/#Enhancements-1\" target=\"_blank\" rel=\"noreferrer\">Dead Reckoning</a>\n\n\nDEDICATED TRANSPORTS\n\nKapricus Carrier (70 points)\n• 1x Armoured hull\n1x Magna-coil autocannon\n1x Smoke Launcher\n1x Twin magna‑coil autocannon\n\n\nOTHER DATASHEETS\n\nHekaton Land Fortress (250 points)\n• 1x Armoured wheels\n1x Heavy magna-rail cannon\n1x MATR autocannon\n1x Panspectral Scanner\n2x Twin bolt cannon\n\nHekaton Land Fortress (265 points)\n• 1x Armoured wheels\n1x Heavy magna-rail cannon\n1x MATR autocannon\n1x Panspectral Scanner\n2x Twin bolt cannon\n\nHernkyn Pioneers (80 points)\n• 3x Hernkyn Pioneer\n• 3x Bolt revolver\n3x Bolt shotgun\n1x HYLas rotary cannon\n3x Magna-coil autocannon\n1x Panspectral Scanner\n3x Plasma knife\n1x Rollbar Searchlight\n\nHernkyn Yaegirs (90 points)\n• 1x Yaegir Theyn\n• 1x Bolt shotgun\n1x Close combat weapon\n• 9x Hernkyn Yaegir\n• 1x APM launcher\n7x Bolt shotgun\n9x Close combat weapon\n1x Magna-coil rifle\n\nIronkin Steeljacks with Melee Weapons (75 points)\n• 1x Steeljack Theyn\n• 1x Autoch-pattern bolter\n1x Plasma sword\n1x Preymark Crest\n• 2x Ironkin Steeljack\n• 2x Autoch-pattern bolter\n2x Plasma sword\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
     },
     {
       "player": "Alex Dracup",
@@ -684,15 +789,15 @@ window.BCP_DATA = {
       "team": "Surrey Primarchs B",
       "faction": "World Eaters - Disruption",
       "checkedIn": true,
-      "listId": "rBYVquBqN9i0",
+      "listId": "OTK8gYfDrnAN",
       "hasPublishedList": true,
-      "sourceUrl": "https://www.bestcoastpairings.com/list/rBYVquBqN9i0",
+      "sourceUrl": "https://www.bestcoastpairings.com/list/OTK8gYfDrnAN",
       "playerId": "kUHsdazGk8sL",
       "event": "Brighton 40k Teams II",
       "pagePlayer": "Andrew Mcbride",
-      "content": "I can't believe I'm using a Dirty Defiler (2000 points)\n\nWorld Eaters\nBrazen Engines and Goretrack Onslaught (3 Detachment Points)\nDisruption\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nKhârn the Betrayer (115 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Gorechild\n1x Plasma pistol\n\nKhorne Berzerkers (160 points)\n• Attached as: Bodyguard (Battleline)\n• 1x Khorne Berzerker Champion\n• 1x Chainblade\n1x Plasma pistol\n• 9x Khorne Berzerker\n• 7x Bolt pistol\n7x Chainblade\n1x Icon of Khorne\n2x Khornate eviscerator\n2x Plasma pistol\n\nAttached Unit 2\n\nSlaughterbound (100 points)\n• Attached as: Leader (Character)\n• 1x Lacerator and daemonic claw\n\nExalted Eightbound (265 points)\n• Attached as: Bodyguard\n• 1x Exalted Eightbound Champion\n• 1x Chainblades\n• 5x Exalted Eightbound\n• 5x Chainblades\n\n\nCHARACTERS\n\nLord Invocatus (100 points)\n• 1x Bladed horn\n1x Bolt pistol\n1x Coward’s Bane\n\nMaster of Executions (80 points)\n• 1x Axe of dismemberment\n1x Bolt pistol\n• Enhancement: Aggressive Deployment\n\n\nDEDICATED TRANSPORTS\n\nChaos Rhino (75 points)\n• 1x Armoured tracks\n2x Combi-bolter\n1x Havoc launcher\n\n\nOTHER DATASHEETS\n\nDefiler (300 points)\n• 1x Ectoplasma destructor\n2x Excruciator cannon\n2x Heavy reaper autocannon\n1x Shearing claws\n\nEightbound (125 points)\n• 1x Eightbound Champion\n• 1x Chainblades\n• 2x Eightbound\n• 2x Chainblades\n\nEightbound (125 points)\n• 1x Eightbound Champion\n• 1x Chainblades\n• 2x Eightbound\n• 2x Chainblades\n\nExalted Eightbound (130 points)\n• 1x Exalted Eightbound Champion\n• 1x Chainblades\n• 2x Exalted Eightbound\n• 2x Chainblades\n\nForgefiend (145 points)\n• 1x Ectoplasma cannon\n1x Forgefiend claws\n2x Hades autocannon\n\nGoremongers (75 points)\n• 1x Blood Herald\n• 1x Autopistol\n1x Chainblade\n1x Close combat weapon\n• 7x Goremongers\n• 7x Autopistol\n7x Chainblade\n7x Close combat weapon\n\nJakhals (65 points)\n• 1x Jakhal Pack Leader\n• 1x Autopistol\n1x Chainblades\n• 1x Dishonoured\n• 1x Skullsmasher and mangler\n• 8x Jakhal\n• 8x Autopistol\n7x Chainblades\n1x Icon of Khorne\n1x Mauler chainblade\n\nMaulerfiend (140 points)\n• 2x Magma cutter\n1x Maulerfiend fists\n\nExported with App Version: v2.5.0 (140), Data Version: v931",
-      "pageUrl": "lists/rBYVquBqN9i0/",
-      "linkedContent": "I can't believe I'm using a Dirty Defiler (2000 points)\n\nWorld Eaters\nBrazen Engines and Goretrack Onslaught (3 Detachment Points)\nDisruption\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Kh-rn-The-Betrayer/\" target=\"_blank\" rel=\"noreferrer\">Khârn the Betrayer (115 points)</a>\n• Attached as: Leader (Character)\n• Warlord\n• 1x Gorechild\n1x Plasma pistol\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Khorne-Berzerkers/\" target=\"_blank\" rel=\"noreferrer\">Khorne Berzerkers (160 points)</a>\n• Attached as: Bodyguard (Battleline)\n• 1x Khorne Berzerker Champion\n• 1x Chainblade\n1x Plasma pistol\n• 9x Khorne Berzerker\n• 7x Bolt pistol\n7x Chainblade\n1x Icon of Khorne\n2x Khornate eviscerator\n2x Plasma pistol\n\nAttached Unit 2\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Slaughterbound/\" target=\"_blank\" rel=\"noreferrer\">Slaughterbound (100 points)</a>\n• Attached as: Leader (Character)\n• 1x Lacerator and daemonic claw\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Exalted-Eightbound/\" target=\"_blank\" rel=\"noreferrer\">Exalted Eightbound (265 points)</a>\n• Attached as: Bodyguard\n• 1x Exalted Eightbound Champion\n• 1x Chainblades\n• 5x Exalted Eightbound\n• 5x Chainblades\n\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Lord-Invocatus/\" target=\"_blank\" rel=\"noreferrer\">Lord Invocatus (100 points)</a>\n• 1x Bladed horn\n1x Bolt pistol\n1x Coward’s Bane\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Master-of-Executions/\" target=\"_blank\" rel=\"noreferrer\">Master of Executions (80 points)</a>\n• 1x Axe of dismemberment\n1x Bolt pistol\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/#Enhancements-5\" target=\"_blank\" rel=\"noreferrer\">Aggressive Deployment</a>\n\n\nDEDICATED TRANSPORTS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Chaos-Rhino/\" target=\"_blank\" rel=\"noreferrer\">Chaos Rhino (75 points)</a>\n• 1x Armoured tracks\n2x Combi-bolter\n1x Havoc launcher\n\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Defiler/\" target=\"_blank\" rel=\"noreferrer\">Defiler (300 points)</a>\n• 1x Ectoplasma destructor\n2x Excruciator cannon\n2x Heavy reaper autocannon\n1x Shearing claws\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Eightbound/\" target=\"_blank\" rel=\"noreferrer\">Eightbound (125 points)</a>\n• 1x Eightbound Champion\n• 1x Chainblades\n• 2x Eightbound\n• 2x Chainblades\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Eightbound/\" target=\"_blank\" rel=\"noreferrer\">Eightbound (125 points)</a>\n• 1x Eightbound Champion\n• 1x Chainblades\n• 2x Eightbound\n• 2x Chainblades\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Exalted-Eightbound/\" target=\"_blank\" rel=\"noreferrer\">Exalted Eightbound (130 points)</a>\n• 1x Exalted Eightbound Champion\n• 1x Chainblades\n• 2x Exalted Eightbound\n• 2x Chainblades\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Forgefiend/\" target=\"_blank\" rel=\"noreferrer\">Forgefiend (145 points)</a>\n• 1x Ectoplasma cannon\n1x Forgefiend claws\n2x Hades autocannon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Goremongers/\" target=\"_blank\" rel=\"noreferrer\">Goremongers (75 points)</a>\n• 1x Blood Herald\n• 1x Autopistol\n1x Chainblade\n1x Close combat weapon\n• 7x Goremongers\n• 7x Autopistol\n7x Chainblade\n7x Close combat weapon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Jakhals/\" target=\"_blank\" rel=\"noreferrer\">Jakhals (65 points)</a>\n• 1x Jakhal Pack Leader\n• 1x Autopistol\n1x Chainblades\n• 1x Dishonoured\n• 1x Skullsmasher and mangler\n• 8x Jakhal\n• 8x Autopistol\n7x Chainblades\n1x Icon of Khorne\n1x Mauler chainblade\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Maulerfiend/\" target=\"_blank\" rel=\"noreferrer\">Maulerfiend (140 points)</a>\n• 2x Magma cutter\n1x Maulerfiend fists\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+      "content": "I can't believe I'm using a Dirty Defiler (2000 points)\n\nWorld Eaters\nBrazen Engines and Goretrack Onslaught (3 Detachment Points)\nDisruption\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nKhârn the Betrayer (115 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Gorechild\n1x Plasma pistol\n\nKhorne Berzerkers (160 points)\n• Attached as: Bodyguard (Battleline)\n• 1x Khorne Berzerker Champion\n• 1x Chainblade\n1x Plasma pistol\n• 9x Khorne Berzerker\n• 7x Bolt pistol\n7x Chainblade\n1x Icon of Khorne\n2x Khornate eviscerator\n2x Plasma pistol\n\nAttached Unit 2\n\nSlaughterbound (100 points)\n• Attached as: Leader (Character)\n• 1x Lacerator and daemonic claw\n\nExalted Eightbound (265 points)\n• Attached as: Bodyguard\n• 1x Exalted Eightbound Champion\n• 1x Chainblades\n• 5x Exalted Eightbound\n• 5x Chainblades\n\n\nCHARACTERS\n\nLord Invocatus (100 points)\n• 1x Bladed horn\n1x Bolt pistol\n1x Coward’s Bane\n\nMaster of Executions (70 points)\n• 1x Axe of dismemberment\n1x Bolt pistol\n• Enhancement: Unleash Hell\n\n\nDEDICATED TRANSPORTS\n\nChaos Rhino (75 points)\n• 1x Armoured tracks\n2x Combi-bolter\n1x Havoc launcher\n\n\nOTHER DATASHEETS\n\nDefiler (300 points)\n• 1x Ectoplasma destructor\n2x Excruciator cannon\n2x Heavy reaper autocannon\n1x Shearing claws\n\nEightbound (125 points)\n• 1x Eightbound Champion\n• 1x Chainblades\n• 2x Eightbound\n• 2x Chainblades\n\nEightbound (125 points)\n• 1x Eightbound Champion\n• 1x Chainblades\n• 2x Eightbound\n• 2x Chainblades\n\nForgefiend (155 points)\n• 3x Ectoplasma cannon\n1x Forgefiend claws\n\nJakhals (65 points)\n• 1x Jakhal Pack Leader\n• 1x Autopistol\n1x Chainblades\n• 1x Dishonoured\n• 1x Skullsmasher and mangler\n• 8x Jakhal\n• 8x Autopistol\n7x Chainblades\n1x Icon of Khorne\n1x Mauler chainblade\n\nJakhals (65 points)\n• 1x Jakhal Pack Leader\n• 1x Autopistol\n1x Chainblades\n• 1x Dishonoured\n• 1x Skullsmasher and mangler\n• 8x Jakhal\n• 8x Autopistol\n7x Chainblades\n1x Icon of Khorne\n1x Mauler chainblade\n\nMaulerfiend (140 points)\n• 2x Magma cutter\n1x Maulerfiend fists\n\nMaulerfiend (140 points)\n• 2x Magma cutter\n1x Maulerfiend fists\n\nExported with App Version: v2.5.0 (140), Data Version: v931",
+      "pageUrl": "lists/OTK8gYfDrnAN/",
+      "linkedContent": "I can't believe I'm using a Dirty Defiler (2000 points)\n\nWorld Eaters\nBrazen Engines and Goretrack Onslaught (3 Detachment Points)\nDisruption\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Kh-rn-The-Betrayer/\" target=\"_blank\" rel=\"noreferrer\">Khârn the Betrayer (115 points)</a>\n• Attached as: Leader (Character)\n• Warlord\n• 1x Gorechild\n1x Plasma pistol\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Khorne-Berzerkers/\" target=\"_blank\" rel=\"noreferrer\">Khorne Berzerkers (160 points)</a>\n• Attached as: Bodyguard (Battleline)\n• 1x Khorne Berzerker Champion\n• 1x Chainblade\n1x Plasma pistol\n• 9x Khorne Berzerker\n• 7x Bolt pistol\n7x Chainblade\n1x Icon of Khorne\n2x Khornate eviscerator\n2x Plasma pistol\n\nAttached Unit 2\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Slaughterbound/\" target=\"_blank\" rel=\"noreferrer\">Slaughterbound (100 points)</a>\n• Attached as: Leader (Character)\n• 1x Lacerator and daemonic claw\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Exalted-Eightbound/\" target=\"_blank\" rel=\"noreferrer\">Exalted Eightbound (265 points)</a>\n• Attached as: Bodyguard\n• 1x Exalted Eightbound Champion\n• 1x Chainblades\n• 5x Exalted Eightbound\n• 5x Chainblades\n\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Lord-Invocatus/\" target=\"_blank\" rel=\"noreferrer\">Lord Invocatus (100 points)</a>\n• 1x Bladed horn\n1x Bolt pistol\n1x Coward’s Bane\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Master-of-Executions/\" target=\"_blank\" rel=\"noreferrer\">Master of Executions (70 points)</a>\n• 1x Axe of dismemberment\n1x Bolt pistol\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/#Enhancements-5\" target=\"_blank\" rel=\"noreferrer\">Unleash Hell</a>\n\n\nDEDICATED TRANSPORTS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Chaos-Rhino/\" target=\"_blank\" rel=\"noreferrer\">Chaos Rhino (75 points)</a>\n• 1x Armoured tracks\n2x Combi-bolter\n1x Havoc launcher\n\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Defiler/\" target=\"_blank\" rel=\"noreferrer\">Defiler (300 points)</a>\n• 1x Ectoplasma destructor\n2x Excruciator cannon\n2x Heavy reaper autocannon\n1x Shearing claws\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Eightbound/\" target=\"_blank\" rel=\"noreferrer\">Eightbound (125 points)</a>\n• 1x Eightbound Champion\n• 1x Chainblades\n• 2x Eightbound\n• 2x Chainblades\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Eightbound/\" target=\"_blank\" rel=\"noreferrer\">Eightbound (125 points)</a>\n• 1x Eightbound Champion\n• 1x Chainblades\n• 2x Eightbound\n• 2x Chainblades\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Forgefiend/\" target=\"_blank\" rel=\"noreferrer\">Forgefiend (155 points)</a>\n• 3x Ectoplasma cannon\n1x Forgefiend claws\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Jakhals/\" target=\"_blank\" rel=\"noreferrer\">Jakhals (65 points)</a>\n• 1x Jakhal Pack Leader\n• 1x Autopistol\n1x Chainblades\n• 1x Dishonoured\n• 1x Skullsmasher and mangler\n• 8x Jakhal\n• 8x Autopistol\n7x Chainblades\n1x Icon of Khorne\n1x Mauler chainblade\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Jakhals/\" target=\"_blank\" rel=\"noreferrer\">Jakhals (65 points)</a>\n• 1x Jakhal Pack Leader\n• 1x Autopistol\n1x Chainblades\n• 1x Dishonoured\n• 1x Skullsmasher and mangler\n• 8x Jakhal\n• 8x Autopistol\n7x Chainblades\n1x Icon of Khorne\n1x Mauler chainblade\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Maulerfiend/\" target=\"_blank\" rel=\"noreferrer\">Maulerfiend (140 points)</a>\n• 2x Magma cutter\n1x Maulerfiend fists\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Maulerfiend/\" target=\"_blank\" rel=\"noreferrer\">Maulerfiend (140 points)</a>\n• 2x Magma cutter\n1x Maulerfiend fists\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
     },
     {
       "player": "Charles Bunn",
@@ -744,60 +849,120 @@ window.BCP_DATA = {
       "team": "The boys go to Brighton for “Warhammer”",
       "faction": "Necrons - Purge the Foe",
       "checkedIn": true,
-      "listId": "D9dNkC9eMyi0",
+      "listId": "RCOziWuBu9em",
       "hasPublishedList": true,
-      "sourceUrl": "https://www.bestcoastpairings.com/list/D9dNkC9eMyi0",
+      "sourceUrl": "https://www.bestcoastpairings.com/list/RCOziWuBu9em",
       "playerId": "F3ZBcZlDGToH",
       "event": "Brighton 40k Teams II",
       "pagePlayer": "Daniel Latham",
-      "content": "Thanks Stan (1995 points)\n\nNecrons\nCursed Legion and Skyshroud Spearhead (3 Detachment Points)\nPurge the Foe\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nLokhust Lord (100 points)\n• Attached as: Leader (Character)\n• 1x Lord’s blade\n1x Resurrection Orb\n• Enhancement: Mark of the Nekrosor\n\nLokhust Destroyers (175 points)\n• Attached as: Bodyguard\n• 6x Lokhust Destroyer\n• 6x Close combat weapon\n6x Gauss cannon\n\nAttached Unit 2\n\nLokhust Lord (80 points)\n• Attached as: Leader (Character)\n• 1x Lord’s blade\n1x Resurrection Orb\n\nLokhust Destroyers (175 points)\n• Attached as: Bodyguard\n• 6x Lokhust Destroyer\n• 6x Close combat weapon\n6x Gauss cannon\n\nAttached Unit 3\n\nOverlord (110 points)\n• Attached as: Leader (Character)\n• 1x Resurrection Orb\n1x Voidscythe\n• Enhancement: Destroyer Ankh\n\nLychguard (160 points)\n• Attached as: Bodyguard\n• 10x Lychguard\n• 10x Dispersion Shield\n10x Hyperphase sword\n\nAttached Unit 4\n\nSkorpekh Lord (95 points)\n• Attached as: Leader (Character)\n• 1x Enmitic annihilator\n1x Flensing claw\n1x Hyperphase harvester\n\nSkorpekh Destroyers (85 points)\n• Attached as: Bodyguard\n• 3x Skorpekh Destroyer\n• 1x Plasmacyte\n3x Skorpekh hyperphase weapons\n\n\nCHARACTERS\n\nC’tan Shard of the Void Dragon (345 points)\n• 1x Canoptek tail blades\n1x Spear of the Void Dragon\n1x Voltaic storm\n\nIlluminor Szeras (175 points)\n• 1x Eldritch Lance\n1x Impaling legs\n\nImotekh the Stormlord (100 points)\n• Warlord\n• 1x Gauntlet of Fire\n1x Staff of the Destroyer\n\nNekrosor Ammentar (185 points)\n• 1x Blade tail and whip coils\n1x Enmitic disintegrators\n1x Nullstone Field Generator (Aura)\n1x Unmaker Gauntlet\n\n\nOTHER DATASHEETS\n\nCanoptek Reanimator (75 points)\n• 2x Atomiser beam\n1x Reanimator’s claws\n\nFlayed Ones (55 points)\n• 5x Flayed One\n• 5x Flayer claws\n\nOphydian Destroyers (80 points)\n• 3x Ophydian Destroyer\n• 3x Ophydian hyperphase weapons\n1x Plasmacyte\n\nExported with App Version: v2.5.0 (140), Data Version: v931",
-      "pageUrl": "lists/D9dNkC9eMyi0/",
-      "linkedContent": "Thanks Stan (1995 points)\n\nNecrons\nCursed Legion and Skyshroud Spearhead (3 Detachment Points)\nPurge the Foe\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/Lokhust-Lord/\" target=\"_blank\" rel=\"noreferrer\">Lokhust Lord (100 points)</a>\n• Attached as: Leader (Character)\n• 1x Lord’s blade\n1x Resurrection Orb\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/#Enhancements-3\" target=\"_blank\" rel=\"noreferrer\">Mark of the Nekrosor</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/Lokhust-Destroyers/\" target=\"_blank\" rel=\"noreferrer\">Lokhust Destroyers (175 points)</a>\n• Attached as: Bodyguard\n• 6x Lokhust Destroyer\n• 6x Close combat weapon\n6x Gauss cannon\n\nAttached Unit 2\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/Lokhust-Lord/\" target=\"_blank\" rel=\"noreferrer\">Lokhust Lord (80 points)</a>\n• Attached as: Leader (Character)\n• 1x Lord’s blade\n1x Resurrection Orb\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/Lokhust-Destroyers/\" target=\"_blank\" rel=\"noreferrer\">Lokhust Destroyers (175 points)</a>\n• Attached as: Bodyguard\n• 6x Lokhust Destroyer\n• 6x Close combat weapon\n6x Gauss cannon\n\nAttached Unit 3\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/Overlord/\" target=\"_blank\" rel=\"noreferrer\">Overlord (110 points)</a>\n• Attached as: Leader (Character)\n• 1x Resurrection Orb\n1x Voidscythe\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/#Enhancements-3\" target=\"_blank\" rel=\"noreferrer\">Destroyer Ankh</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/Lychguard/\" target=\"_blank\" rel=\"noreferrer\">Lychguard (160 points)</a>\n• Attached as: Bodyguard\n• 10x Lychguard\n• 10x Dispersion Shield\n10x Hyperphase sword\n\nAttached Unit 4\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/Skorpekh-Lord/\" target=\"_blank\" rel=\"noreferrer\">Skorpekh Lord (95 points)</a>\n• Attached as: Leader (Character)\n• 1x Enmitic annihilator\n1x Flensing claw\n1x Hyperphase harvester\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/Skorpekh-Destroyers/\" target=\"_blank\" rel=\"noreferrer\">Skorpekh Destroyers (85 points)</a>\n• Attached as: Bodyguard\n• 3x Skorpekh Destroyer\n• 1x Plasmacyte\n3x Skorpekh hyperphase weapons\n\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/C-tan-Shard-of-the-Void-Dragon/\" target=\"_blank\" rel=\"noreferrer\">C’tan Shard of the Void Dragon (345 points)</a>\n• 1x Canoptek tail blades\n1x Spear of the Void Dragon\n1x Voltaic storm\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/Illuminor-Szeras/\" target=\"_blank\" rel=\"noreferrer\">Illuminor Szeras (175 points)</a>\n• 1x Eldritch Lance\n1x Impaling legs\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/Imotekh-The-Stormlord/\" target=\"_blank\" rel=\"noreferrer\">Imotekh the Stormlord (100 points)</a>\n• Warlord\n• 1x Gauntlet of Fire\n1x Staff of the Destroyer\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/Nekrosor-Ammentar/\" target=\"_blank\" rel=\"noreferrer\">Nekrosor Ammentar (185 points)</a>\n• 1x Blade tail and whip coils\n1x Enmitic disintegrators\n1x Nullstone Field Generator (Aura)\n1x Unmaker Gauntlet\n\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/Canoptek-Reanimator/\" target=\"_blank\" rel=\"noreferrer\">Canoptek Reanimator (75 points)</a>\n• 2x Atomiser beam\n1x Reanimator’s claws\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/Flayed-Ones/\" target=\"_blank\" rel=\"noreferrer\">Flayed Ones (55 points)</a>\n• 5x Flayed One\n• 5x Flayer claws\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/Ophydian-Destroyers/\" target=\"_blank\" rel=\"noreferrer\">Ophydian Destroyers (80 points)</a>\n• 3x Ophydian Destroyer\n• 3x Ophydian hyperphase weapons\n1x Plasmacyte\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+      "content": "Thanks Stan (1995 points)\n\nNecrons\nCursed Legion and Skyshroud Spearhead (3 Detachment Points)\nPurge the Foe\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nLokhust Lord (100 points)\n• Attached as: Leader (Character)\n• 1x Lord’s blade\n1x Resurrection Orb\n• Enhancement: Mark of the Nekrosor\n\nLokhust Destroyers (175 points)\n• Attached as: Bodyguard\n• 6x Lokhust Destroyer\n• 6x Close combat weapon\n6x Gauss cannon\n\nAttached Unit 2\n\nLokhust Lord (80 points)\n• Attached as: Leader (Character)\n• 1x Lord’s blade\n1x Resurrection Orb\n\nLokhust Destroyers (175 points)\n• Attached as: Bodyguard\n• 6x Lokhust Destroyer\n• 6x Close combat weapon\n6x Gauss cannon\n\nAttached Unit 3\n\nOverlord with Translocation Shroud (110 points)\n• Attached as: Leader (Character)\n• 1x Overlord’s blade\n1x Resurrection Orb\n• Enhancement: Destroyer Ankh\n\nLychguard (160 points)\n• Attached as: Bodyguard\n• 10x Lychguard\n• 10x Dispersion Shield\n10x Hyperphase sword\n\nAttached Unit 4\n\nSkorpekh Lord (95 points)\n• Attached as: Leader (Character)\n• 1x Enmitic annihilator\n1x Flensing claw\n1x Hyperphase harvester\n\nSkorpekh Destroyers (85 points)\n• Attached as: Bodyguard\n• 3x Skorpekh Destroyer\n• 1x Plasmacyte\n3x Skorpekh hyperphase weapons\n\n\nCHARACTERS\n\nC’tan Shard of the Void Dragon (345 points)\n• 1x Canoptek tail blades\n1x Spear of the Void Dragon\n1x Voltaic storm\n\nIlluminor Szeras (175 points)\n• 1x Eldritch Lance\n1x Impaling legs\n\nImotekh the Stormlord (100 points)\n• Warlord\n• 1x Gauntlet of Fire\n1x Staff of the Destroyer\n\nNekrosor Ammentar (185 points)\n• 1x Blade tail and whip coils\n1x Enmitic disintegrators\n1x Nullstone Field Generator (Aura)\n1x Unmaker Gauntlet\n\n\nOTHER DATASHEETS\n\nCanoptek Reanimator (75 points)\n• 2x Atomiser beam\n1x Reanimator’s claws\n\nFlayed Ones (55 points)\n• 5x Flayed One\n• 5x Flayer claws\n\nOphydian Destroyers (80 points)\n• 3x Ophydian Destroyer\n• 3x Ophydian hyperphase weapons\n1x Plasmacyte\n\nExported with App Version: v2.6.0 (144), Data Version: v946",
+      "pageUrl": "lists/RCOziWuBu9em/",
+      "linkedContent": "Thanks Stan (1995 points)\n\nNecrons\nCursed Legion and Skyshroud Spearhead (3 Detachment Points)\nPurge the Foe\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/Lokhust-Lord/\" target=\"_blank\" rel=\"noreferrer\">Lokhust Lord (100 points)</a>\n• Attached as: Leader (Character)\n• 1x Lord’s blade\n1x Resurrection Orb\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/#Enhancements-3\" target=\"_blank\" rel=\"noreferrer\">Mark of the Nekrosor</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/Lokhust-Destroyers/\" target=\"_blank\" rel=\"noreferrer\">Lokhust Destroyers (175 points)</a>\n• Attached as: Bodyguard\n• 6x Lokhust Destroyer\n• 6x Close combat weapon\n6x Gauss cannon\n\nAttached Unit 2\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/Lokhust-Lord/\" target=\"_blank\" rel=\"noreferrer\">Lokhust Lord (80 points)</a>\n• Attached as: Leader (Character)\n• 1x Lord’s blade\n1x Resurrection Orb\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/Lokhust-Destroyers/\" target=\"_blank\" rel=\"noreferrer\">Lokhust Destroyers (175 points)</a>\n• Attached as: Bodyguard\n• 6x Lokhust Destroyer\n• 6x Close combat weapon\n6x Gauss cannon\n\nAttached Unit 3\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/Overlord-with-translocation-shroud/\" target=\"_blank\" rel=\"noreferrer\">Overlord with Translocation Shroud (110 points)</a>\n• Attached as: Leader (Character)\n• 1x Overlord’s blade\n1x Resurrection Orb\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/#Enhancements-3\" target=\"_blank\" rel=\"noreferrer\">Destroyer Ankh</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/Lychguard/\" target=\"_blank\" rel=\"noreferrer\">Lychguard (160 points)</a>\n• Attached as: Bodyguard\n• 10x Lychguard\n• 10x Dispersion Shield\n10x Hyperphase sword\n\nAttached Unit 4\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/Skorpekh-Lord/\" target=\"_blank\" rel=\"noreferrer\">Skorpekh Lord (95 points)</a>\n• Attached as: Leader (Character)\n• 1x Enmitic annihilator\n1x Flensing claw\n1x Hyperphase harvester\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/Skorpekh-Destroyers/\" target=\"_blank\" rel=\"noreferrer\">Skorpekh Destroyers (85 points)</a>\n• Attached as: Bodyguard\n• 3x Skorpekh Destroyer\n• 1x Plasmacyte\n3x Skorpekh hyperphase weapons\n\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/C-tan-Shard-of-the-Void-Dragon/\" target=\"_blank\" rel=\"noreferrer\">C’tan Shard of the Void Dragon (345 points)</a>\n• 1x Canoptek tail blades\n1x Spear of the Void Dragon\n1x Voltaic storm\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/Illuminor-Szeras/\" target=\"_blank\" rel=\"noreferrer\">Illuminor Szeras (175 points)</a>\n• 1x Eldritch Lance\n1x Impaling legs\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/Imotekh-The-Stormlord/\" target=\"_blank\" rel=\"noreferrer\">Imotekh the Stormlord (100 points)</a>\n• Warlord\n• 1x Gauntlet of Fire\n1x Staff of the Destroyer\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/Nekrosor-Ammentar/\" target=\"_blank\" rel=\"noreferrer\">Nekrosor Ammentar (185 points)</a>\n• 1x Blade tail and whip coils\n1x Enmitic disintegrators\n1x Nullstone Field Generator (Aura)\n1x Unmaker Gauntlet\n\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/Canoptek-Reanimator/\" target=\"_blank\" rel=\"noreferrer\">Canoptek Reanimator (75 points)</a>\n• 2x Atomiser beam\n1x Reanimator’s claws\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/Flayed-Ones/\" target=\"_blank\" rel=\"noreferrer\">Flayed Ones (55 points)</a>\n• 5x Flayed One\n• 5x Flayer claws\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/necrons/Ophydian-Destroyers/\" target=\"_blank\" rel=\"noreferrer\">Ophydian Destroyers (80 points)</a>\n• 3x Ophydian Destroyer\n• 3x Ophydian hyperphase weapons\n1x Plasmacyte\n\nExported with App Version: v2.6.0 (144), Data Version: v946"
     },
     {
       "player": "Pete Armstrong",
       "team": "The boys go to Brighton for “Warhammer”",
       "faction": "Chaos Knights - Reconnaissance",
       "checkedIn": true,
-      "listId": "QLbZTVgmcaPG",
+      "listId": "4lEwbHl32csE",
       "hasPublishedList": true,
-      "sourceUrl": "https://www.bestcoastpairings.com/list/QLbZTVgmcaPG",
+      "sourceUrl": "https://www.bestcoastpairings.com/list/4lEwbHl32csE",
       "playerId": "JghtoUiZIWZu",
       "event": "Brighton 40k Teams II",
       "pagePlayer": "Pete Armstrong",
-      "content": "Pete goes dogging in Brighton.\n\nChaos Knights\nHoundpack Lance and Hunting Warpack (3 Detachment Points)\nReconnaissance\nStrike Force (2000 points)\n\n\nCHARACTERS\n\nWar Dog Brigand (155 points)\n• Houndpack Lance Keyword: Character\n• Warlord\n• 1x Armoured feet\n1x Avenger chaincannon\n1x Daemonbreath spear\n1x Diabolus heavy stubber\n• Enhancement: Final Howl (Aura)\n\nWar Dog Brigand (135 points)\n• Houndpack Lance Keyword: Character\n• 1x Armoured feet\n1x Avenger chaincannon\n1x Daemonbreath spear\n1x Diabolus heavy stubber\n\nWar Dog Karnivore (160 points)\n• Houndpack Lance Keyword: Character\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n• Enhancement: Panoply of the Cursed Knights\n\n\nBATTLELINE\n\nWar Dog Brigand (135 points)\n• 1x Armoured feet\n1x Avenger chaincannon\n1x Daemonbreath spear\n1x Diabolus heavy stubber\n\nWar Dog Executioner (140 points)\n• 1x Armoured feet\n1x Daemonbreath meltagun\n2x War Dog autocannon\n• Enhancement: Snarling Rivalry (Upgrade)\n\nWar Dog Executioner (140 points)\n• 1x Armoured feet\n1x Daemonbreath meltagun\n2x War Dog autocannon\n• Enhancement: Snarling Rivalry (Upgrade)\n\nWar Dog Executioner (140 points)\n• 1x Armoured feet\n1x Daemonbreath meltagun\n2x War Dog autocannon\n• Enhancement: Snarling Rivalry (Upgrade)\n\nWar Dog Karnivore (145 points)\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\nWar Dog Karnivore (145 points)\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\nWar Dog Karnivore (145 points)\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\nWar Dog Karnivore (145 points)\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\nWar Dog Karnivore (145 points)\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\nWar Dog Stalker (135 points)\n• 1x Daemonbreath spear\n1x Diabolus heavy stubber\n1x Slaughterclaw\n\nWar Dog Stalker (135 points)\n• 1x Daemonbreath spear\n1x Diabolus heavy stubber\n1x Slaughterclaw\n\nExported with App Version: v2.5.0 (140), Data Version: v931",
-      "pageUrl": "lists/QLbZTVgmcaPG/",
-      "linkedContent": "Pete goes dogging in Brighton.\n\nChaos Knights\nHoundpack Lance and Hunting Warpack (3 Detachment Points)\nReconnaissance\nStrike Force (2000 points)\n\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Brigand/\" target=\"_blank\" rel=\"noreferrer\">War Dog Brigand (155 points)</a>\n• Houndpack Lance Keyword: Character\n• Warlord\n• 1x Armoured feet\n1x Avenger chaincannon\n1x Daemonbreath spear\n1x Diabolus heavy stubber\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/#Enhancements-4\" target=\"_blank\" rel=\"noreferrer\">Final Howl (Aura)</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Brigand/\" target=\"_blank\" rel=\"noreferrer\">War Dog Brigand (135 points)</a>\n• Houndpack Lance Keyword: Character\n• 1x Armoured feet\n1x Avenger chaincannon\n1x Daemonbreath spear\n1x Diabolus heavy stubber\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Karnivore/\" target=\"_blank\" rel=\"noreferrer\">War Dog Karnivore (160 points)</a>\n• Houndpack Lance Keyword: Character\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/#Enhancements-4\" target=\"_blank\" rel=\"noreferrer\">Panoply of the Cursed Knight</a>s\n\n\nBATTLELINE\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Brigand/\" target=\"_blank\" rel=\"noreferrer\">War Dog Brigand (135 points)</a>\n• 1x Armoured feet\n1x Avenger chaincannon\n1x Daemonbreath spear\n1x Diabolus heavy stubber\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Executioner/\" target=\"_blank\" rel=\"noreferrer\">War Dog Executioner (140 points)</a>\n• 1x Armoured feet\n1x Daemonbreath meltagun\n2x War Dog autocannon\n• Enhancement: Snarling Rivalry (Upgrade)\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Executioner/\" target=\"_blank\" rel=\"noreferrer\">War Dog Executioner (140 points)</a>\n• 1x Armoured feet\n1x Daemonbreath meltagun\n2x War Dog autocannon\n• Enhancement: Snarling Rivalry (Upgrade)\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Executioner/\" target=\"_blank\" rel=\"noreferrer\">War Dog Executioner (140 points)</a>\n• 1x Armoured feet\n1x Daemonbreath meltagun\n2x War Dog autocannon\n• Enhancement: Snarling Rivalry (Upgrade)\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Karnivore/\" target=\"_blank\" rel=\"noreferrer\">War Dog Karnivore (145 points)</a>\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Karnivore/\" target=\"_blank\" rel=\"noreferrer\">War Dog Karnivore (145 points)</a>\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Karnivore/\" target=\"_blank\" rel=\"noreferrer\">War Dog Karnivore (145 points)</a>\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Karnivore/\" target=\"_blank\" rel=\"noreferrer\">War Dog Karnivore (145 points)</a>\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Karnivore/\" target=\"_blank\" rel=\"noreferrer\">War Dog Karnivore (145 points)</a>\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Stalker/\" target=\"_blank\" rel=\"noreferrer\">War Dog Stalker (135 points)</a>\n• 1x Daemonbreath spear\n1x Diabolus heavy stubber\n1x Slaughterclaw\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Stalker/\" target=\"_blank\" rel=\"noreferrer\">War Dog Stalker (135 points)</a>\n• 1x Daemonbreath spear\n1x Diabolus heavy stubber\n1x Slaughterclaw\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+      "content": "Pete goes dogging in Brighton.\n\nChaos Knights\nHoundpack Lance and Hunting Warpack (3 Detachment Points)\nReconnaissance\nStrike Force (2000 points)\n\n\nCHARACTERS\n\nWar Dog Brigand (155 points)\n• Houndpack Lance Keyword: Character\n• Warlord\n• 1x Armoured feet\n1x Avenger chaincannon\n1x Daemonbreath spear\n1x Diabolus heavy stubber\n• Enhancement: Final Howl (Aura)\n\nWar Dog Brigand (145 points)\n• Houndpack Lance Keyword: Character\n• 1x Armoured feet\n1x Avenger chaincannon\n1x Daemonbreath spear\n1x Diabolus heavy stubber\n• Enhancement: Loping Predator\n\nWar Dog Karnivore (160 points)\n• Houndpack Lance Keyword: Character\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n• Enhancement: Panoply of the Cursed Knights\n\n\nBATTLELINE\n\nWar Dog Brigand (135 points)\n• 1x Armoured feet\n1x Avenger chaincannon\n1x Daemonbreath spear\n1x Diabolus heavy stubber\n\nWar Dog Brigand (135 points)\n• 1x Armoured feet\n1x Avenger chaincannon\n1x Daemonbreath spear\n1x Diabolus heavy stubber\n\nWar Dog Executioner (140 points)\n• 1x Armoured feet\n1x Daemonbreath meltagun\n2x War Dog autocannon\n• Enhancement: Snarling Rivalry (Upgrade)\n\nWar Dog Executioner (140 points)\n• 1x Armoured feet\n1x Daemonbreath meltagun\n2x War Dog autocannon\n• Enhancement: Snarling Rivalry (Upgrade)\n\nWar Dog Executioner (140 points)\n• 1x Armoured feet\n1x Daemonbreath meltagun\n2x War Dog autocannon\n• Enhancement: Snarling Rivalry (Upgrade)\n\nWar Dog Karnivore (145 points)\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\nWar Dog Karnivore (145 points)\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\nWar Dog Karnivore (145 points)\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\nWar Dog Karnivore (145 points)\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\nWar Dog Karnivore (145 points)\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\n\nALLIED UNITS\n\nBeasts of Nurgle (80 points)\n• 1x Putrid appendages\n\nNurglings (45 points)\n• 3x Nurgling Swarm\n• 3x Diseased claws and teeth\n\nExported with App Version: v2.6.0 (144), Data Version: v946",
+      "pageUrl": "lists/4lEwbHl32csE/",
+      "linkedContent": "Pete goes dogging in Brighton.\n\nChaos Knights\nHoundpack Lance and Hunting Warpack (3 Detachment Points)\nReconnaissance\nStrike Force (2000 points)\n\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Brigand/\" target=\"_blank\" rel=\"noreferrer\">War Dog Brigand (155 points)</a>\n• Houndpack Lance Keyword: Character\n• Warlord\n• 1x Armoured feet\n1x Avenger chaincannon\n1x Daemonbreath spear\n1x Diabolus heavy stubber\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/#Enhancements-4\" target=\"_blank\" rel=\"noreferrer\">Final Howl (Aura)</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Brigand/\" target=\"_blank\" rel=\"noreferrer\">War Dog Brigand (145 points)</a>\n• Houndpack Lance Keyword: Character\n• 1x Armoured feet\n1x Avenger chaincannon\n1x Daemonbreath spear\n1x Diabolus heavy stubber\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/#Enhancements-4\" target=\"_blank\" rel=\"noreferrer\">Loping Predator</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Karnivore/\" target=\"_blank\" rel=\"noreferrer\">War Dog Karnivore (160 points)</a>\n• Houndpack Lance Keyword: Character\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/#Enhancements-4\" target=\"_blank\" rel=\"noreferrer\">Panoply of the Cursed Knight</a>s\n\n\nBATTLELINE\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Brigand/\" target=\"_blank\" rel=\"noreferrer\">War Dog Brigand (135 points)</a>\n• 1x Armoured feet\n1x Avenger chaincannon\n1x Daemonbreath spear\n1x Diabolus heavy stubber\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Brigand/\" target=\"_blank\" rel=\"noreferrer\">War Dog Brigand (135 points)</a>\n• 1x Armoured feet\n1x Avenger chaincannon\n1x Daemonbreath spear\n1x Diabolus heavy stubber\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Executioner/\" target=\"_blank\" rel=\"noreferrer\">War Dog Executioner (140 points)</a>\n• 1x Armoured feet\n1x Daemonbreath meltagun\n2x War Dog autocannon\n• Enhancement: Snarling Rivalry (Upgrade)\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Executioner/\" target=\"_blank\" rel=\"noreferrer\">War Dog Executioner (140 points)</a>\n• 1x Armoured feet\n1x Daemonbreath meltagun\n2x War Dog autocannon\n• Enhancement: Snarling Rivalry (Upgrade)\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Executioner/\" target=\"_blank\" rel=\"noreferrer\">War Dog Executioner (140 points)</a>\n• 1x Armoured feet\n1x Daemonbreath meltagun\n2x War Dog autocannon\n• Enhancement: Snarling Rivalry (Upgrade)\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Karnivore/\" target=\"_blank\" rel=\"noreferrer\">War Dog Karnivore (145 points)</a>\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Karnivore/\" target=\"_blank\" rel=\"noreferrer\">War Dog Karnivore (145 points)</a>\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Karnivore/\" target=\"_blank\" rel=\"noreferrer\">War Dog Karnivore (145 points)</a>\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Karnivore/\" target=\"_blank\" rel=\"noreferrer\">War Dog Karnivore (145 points)</a>\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Karnivore/\" target=\"_blank\" rel=\"noreferrer\">War Dog Karnivore (145 points)</a>\n• 1x Diabolus heavy stubber\n1x Reaper chaintalon\n1x Slaughterclaw\n\n\nALLIED UNITS\n\nBeasts of Nurgle (80 points)\n• 1x Putrid appendages\n\nNurglings (45 points)\n• 3x Nurgling Swarm\n• 3x Diseased claws and teeth\n\nExported with App Version: v2.6.0 (144), Data Version: v946"
     },
     {
       "player": "Ryan Nichol",
       "team": "The boys go to Brighton for “Warhammer”",
       "faction": "Adeptus Custodes - Take and Hold",
       "checkedIn": true,
-      "listId": "vwcKAR0WtG9u",
+      "listId": "cQsqWlraqYQw",
       "hasPublishedList": true,
-      "sourceUrl": "https://www.bestcoastpairings.com/list/vwcKAR0WtG9u",
+      "sourceUrl": "https://www.bestcoastpairings.com/list/cQsqWlraqYQw",
       "playerId": "oXogJH2T3JAj",
       "event": "Brighton 40k Teams II",
       "pagePlayer": "Ryan Nichol",
-      "content": "Dan said I can't bring my plane\n:(\n(2000 points)\n\nAdeptus Custodes\nLions of the Emperor (3 Detachment Points)\nTake and Hold\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nTrajann Valoris (135 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Eagle’s Scream\n1x Watcher’s Axe\n\nCustodian Wardens (220 points)\n• Attached as: Bodyguard\n• 4x Custodian Warden\n• 4x Guardian spear\n\nAttached Unit 2\n\nBlade Champion (135 points)\n• Attached as: Leader (Character)\n• 1x Vaultswords\n• Enhancement: Superior Creation\n\nCustodian Guard (215 points)\n• Attached as: Bodyguard (Battleline)\n• 5x Custodian Guard\n• 3x Guardian spear\n1x Misericordia\n2x Praesidium Shield\n1x Sentinel blade\n1x Vexilla\n\nAttached Unit 3\n\nValerian (110 points)\n• Attached as: Leader (Character)\n• 1x Gnosis\n\nCustodian Wardens (200 points)\n• Attached as: Bodyguard\n• 4x Custodian Warden\n• 4x Guardian spear\n\n\nBATTLELINE\n\nCustodian Guard (170 points)\n• 4x Custodian Guard\n• 1x Misericordia\n4x Praesidium Shield\n3x Sentinel blade\n1x Vexilla\n\n\nOTHER DATASHEETS\n\nAllarus Custodians (340 points)\n• 6x Allarus Custodian\n• 6x Balistus grenade launcher\n6x Guardian spear\n\nAllarus Custodians (340 points)\n• 6x Allarus Custodian\n• 6x Balistus grenade launcher\n6x Guardian spear\n\nProsecutors (45 points)\n• 1x Prosecutor Sister Superior\n• 1x Boltgun\n1x Close combat weapon\n• 3x Prosecutor\n• 3x Boltgun\n3x Close combat weapon\n\nProsecutors (45 points)\n• 1x Prosecutor Sister Superior\n• 1x Boltgun\n1x Close combat weapon\n• 3x Prosecutor\n• 3x Boltgun\n3x Close combat weapon\n\nProsecutors (45 points)\n• 1x Prosecutor Sister Superior\n• 1x Boltgun\n1x Close combat weapon\n• 3x Prosecutor\n• 3x Boltgun\n3x Close combat weapon\n\nExported with App Version: v2.5.0 (140), Data Version: v931",
-      "pageUrl": "lists/vwcKAR0WtG9u/",
-      "linkedContent": "Dan said I can't bring my plane\n:(\n(2000 points)\n\nAdeptus Custodes\nLions of the Emperor (3 Detachment Points)\nTake and Hold\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Trajann-Valoris/\" target=\"_blank\" rel=\"noreferrer\">Trajann Valoris (135 points)</a>\n• Attached as: Leader (Character)\n• Warlord\n• 1x Eagle’s Scream\n1x Watcher’s Axe\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Wardens/\" target=\"_blank\" rel=\"noreferrer\">Custodian Wardens (220 points)</a>\n• Attached as: Bodyguard\n• 4x Custodian Warden\n• 4x Guardian spear\n\nAttached Unit 2\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Blade-Champion/\" target=\"_blank\" rel=\"noreferrer\">Blade Champion (135 points)</a>\n• Attached as: Leader (Character)\n• 1x Vaultswords\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-2\" target=\"_blank\" rel=\"noreferrer\">Superior Creation</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard/\" target=\"_blank\" rel=\"noreferrer\">Custodian Guard (215 points)</a>\n• Attached as: Bodyguard (Battleline)\n• 5x Custodian Guard\n• 3x Guardian spear\n1x Misericordia\n2x Praesidium Shield\n1x Sentinel blade\n1x Vexilla\n\nAttached Unit 3\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Valerian/\" target=\"_blank\" rel=\"noreferrer\">Valerian (110 points)</a>\n• Attached as: Leader (Character)\n• 1x Gnosis\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Wardens/\" target=\"_blank\" rel=\"noreferrer\">Custodian Wardens (200 points)</a>\n• Attached as: Bodyguard\n• 4x Custodian Warden\n• 4x Guardian spear\n\n\nBATTLELINE\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard/\" target=\"_blank\" rel=\"noreferrer\">Custodian Guard (170 points)</a>\n• 4x Custodian Guard\n• 1x Misericordia\n4x Praesidium Shield\n3x Sentinel blade\n1x Vexilla\n\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Allarus-Custodians/\" target=\"_blank\" rel=\"noreferrer\">Allarus Custodians (340 points)</a>\n• 6x Allarus Custodian\n• 6x Balistus grenade launcher\n6x Guardian spear\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Allarus-Custodians/\" target=\"_blank\" rel=\"noreferrer\">Allarus Custodians (340 points)</a>\n• 6x Allarus Custodian\n• 6x Balistus grenade launcher\n6x Guardian spear\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Prosecutors/\" target=\"_blank\" rel=\"noreferrer\">Prosecutors (45 points)</a>\n• 1x Prosecutor Sister Superior\n• 1x Boltgun\n1x Close combat weapon\n• 3x Prosecutor\n• 3x Boltgun\n3x Close combat weapon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Prosecutors/\" target=\"_blank\" rel=\"noreferrer\">Prosecutors (45 points)</a>\n• 1x Prosecutor Sister Superior\n• 1x Boltgun\n1x Close combat weapon\n• 3x Prosecutor\n• 3x Boltgun\n3x Close combat weapon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Prosecutors/\" target=\"_blank\" rel=\"noreferrer\">Prosecutors (45 points)</a>\n• 1x Prosecutor Sister Superior\n• 1x Boltgun\n1x Close combat weapon\n• 3x Prosecutor\n• 3x Boltgun\n3x Close combat weapon\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+      "content": "Dan said I can't bring my big plane\n:(\n(2000 points)\n\nAdeptus Custodes\nLions of the Emperor (3 Detachment Points)\nTake and Hold\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nTrajann Valoris (135 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Eagle’s Scream\n1x Watcher’s Axe\n\nCustodian Wardens (220 points)\n• Attached as: Bodyguard\n• 4x Custodian Warden\n• 4x Guardian spear\n1x Vexilla\n\nAttached Unit 2\n\nBlade Champion (135 points)\n• Attached as: Leader (Character)\n• 1x Vaultswords\n• Enhancement: Superior Creation\n\nCustodian Guard (215 points)\n• Attached as: Bodyguard (Battleline)\n• 5x Custodian Guard\n• 3x Guardian spear\n1x Misericordia\n2x Praesidium Shield\n1x Sentinel blade\n1x Vexilla\n\nAttached Unit 3\n\nValerian (110 points)\n• Attached as: Leader (Character)\n• 1x Gnosis\n\nCustodian Wardens (200 points)\n• Attached as: Bodyguard\n• 4x Custodian Warden\n• 4x Guardian spear\n1x Vexilla\n\n\nBATTLELINE\n\nCustodian Guard (170 points)\n• 4x Custodian Guard\n• 2x Guardian spear\n1x Misericordia\n2x Praesidium Shield\n1x Sentinel blade\n1x Vexilla\n\n\nOTHER DATASHEETS\n\nAllarus Custodians (340 points)\n• 6x Allarus Custodian\n• 6x Balistus grenade launcher\n6x Guardian spear\n\nAllarus Custodians (340 points)\n• 6x Allarus Custodian\n• 6x Balistus grenade launcher\n6x Guardian spear\n\nProsecutors (45 points)\n• 1x Prosecutor Sister Superior\n• 1x Boltgun\n1x Close combat weapon\n• 3x Prosecutor\n• 3x Boltgun\n3x Close combat weapon\n\nProsecutors (45 points)\n• 1x Prosecutor Sister Superior\n• 1x Boltgun\n1x Close combat weapon\n• 3x Prosecutor\n• 3x Boltgun\n3x Close combat weapon\n\nProsecutors (45 points)\n• 1x Prosecutor Sister Superior\n• 1x Boltgun\n1x Close combat weapon\n• 3x Prosecutor\n• 3x Boltgun\n3x Close combat weapon\n\nExported with App Version: v2.5.0 (140), Data Version: v931",
+      "pageUrl": "lists/cQsqWlraqYQw/",
+      "linkedContent": "Dan said I can't bring my big plane\n:(\n(2000 points)\n\nAdeptus Custodes\nLions of the Emperor (3 Detachment Points)\nTake and Hold\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Trajann-Valoris/\" target=\"_blank\" rel=\"noreferrer\">Trajann Valoris (135 points)</a>\n• Attached as: Leader (Character)\n• Warlord\n• 1x Eagle’s Scream\n1x Watcher’s Axe\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Wardens/\" target=\"_blank\" rel=\"noreferrer\">Custodian Wardens (220 points)</a>\n• Attached as: Bodyguard\n• 4x Custodian Warden\n• 4x Guardian spear\n1x Vexilla\n\nAttached Unit 2\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Blade-Champion/\" target=\"_blank\" rel=\"noreferrer\">Blade Champion (135 points)</a>\n• Attached as: Leader (Character)\n• 1x Vaultswords\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-2\" target=\"_blank\" rel=\"noreferrer\">Superior Creation</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard/\" target=\"_blank\" rel=\"noreferrer\">Custodian Guard (215 points)</a>\n• Attached as: Bodyguard (Battleline)\n• 5x Custodian Guard\n• 3x Guardian spear\n1x Misericordia\n2x Praesidium Shield\n1x Sentinel blade\n1x Vexilla\n\nAttached Unit 3\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Valerian/\" target=\"_blank\" rel=\"noreferrer\">Valerian (110 points)</a>\n• Attached as: Leader (Character)\n• 1x Gnosis\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Wardens/\" target=\"_blank\" rel=\"noreferrer\">Custodian Wardens (200 points)</a>\n• Attached as: Bodyguard\n• 4x Custodian Warden\n• 4x Guardian spear\n1x Vexilla\n\n\nBATTLELINE\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard/\" target=\"_blank\" rel=\"noreferrer\">Custodian Guard (170 points)</a>\n• 4x Custodian Guard\n• 2x Guardian spear\n1x Misericordia\n2x Praesidium Shield\n1x Sentinel blade\n1x Vexilla\n\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Allarus-Custodians/\" target=\"_blank\" rel=\"noreferrer\">Allarus Custodians (340 points)</a>\n• 6x Allarus Custodian\n• 6x Balistus grenade launcher\n6x Guardian spear\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Allarus-Custodians/\" target=\"_blank\" rel=\"noreferrer\">Allarus Custodians (340 points)</a>\n• 6x Allarus Custodian\n• 6x Balistus grenade launcher\n6x Guardian spear\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Prosecutors/\" target=\"_blank\" rel=\"noreferrer\">Prosecutors (45 points)</a>\n• 1x Prosecutor Sister Superior\n• 1x Boltgun\n1x Close combat weapon\n• 3x Prosecutor\n• 3x Boltgun\n3x Close combat weapon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Prosecutors/\" target=\"_blank\" rel=\"noreferrer\">Prosecutors (45 points)</a>\n• 1x Prosecutor Sister Superior\n• 1x Boltgun\n1x Close combat weapon\n• 3x Prosecutor\n• 3x Boltgun\n3x Close combat weapon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Prosecutors/\" target=\"_blank\" rel=\"noreferrer\">Prosecutors (45 points)</a>\n• 1x Prosecutor Sister Superior\n• 1x Boltgun\n1x Close combat weapon\n• 3x Prosecutor\n• 3x Boltgun\n3x Close combat weapon\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+    },
+    {
+      "player": "Dan Freeman",
+      "team": "Comp Play",
+      "faction": "World Eaters - Purge the Foe",
+      "checkedIn": true,
+      "listId": "Z80LrXKIg9tc",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/Z80LrXKIg9tc",
+      "playerId": "fUEV9jjYXUPC",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Dan Freeman",
+      "content": "Thomas the Brazen Engine (2000 points)\n\nWorld Eaters\nBrazen Engines and Possessed Slaughterband (3 Detachment Points)\nPurge the Foe\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nSlaughterbound (120 points)\n• Attached as: Leader (Character)\n• 1x Lacerator and daemonic claw\n• Enhancement: Frenzied Focus\n\nEightbound (255 points)\n• Attached as: Bodyguard\n• 1x Eightbound Champion\n• 1x Chainblades\n• 5x Eightbound\n• 5x Chainblades\n\nAttached Unit 2\n\nSlaughterbound (100 points)\n• Attached as: Leader (Character)\n• 1x Lacerator and daemonic claw\n\nExalted Eightbound (130 points)\n• Attached as: Bodyguard\n• 1x Exalted Eightbound Champion\n• 1x Chainblades\n• 2x Exalted Eightbound\n• 2x Chainblades\n\nAttached Unit 3\n\nSlaughterbound (100 points)\n• Attached as: Leader (Character)\n• 1x Lacerator and daemonic claw\n\nExalted Eightbound (130 points)\n• Attached as: Bodyguard\n• 1x Exalted Eightbound Champion\n• 1x Chainblades\n• 2x Exalted Eightbound\n• 2x Chainblades\n\n\nCHARACTERS\n\nDaemon Prince of Khorne (200 points)\n• Warlord\n• 1x Hellforged weapons\n1x Infernal cannon\n\n\nOTHER DATASHEETS\n\nDefiler (300 points)\n• 1x Ectoplasma destructor\n2x Excruciator cannon\n2x Heavy reaper autocannon\n1x Shearing claws\n\nEightbound (125 points)\n• 1x Eightbound Champion\n• 1x Chainblades\n• 2x Eightbound\n• 2x Chainblades\n\nForgefiend (145 points)\n• 1x Ectoplasma cannon\n1x Forgefiend claws\n2x Hades autocannon\n\nForgefiend (145 points)\n• 1x Ectoplasma cannon\n1x Forgefiend claws\n2x Hades autocannon\n\nHelbrute (120 points)\n• 1x Close combat weapon\n1x Heavy flamer\n1x Helbrute fist\n1x Helbrute hammer\n\nJakhals (65 points)\n• 1x Jakhal Pack Leader\n• 1x Autopistol\n1x Chainblades\n• 1x Dishonoured\n• 1x Skullsmasher and mangler\n• 8x Jakhal\n• 8x Autopistol\n7x Chainblades\n1x Icon of Khorne\n1x Mauler chainblade\n\nJakhals (65 points)\n• 1x Jakhal Pack Leader\n• 1x Autopistol\n1x Chainblades\n• 1x Dishonoured\n• 1x Skullsmasher and mangler\n• 8x Jakhal\n• 8x Autopistol\n7x Chainblades\n1x Icon of Khorne\n1x Mauler chainblade\n\nExported with App Version: v2.5.0 (140), Data Version: v931",
+      "pageUrl": "lists/Z80LrXKIg9tc/",
+      "linkedContent": "Thomas the Brazen Engine (2000 points)\n\nWorld Eaters\nBrazen Engines and Possessed Slaughterband (3 Detachment Points)\nPurge the Foe\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Slaughterbound/\" target=\"_blank\" rel=\"noreferrer\">Slaughterbound (120 points)</a>\n• Attached as: Leader (Character)\n• 1x Lacerator and daemonic claw\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/#Enhancements-4\" target=\"_blank\" rel=\"noreferrer\">Frenzied Focus</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Eightbound/\" target=\"_blank\" rel=\"noreferrer\">Eightbound (255 points)</a>\n• Attached as: Bodyguard\n• 1x Eightbound Champion\n• 1x Chainblades\n• 5x Eightbound\n• 5x Chainblades\n\nAttached Unit 2\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Slaughterbound/\" target=\"_blank\" rel=\"noreferrer\">Slaughterbound (100 points)</a>\n• Attached as: Leader (Character)\n• 1x Lacerator and daemonic claw\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Exalted-Eightbound/\" target=\"_blank\" rel=\"noreferrer\">Exalted Eightbound (130 points)</a>\n• Attached as: Bodyguard\n• 1x Exalted Eightbound Champion\n• 1x Chainblades\n• 2x Exalted Eightbound\n• 2x Chainblades\n\nAttached Unit 3\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Slaughterbound/\" target=\"_blank\" rel=\"noreferrer\">Slaughterbound (100 points)</a>\n• Attached as: Leader (Character)\n• 1x Lacerator and daemonic claw\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Exalted-Eightbound/\" target=\"_blank\" rel=\"noreferrer\">Exalted Eightbound (130 points)</a>\n• Attached as: Bodyguard\n• 1x Exalted Eightbound Champion\n• 1x Chainblades\n• 2x Exalted Eightbound\n• 2x Chainblades\n\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Daemon-Prince-of-Khorne/\" target=\"_blank\" rel=\"noreferrer\">Daemon Prince of Khorne (200 points)</a>\n• Warlord\n• 1x Hellforged weapons\n1x Infernal cannon\n\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Defiler/\" target=\"_blank\" rel=\"noreferrer\">Defiler (300 points)</a>\n• 1x Ectoplasma destructor\n2x Excruciator cannon\n2x Heavy reaper autocannon\n1x Shearing claws\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Eightbound/\" target=\"_blank\" rel=\"noreferrer\">Eightbound (125 points)</a>\n• 1x Eightbound Champion\n• 1x Chainblades\n• 2x Eightbound\n• 2x Chainblades\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Forgefiend/\" target=\"_blank\" rel=\"noreferrer\">Forgefiend (145 points)</a>\n• 1x Ectoplasma cannon\n1x Forgefiend claws\n2x Hades autocannon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Forgefiend/\" target=\"_blank\" rel=\"noreferrer\">Forgefiend (145 points)</a>\n• 1x Ectoplasma cannon\n1x Forgefiend claws\n2x Hades autocannon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Helbrute/\" target=\"_blank\" rel=\"noreferrer\">Helbrute (120 points)</a>\n• 1x Close combat weapon\n1x Heavy flamer\n1x Helbrute fist\n1x Helbrute hammer\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Jakhals/\" target=\"_blank\" rel=\"noreferrer\">Jakhals (65 points)</a>\n• 1x Jakhal Pack Leader\n• 1x Autopistol\n1x Chainblades\n• 1x Dishonoured\n• 1x Skullsmasher and mangler\n• 8x Jakhal\n• 8x Autopistol\n7x Chainblades\n1x Icon of Khorne\n1x Mauler chainblade\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/world-eaters/Jakhals/\" target=\"_blank\" rel=\"noreferrer\">Jakhals (65 points)</a>\n• 1x Jakhal Pack Leader\n• 1x Autopistol\n1x Chainblades\n• 1x Dishonoured\n• 1x Skullsmasher and mangler\n• 8x Jakhal\n• 8x Autopistol\n7x Chainblades\n1x Icon of Khorne\n1x Mauler chainblade\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+    },
+    {
+      "player": "Harley Stevens",
+      "team": "Comp Play",
+      "faction": "Chaos Daemons - Take and Hold",
+      "checkedIn": true,
+      "listId": "HQDb0ymsZ1Nl",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/HQDb0ymsZ1Nl",
+      "playerId": "ve9Jtj6OI9dq",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Harley Stevens",
+      "content": "Art Thou Shooketh? (1995 points)\n\nChaos Daemons\nCavalcade of Chaos and Plague Legion (3 Detachment Points)\nTake and Hold\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nSkullmaster (85 points)\n• Attached as: Leader (Character)\n• 1x Blade of blood\n1x Juggernaut’s bladed horn\n\nBloodcrushers (200 points)\n• Attached as: Bodyguard\n• 1x Bloodhunter\n• 1x Hellblade\n1x Juggernaut’s bladed horn\n• 5x Bloodcrusher\n• 1x Daemonic Icon\n5x Hellblade\n1x Instrument of Chaos\n5x Juggernaut’s bladed horn\n\nAttached Unit 2\n\nSloppity Bilepiper (70 points)\n• Attached as: Leader (Character)\n• 1x Marotter\n• Enhancement: Cankerblight (Aura)\n\nPlaguebearers (115 points)\n• Attached as: Bodyguard (Battleline)\n• 1x Plagueridden\n• 1x Plaguesword\n• 9x Plaguebearer\n• 1x Daemonic Icon\n1x Instrument of Chaos\n9x Plaguesword\n\n\nCHARACTERS\n\nGreat Unclean One (300 points)\n• 1x Bileblade\n1x Bilesword\n1x Putrid vomit\n• Enhancement: Droning Shroud (Aura)\n\nRotigus (280 points)\n• Warlord\n• 1x Gnarlrod\n1x Streams of brackish filth\n\n\nBATTLELINE\n\nNurglings (90 points)\n• 6x Nurgling Swarm\n• 6x Diseased claws and teeth\n\nPlaguebearers (115 points)\n• 1x Plagueridden\n• 1x Plaguesword\n• 9x Plaguebearer\n• 1x Daemonic Icon\n1x Instrument of Chaos\n9x Plaguesword\n\nPlaguebearers (115 points)\n• 1x Plagueridden\n• 1x Plaguesword\n• 9x Plaguebearer\n• 1x Daemonic Icon\n1x Instrument of Chaos\n9x Plaguesword\n\nPlaguebearers (115 points)\n• 1x Plagueridden\n• 1x Plaguesword\n• 9x Plaguebearer\n• 1x Daemonic Icon\n1x Instrument of Chaos\n9x Plaguesword\n\n\nOTHER DATASHEETS\n\nBeasts of Nurgle (80 points)\n• 1x Putrid appendages\n\nBeasts of Nurgle (80 points)\n• 1x Putrid appendages\n\nFlesh Hounds (75 points)\n• 1x Gore Hound\n• 1x Burning roar\n1x Collar of Khorne\n1x Gore-drenched fangs\n• 4x Flesh Hound\n• 4x Collar of Khorne\n4x Gore-drenched fangs\n\nFlesh Hounds (75 points)\n• 1x Gore Hound\n• 1x Burning roar\n1x Collar of Khorne\n1x Gore-drenched fangs\n• 4x Flesh Hound\n• 4x Collar of Khorne\n4x Gore-drenched fangs\n\nSkull Cannon (100 points)\n• 1x Attendants’ hellblades\n1x Biting maw\n1x Skull cannon\n\nSkull Cannon (100 points)\n• 1x Attendants’ hellblades\n1x Biting maw\n1x Skull cannon",
+      "pageUrl": "lists/HQDb0ymsZ1Nl/",
+      "linkedContent": "Art Thou Shooketh? (1995 points)\n\nChaos Daemons\nCavalcade of Chaos and Plague Legion (3 Detachment Points)\nTake and Hold\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Skullmaster/\" target=\"_blank\" rel=\"noreferrer\">Skullmaster (85 points)</a>\n• Attached as: Leader (Character)\n• 1x Blade of blood\n1x Juggernaut’s bladed horn\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Bloodcrushers/\" target=\"_blank\" rel=\"noreferrer\">Bloodcrushers (200 points)</a>\n• Attached as: Bodyguard\n• 1x Bloodhunter\n• 1x Hellblade\n1x Juggernaut’s bladed horn\n• 5x Bloodcrusher\n• 1x Daemonic Icon\n5x Hellblade\n1x Instrument of Chaos\n5x Juggernaut’s bladed horn\n\nAttached Unit 2\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Sloppity-Bilepiper/\" target=\"_blank\" rel=\"noreferrer\">Sloppity Bilepiper (70 points)</a>\n• Attached as: Leader (Character)\n• 1x Marotter\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/#Enhancements-4\" target=\"_blank\" rel=\"noreferrer\">Cankerblight</a> (Aura)\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Plaguebearers/\" target=\"_blank\" rel=\"noreferrer\">Plaguebearers (115 points)</a>\n• Attached as: Bodyguard (Battleline)\n• 1x Plagueridden\n• 1x Plaguesword\n• 9x Plaguebearer\n• 1x Daemonic Icon\n1x Instrument of Chaos\n9x Plaguesword\n\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Great-Unclean-One/\" target=\"_blank\" rel=\"noreferrer\">Great Unclean One (300 points)</a>\n• 1x Bileblade\n1x Bilesword\n1x Putrid vomit\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/#Enhancements-4\" target=\"_blank\" rel=\"noreferrer\">Droning Shroud (Aura)</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Rotigus/\" target=\"_blank\" rel=\"noreferrer\">Rotigus (280 points)</a>\n• Warlord\n• 1x Gnarlrod\n1x Streams of brackish filth\n\n\nBATTLELINE\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Nurglings/\" target=\"_blank\" rel=\"noreferrer\">Nurglings (90 points)</a>\n• 6x Nurgling Swarm\n• 6x Diseased claws and teeth\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Plaguebearers/\" target=\"_blank\" rel=\"noreferrer\">Plaguebearers (115 points)</a>\n• 1x Plagueridden\n• 1x Plaguesword\n• 9x Plaguebearer\n• 1x Daemonic Icon\n1x Instrument of Chaos\n9x Plaguesword\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Plaguebearers/\" target=\"_blank\" rel=\"noreferrer\">Plaguebearers (115 points)</a>\n• 1x Plagueridden\n• 1x Plaguesword\n• 9x Plaguebearer\n• 1x Daemonic Icon\n1x Instrument of Chaos\n9x Plaguesword\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Plaguebearers/\" target=\"_blank\" rel=\"noreferrer\">Plaguebearers (115 points)</a>\n• 1x Plagueridden\n• 1x Plaguesword\n• 9x Plaguebearer\n• 1x Daemonic Icon\n1x Instrument of Chaos\n9x Plaguesword\n\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Beasts-Of-Nurgle/\" target=\"_blank\" rel=\"noreferrer\">Beasts of Nurgle (80 points)</a>\n• 1x Putrid appendages\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Beasts-Of-Nurgle/\" target=\"_blank\" rel=\"noreferrer\">Beasts of Nurgle (80 points)</a>\n• 1x Putrid appendages\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Flesh-Hounds/\" target=\"_blank\" rel=\"noreferrer\">Flesh Hounds (75 points)</a>\n• 1x Gore Hound\n• 1x Burning roar\n1x Collar of Khorne\n1x Gore-drenched fangs\n• 4x Flesh Hound\n• 4x Collar of Khorne\n4x Gore-drenched fangs\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Flesh-Hounds/\" target=\"_blank\" rel=\"noreferrer\">Flesh Hounds (75 points)</a>\n• 1x Gore Hound\n• 1x Burning roar\n1x Collar of Khorne\n1x Gore-drenched fangs\n• 4x Flesh Hound\n• 4x Collar of Khorne\n4x Gore-drenched fangs\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Skull-Cannon/\" target=\"_blank\" rel=\"noreferrer\">Skull Cannon (100 points)</a>\n• 1x Attendants’ hellblades\n1x Biting maw\n1x Skull cannon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Skull-Cannon/\" target=\"_blank\" rel=\"noreferrer\">Skull Cannon (100 points)</a>\n• 1x Attendants’ hellblades\n1x Biting maw\n1x Skull cannon"
+    },
+    {
+      "player": "Luke Vincent",
+      "team": "Comp Play",
+      "faction": "Orks - Disruption",
+      "checkedIn": true,
+      "listId": "qhhQ8u9kq1Yc",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/qhhQ8u9kq1Yc",
+      "playerId": "A2YnULLCXvNK",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Luke Vincent",
+      "content": "Look, i wanted to play GSC I really did. Don't look at me like that, I did, but lootas are going to legends so one last go with them.\nWhat's that? Burna boyz going as well? Oh, well my burnas aren't painted so I can't use them. Don't look too hard at the flash gitz.\nWhy are you still looking at me like that? Yes, I know I technically COULD still play GSC but it's too late now the lists are locked in. There's nothing I can do about it.\n\nMeta chaser? I hardly knew her! Hyuck hyuck hyuck.\n\nAnyway here's a list I totally wrote myself:\n\nHam Sandwich, Extra Dakka (1995 points)\n\nOrks\nFreebooter Krew and More Dakka! (3 Detachment Points)\nDisruption\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nGhazghkull Thraka (235 points)\n* Attached as: Leader (Character)\n• 1x Ghazghkull Thraka\n• Warlord\n• 1x Gork’s Klaw\n1x Mork’s Roar\n• 1x Makari\n• 1x Makari’s stabba\n\nPainboy (90 points)\n* Attached as: Support (Character)\n• 1x Power klaw\n1x ’Urty syringe\n\nBoyz (160 points)\n* Attached as: Bodyguard (Battleline)\n• 19x Boy\n• 17x Choppa\n2x Close combat weapon\n2x Rokkit launcha\n17x Slugga\n• 1x Boss Nob\n• 1x Power klaw\n1x Slugga\n\nAttached Unit 2\n\nZodgrod Wortsnagga (80 points)\n* Attached as: Leader (Character)\n• 1x Da Grabzappa\n1x Squigstoppa\n\nGretchin (85 points)\n* Attached as: Bodyguard\n• 20x Gretchin\n• 20x Close combat weapon\n20x Grot blasta\n• 1x Runtherd\n• 1x Runtherd tools\n1x Slugga\n\nAttached Unit 3\n\nBig Mek with Shokk Attack Gun (70 points)\n* Attached as: Leader (Character)\n• 1x Close combat weapon\n1x Shokk attack gun\n\nLootas (115 points)\n* Attached as: Bodyguard\n• Enhancement: Dead Shiny Shootas (Upgrade)\n• 2x Spanner\n• 2x Close combat weapon\n2x Rokkit launcha\n• 8x Loota\n• 8x Close combat weapon\n8x Deffgun\n\nAttached Unit 4\n\nBig Mek with Shokk Attack Gun (80 points)\n* Attached as: Leader (Character)\n• 1x Close combat weapon\n1x Shokk attack gun\n\nLootas (115 points)\n* Attached as: Bodyguard\n• Enhancement: Dead Shiny Shootas (Upgrade)\n• 2x Spanner\n• 2x Close combat weapon\n2x Rokkit launcha\n• 8x Loota\n• 8x Close combat weapon\n8x Deffgun\n\nAttached Unit 5\n\nMozrog Skragbad (125 points)\n* Attached as: Leader (Character)\n• 1x Big Chompa’s jaws\n1x Gutrippa\n1x Thump gun\n\nSquighog Boyz (140 points)\n* Attached as: Bodyguard\n• 3x Squighog Boy\n• 3x Saddlegit weapons\n3x Squig jaws\n3x Stikka\n• 1x Nob on Smasha Squig\n• 1x Big choppa\n1x Slugga\n1x Squig jaws\n\n\nCHARACTERS\n\nWazdakka Gutsmek (175 points)\n• 1x Fixit’s wrench\n1x Grabba dragga\n1x Psyko‑gatler\n1x Speeding bulk and flaming exhaust\n\n\nOTHER DATASHEETS\n\nFlash Gitz (150 points)\n• 1x Ammo Runt\n• 1x Kaptin\n• 1x Choppa\n1x Snazzgun\n• 9x Flash Git\n• 9x Choppa\n9x Snazzgun\n\nFlash Gitz (75 points)\n• 1x Kaptin\n• 1x Choppa\n1x Snazzgun\n• 4x Flash Git\n• 4x Choppa\n4x Snazzgun\n\nFlash Gitz (85 points)\n• 1x Kaptin\n• 1x Choppa\n1x Snazzgun\n• 4x Flash Git\n• 4x Choppa\n4x Snazzgun\n\nGretchin (45 points)\n• 10x Gretchin\n• 10x Close combat weapon\n10x Grot blasta\n• 1x Runtherd\n• 1x Runtherd tools\n1x Slugga\n\nGretchin (45 points)\n• 10x Gretchin\n• 10x Close combat weapon\n10x Grot blasta\n• 1x Runtherd\n• 1x Runtherd tools\n1x Slugga\n\nLootas (125 points)\n• Enhancement: Dead Shiny Shootas (Upgrade)\n• 2x Spanner\n• 2x Close combat weapon\n2x Rokkit launcha\n• 8x Loota\n• 8x Close combat weapon\n8x Deffgun",
+      "pageUrl": "lists/qhhQ8u9kq1Yc/",
+      "linkedContent": "Look, i wanted to play GSC I really did. Don't look at me like that, I did, but lootas are going to legends so one last go with them.\nWhat's that? Burna boyz going as well? Oh, well my burnas aren't painted so I can't use them. Don't look too hard at the flash gitz.\nWhy are you still looking at me like that? Yes, I know I technically COULD still play GSC but it's too late now the lists are locked in. There's nothing I can do about it.\n\nMeta chaser? I hardly knew her! Hyuck hyuck hyuck.\n\nAnyway here's a list I totally wrote myself:\n\nHam Sandwich, Extra Dakka (1995 points)\n\nOrks\nFreebooter Krew and More Dakka! (3 Detachment Points)\nDisruption\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Ghazghkull-Thraka/\" target=\"_blank\" rel=\"noreferrer\">Ghazghkull Thraka (235 points)</a>\n* Attached as: Leader (Character)\n• 1x Ghazghkull Thraka\n• Warlord\n• 1x Gork’s Klaw\n1x Mork’s Roar\n• 1x Makari\n• 1x Makari’s stabba\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Painboy/\" target=\"_blank\" rel=\"noreferrer\">Painboy (90 points)</a>\n* Attached as: Support (Character)\n• 1x Power klaw\n1x ’Urty syringe\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Boyz/\" target=\"_blank\" rel=\"noreferrer\">Boyz (160 points)</a>\n* Attached as: Bodyguard (Battleline)\n• 19x Boy\n• 17x Choppa\n2x Close combat weapon\n2x Rokkit launcha\n17x Slugga\n• 1x Boss Nob\n• 1x Power klaw\n1x Slugga\n\nAttached Unit 2\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Zodgrod-Wortsnagga/\" target=\"_blank\" rel=\"noreferrer\">Zodgrod Wortsnagga (80 points)</a>\n* Attached as: Leader (Character)\n• 1x Da Grabzappa\n1x Squigstoppa\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Gretchin/\" target=\"_blank\" rel=\"noreferrer\">Gretchin (85 points)</a>\n* Attached as: Bodyguard\n• 20x Gretchin\n• 20x Close combat weapon\n20x Grot blasta\n• 1x Runtherd\n• 1x Runtherd tools\n1x Slugga\n\nAttached Unit 3\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Big-Mek-With-Shokk-Attack-Gun/\" target=\"_blank\" rel=\"noreferrer\">Big Mek with Shokk Attack Gun (70 points)</a>\n* Attached as: Leader (Character)\n• 1x Close combat weapon\n1x Shokk attack gun\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Lootas/\" target=\"_blank\" rel=\"noreferrer\">Lootas (115 points)</a>\n* Attached as: Bodyguard\n• Enhancement: Dead Shiny Shootas (Upgrade)\n• 2x Spanner\n• 2x Close combat weapon\n2x Rokkit launcha\n• 8x Loota\n• 8x Close combat weapon\n8x Deffgun\n\nAttached Unit 4\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Big-Mek-With-Shokk-Attack-Gun/\" target=\"_blank\" rel=\"noreferrer\">Big Mek with Shokk Attack Gun (80 points)</a>\n* Attached as: Leader (Character)\n• 1x Close combat weapon\n1x Shokk attack gun\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Lootas/\" target=\"_blank\" rel=\"noreferrer\">Lootas (115 points)</a>\n* Attached as: Bodyguard\n• Enhancement: Dead Shiny Shootas (Upgrade)\n• 2x Spanner\n• 2x Close combat weapon\n2x Rokkit launcha\n• 8x Loota\n• 8x Close combat weapon\n8x Deffgun\n\nAttached Unit 5\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Mozrog-Skragbad/\" target=\"_blank\" rel=\"noreferrer\">Mozrog Skragbad (125 points)</a>\n* Attached as: Leader (Character)\n• 1x Big Chompa’s jaws\n1x Gutrippa\n1x Thump gun\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Squighog-Boyz/\" target=\"_blank\" rel=\"noreferrer\">Squighog Boyz (140 points)</a>\n* Attached as: Bodyguard\n• 3x Squighog Boy\n• 3x Saddlegit weapons\n3x Squig jaws\n3x Stikka\n• 1x Nob on Smasha Squig\n• 1x Big choppa\n1x Slugga\n1x Squig jaws\n\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Wazdakka-Gutsmek/\" target=\"_blank\" rel=\"noreferrer\">Wazdakka Gutsmek (175 points)</a>\n• 1x Fixit’s wrench\n1x Grabba dragga\n1x Psyko‑gatler\n1x Speeding bulk and flaming exhaust\n\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Flash-Gitz/\" target=\"_blank\" rel=\"noreferrer\">Flash Gitz (150 points)</a>\n• 1x Ammo Runt\n• 1x Kaptin\n• 1x Choppa\n1x Snazzgun\n• 9x Flash Git\n• 9x Choppa\n9x Snazzgun\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Flash-Gitz/\" target=\"_blank\" rel=\"noreferrer\">Flash Gitz (75 points)</a>\n• 1x Kaptin\n• 1x Choppa\n1x Snazzgun\n• 4x Flash Git\n• 4x Choppa\n4x Snazzgun\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Flash-Gitz/\" target=\"_blank\" rel=\"noreferrer\">Flash Gitz (85 points)</a>\n• 1x Kaptin\n• 1x Choppa\n1x Snazzgun\n• 4x Flash Git\n• 4x Choppa\n4x Snazzgun\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Gretchin/\" target=\"_blank\" rel=\"noreferrer\">Gretchin (45 points)</a>\n• 10x Gretchin\n• 10x Close combat weapon\n10x Grot blasta\n• 1x Runtherd\n• 1x Runtherd tools\n1x Slugga\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Gretchin/\" target=\"_blank\" rel=\"noreferrer\">Gretchin (45 points)</a>\n• 10x Gretchin\n• 10x Close combat weapon\n10x Grot blasta\n• 1x Runtherd\n• 1x Runtherd tools\n1x Slugga\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/orks/Lootas/\" target=\"_blank\" rel=\"noreferrer\">Lootas (125 points)</a>\n• Enhancement: Dead Shiny Shootas (Upgrade)\n• 2x Spanner\n• 2x Close combat weapon\n2x Rokkit launcha\n• 8x Loota\n• 8x Close combat weapon\n8x Deffgun"
+    },
+    {
+      "player": "Tim Anderson",
+      "team": "Comp Play",
+      "faction": "Death Guard - Reconnaissance",
+      "checkedIn": true,
+      "listId": "Epj0AlEhHean",
+      "hasPublishedList": true,
+      "sourceUrl": "https://www.bestcoastpairings.com/list/Epj0AlEhHean",
+      "playerId": "us56yYVKKzis",
+      "event": "Brighton 40k Teams II",
+      "pagePlayer": "Tim Anderson",
+      "content": "🍄 Champignons of Contagion 🍄 🧿 (1,990 Points)\n\nDeath Guard\nContagion Engines and Tallyband Summoners (3 Detachment Points)\nReconnaissance\nStrike Force (2,000 Points)\n\nCHARACTERS\n\nLord of Virulence (120 Points)\n• Warlord\n• 1x Power fist\n• 1x Twin plague spewer\n• Enhancements: Beckoning Blight\n\nRotigus (280 Points)\n• 1x Gnarlrod\n• 1x Streams of brackish filth\n\nBATTLELINE\n\nPlaguebearers (115 Points)\n• 1x Plagueridden\n◦ 1x Plaguesword\n• 9x Plaguebearer\n◦ 1x Daemonic Icon\n◦ 1x Instrument of Chaos\n◦ 9x Plaguesword\n\nPlaguebearers (115 Points)\n• 1x Plagueridden\n◦ 1x Plaguesword\n• 9x Plaguebearer\n◦ 1x Daemonic Icon\n◦ 1x Instrument of Chaos\n◦ 9x Plaguesword\n\nOTHER DATASHEETS\n\nBeasts of Nurgle (70 Points)\n• 1x Putrid appendages\n\nBeasts of Nurgle (70 Points)\n• 1x Putrid appendages\n\nBeasts of Nurgle (70 Points)\n• 1x Putrid appendages\n\nDefiler (330 Points)\n• 1x Ectoplasma destructor\n• 2x Excruciator cannon\n• 1x Heavy reaper autocannon\n• 1x Heavy reaper autocannon\n• 1x Shearing claws\n\nFoetid Bloat-Drone (100 Points)\n• 1x Plague probe\n• 2x Plaguespitter\n\nFoetid Bloat-Drone (100 Points)\n• 1x Fleshmower\n• 1x Plague probe\n\nFoetid Bloat-Drone with Heavy Blight Launcher (125 Points)\n• 1x Heavy blight launcher\n• 1x Plague probe\n\nFoetid Bloat-Drone with Heavy Blight Launcher (125 Points)\n• 1x Heavy blight launcher\n• 1x Plague probe\n\nFoetid Bloat-Drone with Heavy Blight Launcher (135 Points)\n• 1x Heavy blight launcher\n• 1x Plague probe\n\nMyphitic Blight-haulers (95 Points)\n• 1x Bile spurt\n• 1x Gnashing maw\n• 1x Missile launcher\n• 1x Multi-melta\n\nMyphitic Blight-haulers (95 Points)\n• 1x Bile spurt\n• 1x Gnashing maw\n• 1x Missile launcher\n• 1x Multi-melta\n\nNurglings (45 Points)\n• 3x Nurgling Swarm\n◦ 3x Diseased claws and teeth\n\nExported with App Version: v2.5.0 (1), Data Version: v931",
+      "pageUrl": "lists/Epj0AlEhHean/",
+      "linkedContent": "🍄 Champignons of Contagion 🍄 🧿 (1,990 Points)\n\nDeath Guard\nContagion Engines and Tallyband Summoners (3 Detachment Points)\nReconnaissance\nStrike Force (2,000 Points)\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/death-guard/Lord-of-Virulence/\" target=\"_blank\" rel=\"noreferrer\">Lord of Virulence (120 Points)</a>\n• Warlord\n• 1x Power fist\n• 1x Twin plague spewer\n• Enhancements: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/death-guard/#Enhancements-4\" target=\"_blank\" rel=\"noreferrer\">Beckoning Blight</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/death-guard/Rotigus/\" target=\"_blank\" rel=\"noreferrer\">Rotigus (280 Points)</a>\n• 1x Gnarlrod\n• 1x Streams of brackish filth\n\nBATTLELINE\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/death-guard/Plaguebearers/\" target=\"_blank\" rel=\"noreferrer\">Plaguebearers (115 Points)</a>\n• 1x Plagueridden\n◦ 1x Plaguesword\n• 9x Plaguebearer\n◦ 1x Daemonic Icon\n◦ 1x Instrument of Chaos\n◦ 9x Plaguesword\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/death-guard/Plaguebearers/\" target=\"_blank\" rel=\"noreferrer\">Plaguebearers (115 Points)</a>\n• 1x Plagueridden\n◦ 1x Plaguesword\n• 9x Plaguebearer\n◦ 1x Daemonic Icon\n◦ 1x Instrument of Chaos\n◦ 9x Plaguesword\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/death-guard/Beasts-of-Nurgle/\" target=\"_blank\" rel=\"noreferrer\">Beasts of Nurgle (70 Points)</a>\n• 1x Putrid appendages\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/death-guard/Beasts-of-Nurgle/\" target=\"_blank\" rel=\"noreferrer\">Beasts of Nurgle (70 Points)</a>\n• 1x Putrid appendages\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/death-guard/Beasts-of-Nurgle/\" target=\"_blank\" rel=\"noreferrer\">Beasts of Nurgle (70 Points)</a>\n• 1x Putrid appendages\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/death-guard/Defiler/\" target=\"_blank\" rel=\"noreferrer\">Defiler (330 Points)</a>\n• 1x Ectoplasma destructor\n• 2x Excruciator cannon\n• 1x Heavy reaper autocannon\n• 1x Heavy reaper autocannon\n• 1x Shearing claws\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/death-guard/Foetid-Bloat-drone/\" target=\"_blank\" rel=\"noreferrer\">Foetid Bloat-Drone (100 Points)</a>\n• 1x Plague probe\n• 2x Plaguespitter\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/death-guard/Foetid-Bloat-drone/\" target=\"_blank\" rel=\"noreferrer\">Foetid Bloat-Drone (100 Points)</a>\n• 1x Fleshmower\n• 1x Plague probe\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/death-guard/Foetid-Bloat-drone-with-Heavy-Blight-Launcher/\" target=\"_blank\" rel=\"noreferrer\">Foetid Bloat-Drone with Heavy Blight Launcher (125 Points)</a>\n• 1x Heavy blight launcher\n• 1x Plague probe\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/death-guard/Foetid-Bloat-drone-with-Heavy-Blight-Launcher/\" target=\"_blank\" rel=\"noreferrer\">Foetid Bloat-Drone with Heavy Blight Launcher (125 Points)</a>\n• 1x Heavy blight launcher\n• 1x Plague probe\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/death-guard/Foetid-Bloat-drone-with-Heavy-Blight-Launcher/\" target=\"_blank\" rel=\"noreferrer\">Foetid Bloat-Drone with Heavy Blight Launcher (135 Points)</a>\n• 1x Heavy blight launcher\n• 1x Plague probe\n\nMyphitic Blight-haulers (95 Points)\n• 1x Bile spurt\n• 1x Gnashing maw\n• 1x Missile launcher\n• 1x Multi-melta\n\nMyphitic Blight-haulers (95 Points)\n• 1x Bile spurt\n• 1x Gnashing maw\n• 1x Missile launcher\n• 1x Multi-melta\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/death-guard/Nurglings/\" target=\"_blank\" rel=\"noreferrer\">Nurglings (45 Points)</a>\n• 3x Nurgling Swarm\n◦ 3x Diseased claws and teeth\n\nExported with App Version: v2.5.0 (1), Data Version: v931"
     },
     {
       "player": "David Bannister",
       "team": "Wessex Wyverns",
       "faction": "T'au Empire - Purge the Foe",
       "checkedIn": true,
-      "listId": "gXfEJxZjpKer",
+      "listId": "e8Dfhe1tahyE",
       "hasPublishedList": true,
-      "sourceUrl": "https://www.bestcoastpairings.com/list/gXfEJxZjpKer",
+      "sourceUrl": "https://www.bestcoastpairings.com/list/e8Dfhe1tahyE",
       "playerId": "JmqO98hulLMS",
       "event": "Brighton 40k Teams II",
       "pagePlayer": "David Bannister",
-      "content": "Four man teams (2000 points)\n\nT’au Empire\nRetaliation Cadre (3 Detachment Points)\nPurge the Foe\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nCommander in Coldstar Battlesuit (95 points)\n• Attached as: Leader (Character)\n• 1x Battlesuit fists\n1x Marker Drone\n3x Missile pod\n1x Shield Drone\n1x Shield Generator\n\nCrisis Fireknife Battlesuits (130 points)\n• Attached as: Bodyguard\n• 1x Crisis Fireknife Shas’vre\n• 1x Battlesuit fists\n1x Gun Drone\n2x Missile pod\n1x Shield Drone\n• 2x Crisis Fireknife Shas’ui\n• 2x Battlesuit fists\n2x Gun Drone\n4x Missile pod\n2x Shield Drone\n\nAttached Unit 2\n\nCommander in Enforcer Battlesuit (80 points)\n• Attached as: Leader (Character)\n• 1x Battlesuit fists\n1x Marker Drone\n4x Missile pod\n1x Shield Drone\n\nCrisis Fireknife Battlesuits (105 points)\n• Attached as: Bodyguard\n• 1x Crisis Fireknife Shas’vre\n• 1x Battlesuit fists\n1x Gun Drone\n2x Plasma rifle\n1x Shield Drone\n• 2x Crisis Fireknife Shas’ui\n• 2x Battlesuit fists\n2x Gun Drone\n1x Missile pod\n3x Plasma rifle\n2x Shield Drone\n\nAttached Unit 3\n\nCommander in Enforcer Battlesuit (80 points)\n• Attached as: Leader (Character)\n• 1x Battlesuit fists\n1x Marker Drone\n4x Plasma rifle\n1x Shield Drone\n\nCrisis Fireknife Battlesuits (110 points)\n• Attached as: Bodyguard\n• 1x Crisis Fireknife Shas’vre\n• 1x Battlesuit fists\n1x Gun Drone\n2x Plasma rifle\n1x Shield Drone\n• 2x Crisis Fireknife Shas’ui\n• 2x Battlesuit fists\n4x Plasma rifle\n\nAttached Unit 4\n\nCommander Farsight (70 points)\n• Attached as: Leader (Character)\n• 1x Dawn Blade\n1x High-intensity plasma rifle\n\nCrisis Starscythe Battlesuits (130 points)\n• Attached as: Bodyguard\n• 1x Crisis Starscythe Shas’vre\n• 1x Battlesuit fists\n1x Gun Drone\n1x Shield Drone\n2x T’au flamer\n• 2x Crisis Starscythe Shas’ui\n• 2x Battlesuit fists\n2x Gun Drone\n2x Shield Drone\n4x T’au flamer\n\nAttached Unit 5\n\nCommander in Coldstar Battlesuit (95 points)\n• Attached as: Leader (Character)\n• 1x Battlesuit fists\n3x Fusion blaster\n1x Marker Drone\n1x Shield Drone\n1x Shield Generator\n\nCrisis Sunforge Battlesuits (125 points)\n• Attached as: Bodyguard\n• 1x Crisis Sunforge Shas’vre\n• 1x Battlesuit fists\n2x Fusion blaster\n1x Gun Drone\n1x Shield Drone\n• 2x Crisis Sunforge Shas’ui\n• 2x Battlesuit fists\n4x Fusion blaster\n2x Gun Drone\n2x Shield Drone\n\n\nCHARACTERS\n\nDarkstrider (60 points)\n• 1x Close combat weapon\n1x Shade\n\nThe Twin Lance (230 points)\n• 1x Ri’Lantar\n• Warlord\n• 1x Fusion eliminator\n1x MV15 Gun Drone\n1x Shardstorm burst system\n1x XV pulse pistol\n• 1x Ri’Locai\n• 1x Ion scattercannon\n1x MV15 Gun Drone\n1x Shardstorm burst system\n1x XV pulse pistol\n\n\nOTHER DATASHEETS\n\nHammerhead Gunship (150 points)\n• 2x Accelerator burst cannon\n1x Armoured hull\n1x Ion cannon\n2x Seeker missile\n\nPiranhas (65 points)\n• 1x Armoured hull\n1x Piranha fusion blaster\n2x Seeker missile\n2x Twin pulse carbine\n\nStealth Battlesuits (100 points)\n• 1x Stealth Shas’vre\n• 1x Battlesuit fists\n1x Fusion blaster\n1x Gun Drone\n1x Marker Drone\n1x Pulse pistol\n• 4x Stealth Shas’ui\n• 4x Battlesuit fists\n3x Burst cannon\n1x Fusion blaster\n\n1x Homing Beacon\n\n\n\nStormsurge (375 points)\n• 1x Cluster rocket system\n1x Destroyer missiles\n1x Pulse blast cannon\n1x Thunderous footfalls\n1x Twin burst cannon\n2x Twin smart missile system\n\nExported with App Version: v2.5.0 (140), Data Version: v931",
-      "pageUrl": "lists/gXfEJxZjpKer/",
-      "linkedContent": "Four man teams (2000 points)\n\nT’au Empire\nRetaliation Cadre (3 Detachment Points)\nPurge the Foe\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Commander-In-Coldstar-Battlesuit/\" target=\"_blank\" rel=\"noreferrer\">Commander in Coldstar Battlesuit (95 points)</a>\n• Attached as: Leader (Character)\n• 1x Battlesuit fists\n1x Marker Drone\n3x Missile pod\n1x Shield Drone\n1x Shield Generator\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Crisis-Fireknife-Battlesuits/\" target=\"_blank\" rel=\"noreferrer\">Crisis Fireknife Battlesuits (130 points)</a>\n• Attached as: Bodyguard\n• 1x Crisis Fireknife Shas’vre\n• 1x Battlesuit fists\n1x Gun Drone\n2x Missile pod\n1x Shield Drone\n• 2x Crisis Fireknife Shas’ui\n• 2x Battlesuit fists\n2x Gun Drone\n4x Missile pod\n2x Shield Drone\n\nAttached Unit 2\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Commander-In-Enforcer-Battlesuit/\" target=\"_blank\" rel=\"noreferrer\">Commander in Enforcer Battlesuit (80 points)</a>\n• Attached as: Leader (Character)\n• 1x Battlesuit fists\n1x Marker Drone\n4x Missile pod\n1x Shield Drone\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Crisis-Fireknife-Battlesuits/\" target=\"_blank\" rel=\"noreferrer\">Crisis Fireknife Battlesuits (105 points)</a>\n• Attached as: Bodyguard\n• 1x Crisis Fireknife Shas’vre\n• 1x Battlesuit fists\n1x Gun Drone\n2x Plasma rifle\n1x Shield Drone\n• 2x Crisis Fireknife Shas’ui\n• 2x Battlesuit fists\n2x Gun Drone\n1x Missile pod\n3x Plasma rifle\n2x Shield Drone\n\nAttached Unit 3\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Commander-In-Enforcer-Battlesuit/\" target=\"_blank\" rel=\"noreferrer\">Commander in Enforcer Battlesuit (80 points)</a>\n• Attached as: Leader (Character)\n• 1x Battlesuit fists\n1x Marker Drone\n4x Plasma rifle\n1x Shield Drone\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Crisis-Fireknife-Battlesuits/\" target=\"_blank\" rel=\"noreferrer\">Crisis Fireknife Battlesuits (110 points)</a>\n• Attached as: Bodyguard\n• 1x Crisis Fireknife Shas’vre\n• 1x Battlesuit fists\n1x Gun Drone\n2x Plasma rifle\n1x Shield Drone\n• 2x Crisis Fireknife Shas’ui\n• 2x Battlesuit fists\n4x Plasma rifle\n\nAttached Unit 4\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Commander-Farsight/\" target=\"_blank\" rel=\"noreferrer\">Commander Farsight (70 points)</a>\n• Attached as: Leader (Character)\n• 1x Dawn Blade\n1x High-intensity plasma rifle\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Crisis-Starscythe-Battlesuits/\" target=\"_blank\" rel=\"noreferrer\">Crisis Starscythe Battlesuits (130 points)</a>\n• Attached as: Bodyguard\n• 1x Crisis Starscythe Shas’vre\n• 1x Battlesuit fists\n1x Gun Drone\n1x Shield Drone\n2x T’au flamer\n• 2x Crisis Starscythe Shas’ui\n• 2x Battlesuit fists\n2x Gun Drone\n2x Shield Drone\n4x T’au flamer\n\nAttached Unit 5\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Commander-In-Coldstar-Battlesuit/\" target=\"_blank\" rel=\"noreferrer\">Commander in Coldstar Battlesuit (95 points)</a>\n• Attached as: Leader (Character)\n• 1x Battlesuit fists\n3x Fusion blaster\n1x Marker Drone\n1x Shield Drone\n1x Shield Generator\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Crisis-Sunforge-Battlesuits/\" target=\"_blank\" rel=\"noreferrer\">Crisis Sunforge Battlesuits (125 points)</a>\n• Attached as: Bodyguard\n• 1x Crisis Sunforge Shas’vre\n• 1x Battlesuit fists\n2x Fusion blaster\n1x Gun Drone\n1x Shield Drone\n• 2x Crisis Sunforge Shas’ui\n• 2x Battlesuit fists\n4x Fusion blaster\n2x Gun Drone\n2x Shield Drone\n\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Darkstrider/\" target=\"_blank\" rel=\"noreferrer\">Darkstrider (60 points)</a>\n• 1x Close combat weapon\n1x Shade\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/The-Twin-Lance/\" target=\"_blank\" rel=\"noreferrer\">The Twin Lance (230 points)</a>\n• 1x Ri’Lantar\n• Warlord\n• 1x Fusion eliminator\n1x MV15 Gun Drone\n1x Shardstorm burst system\n1x XV pulse pistol\n• 1x Ri’Locai\n• 1x Ion scattercannon\n1x MV15 Gun Drone\n1x Shardstorm burst system\n1x XV pulse pistol\n\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Hammerhead-Gunship/\" target=\"_blank\" rel=\"noreferrer\">Hammerhead Gunship (150 points)</a>\n• 2x Accelerator burst cannon\n1x Armoured hull\n1x Ion cannon\n2x Seeker missile\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Piranhas/\" target=\"_blank\" rel=\"noreferrer\">Piranhas (65 points)</a>\n• 1x Armoured hull\n1x Piranha fusion blaster\n2x Seeker missile\n2x Twin pulse carbine\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Stealth-Battlesuits/\" target=\"_blank\" rel=\"noreferrer\">Stealth Battlesuits (100 points)</a>\n• 1x Stealth Shas’vre\n• 1x Battlesuit fists\n1x Fusion blaster\n1x Gun Drone\n1x Marker Drone\n1x Pulse pistol\n• 4x Stealth Shas’ui\n• 4x Battlesuit fists\n3x Burst cannon\n1x Fusion blaster\n\n1x Homing Beacon\n\n\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Stormsurge/\" target=\"_blank\" rel=\"noreferrer\">Stormsurge (375 points)</a>\n• 1x Cluster rocket system\n1x Destroyer missiles\n1x Pulse blast cannon\n1x Thunderous footfalls\n1x Twin burst cannon\n2x Twin smart missile system\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+      "content": "Four man teams (2000 points)\n\nT’au Empire\nRetaliation Cadre (3 Detachment Points)\nPurge the Foe\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nCommander in Coldstar Battlesuit (95 points)\n• Attached as: Leader (Character)\n• 1x Battlesuit fists\n1x Marker Drone\n3x Missile pod\n1x Shield Drone\n1x Shield Generator\n\nCrisis Fireknife Battlesuits (130 points)\n• Attached as: Bodyguard\n• 1x Crisis Fireknife Shas’vre\n• 1x Battlesuit fists\n1x Gun Drone\n2x Missile pod\n1x Shield Drone\n• 2x Crisis Fireknife Shas’ui\n• 2x Battlesuit fists\n2x Gun Drone\n4x Missile pod\n2x Shield Drone\n\nAttached Unit 2\n\nCommander in Enforcer Battlesuit (80 points)\n• Attached as: Leader (Character)\n• 1x Battlesuit fists\n1x Marker Drone\n4x Plasma rifle\n1x Shield Drone\n\nCrisis Fireknife Battlesuits (100 points)\n• Attached as: Bodyguard\n• 1x Crisis Fireknife Shas’vre\n• 1x Battlesuit fists\n1x Gun Drone\n2x Plasma rifle\n1x Shield Drone\n• 2x Crisis Fireknife Shas’ui\n• 2x Battlesuit fists\n2x Gun Drone\n4x Plasma rifle\n2x Shield Drone\n\nAttached Unit 3\n\nCommander in Coldstar Battlesuit (95 points)\n• Attached as: Leader (Character)\n• 1x Battlesuit fists\n1x Marker Drone\n3x Plasma rifle\n1x Shield Drone\n1x Shield Generator\n\nCrisis Fireknife Battlesuits (110 points)\n• Attached as: Bodyguard\n• 1x Crisis Fireknife Shas’vre\n• 1x Battlesuit fists\n1x Gun Drone\n2x Plasma rifle\n1x Shield Drone\n• 2x Crisis Fireknife Shas’ui\n• 2x Battlesuit fists\n2x Gun Drone\n4x Plasma rifle\n2x Shield Drone\n\nAttached Unit 4\n\nCommander Farsight (70 points)\n• Attached as: Leader (Character)\n• 1x Dawn Blade\n1x High-intensity plasma rifle\n\nCrisis Sunforge Battlesuits (125 points)\n• Attached as: Bodyguard\n• 1x Crisis Sunforge Shas’vre\n• 1x Battlesuit fists\n2x Fusion blaster\n1x Marker Drone\n1x Shield Drone\n• 2x Crisis Sunforge Shas’ui\n• 2x Battlesuit fists\n4x Fusion blaster\n2x Gun Drone\n2x Shield Drone\n\n\nCHARACTERS\n\nDarkstrider (60 points)\n• 1x Close combat weapon\n1x Shade\n\nKroot Trail Shaper (50 points)\n• 1x Kroot rifle\n1x Shaper’s blade\n\nThe Twin Lance (230 points)\n• 1x Ri’Lantar\n• Warlord\n• 1x Fusion eliminator\n1x MV15 Gun Drone\n1x Shardstorm burst system\n1x XV pulse pistol\n• 1x Ri’Locai\n• 1x Ion scattercannon\n1x MV15 Gun Drone\n1x Shardstorm burst system\n1x XV pulse pistol\n\n\nOTHER DATASHEETS\n\nCrisis Starscythe Battlesuits (130 points)\n• 1x Crisis Starscythe Shas’vre\n• 1x Battlesuit fists\n1x Marker Drone\n1x Shield Drone\n2x T’au flamer\n• 2x Crisis Starscythe Shas’ui\n• 2x Battlesuit fists\n2x Gun Drone\n2x Shield Drone\n4x T’au flamer\n\nCrisis Starscythe Battlesuits (100 points)\n• 1x Crisis Starscythe Shas’vre\n• 1x Battlesuit fists\n2x Burst cannon\n1x Marker Drone\n1x Shield Drone\n• 2x Crisis Starscythe Shas’ui\n• 2x Battlesuit fists\n4x Burst cannon\n2x Gun Drone\n2x Shield Drone\n\nHammerhead Gunship (150 points)\n• 2x Accelerator burst cannon\n1x Armoured hull\n1x Ion cannon\n2x Seeker missile\n\nStealth Battlesuits (100 points)\n• 1x Stealth Shas’vre\n• 1x Battlesuit fists\n1x Fusion blaster\n1x Gun Drone\n1x Marker Drone\n1x Pulse pistol\n• 4x Stealth Shas’ui\n• 4x Battlesuit fists\n3x Burst cannon\n1x Fusion blaster\n1x Homing Beacon\n\nStormsurge (375 points)\n• 1x Cluster rocket system\n1x Destroyer missiles\n\n1x Pulse blast cannon\n1x Thunderous footfalls\n1x Twin burst cannon\n2x Twin smart missile system\n\nExported with App Version: v2.5.0 (140), Data Version: v931",
+      "pageUrl": "lists/e8Dfhe1tahyE/",
+      "linkedContent": "Four man teams (2000 points)\n\nT’au Empire\nRetaliation Cadre (3 Detachment Points)\nPurge the Foe\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Commander-In-Coldstar-Battlesuit/\" target=\"_blank\" rel=\"noreferrer\">Commander in Coldstar Battlesuit (95 points)</a>\n• Attached as: Leader (Character)\n• 1x Battlesuit fists\n1x Marker Drone\n3x Missile pod\n1x Shield Drone\n1x Shield Generator\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Crisis-Fireknife-Battlesuits/\" target=\"_blank\" rel=\"noreferrer\">Crisis Fireknife Battlesuits (130 points)</a>\n• Attached as: Bodyguard\n• 1x Crisis Fireknife Shas’vre\n• 1x Battlesuit fists\n1x Gun Drone\n2x Missile pod\n1x Shield Drone\n• 2x Crisis Fireknife Shas’ui\n• 2x Battlesuit fists\n2x Gun Drone\n4x Missile pod\n2x Shield Drone\n\nAttached Unit 2\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Commander-In-Enforcer-Battlesuit/\" target=\"_blank\" rel=\"noreferrer\">Commander in Enforcer Battlesuit (80 points)</a>\n• Attached as: Leader (Character)\n• 1x Battlesuit fists\n1x Marker Drone\n4x Plasma rifle\n1x Shield Drone\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Crisis-Fireknife-Battlesuits/\" target=\"_blank\" rel=\"noreferrer\">Crisis Fireknife Battlesuits (100 points)</a>\n• Attached as: Bodyguard\n• 1x Crisis Fireknife Shas’vre\n• 1x Battlesuit fists\n1x Gun Drone\n2x Plasma rifle\n1x Shield Drone\n• 2x Crisis Fireknife Shas’ui\n• 2x Battlesuit fists\n2x Gun Drone\n4x Plasma rifle\n2x Shield Drone\n\nAttached Unit 3\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Commander-In-Coldstar-Battlesuit/\" target=\"_blank\" rel=\"noreferrer\">Commander in Coldstar Battlesuit (95 points)</a>\n• Attached as: Leader (Character)\n• 1x Battlesuit fists\n1x Marker Drone\n3x Plasma rifle\n1x Shield Drone\n1x Shield Generator\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Crisis-Fireknife-Battlesuits/\" target=\"_blank\" rel=\"noreferrer\">Crisis Fireknife Battlesuits (110 points)</a>\n• Attached as: Bodyguard\n• 1x Crisis Fireknife Shas’vre\n• 1x Battlesuit fists\n1x Gun Drone\n2x Plasma rifle\n1x Shield Drone\n• 2x Crisis Fireknife Shas’ui\n• 2x Battlesuit fists\n2x Gun Drone\n4x Plasma rifle\n2x Shield Drone\n\nAttached Unit 4\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Commander-Farsight/\" target=\"_blank\" rel=\"noreferrer\">Commander Farsight (70 points)</a>\n• Attached as: Leader (Character)\n• 1x Dawn Blade\n1x High-intensity plasma rifle\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Crisis-Sunforge-Battlesuits/\" target=\"_blank\" rel=\"noreferrer\">Crisis Sunforge Battlesuits (125 points)</a>\n• Attached as: Bodyguard\n• 1x Crisis Sunforge Shas’vre\n• 1x Battlesuit fists\n2x Fusion blaster\n1x Marker Drone\n1x Shield Drone\n• 2x Crisis Sunforge Shas’ui\n• 2x Battlesuit fists\n4x Fusion blaster\n2x Gun Drone\n2x Shield Drone\n\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Darkstrider/\" target=\"_blank\" rel=\"noreferrer\">Darkstrider (60 points)</a>\n• 1x Close combat weapon\n1x Shade\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Kroot-Trail-Shaper/\" target=\"_blank\" rel=\"noreferrer\">Kroot Trail Shaper (50 points)</a>\n• 1x Kroot rifle\n1x Shaper’s blade\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/The-Twin-Lance/\" target=\"_blank\" rel=\"noreferrer\">The Twin Lance (230 points)</a>\n• 1x Ri’Lantar\n• Warlord\n• 1x Fusion eliminator\n1x MV15 Gun Drone\n1x Shardstorm burst system\n1x XV pulse pistol\n• 1x Ri’Locai\n• 1x Ion scattercannon\n1x MV15 Gun Drone\n1x Shardstorm burst system\n1x XV pulse pistol\n\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Crisis-Starscythe-Battlesuits/\" target=\"_blank\" rel=\"noreferrer\">Crisis Starscythe Battlesuits (130 points)</a>\n• 1x Crisis Starscythe Shas’vre\n• 1x Battlesuit fists\n1x Marker Drone\n1x Shield Drone\n2x T’au flamer\n• 2x Crisis Starscythe Shas’ui\n• 2x Battlesuit fists\n2x Gun Drone\n2x Shield Drone\n4x T’au flamer\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Crisis-Starscythe-Battlesuits/\" target=\"_blank\" rel=\"noreferrer\">Crisis Starscythe Battlesuits (100 points)</a>\n• 1x Crisis Starscythe Shas’vre\n• 1x Battlesuit fists\n2x Burst cannon\n1x Marker Drone\n1x Shield Drone\n• 2x Crisis Starscythe Shas’ui\n• 2x Battlesuit fists\n4x Burst cannon\n2x Gun Drone\n2x Shield Drone\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Hammerhead-Gunship/\" target=\"_blank\" rel=\"noreferrer\">Hammerhead Gunship (150 points)</a>\n• 2x Accelerator burst cannon\n1x Armoured hull\n1x Ion cannon\n2x Seeker missile\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Stealth-Battlesuits/\" target=\"_blank\" rel=\"noreferrer\">Stealth Battlesuits (100 points)</a>\n• 1x Stealth Shas’vre\n• 1x Battlesuit fists\n1x Fusion blaster\n1x Gun Drone\n1x Marker Drone\n1x Pulse pistol\n• 4x Stealth Shas’ui\n• 4x Battlesuit fists\n3x Burst cannon\n1x Fusion blaster\n1x Homing Beacon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Stormsurge/\" target=\"_blank\" rel=\"noreferrer\">Stormsurge (375 points)</a>\n• 1x Cluster rocket system\n1x Destroyer missiles\n\n1x Pulse blast cannon\n1x Thunderous footfalls\n1x Twin burst cannon\n2x Twin smart missile system\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
     },
     {
       "player": "Jonathan Aylett",
@@ -819,30 +984,30 @@ window.BCP_DATA = {
       "team": "Wessex Wyverns",
       "faction": "Adeptus Custodes - Take and Hold",
       "checkedIn": true,
-      "listId": "DcwSiKWvmpP1",
+      "listId": "U8orcy1750Cs",
       "hasPublishedList": true,
-      "sourceUrl": "https://www.bestcoastpairings.com/list/DcwSiKWvmpP1",
+      "sourceUrl": "https://www.bestcoastpairings.com/list/U8orcy1750Cs",
       "playerId": "CDysAE4Q7MHe",
       "event": "Brighton 40k Teams II",
       "pagePlayer": "Nicholas Bannister",
-      "content": "Lions Sisters Spam (1995 points)\n\nAdeptus Custodes\nLions of the Emperor (3 Detachment Points)\nTake and Hold\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nBlade Champion (135 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Vaultswords\n• Enhancement: Superior Creation\n\nCustodian Wardens (250 points)\n• Attached as: Bodyguard\n• 5x Custodian Warden\n• 2x Castellan axe\n3x Guardian spear\n1x Vexilla\n\nAttached Unit 2\n\nShield-Captain on Dawneagle Jetbike (170 points)\n• Attached as: Leader (Character)\n• 1x Interceptor lance\n1x Vertus hurricane bolter\n• Enhancement: Admonimortis\n\nVertus Praetors (215 points)\n• Attached as: Bodyguard\n• 3x Vertus Praetor\n• 3x Interceptor lance\n3x Vertus hurricane bolter\n\n\nBATTLELINE\n\nCustodian Guard (215 points)\n• 5x Custodian Guard\n• 4x Guardian spear\n1x Misericordia\n1x Praesidium Shield\n1x Vexilla\n\n\nOTHER DATASHEETS\n\nAllarus Custodians (340 points)\n• 6x Allarus Custodian\n• 6x Balistus grenade launcher\n6x Guardian spear\n\nAllarus Custodians (340 points)\n• 6x Allarus Custodian\n• 6x Balistus grenade launcher\n1x Castellan axe\n4x Guardian spear\n1x Misericordia\n1x Vexilla\n\nVenatari Custodians (330 points)\n• 6x Venatari Custodian\n• 6x Venatari lance\n\nExported with App Version: v2.5.0 (140), Data Version: v931",
-      "pageUrl": "lists/DcwSiKWvmpP1/",
-      "linkedContent": "Lions Sisters Spam (1995 points)\n\nAdeptus Custodes\nLions of the Emperor (3 Detachment Points)\nTake and Hold\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Blade-Champion/\" target=\"_blank\" rel=\"noreferrer\">Blade Champion (135 points)</a>\n• Attached as: Leader (Character)\n• Warlord\n• 1x Vaultswords\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-2\" target=\"_blank\" rel=\"noreferrer\">Superior Creation</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Wardens/\" target=\"_blank\" rel=\"noreferrer\">Custodian Wardens (250 points)</a>\n• Attached as: Bodyguard\n• 5x Custodian Warden\n• 2x Castellan axe\n3x Guardian spear\n1x Vexilla\n\nAttached Unit 2\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Shield-captain-On-Dawneagle-Jetbike/\" target=\"_blank\" rel=\"noreferrer\">Shield-Captain on Dawneagle Jetbike (170 points)</a>\n• Attached as: Leader (Character)\n• 1x Interceptor lance\n1x Vertus hurricane bolter\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-2\" target=\"_blank\" rel=\"noreferrer\">Admonimortis</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Vertus-Praetors/\" target=\"_blank\" rel=\"noreferrer\">Vertus Praetors (215 points)</a>\n• Attached as: Bodyguard\n• 3x Vertus Praetor\n• 3x Interceptor lance\n3x Vertus hurricane bolter\n\n\nBATTLELINE\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard/\" target=\"_blank\" rel=\"noreferrer\">Custodian Guard (215 points)</a>\n• 5x Custodian Guard\n• 4x Guardian spear\n1x Misericordia\n1x Praesidium Shield\n1x Vexilla\n\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Allarus-Custodians/\" target=\"_blank\" rel=\"noreferrer\">Allarus Custodians (340 points)</a>\n• 6x Allarus Custodian\n• 6x Balistus grenade launcher\n6x Guardian spear\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Allarus-Custodians/\" target=\"_blank\" rel=\"noreferrer\">Allarus Custodians (340 points)</a>\n• 6x Allarus Custodian\n• 6x Balistus grenade launcher\n1x Castellan axe\n4x Guardian spear\n1x Misericordia\n1x Vexilla\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Venatari-Custodians/\" target=\"_blank\" rel=\"noreferrer\">Venatari Custodians (330 points)</a>\n• 6x Venatari Custodian\n• 6x Venatari lance\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
+      "content": "Lions Sisters Spam (1990 points)\n\nAdeptus Custodes\nLions of the Emperor (3 Detachment Points)\nTake and Hold\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\nTrajann Valoris (135 points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Eagle’s Scream\n1x Watcher’s Axe\n\nCustodian Guard (170 points)\n• Attached as: Bodyguard (Battleline)\n• 4x Custodian Guard\n• 3x Guardian spear\n1x Misericordia\n1x Praesidium Shield\n1x Vexilla\n\nAttached Unit 2\n\nBlade Champion (110 points)\n• Attached as: Leader (Character)\n• 1x Vaultswords\n\nCustodian Wardens (250 points)\n• Attached as: Bodyguard\n• 5x Custodian Warden\n• 5x Guardian spear\n1x Vexilla\n\nAttached Unit 3\n\nShield-Captain on Dawneagle Jetbike (170 points)\n• Attached as: Leader (Character)\n• 1x Interceptor lance\n1x Salvo launcher\n• Enhancement: Admonimortis\n\nVertus Praetors (145 points)\n• Attached as: Bodyguard\n• 2x Vertus Praetor\n• 2x Interceptor lance\n2x Salvo launcher\n\n\nOTHER DATASHEETS\n\nAllarus Custodians (340 points)\n• 6x Allarus Custodian\n• 6x Balistus grenade launcher\n6x Guardian spear\n\nAllarus Custodians (340 points)\n• 6x Allarus Custodian\n• 6x Balistus grenade launcher\n5x Guardian spear\n1x Misericordia\n1x Vexilla\n\nVenatari Custodians (165 points)\n• 3x Venatari Custodian\n• 3x Venatari lance\n\nVenatari Custodians (165 points)\n• 3x Venatari Custodian\n• 3x Venatari lance\n\nExported with App Version: v2.5.0 (140), Data Version: v931",
+      "pageUrl": "lists/U8orcy1750Cs/",
+      "linkedContent": "Lions Sisters Spam (1990 points)\n\nAdeptus Custodes\nLions of the Emperor (3 Detachment Points)\nTake and Hold\nStrike Force (2000 points)\n\nAttached Units\nAttached Unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Trajann-Valoris/\" target=\"_blank\" rel=\"noreferrer\">Trajann Valoris (135 points)</a>\n• Attached as: Leader (Character)\n• Warlord\n• 1x Eagle’s Scream\n1x Watcher’s Axe\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Guard/\" target=\"_blank\" rel=\"noreferrer\">Custodian Guard (170 points)</a>\n• Attached as: Bodyguard (Battleline)\n• 4x Custodian Guard\n• 3x Guardian spear\n1x Misericordia\n1x Praesidium Shield\n1x Vexilla\n\nAttached Unit 2\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Blade-Champion/\" target=\"_blank\" rel=\"noreferrer\">Blade Champion (110 points)</a>\n• Attached as: Leader (Character)\n• 1x Vaultswords\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Custodian-Wardens/\" target=\"_blank\" rel=\"noreferrer\">Custodian Wardens (250 points)</a>\n• Attached as: Bodyguard\n• 5x Custodian Warden\n• 5x Guardian spear\n1x Vexilla\n\nAttached Unit 3\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Shield-captain-On-Dawneagle-Jetbike/\" target=\"_blank\" rel=\"noreferrer\">Shield-Captain on Dawneagle Jetbike (170 points)</a>\n• Attached as: Leader (Character)\n• 1x Interceptor lance\n1x Salvo launcher\n• Enhancement: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/#Enhancements-2\" target=\"_blank\" rel=\"noreferrer\">Admonimortis</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Vertus-Praetors/\" target=\"_blank\" rel=\"noreferrer\">Vertus Praetors (145 points)</a>\n• Attached as: Bodyguard\n• 2x Vertus Praetor\n• 2x Interceptor lance\n2x Salvo launcher\n\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Allarus-Custodians/\" target=\"_blank\" rel=\"noreferrer\">Allarus Custodians (340 points)</a>\n• 6x Allarus Custodian\n• 6x Balistus grenade launcher\n6x Guardian spear\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Allarus-Custodians/\" target=\"_blank\" rel=\"noreferrer\">Allarus Custodians (340 points)</a>\n• 6x Allarus Custodian\n• 6x Balistus grenade launcher\n5x Guardian spear\n1x Misericordia\n1x Vexilla\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Venatari-Custodians/\" target=\"_blank\" rel=\"noreferrer\">Venatari Custodians (165 points)</a>\n• 3x Venatari Custodian\n• 3x Venatari lance\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Venatari-Custodians/\" target=\"_blank\" rel=\"noreferrer\">Venatari Custodians (165 points)</a>\n• 3x Venatari Custodian\n• 3x Venatari lance\n\nExported with App Version: v2.5.0 (140), Data Version: v931"
     },
     {
       "player": "William Samms",
       "team": "Wessex Wyverns",
-      "faction": "Blood Angels - Priority Assets",
+      "faction": "Dark Angels - Reconnaissance",
       "checkedIn": true,
-      "listId": "EY03zmcAyvXG",
+      "listId": "WW98zQtaeMQC",
       "hasPublishedList": true,
-      "sourceUrl": "https://www.bestcoastpairings.com/list/EY03zmcAyvXG",
+      "sourceUrl": "https://www.bestcoastpairings.com/list/WW98zQtaeMQC",
       "playerId": "F2YzCXRGZBGt",
       "event": "Brighton 40k Teams II",
       "pagePlayer": "William Samms",
-      "content": "Blood angels Brighton teams list (1,995 Points)\n\nSpace Marines\nBlood Angels\nLegacy of Grace and Stormlance Task Force (3 Detachment Points)\nPriority Assets\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nCaptain with Jump Pack (80 Points)\n• Attached as: Leader (Character)\n• Warlord\n• 1x Plasma pistol\n• 1x Power fist\n\nSanguinary Guard (120 Points)\n• Attached as: Bodyguard\n• 3x Sanguinary Guard\n◦ 2x Angelus boltgun\n◦ 3x Encarmine spear\n◦ 1x Inferno pistol\n◦ 1x Sanguinary Banner\n\nAttached unit 2\n\nDeath Company Captain with Jump Pack (75 Points)\n• Attached as: Leader (Character)\n• 1x Plasma pistol\n• 1x Power fist\n\nDeath Company Marines with Jump Packs (115 Points)\n• Attached as: Bodyguard\n• 5x Death Company Marine with Jump Packs\n◦ 2x Astartes chainsword\n◦ 1x Eviscerator\n◦ 3x Heavy bolt pistol\n◦ 2x Plasma pistol\n◦ 2x Power fist\n\nAttached unit 3\n\nCaptain with Jump Pack (80 Points)\n• Attached as: Leader (Character)\n• 1x Plasma pistol\n• 1x Power fist\n\nSanguinary Guard (120 Points)\n• Attached as: Bodyguard\n• 3x Sanguinary Guard\n◦ 2x Angelus boltgun\n◦ 3x Encarmine spear\n◦ 1x Inferno pistol\n◦ 1x Sanguinary Banner\n\nAttached unit 4\n\nChaplain in Terminator Armour (75 Points)\n• Attached as: Leader (Character)\n• 1x Crozius arcanum\n• 1x Relic Shield\n\nAncient in Terminator Armour (85 Points)\n• Attached as: Support (Character)\n• 1x Twin lightning claws\n• Enhancements: Aureole of the Angel\n\nTerminator Assault Squad (335 Points)\n• Attached as: Bodyguard\n• 1x Assault Terminator Sergeant\n◦ 1x Twin lightning claws\n• 9x Assault Terminator\n◦ 5x Storm Shield\n◦ 5x Thunder hammer\n◦ 4x Twin lightning claws\n\nCHARACTERS\n\nDeath Company Captain with Jump Pack (75 Points)\n• 1x Plasma pistol\n• 1x Power fist\n\nOTHER DATASHEETS\n\nIncursor Squad (85 Points)\n• 1x Incursor Sergeant\n◦ 1x Bolt pistol\n◦ 1x Occulus bolt carbine\n◦ 1x Paired combat blades\n• 4x Incursor\n◦ 4x Bolt pistol\n◦ 1x Haywire Mine\n◦ 4x Occulus bolt carbine\n◦ 4x Paired combat blades\n\nInfiltrator Squad (110 Points)\n• 1x Infiltrator Sergeant\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n◦ 1x Marksman bolt carbine\n• 4x Infiltrator\n◦ 4x Bolt pistol\n◦ 4x Close combat weapon\n◦ 1x Helix Gauntlet\n◦ 1x Infiltrator Comms Array\n◦ 4x Marksman bolt carbine\n\nScout Squad (65 Points)\n• 1x Scout Sergeant\n◦ 1x Astartes chainsword\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n• 4x Scout\n◦ 4x Bolt pistol\n◦ 4x Close combat weapon\n◦ 4x Combat knife\n\nScout Squad (65 Points)\n• 1x Scout Sergeant\n◦ 1x Astartes chainsword\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n• 4x Scout\n◦ 4x Bolt pistol\n◦ 4x Close combat weapon\n◦ 4x Combat knife\n\nStorm Speeder Hammerstrike (140 Points)\n• 1x Close combat weapon\n• 1x Hammerstrike missile launcher\n• 2x Krakstorm grenade launcher\n• 1x Melta destroyer\n\nVindicator (185 Points)\n• 1x Armoured tracks\n• 1x Demolisher cannon\n• 1x Hunter-killer missile\n• 1x Storm bolter\n\nVindicator (185 Points)\n• 1x Armoured tracks\n• 1x Demolisher cannon\n• 1x Hunter-killer missile\n• 1x Storm bolter\n\nExported with App Version: v2.5.0 (1), Data Version: v931",
-      "pageUrl": "lists/EY03zmcAyvXG/",
-      "linkedContent": "<a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/\" target=\"_blank\" rel=\"noreferrer\">Blood angels Brighton teams list (1,995 Points)</a>\n\nSpace Marines\nBlood Angels\nLegacy of Grace and Stormlance Task Force (3 Detachment Points)\nPriority Assets\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Captain-With-Jump-Pack/\" target=\"_blank\" rel=\"noreferrer\">Captain with Jump Pack (80 Points)</a>\n• Attached as: Leader (Character)\n• Warlord\n• 1x Plasma pistol\n• 1x Power fist\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Sanguinary-Guard/\" target=\"_blank\" rel=\"noreferrer\">Sanguinary Guard (120 Points)</a>\n• Attached as: Bodyguard\n• 3x Sanguinary Guard\n◦ 2x Angelus boltgun\n◦ 3x Encarmine spear\n◦ 1x Inferno pistol\n◦ 1x Sanguinary Banner\n\nAttached unit 2\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Death-Company-Captain-with-Jump-Pack/\" target=\"_blank\" rel=\"noreferrer\">Death Company Captain with Jump Pack (75 Points)</a>\n• Attached as: Leader (Character)\n• 1x Plasma pistol\n• 1x Power fist\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Death-Company-Marines-With-Jump-Packs/\" target=\"_blank\" rel=\"noreferrer\">Death Company Marines with Jump Packs (115 Points)</a>\n• Attached as: Bodyguard\n• 5x Death Company Marine with Jump Packs\n◦ 2x Astartes chainsword\n◦ 1x Eviscerator\n◦ 3x Heavy bolt pistol\n◦ 2x Plasma pistol\n◦ 2x Power fist\n\nAttached unit 3\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Captain-With-Jump-Pack/\" target=\"_blank\" rel=\"noreferrer\">Captain with Jump Pack (80 Points)</a>\n• Attached as: Leader (Character)\n• 1x Plasma pistol\n• 1x Power fist\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Sanguinary-Guard/\" target=\"_blank\" rel=\"noreferrer\">Sanguinary Guard (120 Points)</a>\n• Attached as: Bodyguard\n• 3x Sanguinary Guard\n◦ 2x Angelus boltgun\n◦ 3x Encarmine spear\n◦ 1x Inferno pistol\n◦ 1x Sanguinary Banner\n\nAttached unit 4\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Chaplain-In-Terminator-Armour/\" target=\"_blank\" rel=\"noreferrer\">Chaplain in Terminator Armour (75 Points)</a>\n• Attached as: Leader (Character)\n• 1x Crozius arcanum\n• 1x Relic Shield\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Ancient-In-Terminator-Armour/\" target=\"_blank\" rel=\"noreferrer\">Ancient in Terminator Armour (85 Points)</a>\n• Attached as: Support (Character)\n• 1x Twin lightning claws\n• Enhancements: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/#Enhancements-38\" target=\"_blank\" rel=\"noreferrer\">Aureole of the Angel</a>\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Terminator-Assault-Squad/\" target=\"_blank\" rel=\"noreferrer\">Terminator Assault Squad (335 Points)</a>\n• Attached as: Bodyguard\n• 1x Assault Terminator Sergeant\n◦ 1x Twin lightning claws\n• 9x Assault Terminator\n◦ 5x Storm Shield\n◦ 5x Thunder hammer\n◦ 4x Twin lightning claws\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Death-Company-Captain-with-Jump-Pack/\" target=\"_blank\" rel=\"noreferrer\">Death Company Captain with Jump Pack (75 Points)</a>\n• 1x Plasma pistol\n• 1x Power fist\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Incursor-Squad/\" target=\"_blank\" rel=\"noreferrer\">Incursor Squad (85 Points)</a>\n• 1x Incursor Sergeant\n◦ 1x Bolt pistol\n◦ 1x Occulus bolt carbine\n◦ 1x Paired combat blades\n• 4x Incursor\n◦ 4x Bolt pistol\n◦ 1x Haywire Mine\n◦ 4x Occulus bolt carbine\n◦ 4x Paired combat blades\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Infiltrator-Squad/\" target=\"_blank\" rel=\"noreferrer\">Infiltrator Squad (110 Points)</a>\n• 1x Infiltrator Sergeant\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n◦ 1x Marksman bolt carbine\n• 4x Infiltrator\n◦ 4x Bolt pistol\n◦ 4x Close combat weapon\n◦ 1x Helix Gauntlet\n◦ 1x Infiltrator Comms Array\n◦ 4x Marksman bolt carbine\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Scout-Squad/\" target=\"_blank\" rel=\"noreferrer\">Scout Squad (65 Points)</a>\n• 1x Scout Sergeant\n◦ 1x Astartes chainsword\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n• 4x Scout\n◦ 4x Bolt pistol\n◦ 4x Close combat weapon\n◦ 4x Combat knife\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Scout-Squad/\" target=\"_blank\" rel=\"noreferrer\">Scout Squad (65 Points)</a>\n• 1x Scout Sergeant\n◦ 1x Astartes chainsword\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n• 4x Scout\n◦ 4x Bolt pistol\n◦ 4x Close combat weapon\n◦ 4x Combat knife\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Storm-Speeder-Hammerstrike/\" target=\"_blank\" rel=\"noreferrer\">Storm Speeder Hammerstrike (140 Points)</a>\n• 1x Close combat weapon\n• 1x Hammerstrike missile launcher\n• 2x Krakstorm grenade launcher\n• 1x Melta destroyer\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Vindicator/\" target=\"_blank\" rel=\"noreferrer\">Vindicator (185 Points)</a>\n• 1x Armoured tracks\n• 1x Demolisher cannon\n• 1x Hunter-killer missile\n• 1x Storm bolter\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Vindicator/\" target=\"_blank\" rel=\"noreferrer\">Vindicator (185 Points)</a>\n• 1x Armoured tracks\n• 1x Demolisher cannon\n• 1x Hunter-killer missile\n• 1x Storm bolter\n\nExported with App Version: v2.5.0 (1), Data Version: v931"
+      "content": "Dark angels Brighton teams list (2,000 Points)\n\nSpace Marines\nDark Angels\nCompany of Hunters and Darkflight Pursuit (3 Detachment Points)\nReconnaissance\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\nSammael (105 Points)\n• Attached as: Leader (Character)\n• 1x Bolt Pistol\n• 1x Master-crafted plasma cannon\n• 1x The Raven Sword\n• 1x Twin storm bolter\n\nRavenwing Command Squad (135 Points)\n• Attached as: Support (Character)\n• 1x Ravenwing Champion\n◦ 1x Bolt pistol\n◦ 1x Master-crafted power weapon\n◦ 1x Plasma talon\n◦ Enhancements: Recon Hunter\n• 1x Ravenwing Apothecary\n◦ 1x Black Knight combat weapon\n◦ 1x Bolt pistol\n◦ 1x Plasma talon\n• 1x Ravenwing Ancient\n◦ 1x Black Knight combat weapon\n◦ 1x Bolt pistol\n◦ 1x Plasma talon\n\nOutrider Squad (70 Points)\n• Attached as: Bodyguard\n• 1x Outrider Sergeant\n◦ 1x Astartes chainsword\n◦ 1x Heavy bolt pistol\n◦ 1x Twin bolt rifle\n• 2x Outrider\n◦ 2x Astartes chainsword\n◦ 2x Heavy bolt pistol\n◦ 2x Twin bolt rifle\n\nCHARACTERS\n\nLion El’Jonson (265 Points)\n• Warlord\n• 1x Arma Luminis\n• 1x Fealty\n\nTechmarine (55 Points)\n• 1x Forge bolter\n• 1x Grav-pistol\n• 1x Omnissian power axe\n• 1x Servo-arm\n\nOTHER DATASHEETS\n\nDeathwing Knights (240 Points)\n• 1x Knight Master\n◦ 1x Great weapon of the Unforgiven\n• 4x Deathwing Knight\n◦ 4x Mace of absolution\n\nDeathwing Knights (240 Points)\n• 1x Knight Master\n◦ 1x Great weapon of the Unforgiven\n• 4x Deathwing Knight\n◦ 4x Mace of absolution\n\nInfiltrator Squad (110 Points)\n• 1x Infiltrator Sergeant\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n◦ 1x Marksman bolt carbine\n• 4x Infiltrator\n◦ 4x Bolt pistol\n◦ 4x Close combat weapon\n◦ 1x Helix Gauntlet\n◦ 1x Infiltrator Comms Array\n◦ 4x Marksman bolt carbine\n\nLand Speeder (105 Points)\n• 1x Close-combat weapon\n• 1x Multi-melta\n• 1x Onslaught gatling cannon\n• 1x Stormfury missile launcher\n\nLand Speeder Vengeance (145 Points)\n• 1x Close combat weapon\n• 1x Heavy bolter\n• 1x Plasma storm battery\n• Enhancements: Nightforged Battery (Upgrade)\n\nLand Speeder Vengeance (145 Points)\n• 1x Close combat weapon\n• 1x Heavy bolter\n• 1x Plasma storm battery\n• Enhancements: Nightforged Battery (Upgrade)\n\nLand Speeder Vengeance (155 Points)\n• 1x Close combat weapon\n• 1x Heavy bolter\n• 1x Plasma storm battery\n• Enhancements: Nightforged Battery (Upgrade)\n\nScout Squad (65 Points)\n• 1x Scout Sergeant\n◦ 1x Astartes chainsword\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n• 4x Scout\n◦ 4x Bolt pistol\n◦ 4x Close combat weapon\n◦ 4x Combat knife\n\nScout Squad (65 Points)\n• 1x Scout Sergeant\n◦ 1x Astartes chainsword\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n• 4x Scout\n◦ 4x Bolt pistol\n◦ 4x Close combat weapon\n◦ 4x Combat knife\n\nALLIED UNITS\n\nCallidus Assassin (100 Points)\n• 1x Neural shredder\n• 1x Phase sword and poison blades\n\nExported with App Version: v2.5.0 (1), Data Version: v931",
+      "pageUrl": "lists/WW98zQtaeMQC/",
+      "linkedContent": "<a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/\" target=\"_blank\" rel=\"noreferrer\">Dark angels Brighton teams list (2,000 Points)</a>\n\nSpace Marines\nDark Angels\nCompany of Hunters and Darkflight Pursuit (3 Detachment Points)\nReconnaissance\nStrike Force (2,000 Points)\n\nATTACHED UNITS\n\nAttached unit 1\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Sammael/\" target=\"_blank\" rel=\"noreferrer\">Sammael (105 Points)</a>\n• Attached as: Leader (Character)\n• 1x Bolt Pistol\n• 1x Master-crafted plasma cannon\n• 1x The Raven Sword\n• 1x Twin storm bolter\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Ravenwing-Command-Squad/\" target=\"_blank\" rel=\"noreferrer\">Ravenwing Command Squad (135 Points)</a>\n• Attached as: Support (Character)\n• 1x Ravenwing Champion\n◦ 1x Bolt pistol\n◦ 1x Master-crafted power weapon\n◦ 1x Plasma talon\n◦ Enhancements: <a class=\"roster-link roster-link--meta\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/#Enhancements-51\" target=\"_blank\" rel=\"noreferrer\">Recon Hunter</a>\n• 1x Ravenwing Apothecary\n◦ 1x Black Knight combat weapon\n◦ 1x Bolt pistol\n◦ 1x Plasma talon\n• 1x Ravenwing Ancient\n◦ 1x Black Knight combat weapon\n◦ 1x Bolt pistol\n◦ 1x Plasma talon\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Outrider-Squad/\" target=\"_blank\" rel=\"noreferrer\">Outrider Squad (70 Points)</a>\n• Attached as: Bodyguard\n• 1x Outrider Sergeant\n◦ 1x Astartes chainsword\n◦ 1x Heavy bolt pistol\n◦ 1x Twin bolt rifle\n• 2x Outrider\n◦ 2x Astartes chainsword\n◦ 2x Heavy bolt pistol\n◦ 2x Twin bolt rifle\n\nCHARACTERS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Lion-El-jonson/\" target=\"_blank\" rel=\"noreferrer\">Lion El’Jonson (265 Points)</a>\n• Warlord\n• 1x Arma Luminis\n• 1x Fealty\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Techmarine/\" target=\"_blank\" rel=\"noreferrer\">Techmarine (55 Points)</a>\n• 1x Forge bolter\n• 1x Grav-pistol\n• 1x Omnissian power axe\n• 1x Servo-arm\n\nOTHER DATASHEETS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Deathwing-Knights/\" target=\"_blank\" rel=\"noreferrer\">Deathwing Knights (240 Points)</a>\n• 1x Knight Master\n◦ 1x Great weapon of the Unforgiven\n• 4x Deathwing Knight\n◦ 4x Mace of absolution\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Deathwing-Knights/\" target=\"_blank\" rel=\"noreferrer\">Deathwing Knights (240 Points)</a>\n• 1x Knight Master\n◦ 1x Great weapon of the Unforgiven\n• 4x Deathwing Knight\n◦ 4x Mace of absolution\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Infiltrator-Squad/\" target=\"_blank\" rel=\"noreferrer\">Infiltrator Squad (110 Points)</a>\n• 1x Infiltrator Sergeant\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n◦ 1x Marksman bolt carbine\n• 4x Infiltrator\n◦ 4x Bolt pistol\n◦ 4x Close combat weapon\n◦ 1x Helix Gauntlet\n◦ 1x Infiltrator Comms Array\n◦ 4x Marksman bolt carbine\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder/\" target=\"_blank\" rel=\"noreferrer\">Land Speeder (105 Points)</a>\n• 1x Close-combat weapon\n• 1x Multi-melta\n• 1x Onslaught gatling cannon\n• 1x Stormfury missile launcher\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder-Vengeance/\" target=\"_blank\" rel=\"noreferrer\">Land Speeder Vengeance (145 Points)</a>\n• 1x Close combat weapon\n• 1x Heavy bolter\n• 1x Plasma storm battery\n• Enhancements: Nightforged Battery (Upgrade)\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder-Vengeance/\" target=\"_blank\" rel=\"noreferrer\">Land Speeder Vengeance (145 Points)</a>\n• 1x Close combat weapon\n• 1x Heavy bolter\n• 1x Plasma storm battery\n• Enhancements: Nightforged Battery (Upgrade)\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder-Vengeance/\" target=\"_blank\" rel=\"noreferrer\">Land Speeder Vengeance (155 Points)</a>\n• 1x Close combat weapon\n• 1x Heavy bolter\n• 1x Plasma storm battery\n• Enhancements: Nightforged Battery (Upgrade)\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Scout-Squad/\" target=\"_blank\" rel=\"noreferrer\">Scout Squad (65 Points)</a>\n• 1x Scout Sergeant\n◦ 1x Astartes chainsword\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n• 4x Scout\n◦ 4x Bolt pistol\n◦ 4x Close combat weapon\n◦ 4x Combat knife\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/space-marines/Scout-Squad/\" target=\"_blank\" rel=\"noreferrer\">Scout Squad (65 Points)</a>\n• 1x Scout Sergeant\n◦ 1x Astartes chainsword\n◦ 1x Bolt pistol\n◦ 1x Close combat weapon\n• 4x Scout\n◦ 4x Bolt pistol\n◦ 4x Close combat weapon\n◦ 4x Combat knife\n\nALLIED UNITS\n\n<a class=\"roster-link roster-link--unit\" href=\"https://wahapedia.ru/wh40k11ed/factions/imperial-agents/Callidus-Assassin/\" target=\"_blank\" rel=\"noreferrer\">Callidus Assassin (100 Points)</a>\n• 1x Neural shredder\n• 1x Phase sword and poison blades\n\nExported with App Version: v2.5.0 (1), Data Version: v931"
     }
   ],
   "ratings": {
@@ -2326,92 +2491,281 @@ window.BCP_DATA = {
   },
   "matchupAnalysis": {
     "schemaVersion": 1,
-    "generatedAt": "2026-08-31T15:14:41.629Z",
+    "generatedAt": "2026-09-05T01:02:18.967Z",
     "playerCount": 36,
     "entries": [
       {
-        "playerId": "fUEV9jjYXUPC",
-        "player": "Dan Freeman",
-        "team": "Comp Play",
-        "faction": "World Eaters",
-        "slug": "dan-freeman",
-        "pageUrl": "matchups/dan-freeman/",
+        "playerId": "emXgJOxr91aT",
+        "player": "Chris Shaw",
+        "team": "The Real Comp Play",
+        "faction": "Orks",
+        "slug": "chris-shaw",
+        "pageUrl": "matchups/chris-shaw/",
         "rating": 4,
         "stars": "★★★★☆",
-        "verdict": "Fast melee is a good structural fit, but the missing list makes the exact threat package unknown.",
-        "playerPlan": "Screen Scout/pre-game lanes, offer Wraiths as the first contact and keep Nightbringer, Skorpekhs and Nekrosor together for the counter-charge.",
-        "army": "Very fast melee pressure with pre-game movement, hard character-led units and multiple early-charge threats.",
-        "opponentPlan": "They try to pin the army immediately and kill several units before a coherent counter-charge is possible.",
-        "kaashifPlan": "This is a favourable style if deployment blocks the first wave. Put bodies in Scout lanes, receive with Wraiths and counter-charge with the entire missile rather than individual pieces.",
-        "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/",
-        "confidence": "Low",
-        "evidence": "No list was submitted; this is a faction-level provisional read.",
-        "listId": null,
-        "listUrl": null,
-        "threats": []
+        "verdict": "Ghazghkull, Meganobz, Squighogs and Kommandos bring the kind of direct Ork pressure the Wraith screen wants to receive.",
+        "playerPlan": "Block the forward tricks, keep Technomancers away from Snikrot and let Wraiths pin the first wave while the missile selects Ghaz or the Meganob brick.",
+        "army": "A high-volume pressure army with fast melee, large units, transports and disruptive forward pieces.",
+        "opponentPlan": "It wants to occupy lanes early, pin the army in deployment and deliver several charges at once.",
+        "kaashifPlan": "This is a preferred shape: block Scout moves when needed, let Wraiths absorb the first contact and counter-charge the committed mass with the compact missile.",
+        "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/orks/",
+        "confidence": "High",
+        "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
+        "listId": "UteQl8HRtVLw",
+        "listUrl": "https://www.bestcoastpairings.com/list/UteQl8HRtVLw",
+        "threats": [
+          {
+            "name": "Painboy",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Painboy/",
+            "notes": [
+              "Precision: ’Urty syringe anti-infantry 4+ extra attacks precision (1 damage)",
+              "Mortal wounds: Dok’s Toolz."
+            ]
+          },
+          {
+            "name": "Squighog Boyz",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Squighog-Boyz/",
+            "notes": [
+              "Mortal wounds: Bomb Squigs."
+            ]
+          },
+          {
+            "name": "Kommandos",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Kommandos/",
+            "notes": [
+              "Mortal wounds: Bomb Squigs.",
+              "High damage: Rokkit launcha blast (3)"
+            ]
+          },
+          {
+            "name": "Ghazghkull Thraka",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Ghazghkull-Thraka/",
+            "notes": [
+              "High damage: Gork’s Klaw - strike (4)",
+              "Devastating Wounds: Makari’s stabba devastating wounds"
+            ]
+          },
+          {
+            "name": "Big Mek In Mega Armour",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Big-Mek-In-Mega-Armour/",
+            "notes": [
+              "High damage: Kustom mega-blasta hazardous (D6), Tellyport blasta blast (3)",
+              "Devastating Wounds: Kombi-weapon anti-infantry 4+ devastating wounds rapid fire 1"
+            ]
+          },
+          {
+            "name": "Mozrog Skragbad",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Mozrog-Skragbad/",
+            "notes": [
+              "High damage: Big Chompa’s jaws devastating wounds extra attacks (4), Gutrippa anti-monster 4+ anti-vehicle 4+ (3)",
+              "Devastating Wounds: Big Chompa’s jaws devastating wounds extra attacks"
+            ]
+          }
+        ]
       },
       {
-        "playerId": "ve9Jtj6OI9dq",
-        "player": "Harley Stevens",
-        "team": "Comp Play",
-        "faction": "Death Guard",
-        "slug": "harley-stevens",
-        "pageUrl": "matchups/harley-stevens/",
-        "rating": 4,
-        "stars": "★★★★☆",
-        "verdict": "Death Guard are usually slow enough to catch and often rely on damage profiles that Necrodermis handles efficiently.",
-        "playerPlan": "Choose one flank, avoid being debuffed across the whole army and use the Wraiths to hold the centre while the missile deletes one block at a time.",
-        "army": "Slow, durable close-range units with debuffs, resilient infantry and damaging short-range brawlers.",
-        "opponentPlan": "They normally compress the board, occupy the middle and grind down anything that stays in contagion range.",
-        "kaashifPlan": "The low speed helps. Screen debuff pieces with Wraiths, preserve the Technomancers and choose one flank so the counter-charge overwhelms rather than feeds the grind.",
-        "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/death-guard/",
-        "confidence": "Low",
-        "evidence": "No list was submitted; this is a faction-level provisional read.",
-        "listId": null,
-        "listUrl": null,
-        "threats": []
+        "playerId": "mROtAJW47SFR",
+        "player": "Christopher  Dyas",
+        "team": "The Real Comp Play",
+        "faction": "T'au Empire",
+        "slug": "christopher-dyas",
+        "pageUrl": "matchups/christopher-dyas/",
+        "rating": 1,
+        "stars": "★☆☆☆☆",
+        "verdict": "Sunforge and Fireknife Crisis suits, a Hammerhead and a Ghostkeel create mobile high-damage angles that can avoid the slow Necron melee package.",
+        "playerPlan": "Deploy without visible C’tan or Technomancers, then force the suits and tanks to contest several objectives inside Wraith charge distance.",
+        "army": "Fast, efficient shooting with battlesuits, skimmers, rail weapons and disposable spotting or screening units.",
+        "opponentPlan": "They create firing angles, focus one durable target and reposition so the counter-charge cannot connect.",
+        "kaashifPlan": "This is the worst archetype for Kaashif. Stage completely out of sight, pressure several objectives together and use Wraiths to trap suits or vehicles before revealing C’tan.",
+        "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/",
+        "confidence": "High",
+        "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
+        "listId": "74VbeImojDQH",
+        "listUrl": "https://www.bestcoastpairings.com/list/74VbeImojDQH",
+        "threats": [
+          {
+            "name": "Hammerhead Gunship",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Hammerhead-Gunship/",
+            "notes": [
+              "High damage: Ion cannon – overcharge blast hazardous (3), Railgun heavy devastating wounds (D6+6)",
+              "Devastating Wounds: Railgun heavy devastating wounds"
+            ]
+          },
+          {
+            "name": "Pathfinder Team",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Pathfinder-Team/",
+            "notes": [
+              "High damage: Rail rifle devastating wounds heavy (3), Semi-automatic grenade launcher – fusion (3)",
+              "Devastating Wounds: Rail rifle devastating wounds heavy, Semi-automatic grenade launcher – EMP anti-vehicle 4+ devastating wounds"
+            ]
+          },
+          {
+            "name": "Devilfish",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Devilfish/",
+            "notes": [
+              "High damage: Seeker missile one shot (D6+1)"
+            ]
+          },
+          {
+            "name": "Ghostkeel Battlesuit",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Ghostkeel-Battlesuit/",
+            "notes": [
+              "High damage: Cyclic ion raker – overcharge hazardous (3), Fusion collider melta 2 (D6)"
+            ]
+          },
+          {
+            "name": "Piranhas",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Piranhas/",
+            "notes": [
+              "High damage: Piranha fusion blaster melta 4 (D6), Seeker missile one shot (D6+1)"
+            ]
+          },
+          {
+            "name": "Vespid Stingwings",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Vespid-Stingwings/",
+            "notes": [
+              "High damage: Neutron rail rifle DEVASTATING WOUNDS (3)",
+              "Devastating Wounds: Neutron rail rifle DEVASTATING WOUNDS"
+            ]
+          }
+        ]
       },
       {
-        "playerId": "A2YnULLCXvNK",
-        "player": "Luke Vincent",
-        "team": "Comp Play",
-        "faction": "Genestealer Cult",
-        "slug": "luke-vincent",
-        "pageUrl": "matchups/luke-vincent/",
-        "rating": 2,
-        "stars": "★★☆☆☆",
-        "verdict": "GSC mobility, reserve play and short-range shooting can pull the slow Necron package apart.",
-        "playerPlan": "Screen the backfield, deny easy landing zones near Technomancers and force the ambush units to appear within a reliable Wraith counter-charge.",
-        "army": "A mobile ambush army with deep strike, redeployment, short-range shooting and disposable units that can return.",
-        "opponentPlan": "They attack from reserves, overload a weak edge and score while avoiding a straight durability fight.",
-        "kaashifPlan": "Screen deeply, keep the missile compact and do not let the army be pulled apart. The main danger is mobile shooting and repeated scoring rather than a fair brawl.",
-        "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/genestealer-cults/",
-        "confidence": "Low",
-        "evidence": "No list was submitted; this is a faction-level provisional read.",
-        "listId": null,
-        "listUrl": null,
-        "threats": []
+        "playerId": "u9p9775Nzq8s",
+        "player": "Liam Macindoe",
+        "team": "The Real Comp Play",
+        "faction": "Deathwatch",
+        "slug": "liam-macindoe",
+        "pageUrl": "matchups/liam-macindoe/",
+        "rating": 1,
+        "stars": "★☆☆☆☆",
+        "verdict": "Deathwatch kill teams combine flexible shooting, elite infantry and a Thunderstrike with enough mobility to target the Necron support package.",
+        "playerPlan": "Inventory the kill-team weapon profiles, protect Technomancers and use both Wraith units to close shooting lanes before committing isolated C’tan.",
+        "army": "A flexible Space Marine force with specialist kill teams, elite infantry and access to broad weapon mixes.",
+        "opponentPlan": "They combine layered shooting with durable infantry, then use mission tools and focused attacks to remove a chosen target.",
+        "kaashifPlan": "Inventory their high-damage and Precision weapons before deploying, protect the Technomancers and use Wraiths to pin the shooting elements before committing C’tan.",
+        "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/",
+        "confidence": "High",
+        "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
+        "listId": "w4U68Cw6cMwP",
+        "listUrl": "https://www.bestcoastpairings.com/list/w4U68Cw6cMwP",
+        "threats": [
+          {
+            "name": "Deathwatch Veterans",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Deathwatch-Veterans/",
+            "notes": [
+              "Precision: Stalker-pattern boltgun heavy precision (2 damage)",
+              "High damage: Deathwatch thunder hammer devastating wounds (3)",
+              "Devastating Wounds: Combi-weapon anti-infantry 4+ devastating wounds rapid fire 1, Deathwatch thunder hammer devastating wounds"
+            ]
+          },
+          {
+            "name": "Deathwatch Terminator Squad",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Deathwatch-Terminator-Squad/",
+            "notes": [
+              "High damage: Cyclone missile launcher – krak (D6)",
+              "Devastating Wounds: Assault cannon devastating wounds, Thunder hammer devastating wounds"
+            ]
+          },
+          {
+            "name": "Storm Speeder Thunderstrike",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Storm-Speeder-Thunderstrike/",
+            "notes": [
+              "High damage: Stormfury missiles (D6+1), Thunderstrike las-talon (D6+1)"
+            ]
+          },
+          {
+            "name": "Intercessor Squad",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Intercessor-Squad/",
+            "notes": [
+              "High damage: Astartes grenade launcher – krak (D3)",
+              "Devastating Wounds: Thunder hammer devastating wounds"
+            ]
+          },
+          {
+            "name": "Captain In Gravis Armour",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Captain-In-Gravis-Armour/",
+            "notes": [
+              "High damage: Master-crafted heavy bolt rifle assault heavy (3)"
+            ]
+          },
+          {
+            "name": "Indomitor Kill Team",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Indomitor-Kill-Team/",
+            "notes": [
+              "High damage: Deathwatch heavy bolter assault heavy lethal hits sustained hits 1 (3), Melta rifle heavy melta 2 (D6)"
+            ]
+          }
+        ]
       },
       {
-        "playerId": "us56yYVKKzis",
-        "player": "Tim Anderson",
-        "team": "Comp Play",
-        "faction": "Space Marines (Astartes)",
-        "slug": "tim-anderson",
-        "pageUrl": "matchups/tim-anderson/",
+        "playerId": "HylIlKMx6e7T",
+        "player": "Nick Watkins",
+        "team": "The Real Comp Play",
+        "faction": "Emperor's Children",
+        "slug": "nick-watkins",
+        "pageUrl": "matchups/nick-watkins/",
         "rating": 3,
         "stars": "★★★☆☆",
-        "verdict": "Unknown Space Marines are neutral until their mix of mobile shooting, melta and Precision is known.",
-        "playerPlan": "At the table, inventory D3+ guns and sniper effects before deployment; only then decide whether the Wraiths can stage aggressively.",
-        "army": "A flexible Space Marine force that may combine mobile shooting, durable infantry, transports and melee.",
-        "opponentPlan": "Without the submitted list, it could play either a mid-board combined-arms game or a more mobile shooting game.",
-        "kaashifPlan": "Keep the read provisional. Check for Scout snipers, melta, D6+ damage and shoot-and-move units before exposing Technomancers or C’tan.",
-        "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/",
-        "confidence": "Low",
-        "evidence": "No list was submitted; this is a faction-level provisional read.",
-        "listId": null,
-        "listUrl": null,
-        "threats": []
+        "verdict": "The Emperor’s Children list mixes fast daemon pressure, several monsters and a Defiler, making it catchable but dangerous to unsupported pieces.",
+        "playerPlan": "Screen Shalaxi and the winged threats with Wraiths, hide the Technomancers from character attacks and counter one monster at a time with the full missile.",
+        "army": "Fast elite melee pressure with numerous character-led units, Precision access and powerful monsters.",
+        "opponentPlan": "They want to dictate combats, isolate leaders and use Fulgrim or another hammer to break the durable centre.",
+        "kaashifPlan": "Receive the charge through Wraiths, never offer a clean Precision line to a Technomancer and counter-charge the committed hammer with several threats together.",
+        "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/",
+        "confidence": "High",
+        "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
+        "listId": "3bHF7kowOiVP",
+        "listUrl": "https://www.bestcoastpairings.com/list/3bHF7kowOiVP",
+        "threats": [
+          {
+            "name": "Shalaxi Helbane",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Shalaxi-Helbane/",
+            "notes": [
+              "Precision: Soulpiercer precision (D6+2 damage)",
+              "High damage: Pavane of Slaanesh – witchfire devastating wounds psychic (D3), Pavane of Slaanesh – focused witchfire hazardous devastating wounds psychic sustained hits 3 (D3)",
+              "Devastating Wounds: Pavane of Slaanesh – witchfire devastating wounds psychic, Pavane of Slaanesh – focused witchfire hazardous devastating wounds psychic sustained hits 3"
+            ]
+          },
+          {
+            "name": "Defiler",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Defiler/",
+            "notes": [
+              "Precision: Shearing claws – strike precision (D6+1 damage)",
+              "High damage: Hades battle cannon blast (3), Ectoplasma destructor blast (3)",
+              "Devastating Wounds: Heavy reaper autocannon devastating wounds sustained hits 1"
+            ]
+          },
+          {
+            "name": "Tormentors",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Tormentors/",
+            "notes": [
+              "Precision: Bolt pistol pistol precision (1 damage), Boltgun precision (1 damage)",
+              "High damage: Meltagun melta 2 precision (D6)"
+            ]
+          },
+          {
+            "name": "Daemon Prince of Slaanesh with Wings",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Daemon-Prince-of-Slaanesh-with-Wings/",
+            "notes": [
+              "Mortal wounds: Daemonic Destruction."
+            ]
+          },
+          {
+            "name": "Maulerfiend",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Maulerfiend/",
+            "notes": [
+              "High damage: Magma cutters melta 2 (D6), Maulerfiend fists (D6+1)"
+            ]
+          },
+          {
+            "name": "Lord Exultant",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/Lord-Exultant/",
+            "notes": [
+              "Precision: Master-crafted power sword precision (2 damage)"
+            ]
+          }
+        ]
       },
       {
         "playerId": "BuiJpJWVybKf",
@@ -2430,8 +2784,8 @@ window.BCP_DATA = {
         "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/",
         "confidence": "High",
         "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
-        "listId": "m3WkBIscvIfD",
-        "listUrl": "https://www.bestcoastpairings.com/list/m3WkBIscvIfD",
+        "listId": "fl6dywK1fELx",
+        "listUrl": "https://www.bestcoastpairings.com/list/fl6dywK1fELx",
         "threats": [
           {
             "name": "Terminator Squad",
@@ -2500,16 +2854,15 @@ window.BCP_DATA = {
         "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/",
         "confidence": "High",
         "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
-        "listId": "NdL1eiju0V7K",
-        "listUrl": "https://www.bestcoastpairings.com/list/NdL1eiju0V7K",
+        "listId": "MQlR1KawpKFV",
+        "listUrl": "https://www.bestcoastpairings.com/list/MQlR1KawpKFV",
         "threats": [
           {
-            "name": "Blade Champion",
-            "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Blade-Champion/",
+            "name": "Vertus Praetors",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Vertus-Praetors/",
             "notes": [
-              "Precision: Vaultswords – Behemor precision (2 damage)",
-              "High damage: Vaultswords – Victus devastating wounds (3)",
-              "Devastating Wounds: Vaultswords – Victus devastating wounds"
+              "Mortal wounds: Turbo-boost.",
+              "High damage: Salvo launcher twin-linked (D6+1)"
             ]
           },
           {
@@ -2762,8 +3115,8 @@ window.BCP_DATA = {
         "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/emperor-s-children/",
         "confidence": "High",
         "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
-        "listId": "nJX30tKBYWDG",
-        "listUrl": "https://www.bestcoastpairings.com/list/nJX30tKBYWDG",
+        "listId": "IZ3tB6zywOUZ",
+        "listUrl": "https://www.bestcoastpairings.com/list/IZ3tB6zywOUZ",
         "threats": [
           {
             "name": "Fulgrim",
@@ -2931,16 +3284,16 @@ window.BCP_DATA = {
         "pageUrl": "matchups/brando-mccready/",
         "rating": 2,
         "stars": "★★☆☆☆",
-        "verdict": "The submitted text contains no usable army list, so this is only a Votann faction-level warning about efficient high-damage shooting.",
-        "playerPlan": "Treat the rating as provisional; inspect the actual roster for Hekatons, rail weapons, Thunderkyn and Precision before choosing C’tan lanes.",
+        "verdict": "The Votann list combines two large Hearthguard bricks with Thunderkyn, fast Pioneers and numerous Yaegir screens.",
+        "playerPlan": "Protect C’tan from grav fire, do not let the Yaegirs pull the army apart and use Wraiths to pin the mobile elements before committing into Hearthguard.",
         "army": "Tough mid-range infantry and vehicles with efficient high-damage shooting and strong objective control.",
         "opponentPlan": "They usually establish a shooting castle, mark priority targets and move durable units onto the midfield once trades begin.",
         "kaashifPlan": "Avoid long lanes and expose only when Wraiths can connect. Their D3+ and rail-style weapons are much worse for C’tan than ordinary D2 volume.",
         "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/",
-        "confidence": "Low",
-        "evidence": "The submitted entry contains no usable roster; this is a faction-level provisional read.",
-        "listId": null,
-        "listUrl": null,
+        "confidence": "High",
+        "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
+        "listId": "1WsdUJAerW1n",
+        "listUrl": "https://www.bestcoastpairings.com/list/1WsdUJAerW1n",
         "threats": []
       },
       {
@@ -2952,38 +3305,132 @@ window.BCP_DATA = {
         "pageUrl": "matchups/max-pringle/",
         "rating": 3,
         "stars": "★★★☆☆",
-        "verdict": "CSM can be a favourable melee brawl or a difficult mobile shooting list; no submission exists to distinguish them.",
-        "playerPlan": "Identify the real hammers and Precision at the table, then keep the missile compact and force the opponent to commit through Wraiths.",
+        "verdict": "The Red Corsairs list combines fast infantry and bikes with Mutilators, a Predator and a Defiler, giving it both catchable pressure and dangerous guns.",
+        "playerPlan": "Identify the high-damage lanes, receive the mobile wave with Wraiths and counter only when the Predator and Defiler can also be tagged or hidden from.",
         "army": "A flexible combined-arms faction that can mix durable infantry, fast melee, transports and dangerous shooting.",
-        "opponentPlan": "Without the submitted list, the exact plan is unknown; expect layered trading pieces and powerful character-led units.",
-        "kaashifPlan": "Keep the rating provisional. Identify Precision, mortal-wound and D3+ weapons at the table, then decide whether to receive melee or stage for a shooting army.",
+        "opponentPlan": "They use layered trading pieces and powerful character-led units while vehicles establish damaging firing lanes.",
+        "kaashifPlan": "Identify Precision, mortal-wound and D3+ weapons before exposing support pieces, then decide whether to receive the melee elements or stage for the guns.",
         "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/",
-        "confidence": "Low",
-        "evidence": "No list was submitted; this is a faction-level provisional read.",
-        "listId": null,
-        "listUrl": null,
-        "threats": []
+        "confidence": "High",
+        "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
+        "listId": "DCRQd624qk8j",
+        "listUrl": "https://www.bestcoastpairings.com/list/DCRQd624qk8j",
+        "threats": [
+          {
+            "name": "Masters of the Maelstrom",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Masters-of-the-Maelstrom/",
+            "notes": [
+              "Precision: Mind Wrench precision psychic (D6+1 damage), Axe of Ending anti-character 2+ precision (2 damage)",
+              "Mortal wounds: Choice Samples.",
+              "High damage: Mind Wrench precision psychic (D6+1)"
+            ]
+          },
+          {
+            "name": "Sorcerer",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Sorcerer/",
+            "notes": [
+              "Mortal wounds: Prescience (Psychic).",
+              "High damage: Infernal Gaze – witchfire psychic (D3), Infernal Gaze – focused witchfire devastating wounds hazardous psychic (D3)",
+              "Devastating Wounds: Infernal Gaze – focused witchfire devastating wounds hazardous psychic"
+            ]
+          },
+          {
+            "name": "Chaos Predator Destructor",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Chaos-Predator-Destructor/",
+            "notes": [
+              "High damage: Lascannon (D6+1), Predator autocannon rapid fire 2 (3)",
+              "Devastating Wounds: Combi-weapon anti-infantry 4+ devastating wounds rapid fire 1"
+            ]
+          },
+          {
+            "name": "Defiler",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Defiler/",
+            "notes": [
+              "High damage: Hades battle cannon blast (3), Ectoplasma destructor blast (3)",
+              "Devastating Wounds: Heavy reaper autocannon devastating wounds sustained hits 1"
+            ]
+          },
+          {
+            "name": "Mutilators",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Mutilators/",
+            "notes": [
+              "Mortal wounds: Crushing Charge."
+            ]
+          },
+          {
+            "name": "Kravek Morne",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-space-marines/Kravek-Morne/",
+            "notes": [
+              "Devastating Wounds: Last Argument and power fist devastating wounds"
+            ]
+          }
+        ]
       },
       {
         "playerId": "05EtaDqVOpyt",
         "player": "Rob Lebeau",
         "team": "For King & Comp Play",
-        "faction": "Drukhari",
+        "faction": "Dark Angels",
         "slug": "rob-lebeau",
         "pageUrl": "matchups/rob-lebeau/",
         "rating": 2,
         "stars": "★★☆☆☆",
-        "verdict": "Drukhari speed and trading can evade the slow counter-charge and open unexpected angles onto Technomancers.",
-        "playerPlan": "Castle the support pieces, cover both flanks with Wraith threat and make the objectives force transports into charge range before exposing the missile.",
-        "army": "Very fast, fragile units in transports with strong trading, mobile shooting and precise melee threats.",
-        "opponentPlan": "They try to stay uncatchable, expose only the unit needed for a trade and attack support pieces from unexpected angles.",
-        "kaashifPlan": "This is structurally awkward. Protect Technomancers from angles, reserve a counterpunch and use objectives to force fragile boats and infantry into Wraith charge range.",
-        "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/drukhari/",
-        "confidence": "Low",
-        "evidence": "No list was submitted; this is a faction-level provisional read.",
-        "listId": null,
-        "listUrl": null,
-        "threats": []
+        "verdict": "Ravenwing speed, mobile plasma and speeder fire can evade the slow counter-charge while the Lion and Deathwing Knights anchor the centre.",
+        "playerPlan": "Refuse the opening bike and speeder lanes, keep Technomancers screened and force the Ravenwing onto objectives where Wraiths can trap them.",
+        "army": "Space Marines with access to durable elite infantry and highly mobile Ravenwing shooting.",
+        "opponentPlan": "A mobile build can create cross-board angles, shoot and reposition while a hard melee unit controls the centre.",
+        "kaashifPlan": "Do not chase skirmishers across open lanes. Hide the support package, force the bikes toward objectives and launch only when the Wraiths can trap them.",
+        "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/",
+        "confidence": "High",
+        "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
+        "listId": "floIrkeJlUzM",
+        "listUrl": "https://www.bestcoastpairings.com/list/floIrkeJlUzM",
+        "threats": [
+          {
+            "name": "Land Speeder",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder/",
+            "notes": [
+              "High damage: Multi-melta melta 2 (D6), Stormfury missile launcher (D6+1)",
+              "Devastating Wounds: Onslaught gatling cannon devastating wounds"
+            ]
+          },
+          {
+            "name": "Scout Squad",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Scout-Squad/",
+            "notes": [
+              "Precision: Scout sniper rifle HEAVY PRECISION (2 damage)",
+              "High damage: Missile launcher – krak heavy (D6)"
+            ]
+          },
+          {
+            "name": "Lion El’jonson",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Lion-El-jonson/",
+            "notes": [
+              "High damage: Fealty – strike lethal hits (4)"
+            ]
+          },
+          {
+            "name": "Techmarine",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Techmarine/",
+            "notes": [
+              "High damage: Servo-arm extra attacks (3)"
+            ]
+          },
+          {
+            "name": "Incursor Squad",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Incursor-Squad/",
+            "notes": [
+              "Mortal wounds: Haywire Mine."
+            ]
+          },
+          {
+            "name": "Storm Speeder Thunderstrike",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Storm-Speeder-Thunderstrike/",
+            "notes": [
+              "High damage: Stormfury missiles (D6+1), Thunderstrike las-talon (D6+1)"
+            ]
+          }
+        ]
       },
       {
         "playerId": "xvRnMLgEwfn8",
@@ -2994,17 +3441,63 @@ window.BCP_DATA = {
         "pageUrl": "matchups/sam-cordell/",
         "rating": 1,
         "stars": "★☆☆☆☆",
-        "verdict": "Even without a list, T’au are exactly the fast shooting archetype Kaashif dislikes.",
-        "playerPlan": "Deploy for zero early lines, preserve both Wraith bricks and accept scoring pressure until a multi-tag charge can trap the shooting assets.",
+        "verdict": "The submitted T’au list has the exact mobile-shooting profile Kaashif dislikes: a Hammerhead, Riptide, Ghostkeel, Piranhas and layered spotters.",
+        "playerPlan": "Deploy for zero early lines, preserve both Wraith bricks and accept scoring pressure until a multi-tag charge can trap the main shooting assets.",
         "army": "Fast, efficient shooting with battlesuits, skimmers, rail weapons and disposable spotting or screening units.",
         "opponentPlan": "They create firing angles, focus one durable target and reposition so the counter-charge cannot connect.",
         "kaashifPlan": "This is the worst archetype for Kaashif. Stage completely out of sight, pressure several objectives together and use Wraiths to trap suits or vehicles before revealing C’tan.",
         "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/",
-        "confidence": "Low",
-        "evidence": "No list was submitted; this is a faction-level provisional read.",
-        "listId": null,
-        "listUrl": null,
-        "threats": []
+        "confidence": "High",
+        "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
+        "listId": "913iG69WCg2d",
+        "listUrl": "https://www.bestcoastpairings.com/list/913iG69WCg2d",
+        "threats": [
+          {
+            "name": "Hammerhead Gunship",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Hammerhead-Gunship/",
+            "notes": [
+              "High damage: Ion cannon – overcharge blast hazardous (3), Railgun heavy devastating wounds (D6+6)",
+              "Devastating Wounds: Railgun heavy devastating wounds"
+            ]
+          },
+          {
+            "name": "Pathfinder Team",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Pathfinder-Team/",
+            "notes": [
+              "High damage: Rail rifle devastating wounds heavy (3), Semi-automatic grenade launcher – fusion (3)",
+              "Devastating Wounds: Rail rifle devastating wounds heavy, Semi-automatic grenade launcher – EMP anti-vehicle 4+ devastating wounds"
+            ]
+          },
+          {
+            "name": "Devilfish",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Devilfish/",
+            "notes": [
+              "High damage: Seeker missile one shot (D6+1)"
+            ]
+          },
+          {
+            "name": "Ghostkeel Battlesuit",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Ghostkeel-Battlesuit/",
+            "notes": [
+              "High damage: Cyclic ion raker – overcharge hazardous (3), Fusion collider melta 2 (D6)"
+            ]
+          },
+          {
+            "name": "Piranhas",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Piranhas/",
+            "notes": [
+              "High damage: Piranha fusion blaster melta 4 (D6), Seeker missile one shot (D6+1)"
+            ]
+          },
+          {
+            "name": "Vespid Stingwings",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Vespid-Stingwings/",
+            "notes": [
+              "High damage: Neutron rail rifle DEVASTATING WOUNDS (3)",
+              "Devastating Wounds: Neutron rail rifle DEVASTATING WOUNDS"
+            ]
+          }
+        ]
       },
       {
         "playerId": "vI3V935pWkTB",
@@ -3151,56 +3644,7 @@ window.BCP_DATA = {
         "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
         "listId": "BIcvGDyhQRUk",
         "listUrl": "https://www.bestcoastpairings.com/list/BIcvGDyhQRUk",
-        "threats": [
-          {
-            "name": "Einhyr Champion",
-            "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Einhyr-Champion/",
-            "notes": [
-              "Mortal wounds: Exemplar of the Einhyr.",
-              "High damage: Mass hammer (D6+1)"
-            ]
-          },
-          {
-            "name": "Buri Aegnirssen",
-            "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Buri-Aegnirssen/",
-            "notes": [
-              "Precision: Bane – strike precision (3 damage)",
-              "High damage: Bane – strike precision (3)"
-            ]
-          },
-          {
-            "name": "Einhyr Hearthguard",
-            "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Einhyr-Hearthguard/",
-            "notes": [
-              "High damage: Graviton hammer anti-monster 3+ anti-vehicle 3+ (3)",
-              "Devastating Wounds: Volkanite disintegrator devastating wounds"
-            ]
-          },
-          {
-            "name": "Hearthkyn Warriors",
-            "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Hearthkyn-Warriors/",
-            "notes": [
-              "High damage: L7 missile launcher – focused (D6), Magna-rail rifle devastating wounds heavy (D3+3)",
-              "Devastating Wounds: Magna-rail rifle devastating wounds heavy"
-            ]
-          },
-          {
-            "name": "Hekaton Land Fortress",
-            "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Hekaton-Land-Fortress/",
-            "notes": [
-              "High damage: Heavy magna-rail cannon devastating wounds heavy (D6+4), SP heavy conversion beamer conversion lethal hits (4)",
-              "Devastating Wounds: Heavy magna-rail cannon devastating wounds heavy"
-            ]
-          },
-          {
-            "name": "Ironkin Steeljacks with Heavy Volkanite Disintegrators",
-            "url": "https://wahapedia.ru/wh40k11ed/factions/leagues-of-votann/Ironkin-Steeljacks-with-Heavy-Volkanite-Disintegrators/",
-            "notes": [
-              "A conditional Precision ability is present; check its target restrictions.",
-              "Devastating Wounds: Heavy volkanite disintegrator devastating wounds"
-            ]
-          }
-        ]
+        "threats": []
       },
       {
         "playerId": "A788NNoLqnoA",
@@ -3355,8 +3799,8 @@ window.BCP_DATA = {
         "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/",
         "confidence": "High",
         "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
-        "listId": "rBYVquBqN9i0",
-        "listUrl": "https://www.bestcoastpairings.com/list/rBYVquBqN9i0",
+        "listId": "OTK8gYfDrnAN",
+        "listUrl": "https://www.bestcoastpairings.com/list/OTK8gYfDrnAN",
         "threats": [
           {
             "name": "Lord Invocatus",
@@ -3627,8 +4071,8 @@ window.BCP_DATA = {
         "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/necrons/",
         "confidence": "High",
         "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
-        "listId": "D9dNkC9eMyi0",
-        "listUrl": "https://www.bestcoastpairings.com/list/D9dNkC9eMyi0",
+        "listId": "RCOziWuBu9em",
+        "listUrl": "https://www.bestcoastpairings.com/list/RCOziWuBu9em",
         "threats": [
           {
             "name": "C’tan Shard of the Void Dragon",
@@ -3644,14 +4088,6 @@ window.BCP_DATA = {
             "notes": [
               "Mortal wounds: United In Destruction.",
               "High damage: Hyperphase harvester (3)"
-            ]
-          },
-          {
-            "name": "Overlord",
-            "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/Overlord/",
-            "notes": [
-              "High damage: Tachyon arrow one shot (D6+2), Voidscythe devastating wounds (3)",
-              "Devastating Wounds: Overlord’s blade devastating wounds, Voidscythe devastating wounds"
             ]
           },
           {
@@ -3675,6 +4111,13 @@ window.BCP_DATA = {
             "notes": [
               "High damage: Unmaker Gauntlet (3)"
             ]
+          },
+          {
+            "name": "Lokhust Lord",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/necrons/Lokhust-Lord/",
+            "notes": [
+              "Devastating Wounds: Lord’s blade devastating wounds"
+            ]
           }
         ]
       },
@@ -3695,8 +4138,8 @@ window.BCP_DATA = {
         "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/",
         "confidence": "High",
         "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
-        "listId": "QLbZTVgmcaPG",
-        "listUrl": "https://www.bestcoastpairings.com/list/QLbZTVgmcaPG",
+        "listId": "4lEwbHl32csE",
+        "listUrl": "https://www.bestcoastpairings.com/list/4lEwbHl32csE",
         "threats": [
           {
             "name": "War Dog Brigand",
@@ -3710,13 +4153,6 @@ window.BCP_DATA = {
             "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Karnivore/",
             "notes": [
               "High damage: Slaughterclaw sustained hits 1 (D6+2)"
-            ]
-          },
-          {
-            "name": "War Dog Stalker",
-            "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-knights/War-Dog-Stalker/",
-            "notes": [
-              "High damage: Daemonbreath spear melta 4 (D6), Reaper chaintalon – strike (3)"
             ]
           },
           {
@@ -3745,8 +4181,8 @@ window.BCP_DATA = {
         "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/",
         "confidence": "High",
         "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
-        "listId": "vwcKAR0WtG9u",
-        "listUrl": "https://www.bestcoastpairings.com/list/vwcKAR0WtG9u",
+        "listId": "cQsqWlraqYQw",
+        "listUrl": "https://www.bestcoastpairings.com/list/cQsqWlraqYQw",
         "threats": [
           {
             "name": "Blade Champion",
@@ -3788,88 +4224,227 @@ window.BCP_DATA = {
         ]
       },
       {
-        "playerId": "emXgJOxr91aT",
-        "player": "Chris Shaw",
-        "team": "The Real Comp Play",
-        "faction": "Orks",
-        "slug": "chris-shaw",
-        "pageUrl": "matchups/chris-shaw/",
+        "playerId": "fUEV9jjYXUPC",
+        "player": "Dan Freeman",
+        "team": "Comp Play",
+        "faction": "World Eaters",
+        "slug": "dan-freeman",
+        "pageUrl": "matchups/dan-freeman/",
         "rating": 4,
         "stars": "★★★★☆",
-        "verdict": "Unknown Orks are still likely to bring pressure into the counter-charge zone, but the absence of a list lowers confidence.",
-        "playerPlan": "Check for Scout, transports and character Precision, then screen the first wave and keep the missile together behind the Wraiths.",
+        "verdict": "The World Eaters pressure still has to enter the counter-charge zone, though the daemon engines add meaningful high-damage shooting and melee.",
+        "playerPlan": "Make Eightbound hit Wraiths first, keep C’tan out of Forgefiend and Defiler lanes, then collapse the missile onto the committed wave.",
+        "army": "Very fast melee pressure with pre-game movement, hard character-led units and multiple early-charge threats.",
+        "opponentPlan": "They try to pin the army immediately and kill several units before a coherent counter-charge is possible.",
+        "kaashifPlan": "This is a favourable style if deployment blocks the first wave. Put bodies in Scout lanes, receive with Wraiths and counter-charge with the entire missile rather than individual pieces.",
+        "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/",
+        "confidence": "High",
+        "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
+        "listId": "Z80LrXKIg9tc",
+        "listUrl": "https://www.bestcoastpairings.com/list/Z80LrXKIg9tc",
+        "threats": [
+          {
+            "name": "Defiler",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Defiler/",
+            "notes": [
+              "High damage: Ectoplasma destructor blast rapid fire 2 (3), Hades battle cannon blast rapid fire 3 (3)",
+              "Devastating Wounds: Heavy reaper autocannon devastating wounds rapid fire 2 sustained hits 1"
+            ]
+          },
+          {
+            "name": "Helbrute",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Helbrute/",
+            "notes": [
+              "High damage: Plasma cannon blast hazardous rapid fire D3 (3), Missile launcher – krak rapid fire 1 (D6)"
+            ]
+          },
+          {
+            "name": "Forgefiend",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/world-eaters/Forgefiend/",
+            "notes": [
+              "High damage: Ectoplasma cannon blast rapid fire 1 (3)"
+            ]
+          }
+        ]
+      },
+      {
+        "playerId": "ve9Jtj6OI9dq",
+        "player": "Harley Stevens",
+        "team": "Comp Play",
+        "faction": "Chaos Daemons",
+        "slug": "harley-stevens",
+        "pageUrl": "matchups/harley-stevens/",
+        "rating": 4,
+        "stars": "★★★★☆",
+        "verdict": "The Daemon list is a catchable durability brawl built around Rotigus, a Great Unclean One and several Nurgle objective pieces.",
+        "playerPlan": "Screen the Khorne speed and reserve arrivals, hold the middle with Wraiths and focus one greater daemon before the next can join the combat.",
+        "army": "A mixed monster-and-infantry army with deep-strike pressure, invulnerable saves and disruptive melee threats.",
+        "opponentPlan": "They use reserve arrivals and fast monsters to overload a flank, contest the centre and force several awkward combats at once.",
+        "kaashifPlan": "Screen the Technomancers from deep strike, make the Daemons hit Wraiths first and concentrate the counter-charge into one greater threat at a time.",
+        "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/",
+        "confidence": "High",
+        "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
+        "listId": "HQDb0ymsZ1Nl",
+        "listUrl": "https://www.bestcoastpairings.com/list/HQDb0ymsZ1Nl",
+        "threats": [
+          {
+            "name": "Bloodcrushers",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Bloodcrushers/",
+            "notes": [
+              "Mortal wounds: Brass Stampede."
+            ]
+          },
+          {
+            "name": "Rotigus",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Rotigus/",
+            "notes": [
+              "High damage: Gnarlrod – strike lethal hits psychic (3)",
+              "Devastating Wounds: Streams of brackish filth devastating wounds ignores cover torrent"
+            ]
+          },
+          {
+            "name": "Skullmaster",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Skullmaster/",
+            "notes": [
+              "High damage: Blade of blood (3)"
+            ]
+          },
+          {
+            "name": "Great Unclean One",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Great-Unclean-One/",
+            "notes": [
+              "High damage: Bilesword – strike lethal hits (D6+1)"
+            ]
+          },
+          {
+            "name": "Beasts Of Nurgle",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/chaos-daemons/Beasts-Of-Nurgle/",
+            "notes": [
+              "Devastating Wounds: Putrid appendages devastating wounds"
+            ]
+          }
+        ]
+      },
+      {
+        "playerId": "A2YnULLCXvNK",
+        "player": "Luke Vincent",
+        "team": "Comp Play",
+        "faction": "Orks",
+        "slug": "luke-vincent",
+        "pageUrl": "matchups/luke-vincent/",
+        "rating": 2,
+        "stars": "★★☆☆☆",
+        "verdict": "This Ork list mixes durable melee pieces with substantial Lootas, Flash Gitz and mobile shooting, so it can pressure without offering a clean brawl.",
+        "playerPlan": "Block the early board-control pieces, hide the Technomancers from shooting angles and send Wraiths to pin Lootas or Flash Gitz before exposing the missile.",
         "army": "A high-volume pressure army with fast melee, large units, transports and disruptive forward pieces.",
         "opponentPlan": "It wants to occupy lanes early, pin the army in deployment and deliver several charges at once.",
         "kaashifPlan": "This is a preferred shape: block Scout moves when needed, let Wraiths absorb the first contact and counter-charge the committed mass with the compact missile.",
         "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/orks/",
-        "confidence": "Low",
-        "evidence": "No list was submitted; this is a faction-level provisional read.",
-        "listId": null,
-        "listUrl": null,
-        "threats": []
+        "confidence": "High",
+        "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
+        "listId": "qhhQ8u9kq1Yc",
+        "listUrl": "https://www.bestcoastpairings.com/list/qhhQ8u9kq1Yc",
+        "threats": [
+          {
+            "name": "Painboy",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Painboy/",
+            "notes": [
+              "Precision: ’Urty syringe anti-infantry 4+ extra attacks precision (1 damage)",
+              "Mortal wounds: Dok’s Toolz."
+            ]
+          },
+          {
+            "name": "Squighog Boyz",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Squighog-Boyz/",
+            "notes": [
+              "Mortal wounds: Bomb Squigs."
+            ]
+          },
+          {
+            "name": "Ghazghkull Thraka",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Ghazghkull-Thraka/",
+            "notes": [
+              "High damage: Gork’s Klaw - strike (4)",
+              "Devastating Wounds: Makari’s stabba devastating wounds"
+            ]
+          },
+          {
+            "name": "Mozrog Skragbad",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Mozrog-Skragbad/",
+            "notes": [
+              "High damage: Big Chompa’s jaws devastating wounds extra attacks (4), Gutrippa anti-monster 4+ anti-vehicle 4+ (3)",
+              "Devastating Wounds: Big Chompa’s jaws devastating wounds extra attacks"
+            ]
+          },
+          {
+            "name": "Wazdakka Gutsmek",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Wazdakka-Gutsmek/",
+            "notes": [
+              "Precision: Grabba dragga assault precision (3 damage)",
+              "High damage: Grabba dragga assault precision (3), Grabba dragga lance (3)"
+            ]
+          },
+          {
+            "name": "Boyz",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/orks/Boyz/",
+            "notes": [
+              "High damage: Kombi-rokkit (3), Rokkit launcha blast (3)",
+              "Devastating Wounds: Kombi-weapon anti-infantry 4+ devastating wounds rapid fire 1"
+            ]
+          }
+        ]
       },
       {
-        "playerId": "mROtAJW47SFR",
-        "player": "Christopher  Dyas",
-        "team": "The Real Comp Play",
-        "faction": "T'au Empire",
-        "slug": "christopher-dyas",
-        "pageUrl": "matchups/christopher-dyas/",
-        "rating": 1,
-        "stars": "★☆☆☆☆",
-        "verdict": "Unknown T’au remain a bad structural matchup because mobile guns can avoid the slow melee package.",
-        "playerPlan": "Deploy without visible C’tan or Technomancers, then force the actual list to contest several objectives inside Wraith charge distance.",
-        "army": "Fast, efficient shooting with battlesuits, skimmers, rail weapons and disposable spotting or screening units.",
-        "opponentPlan": "They create firing angles, focus one durable target and reposition so the counter-charge cannot connect.",
-        "kaashifPlan": "This is the worst archetype for Kaashif. Stage completely out of sight, pressure several objectives together and use Wraiths to trap suits or vehicles before revealing C’tan.",
-        "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/",
-        "confidence": "Low",
-        "evidence": "No list was submitted; this is a faction-level provisional read.",
-        "listId": null,
-        "listUrl": null,
-        "threats": []
-      },
-      {
-        "playerId": "u9p9775Nzq8s",
-        "player": "Liam Macindoe",
-        "team": "The Real Comp Play",
-        "faction": "Thousand Sons",
-        "slug": "liam-macindoe",
-        "pageUrl": "matchups/liam-macindoe/",
-        "rating": 1,
-        "stars": "★☆☆☆☆",
-        "verdict": "Unknown Thousand Sons still imply dangerous mortal wounds, psychic Devastating Wounds and teleport play.",
-        "playerPlan": "Confirm the actual cabal package, screen landing zones and never rely on Necrodermis alone against direct mortal or Devastating Wound output.",
-        "army": "Elite psychic shooting with teleport tools, Devastating Wounds and direct mortal-wound effects.",
-        "opponentPlan": "They isolate a valuable unit, amplify psychic damage and use movement tricks to avoid the counter-charge.",
-        "kaashifPlan": "Respect Doombolt and psychic Devastating Wounds even when normal line-of-sight maths looks safe. Spread threat pressure, deny teleport landing zones and do not expose Technomancers.",
-        "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/thousand-sons/",
-        "confidence": "Low",
-        "evidence": "No list was submitted; this is a faction-level provisional read.",
-        "listId": null,
-        "listUrl": null,
-        "threats": []
-      },
-      {
-        "playerId": "HylIlKMx6e7T",
-        "player": "Nick Watkins",
-        "team": "The Real Comp Play",
-        "faction": "Space Marines (Astartes)",
-        "slug": "nick-watkins",
-        "pageUrl": "matchups/nick-watkins/",
+        "playerId": "us56yYVKKzis",
+        "player": "Tim Anderson",
+        "team": "Comp Play",
+        "faction": "Death Guard",
+        "slug": "tim-anderson",
+        "pageUrl": "matchups/tim-anderson/",
         "rating": 3,
         "stars": "★★★☆☆",
-        "verdict": "Unknown Space Marines could be manageable melee or difficult mobile shooting, so a neutral rating is the honest call.",
-        "playerPlan": "Inventory Precision and D3+ shooting before deployment; hide support pieces and make the first Wraith move respond to the actual threat mix.",
-        "army": "A flexible Space Marine force that may combine mobile shooting, durable infantry, transports and melee.",
-        "opponentPlan": "Without the submitted list, it could play either a mid-board combined-arms game or a more mobile shooting game.",
-        "kaashifPlan": "Keep the read provisional. Check for Scout snipers, melta, D6+ damage and shoot-and-move units before exposing Technomancers or C’tan.",
-        "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/",
-        "confidence": "Low",
-        "evidence": "No list was submitted; this is a faction-level provisional read.",
-        "listId": null,
-        "listUrl": null,
-        "threats": []
+        "verdict": "The Death Guard core is slow and catchable, but Rotigus, Defilers and Bloat-drones add durable pressure plus high-damage attacks.",
+        "playerPlan": "Choose one flank, keep C’tan out of the daemon-engine lanes and use Wraiths to separate the first pressure piece from the slower Nurgle centre.",
+        "army": "Slow, durable close-range units with debuffs, resilient infantry and damaging short-range brawlers.",
+        "opponentPlan": "They normally compress the board, occupy the middle and grind down anything that stays in contagion range.",
+        "kaashifPlan": "The low speed helps. Screen debuff pieces with Wraiths, preserve the Technomancers and choose one flank so the counter-charge overwhelms rather than feeds the grind.",
+        "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/death-guard/",
+        "confidence": "High",
+        "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
+        "listId": "Epj0AlEhHean",
+        "listUrl": "https://www.bestcoastpairings.com/list/Epj0AlEhHean",
+        "threats": [
+          {
+            "name": "Defiler",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/death-guard/Defiler/",
+            "notes": [
+              "High damage: Ectoplasma destructor blast lethal hits (3), Hades battle cannon blast lethal hits (3)",
+              "Devastating Wounds: Heavy reaper autocannon devastating wounds lethal hits sustained hits 1"
+            ]
+          },
+          {
+            "name": "Rotigus",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/death-guard/Rotigus/",
+            "notes": [
+              "High damage: Gnarlrod – strike lethal hits psychic (3)",
+              "Devastating Wounds: Streams of brackish filth devastating wounds ignores cover torrent"
+            ]
+          },
+          {
+            "name": "Foetid Bloat-drone with Heavy Blight Launcher",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/death-guard/Foetid-Bloat-drone-with-Heavy-Blight-Launcher/",
+            "notes": [
+              "High damage: Heavy blight launcher blast lethal hits (3)"
+            ]
+          },
+          {
+            "name": "Beasts of Nurgle",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/death-guard/Beasts-of-Nurgle/",
+            "notes": [
+              "Devastating Wounds: Putrid appendages devastating wounds"
+            ]
+          }
+        ]
       },
       {
         "playerId": "JmqO98hulLMS",
@@ -3888,8 +4463,8 @@ window.BCP_DATA = {
         "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/",
         "confidence": "High",
         "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
-        "listId": "gXfEJxZjpKer",
-        "listUrl": "https://www.bestcoastpairings.com/list/gXfEJxZjpKer",
+        "listId": "e8Dfhe1tahyE",
+        "listUrl": "https://www.bestcoastpairings.com/list/e8Dfhe1tahyE",
         "threats": [
           {
             "name": "Hammerhead Gunship",
@@ -3897,13 +4472,6 @@ window.BCP_DATA = {
             "notes": [
               "High damage: Ion cannon – overcharge blast hazardous (3), Railgun heavy devastating wounds (D6+6)",
               "Devastating Wounds: Railgun heavy devastating wounds"
-            ]
-          },
-          {
-            "name": "Piranhas",
-            "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Piranhas/",
-            "notes": [
-              "High damage: Piranha fusion blaster melta 4 (D6), Seeker missile one shot (D6+1)"
             ]
           },
           {
@@ -3932,6 +4500,13 @@ window.BCP_DATA = {
             "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Commander-In-Enforcer-Battlesuit/",
             "notes": [
               "High damage: Fusion blaster melta 2 (D6), Plasma rifle (3)"
+            ]
+          },
+          {
+            "name": "Commander Farsight",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/t-au-empire/Commander-Farsight/",
+            "notes": [
+              "High damage: High-intensity plasma rifle (3), Dawn Blade – strike (3)"
             ]
           }
         ]
@@ -4023,8 +4598,8 @@ window.BCP_DATA = {
         "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/",
         "confidence": "High",
         "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
-        "listId": "DcwSiKWvmpP1",
-        "listUrl": "https://www.bestcoastpairings.com/list/DcwSiKWvmpP1",
+        "listId": "U8orcy1750Cs",
+        "listUrl": "https://www.bestcoastpairings.com/list/U8orcy1750Cs",
         "threats": [
           {
             "name": "Blade Champion",
@@ -4041,6 +4616,13 @@ window.BCP_DATA = {
             "notes": [
               "Mortal wounds: Turbo-boost.",
               "High damage: Salvo launcher twin-linked (D6+1)"
+            ]
+          },
+          {
+            "name": "Trajann Valoris",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/adeptus-custodes/Trajann-Valoris/",
+            "notes": [
+              "High damage: Eagle's Scream assault (3), Watcher’s Axe (3)"
             ]
           },
           {
@@ -4070,22 +4652,30 @@ window.BCP_DATA = {
         "playerId": "F2YzCXRGZBGt",
         "player": "William Samms",
         "team": "Wessex Wyverns",
-        "faction": "Blood Angels",
+        "faction": "Dark Angels",
         "slug": "william-samms",
         "pageUrl": "matchups/william-samms/",
-        "rating": 3,
-        "stars": "★★★☆☆",
-        "verdict": "The Blood Angels melee is welcome, but two Vindicators, speeders and haywire add serious high-damage shooting and mortal wounds.",
-        "playerPlan": "Hide C’tan from Vindicator lanes, protect Technomancers from the Scout sniper and counter-charge jump units only after the shooting pieces are pinned or screened.",
-        "army": "Fast Space Marine melee pressure backed by jump units, transports and a smaller shooting package.",
-        "opponentPlan": "They threaten an early multi-charge, use speed to choose a flank and try to kill support characters during the scrum.",
-        "kaashifPlan": "This is broadly the kind of matchup Kaashif wants: receive the first wave with Wraiths, protect the Technomancers, then counter-charge with the missile.",
+        "rating": 2,
+        "stars": "★★☆☆☆",
+        "verdict": "The Dark Angels list combines three Vengeance speeders and mobile Ravenwing pressure with the Lion and two Deathwing Knight units.",
+        "playerPlan": "Hide C’tan from the plasma and melta lanes, force the speeders onto objectives and make Wraiths absorb the elite infantry before the counter-charge.",
+        "army": "Space Marines with access to durable elite infantry and highly mobile Ravenwing shooting.",
+        "opponentPlan": "A mobile build can create cross-board angles, shoot and reposition while a hard melee unit controls the centre.",
+        "kaashifPlan": "Do not chase skirmishers across open lanes. Hide the support package, force the bikes toward objectives and launch only when the Wraiths can trap them.",
         "factionUrl": "https://wahapedia.ru/wh40k11ed/factions/space-marines/",
         "confidence": "High",
         "evidence": "Based on the submitted Brighton list and current 11th-edition datasheets.",
-        "listId": "EY03zmcAyvXG",
-        "listUrl": "https://www.bestcoastpairings.com/list/EY03zmcAyvXG",
+        "listId": "WW98zQtaeMQC",
+        "listUrl": "https://www.bestcoastpairings.com/list/WW98zQtaeMQC",
         "threats": [
+          {
+            "name": "Land Speeder",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Land-Speeder/",
+            "notes": [
+              "High damage: Multi-melta melta 2 (D6), Stormfury missile launcher (D6+1)",
+              "Devastating Wounds: Onslaught gatling cannon devastating wounds"
+            ]
+          },
           {
             "name": "Scout Squad",
             "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Scout-Squad/",
@@ -4095,38 +4685,31 @@ window.BCP_DATA = {
             ]
           },
           {
-            "name": "Death Company Captain with jump pack",
-            "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Death-Company-Captain-with-Jump-Pack/",
+            "name": "Lion El’jonson",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Lion-El-jonson/",
             "notes": [
-              "Mortal wounds: Lost to Fury."
+              "High damage: Fealty – strike lethal hits (4)"
             ]
           },
           {
-            "name": "Incursor Squad",
-            "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Incursor-Squad/",
+            "name": "Techmarine",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Techmarine/",
             "notes": [
-              "Mortal wounds: Haywire Mine."
+              "High damage: Servo-arm extra attacks (3)"
             ]
           },
           {
-            "name": "Vindicator",
-            "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Vindicator/",
+            "name": "Deathwing Knights",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Deathwing-Knights/",
             "notes": [
-              "High damage: Demolisher cannon blast (D6), Hunter-killer missile one shot (D6)"
+              "Devastating Wounds: Great weapon of the Unforgiven devastating wounds sustained hits 1"
             ]
           },
           {
-            "name": "Ancient In Terminator Armour",
-            "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Ancient-In-Terminator-Armour/",
+            "name": "Callidus Assassin",
+            "url": "https://wahapedia.ru/wh40k11ed/factions/imperial-agents/Callidus-Assassin/",
             "notes": [
-              "Devastating Wounds: Thunder hammer devastating wounds"
-            ]
-          },
-          {
-            "name": "Sanguinary Guard",
-            "url": "https://wahapedia.ru/wh40k11ed/factions/space-marines/Sanguinary-Guard/",
-            "notes": [
-              "High damage: Inferno pistol melta 2 pistol (D3)"
+              "Precision: Neural shredder anti-infantry 2+ precision torrent (1 damage), Phase sword and poison blades lethal hits precision (2 damage)"
             ]
           }
         ]

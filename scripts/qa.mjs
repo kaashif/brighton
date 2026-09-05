@@ -32,8 +32,8 @@ try {
   const desktop = await browser.newPage({ viewport: { width: 1440, height: 1000 } });
   await desktop.goto('http://127.0.0.1:4173/', { waitUntil: 'networkidle' });
   const data = await desktop.evaluate(() => window.BCP_DATA);
-  record('desktop player count', await desktop.locator('.list-card').count(), 40);
-  record('desktop missing-list count', await desktop.locator('.list-card--missing').count(), 11);
+  record('desktop player count', await desktop.locator('.list-card').count(), data.rosterCount);
+  record('desktop missing-list count', await desktop.locator('.list-card--missing').count(), data.missingListCount);
   record('desktop team count', await desktop.locator('.team-group').count(), 10);
   record('perspective selector has whole Kaashif team', await desktop.locator('#perspective-player option').count(), 4);
   record('Kaashif is the default perspective', await desktop.locator('#perspective-player').inputValue(), 'zKNvC08xfWGI');
@@ -60,10 +60,10 @@ try {
   record('dropdown has two objective cards', await desktop.locator('.list-card:not(.list-card--missing) .objective-card').first().locator('..').locator('.objective-card').count(), 2);
   record('dropdown has three labelled layouts', await desktop.locator('.list-card:not(.list-card--missing) .layout-thumbnail').first().locator('..').locator('.layout-thumbnail').count(), 3);
   await desktop.locator('#expand-all').click();
-  record('every published dropdown has objectives', await desktop.locator('.objective-strip').count(), 29);
-  record('all objective cards are present', await desktop.locator('.objective-card img').count(), 58);
-  record('every published dropdown has layouts', await desktop.locator('.layout-strip').count(), 29);
-  record('all layout thumbnails are present', await desktop.locator('.layout-thumbnail img').count(), 87);
+  record('every published dropdown has objectives', await desktop.locator('.objective-strip').count(), data.count);
+  record('all objective cards are present', await desktop.locator('.objective-card img').count(), data.count * 2);
+  record('every published dropdown has layouts', await desktop.locator('.layout-strip').count(), data.count);
+  record('all layout thumbnails are present', await desktop.locator('.layout-thumbnail img').count(), data.count * 3);
   record('all force-disposition layouts are available', data.layoutReference.layouts.length, 45);
   record('all ordered objective matchups are available', data.layoutReference.objectiveMatchups.length, 25);
   record('only the vetted layout uses a suggested-deployment preview', data.layoutReference.layouts.filter((layout) => layout.suggestedDeployment).length, 1);
@@ -93,8 +93,8 @@ try {
     record(`route ${list.listId}`, response.ok());
   }
   record('matchup dataset covers every opponent', data.matchupAnalysis.entries.length, 36);
-  record('matchup pages with exact-list confidence', data.matchupAnalysis.entries.filter((entry) => entry.confidence === 'High').length, 24);
-  record('provisional matchup pages', data.matchupAnalysis.entries.filter((entry) => entry.confidence === 'Low').length, 12);
+  record('matchup pages with exact-list confidence', data.matchupAnalysis.entries.filter((entry) => entry.confidence === 'High').length, data.matchupAnalysis.entries.length);
+  record('provisional matchup pages', data.matchupAnalysis.entries.filter((entry) => entry.confidence === 'Low').length, 0);
   record('matchup stars are all valid', data.matchupAnalysis.entries.every((entry) => entry.rating >= 1 && entry.rating <= 5 && entry.stars.length === 5));
   for (const matchup of data.matchupAnalysis.entries) {
     const response = await desktop.request.get(`http://127.0.0.1:4173/${matchup.pageUrl}`);
@@ -106,13 +106,13 @@ try {
   record('desktop matchup no horizontal overflow', await desktop.evaluate(() => document.documentElement.scrollWidth <= document.documentElement.clientWidth));
   await desktop.screenshot({ path: '/tmp/brighton-matchup-desktop.png', fullPage: true });
   await desktop.goto('http://127.0.0.1:4173/matchups/sam-cordell/', { waitUntil: 'networkidle' });
-  record('missing-list matchup is explicit', await desktop.locator('.matchup-confidence strong').textContent(), 'Low confidence.');
-  record('missing-list matchup has no invented exact threats', await desktop.locator('.matchup-threat').count(), 0);
+  record('newly submitted matchup is list-specific', await desktop.locator('.matchup-confidence strong').textContent(), 'High confidence.');
+  record('newly submitted matchup has exact threats', (await desktop.locator('.matchup-threat').count()) > 0);
 
   const mobile = await browser.newPage({ viewport: { width: 390, height: 844 }, deviceScaleFactor: 1 });
   await mobile.goto('http://127.0.0.1:4173/', { waitUntil: 'networkidle' });
-  record('mobile player count', await mobile.locator('.list-card').count(), 40);
-  record('mobile missing-list count', await mobile.locator('.list-card--missing').count(), 11);
+  record('mobile player count', await mobile.locator('.list-card').count(), data.rosterCount);
+  record('mobile missing-list count', await mobile.locator('.list-card--missing').count(), data.missingListCount);
   record('mobile matchup links remain available', await mobile.locator('.matchup-rating[href]').count(), 36);
   record('mobile index no horizontal overflow', await mobile.evaluate(() => document.documentElement.scrollWidth <= document.documentElement.clientWidth));
   await mobile.evaluate(() => window.scrollTo(0, document.documentElement.scrollHeight));
@@ -122,7 +122,7 @@ try {
   await mobile.locator('#perspective-player').selectOption('SlnqyU8XcuVu');
   record('mobile perspective metadata updates', await mobile.locator('#perspective-meta').textContent(), 'South London Squad · Priority Assets');
   await mobile.locator('.list-card:not(.list-card--missing) .list-card__summary').first().click();
-  record('mobile layouts switch with identity', await mobile.locator('.layout-strip__heading').first().textContent(), 'Priority Assets vs Reconnaissance');
+  record('mobile layouts switch with identity', await mobile.locator('.layout-strip__heading').first().textContent(), 'Priority Assets vs Disruption');
   record('mobile dropdown has unit links', (await mobile.locator('.list-card__content .roster-link--unit').count()) > 0);
   record('mobile dropdown has rules metadata links', (await mobile.locator('.list-card__content .roster-link--meta').count()) > 0);
   record('mobile roster has no nested scrollbar', await mobile.locator('.list-card__content').first().evaluate((element) => element.scrollHeight === element.clientHeight));
